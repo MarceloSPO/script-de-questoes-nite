@@ -1,0 +1,590 @@
+
+Curso: 	Psicologia	Ponto de Interação: 	P1	N. da questão:	Q01
+**identificação da questão** 
+PPD_FE_09_ TS_ Behaviorismo _P1_2025-2_Q01
+**Texto-base**
+[...] Skinner aponta dois caminhos alternativos para a psicologia na definição de seu objeto de estudo e dos métodos apropriados para estudá-lo: o caminho que conduziu ao que genericamente podemos chamar de 'mentalismo' e o caminho que foi trilhado pelo behaviorismo. O caminho behaviorista insere a psicologia entre as ciências que estudam a vida ou, mais precisamente, os organismos vivos (é assim que entendemos a afirmação deque a psicologia “é parte da biologia”) e, ao fazê-lo, já está indicando as dimensões de seu objeto de estudo e de onde os psicólogos deveriam partir para encontrar seus métodos de estudo, de pesquisa.
+
+SÉRIO, Tereza Maria de Azevedo Pires. O behaviorismo radical e a psicologia como ciência. Revista Brasileira de Terapia Comportamental e Cognitiva, v. 7, n. 2, p. 247-261, 2005, p. 248.
+
+**Enunciado**
+O behaviorismo apresenta-se como uma matriz de pensamento que valoriza os processos de aprendizagem e elege o comportamento como o objeto de estudo da Psicologia. 
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+I.	Para o behaviorismo, o comportamento humano é produto de contingências presentes, de modo a ocorrer pouca ou nenhuma influência do passado.
+
+PORQUE
+II.	Aspectos relacionados ao histórico de reforços e punições que uma pessoa vivenciou em sua história de vida são essenciais para compreender seus comportamentos.
+A respeito dessas asserções, assinale a opção correta.
+
+**Alternativas:**
+A)	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C)	A asserção I é uma preposição verdadeira, e a II é uma proposição falsa.
+D)	A asserção I é uma preposição falsa, e a II é uma proposição verdadeira.
+E)	As asserções I e II são falsas.
+**Gabarito** D
+**Feedback**
+O behaviorismo não ignora o passado – ele considera que o comportamento é moldado por históricos de reforço e punição ao longo da vida. Mesmo quando consideradas as contingências atuais, o passado é relevante porque padrões comportamentais persistem devido a reforços anteriores. Por esse motivo, é incorreto afirmar que o passado exerce pouca ou nenhuma influência sobre o comportamento humano. Além disso, embora pensamentos e sentimentos sejam rejeitados como causas do comportamento humano e ignorados no behaviorismo metodológico, eles são passíveis de serem considerados como comportamentos encobertos para a proposta do behaviorismo radical. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P1	N. da questão:	Q02
+**identificação da questão** 
+PPD_FE_09_ TS_ Behaviorismo_P1_2025-2_Q02
+**Texto-base**
+O professor Marcos, do 8º ano, percebia que seus estudantes chegavam atrasados quase toda aula, dispersos e desmotivados. Para transformar essa dinâmica, ele criou uma estratégia simples: os três primeiros que chegassem à sala antes do sinal ganhavam o direito de escolher uma música para tocar nos 5 minutos iniciais da aula (desde que fosse adequada). Inicialmente, alguns começaram a chegar mais cedo por curiosidade. Em pouco tempo, o atraso caiu pela metade. Em dois meses, a pontualidade aumentou 80% entre os discentes da turma.
+
+**Enunciado**
+Considerando esse caso sob a perspectiva do behaviorismo radical proposto por Skinner, avalie as afirmações a seguir.
+
+I.	No caso relatado, é possível considerar que reforço e punição são processos equivalentes, podendo ser usados como sinônimos, já que produzem os mesmos efeitos. 
+II.	Ao considerar a mudança no comportamento da turma, é possível compreender que ocorreu um processo de reforço positivo, já que houve aumento da frequência de comportamento pontual da maior parte da turma. 
+III.	Ao considerar a mudança no comportamento da turma, é possível compreender que ocorreu um processo de punição positiva, já que a pontualidade aumentou porque chegar após as três primeiras colocações fazia com que os estudantes fossem obrigados a tolerar o gosto musical de outros. 
+É correto o que se afirma em
+**Alternativas:**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** B
+**Feedback** 
+No caso relatado, os estudantes não estão escapando de algo desagradável, mas sim ganhando um estímulo positivo (escolher música). O processo descrito é referente ao reforço positivo (adicionar um estímulo prazeroso para aumentar a pontualidade). Além disso, a punição e o reforço são processos distintos, com efeitos diferentes sobre o comportamento humano. Portanto, não podem ser considerados sinônimos.
+Curso: 	Psicologia	Ponto de Interação: 	P1	N. da questão:	Q03
+**identificação da questão** 
+PPD_FE_09_ TS_ Behaviorismo_P1_2025-2_Q03
+**Texto-base**
+O experimento do "Pequeno Albert” demonstrou que o medo poderia ser aprendido. Albert, um bebê de 11 meses, inicialmente não tinha medo de um rato-branco. No experimento, os pesquisadores associaram a apresentação do animal a um barulho alto e assustador (um martelo batendo em uma barra de metal). Após repetidas associações, Albert passou a chorar e tentar fugir não apenas do rato, mas de outros objetos peludos. Para os pesquisadores, esse experimento trouxe uma nova compreensão sobre as emoções humanas.
+
+BISACCIONI, Paola; DE CARVALHO NETO, Marcus Bentes. Algumas considerações sobre o “pequeno Albert”. Temas em Psicologia, v. 18, n. 2, p. 491-498, 2010. (Adaptado) 
+
+**Enunciado**
+O experimento do "Pequeno Albert", realizado por John B. Watson e Rosalie Rayner (1920), é um marco no estudo do comportamento humano. Embora eticamente reprovável, esse experimento trouxe à luz uma importante discussão sobre o papel do ambiente nas emoções humanas. 
+Considerando as informações apresentadas, avalie as afirmações a seguir. 
+
+I.	O experimento ilustrou o condicionamento clássico (Pavloviano), em que um estímulo inicialmente neutro (rato) passou a eliciar medo após ser repetidamente pareado com um estímulo incondicionado (barulho). 
+II.	O experimento é base para a compreensão do condicionamento operante de Skinner, pois demonstrou que as emoções humanas, como o medo, podem ser aprendidas devido às consequências geradas pelo ambiente.
+III.	O experimento reforça a compreensão de que as emoções correspondem a aspectos inatos do ser humano, os quais sofrem pouca influência do ambiente. 
+É correto o que se afirma em
+
+**Alternativas:**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** A
+**Feedback**
+O experimento conhecido como 'Pequeno Albert' descreve com precisão o mecanismo de condicionamento clássico, em que o comportamento é resultante do pareamento de um estímulo neutro (rato) com um estímulo incondicionado (barulho), gerando uma resposta condicionada (medo). Além disso, o estudo comprova a influência do ambiente sobre as emoções, refutando a ideia de que emoções são puramente inatas.
+
+Curso: 	Psicologia	Ponto de Interação: 	P1	N. da questão:	Q04
+**identificação da questão** 
+PPD_FE_09_ TS_ Behaviorismo _P1_2025-2_Q04
+**Texto-base**
+No behaviorismo, o comportamento é visto como produto de interações com o meio, não de processos internos (como pensamentos ou emoções). Inicialmente, o behaviorismo metodológico de Watson enfoca o comportamento observável e trabalha as relações entre estímulo e resposta. Contudo, o behaviorismo radical adota uma visão mais abrangente e pragmática do comportamento. 
+
+**Enunciado**
+Considerando as informações apresentadas no texto, assinale a opção correta. 
+**Alternativas:**
+A)	O behaviorismo radical apresenta como proposta teórica a ideia de que a aprendizagem ocorre por seleção pelas consequências (reforço/punição), com ênfase na ação do organismo sobre o meio. 
+B)	O behaviorismo radical postulou que a aprendizagem era um processo de associação estímulo-resposta, sem mediação interna, o que levou aos estudos sobre como estímulos ambientais eliciam respostas involuntárias. 
+C)	O behaviorismo radical compreende o comportamento humano como reativo ao ambiente, controlado por estímulos antecedentes, atribuindo ao ser humano um papel passivo. 
+D)	O behaviorismo radical compreende o comportamento humano como passivo em relação ao ambiente, influenciado por consequências anteriores. 
+E)	O behaviorismo radical nega a necessidade de analisar pensamentos e sentimentos, pois argumenta que esses aspectos não podem ser estudados cientificamente por serem irrelevantes. 
+
+**Gabarito** A
+**Feedback**
+Watson propôs o behaviorismo metodológico com ênfase nos comportamentos observáveis. Ele via o comportamento como reativo, concebendo-o como resposta eliciada por estímulos, sem considerar ações voluntárias. Skinner, ao postular o behaviorismo radical, propôs que comportamentos são selecionados por suas consequências (reforço/punição), não apenas por estímulos antecedentes. O organismo age ativamente no meio. Também introduziu o condicionamento operante, no qual comportamentos são emitidos e moldados por suas consequências. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P1	N. da questão:	Q05
+**identificação da questão** 
+PPD_FE_09_ TS_ Behaviorismo _P1_2025-2_Q05
+**Texto-base**
+Ana é psicóloga infantil e, em sua intervenção com uma criança que tinha problemas com os estudos, apresentou um plano em que o acesso ao videogame dependeria da realização das tarefas escolares. Já havia realizado essa intervenção em um caso anterior e considerou que poderia ter bons resultados novamente. No entanto, nesse novo caso, não houve mudança comportamental em relação às atividades escolares, mesmo com a privação de acesso ao jogo. 
+
+**Enunciado**
+Esse caso está alinhado aos princípios postulados pelo behaviorismo radical, sendo possível observar a tentativa de estabelecer contingências para o condicionamento operante. No entanto, a intervenção revelou-se ineficaz. 
+
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+I.	O planejamento de Ana apresentou uma falha ao fazer uma suposição não empírica de que um estímulo (videogame) seria reforçador, sem verificação prévia de sua função real.
+PORQUE
+II.	A capacidade de um estímulo fortalecer uma resposta (sua função reforçadora) só é identificada quando, de fato, aumenta a frequência do comportamento que a precede.
+
+A respeito dessas asserções, assinale a opção correta.
+
+**Alternativas:**
+
+A)	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C)	A asserção I é uma preposição verdadeira, e a II é uma proposição falsa.
+D)	A asserção I é uma preposição falsa, e a II é uma proposição verdadeira.
+E)	As asserções I e II são falsas.
+**Gabarito** A
+**Feedback**
+O caso ilustra a importância de basear intervenções behavioristas em dados, não em suposições. As assertivas destacam esse princípio, e a relação entre elas é direta e coerente. A falha no planejamento de Ana (I) ocorreu exatamente porque ela ignorou o princípio de que a função reforçadora é determinada empiricamente (II). No caso relatado, o videogame poderia não ser suficientemente valioso para a criança, a ponto de exercer função reforçadora. Nesse contexto, seria importante considerar um levantamento prévio de informações que auxiliassem a identificar o que poderia ter maior probabilidade de ser um reforço para a criança.
+
+Curso: 	Psicologia	Ponto de Interação: 	P1	N. da questão:	Q06
+**identificação da questão** 
+PPD_FE_09_ TS_ Behaviorismo _P1_2025-2_Q06
+**Texto-base**
+Uma análise científica do comportamento deve, creio eu, supor que o comportamento de uma pessoa é controlado mais por sua história genética e ambiental do que pela própria pessoa enquanto agente criador, iniciador; todavia, nenhum outro aspecto da posição behaviorista suscitou objeções mais violentas. Não podemos evidentemente provar que o comportamento humano como um todo seja inteiramente determinado, mas a proposição torna-se mais plausível à medida que os fatos se acumulam e creio que chegamos a um ponto em que suas implicações devem ser consideradas a sério.
+
+BOCK, Ana Mercês Bahia; FURTADO, Odair; TEIXEIRA, Maria de Lourdes Trassi. Psicologias: uma introdução ao estudo de psicologia. São Paulo: Saraiva, 2001. p. 71.
+**Enunciado**
+O texto reflete o princípio do determinismo ambiental no behaviorismo radical skinneriano, que postula que o comportamento humano é moldado por contingências externas (histórico de reforços/punições) e biológicas, em detrimento da noção de livre-arbítrio. Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	Apesar de reconhecer influências genéticas, Skinner enfatizou que o ambiente é o principal determinante do comportamento, pois é passível de intervenções para promover mudanças.
+II.	O behaviorismo radical rejeita a ideia de um "agente interno" como causa do comportamento, atribuindo-o a relações funcionais entre ambiente, história de reforço e herança genética.
+III.	A posição determinista do behaviorismo foi amplamente aceita sem críticas, pois comprovou experimentalmente que aspectos subjetivos são irrelevantes na determinação do comportamento.
+
+É correto o que se afirma em
+
+**Alternativas:**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e II, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback** 
+Skinner negava a existência de um "eu autônomo" como causa do comportamento, explicando-o por contingências ambientais e biológicas. Além disso, embora reconhecesse fatores genéticos, focou no ambiente como variável manipulável. Apesar de conseguir evidências da sua proposta teórico-metodológica, o determinismo skinneriano foi (e ainda é) alvo de críticas filosóficas, especialmente relacionadas à forma como a teoria lida com pensamentos e sentimentos e o determinismo ambiental que postula. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P2	N. da questão:	Q01
+**identificação da questão** 
+PPD_FE_09_ TS_ Psicanálise _P2_2025-2_Q01
+**Texto-base**
+Pois não devemos esquecer que a psicanálise começou como um ramo da medicina, portanto objetivando não apenas compreender o mundo psíquico, mas ainda, e principalmente, intervir nele, desfazendo constelações nocivas e favorecendo rearranjos – não tenhamos medo das palavras – mais saudáveis. Para fazer isso com conhecimento de causa, era preciso criar uma teoria que explicasse como funciona a mente e como adoece; desde o início, essa teoria tem de ser abrangente, isto é, dar conta também do funcionamento normal da psique.
+MEZAN, Renato. Que tipo de ciência é, afinal, a Psicanálise? Natureza Humana-Revista Internacional de Filosofia e Psicanálise, v. 9, n. 2, p. 355, 2007.
+
+**Enunciado**
+Considerando as pretensões de Freud para dar fundamentações teóricas e epistemológicas para a psicanálise, avalie as afirmações a seguir.
+
+I.	Freud via o funcionamento psíquico enraizado na biologia, acreditando que os processos mentais tinham uma base psicofísica, especialmente neurológica.
+II.	A psicanálise focava no inconsciente, nas experiências da primeira infância e nos impulsos biológicos como determinantes do comportamento humano.
+III.	Freud desenvolveu a técnica da associação livre como parte do método psicanalítico, inaugurando uma nova forma de abordagem clínica.
+
+É correto o que se afirma em
+
+**Alternativas:**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** E
+**Feedback**
+Freud tinha formação médica e neurológica, e desde seus primeiros escritos, buscava explicar os processos mentais com base na fisiologia e na biologia. Embora tenha se afastado de uma abordagem puramente neurológica, essa raiz biologicista continuou presente como base para legitimar a psicanálise dentro do campo das ciências naturais. 
+Uma de suas ideias centrais é o determinismo psíquico, que afirmava que sintomas, sonhos, lapsos de linguagem, atos falhos, têm um sentido inconsciente que pode ser descoberto pela análise. Essa ideia se alinha com o determinismo das ciências naturais, que pressupõe que todo efeito possui uma causa, ainda que não seja imediatamente visível. Por fim, Freud desenvolveu a técnica da associação livre como uma forma inovadora de acessar o inconsciente, inovando a prática clínica. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P2	N. da questão:	Q02
+**identificação da questão** 
+PPD_FE_09_ TS_ Psicanálise P2_2025-2_Q02
+**Texto-base**
+A frase "Freud explica" é uma expressão popular que reflete o impacto profundo e duradouro da psicanálise de Sigmund Freud na psicologia e na cultura ocidental. Além disso, sugere que a teoria freudiana oferece uma explicação, com bases nas fundamentações teóricas e epistemológicas da psicanálise, para comportamentos, desejos e conflitos humanos, especialmente aqueles considerados irracionais ou inexplicáveis.
+**Enunciado**
+Considerando os objetivos que Freud procurou alcançar por meio da psicanálise e dos problemas que sua abordagem pretendia solucionar, assinale a opção correta.
+
+A)	Freud explicava as fobias a partir de como o ambiente molda o comportamento, resultando em traumas inconscientes.
+B)	Freud dedicou-se a explicar os atos falhos, a memória de trabalho e o esquecimento natural por interferência ou decaimento neural.
+C)	Freud propôs que muitos sofrimentos e sintomas psíquicos eram resultados de traumas reprimidos no inconsciente, em vez de doenças neurológicas.
+D)	Freud dedicou-se a explicar a personalidade como uma estrutura universal (ego, superego e id), a partir da qual emergem padrões de comportamento resultantes de contingências de reforçamento.
+E)	Freud propôs que muitos sofrimentos e sintomas psíquicos eram resultados de forças bioquímicas, da estrutura cerebral e da influência genética que estão presentes no inconsciente de cada pessoa.
+
+**Gabarito** C
+**Feedback**
+Freud observou que alguns sintomas psíquicos eram manifestações de conflitos inconscientes, frequentemente relacionados a experiências traumáticas da infância que haviam sido reprimidas. A psicanálise surgiu como uma alternativa à visão puramente neurológica das doenças mentais da época, focando na dinâmica da mente inconsciente. As demais alternativas correspondem de modo mais adequado aos objetivos e problemas tratados por outras abordagens da psicologia, como o behaviorismo, o cognitivismo, o humanismo e as neurociências.
+
+Curso: 	Psicologia	Ponto de Interação: 	P2	N. da questão:	Q03
+**identificação da questão** 
+PPD_FE_09_ TS_ Psicanálise P2_2025-2_Q03
+**Texto-base**
+O termo psicanálise é usado para se referir a uma teoria, a um método da investigação e a uma prática profissional. Enquanto teoria, caracteriza-se por um conjunto de conhecimentos sistematizados sobre o funcionamento da vida psíquica. [...] A psicanálise, enquanto método de investigação, caracteriza-se pelo método interpretativo, que busca o significado oculto daquilo que é manifesto por meio de ações e palavras ou produções imaginárias, como os sonhos, os delírios [...]. A prática profissional refere-se à forma de tratamento — a Análise — que busca o autoconhecimento ou a cura que ocorre através desse autoconhecimento.
+
+BOCK, Ana Mercês Bahia; FURTADO, Odair; TEIXEIRA, Maria de Lourdes Trassi. Psicologias: uma introdução ao estudo de psicologia. São Paulo: Saraiva, 2001, p. 70-71.
+**Enunciado**
+Considerando a psicanálise como uma teoria que envolve um conjunto de métodos, atitudes clínicas e conceitos que se articulam de forma coerente, avalie as afirmações a seguir.
+ 
+I.	O inconsciente condiciona o comportamento de forma direta, por meio de reforços e punições observáveis.
+II.	A associação livre é um método pelo qual o paciente fala sem censura, deixando o inconsciente se manifestar.  
+III.	 A atenção flutuante é uma atitude do analista de escutar sem dar importância exagerada a um conteúdo específico, mantendo a escuta aberta.  
+IV.	 A sobredeterminação é um conceito de que um mesmo sintoma ou conteúdo psíquico pode ter várias causas inconscientes simultâneas, em vez de uma única origem. 
+ 
+É correto o que se afirma em 
+**Alternativas:**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	I e II, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** D
+**Feedback**
+A associação livre é um dos pilares da técnica psicanalítica, pois Freud desenvolveu esse método com o objetivo de contornar as defesas conscientes do paciente e permitir que conteúdos inconscientes emergissem na fala. A sobredeterminação é um conceito fundamental na teoria psicanalítica, no qual os sintomas, sonhos, lapsos e outros fenômenos psíquicos resultam da convergência de diversos fatores inconscientes interligados. A atenção flutuante é a modalidade de escuta que o analista deve adotar durante a sessão, permitindo captar nuances e associações inconscientes que poderiam passar despercebidas se a atenção fosse direcionada de forma rígida. Contudo, o conceito de reforços e punições observáveis é central para o behaviorismo, que foca no aprendizado por meio das consequências ambientais do comportamento, e não como a psicanálise entende a influência do inconsciente. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P2	N. da questão:	Q04
+**identificação da questão** 
+PPD_FE_09_ TS_ Psicanálise _P2_2025-2_Q04
+**Texto-base**
+Inicialmente, Freud, influenciado por seu trabalho com Josef Breuer, focou na ideia de que os sintomas histéricos eram resultados de afetos ligados a experiências traumáticas. 
+Com o avanço de sua pesquisa, elaborou sua teoria do sintoma como uma expressão do inconsciente por meio de suas observações clínicas, que o levaram a postular a existência de conteúdos psíquicos reprimidos que não conseguiam se expressar diretamente. 
+O sintoma surgia como uma formação inconsciente, ao mesmo tempo que a interpretação do simbolismo presente no sintoma se tornou uma ferramenta fundamental da psicanálise para acessar e compreender o inconsciente.
+
+**Enunciado**
+Considerando a importância do sintoma para a teoria psicanalítica de Freud, avalie as afirmações a seguir.
+
+I.	Um sintoma pode surgir como uma forma de “mascarar” ou esconder sentimentos, desejos ou lembranças considerados difíceis de aceitar ou que causam muita angústia ao sujeito.
+II.	Mesmo que cause desconforto, um sintoma pode ter uma função importante na mente humana, ajudando a lidar com situações internas complexas e mantendo um certo equilíbrio psíquico.
+III.	O sintoma representa uma disfunção genética entre o desejo e o ego, de modo que sintoma satisfaz parcialmente o desejo, mas de uma forma que causa sofrimento ao sujeito.   
+É correto o que se afirma em
+**Alternativas:**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** C
+**Feedback**
+Uma das ideias centrais da teoria freudiana afirma que o sintoma é uma forma de expressão disfarçada do inconsciente. O sintoma também é uma solução psíquica que evita o colapso do ego, protegendo o sujeito do contato direto com o conteúdo ameaçador, mas gera sofrimento secundário. Por fim, quando o desejo inconsciente é reconhecido e compreendido, o sintoma tende a perder sua função original de "substituto" e pode, consequentemente, desaparecer. Contudo, o termo “disfunção genética” não pertence ao vocabulário freudiano. O sintoma de fato satisfaz parcialmente o desejo recalcado, mas o termo correto seria “conflito psíquico”. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P2	N. da questão:	Q05
+**identificação da questão** 
+PPD_FE_09 _TS_ Psicanálise P2_2025-2_Q05
+**Texto-base**
+A psicanálise oferece um arcabouço teórico e metodológico único para investigar a subjetividade humana, incluindo os aspectos inconscientes. Por meio de suas propostas teórica e metodológica, busca compreender as motivações, os conflitos e os padrões de comportamento que muitas vezes escapam à consciência.
+
+**Enunciado**
+Considerando as informações apresentadas no texto, assinale a opção correta.
+
+**Alternativas:**
+A)	A psicanálise limita-se a análises superficiais, pois enfoca comportamentos disfuncionais, com pouca atenção às camadas mais profundas da subjetividade humana, o que a torna incapaz de tratar sofrimentos psíquicos complexos.
+B)	A psicanálise não possui metodologia clínica consistente, reduzindo-se a interpretações arbitrárias e subjetivas que não oferecem resultados concretos no alívio do sofrimento psíquico.
+C)	Por apoiar-se em conceitos ultrapassados e não científicos, a psicanálise falha em contribuir para uma teoria da mente relevante, sendo substituível por abordagens mais objetivas e mensuráveis, como o behaviorismo radical.
+D)	A psicanálise busca profundidade de análise que permita uma compreensão mais rica e complexa da subjetividade humana, contribuindo tanto para o tratamento de sofrimentos psíquicos complexos quanto para o desenvolvimento de uma teoria da mente mais abrangente. 
+E)	Ao priorizar explicações universais e deterministas, a psicanálise negligencia a singularidade do sujeito, tornando-se uma teoria rígida e incapaz de abarcar a complexidade da mente humana.
+
+**Gabarito** D
+**Feedback**
+A psicanálise quer ir além do que aparece na superfície do comportamento e da fala de uma pessoa. Ela busca desvendar as dinâmicas internas, muitas vezes inconscientes, que moldam quem somos e como vivenciamos o mundo. Por isso, propõe uma prática e teoria comprometidas com a complexidade do sujeito e a transformação psíquica.
+
+Curso: 	Psicologia	Ponto de Interação: 	P2	N. da questão:	Q06
+**identificação da questão** 
+PPD_FE_09_ TS_ Psicanálise P2_2025-2_Q06
+**Texto-base**
+Assim como a pedra angular é fundamental para a sustentação de um edifício, o conceito de inconsciente é o alicerce sobre o qual toda a teoria e o método psicanalítico são construídos. Sem a postulação do inconsciente, a psicanálise como a conhecemos não existiria. 
+**Enunciado**
+Considerando as informações apresentadas no texto, avalie as afirmações a seguir.
+I.	A ideia do inconsciente revolucionou a forma como pensamos a mente, levando ao reconhecimento de que conteúdos inconscientes podem influenciar o comportamento humano. 
+II.	A psicanálise permitiu a formulação de teorias sobre desejos reprimidos, conflitos psíquicos, mecanismos de defesa e seus reflexos no comportamento humano. 
+III.	Ao introduzir o conceito de inconsciente, a psicanálise refutou outras teorias psicológicas e se estabeleceu como o paradigma dominante nas ciências humanas.
+É correto o que se afirma em
+
+**Alternativas:**
+É correto o que se afirma em
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e II, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+A introdução do conceito de inconsciente por Sigmund Freud foi um marco fundamental na história da psicologia. Antes da psicanálise, a ênfase estava predominantemente na consciência como o centro da vida mental. Freud propôs que uma vasta parte da nossa mente opera fora da nossa consciência e que esses conteúdos inconscientes (desejos, medos, traumas, lembranças reprimidas) exercem uma influência significativa sobre nossos pensamentos, sentimentos e, consequentemente, sobre nosso comportamento. Essa perspectiva transformou radicalmente a compreensão da motivação humana e dos processos psíquicos. A teoria psicanalítica, baseada na existência do inconsciente, desenvolveu um conjunto complexo de conceitos para explicar a dinâmica da mente. A ideia de desejos reprimidos, originários principalmente da esfera sexual e agressiva, que são mantidos fora da consciência devido a pressões sociais ou psíquicas, é central. No entanto, embora a psicanálise tenha tido um impacto profundo e duradouro nas ciências humanas, incluindo a psicologia, a sociologia, a literatura, a arte e a antropologia, ela não refutou completamente todas as outras teorias psicológicas e não se estabeleceu como o paradigma dominante de forma incontestável.
+
+
+Curso: 	Psicologia	Ponto de Interação: 	P3	N. da questão:	Q01
+**identificação da questão** 
+PPD_FE_09_ TS_ Humanismo _P3_2025-2_Q01
+**Texto-base**
+A oposição feita pelo movimento da Psicologia Humanista ao Behaviorismo e à Psicanálise teve como influências anteriores principais as obras do neuropsiquiatra Kurt Goldstein, da Psicologia da Gestalt e de alguns dos primeiros teóricos da personalidade.  Goldstein exerceu poderosa influência sobre os psicólogos humanistas através de obras como The Organism (1934) e Human Nature in the light of psychopathology (1940), baseadas em sua pesquisa sobre a capacidade de reorganização do cérebro humano após lesões cerebrais, feita com soldados feridos em combate. Nelas, Goldstein introduz conceitos que seriam assimilados e desenvolvidos por psicólogos humanistas, como os de autoatualização e tendência ao crescimento, assim como sua visão holista do organismo humano. Ele enfatiza em suas obras a visão de que o Organismo é um todo unificado, afetado em sua totalidade pelo que quer que aconteça em qualquer uma de suas partes. 
+
+CASTAÑON, G. A. Psicologia humanista: a história de um dilema epistemológico. Memorandum, v. 12, 2007, p. 107.
+
+**Enunciado**
+Considerando o argumento da psicologia humanista como a terceira força da psicologia, avalie as afirmações a seguir.
+
+I.	O humanismo valoriza a experiência subjetiva do indivíduo no presente, suas percepções, sentimentos e significados. 
+II.	O humanismo enfatiza o estudo do comportamento observável e a aprendizagem por meio do condicionamento. 
+III.	O humanismo destaca a capacidade humana de fazer escolhas e de ser responsável por suas ações e seu desenvolvimento. 
+IV.	O humanismo enfoca o comportamento observável e as influências do ambiente, diminuindo os fatores internos como emoções do ser humano.
+
+É correto o que se afirma em
+**Alternativas:**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	I e III, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** C
+**Feedback**
+O humanismo é considerado a terceira força da psicologia porque surgiu como uma alternativa crítica às duas principais correntes dominantes até então. Ademais, dá ênfase à experiência consciente e subjetiva do indivíduo, valorizando como ele percebe a si mesmo e o mundo ao seu redor, sendo o foco no aqui e agora, nas emoções e nos significados pessoais é central nessa abordagem.
+Assim como o ser humano é visto como um agente ativo, com livre-arbítrio, capaz de tomar decisões conscientes e ser responsável por seu próprio crescimento e autorrealização. Contudo, é o behaviorismo, com nomes como Skinner e Watson, focava em comportamentos observáveis e mensuráveis, além da aprendizagem por meio do condicionamento (clássico e operante), sendo que o humanismo se opõe a essa visão mecanicista do comportamento humano. Do mesmo modo, o humanismo faz justamente o oposto: valoriza os aspectos internos, como emoções, valores, motivações e experiências subjetivas, e não os reduz à simples resposta a estímulos ambientais.
+
+Curso: 	Psicologia	Ponto de Interação: 	P3	N. da questão:	Q02
+**identificação da questão** 
+PPD_FE_09_ TS_ Humanismo _P3_2025-2_Q02
+**Texto-base**
+O humanismo surgiu como uma resposta crítica às limitações percebidas nas duas principais abordagens psicológicas da época: a psicanálise e o behaviorismo, visto que eram consideradas pessimistas ou reducionistas, tratando o ser humano como um ser demasiadamente passivo: ou controlado por instintos inconscientes ou moldado por estímulos do ambiente. 
+Carl Rogers e Abraham Maslow foram figuras determinantes na consolidação da psicologia humanista, conhecida como a terceira força da psicologia. Eles romperam com as abordagens anteriores – a psicanálise e o behaviorismo – ao proporem uma visão mais positiva, integradora e centrada no potencial humano. 
+Juntos, Maslow e Rogers trouxeram uma nova contribuição para a psicologia sobre a maneira de entender o ser humano, promovendo uma psicologia voltada para o bem-estar, a liberdade de escolha e o desenvolvimento pessoal.
+**Enunciado**
+Considerando o texto apresentado, avalie as afirmações a seguir.
+ 
+I.	A teoria de Carl Rogers foca na motivação humana para entender os diferentes comportamentos humanos. 
+II.	A teoria de Carl Rogers foca no processo terapêutico e no crescimento pessoal a partir da relação entre terapeuta e cliente. 
+III.	Para Abraham Maslow, a abordagem centrada na pessoa tem por objetivo ajudar o indivíduo a se tornar a pessoa que ele realmente é. 
+IV.	Para Abraham Maslow, a teoria humanista mostra uma hierarquia de necessidades que movem o comportamento humano, do básico ao mais elevado nível: a autorrealização. 
+ 
+É correto o que se afirma em 
+**Alternativas:**
+
+A)	I, apenas.                            
+B)	II, apenas.
+C)	II e IV, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** C 
+
+**Feedback**
+A hierarquia das necessidades de Maslow é um modelo que organiza as necessidades humanas em níveis, desde as fisiológicas até a autorrealização, postulando que as necessidades de nível inferior precisam ser satisfeitas antes que as necessidades de nível superior se tornem motivadoras. Contudo, foi Rogers quem defendeu a relação terapêutica como o principal motor para o crescimento e a mudança do cliente. Além disso, formulou a Abordagem Centrada na Pessoa que busca facilitar o processo de autodescoberta e autoaceitação do indivíduo. Contudo, a teoria de Maslow é mais conhecida por sua ênfase na motivação humana, especialmente por meio da sua Hierarquia das Necessidades. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P3	N. da questão:	Q03
+**identificação da questão** 
+PPD_FE_09_ TS_ Humanismo P3_2025-2_Q03
+**Texto-base**
+Portanto, descartamos, aqui, uma condição apontada por Rogers (1994a, p.157) como primordial para que se desenvolva a relação terapêutica: o acordo interno por parte do terapeuta. Mesmo que reconheçamos um acordo precário como necessário, postulamos a necessidade de uma abertura e uma desconstrução para o acolhimento de uma diferença, e não um acordo totalizador da vulnerabilidade à estranheza, uma vez que esta noção abole a possibilidade de tensão e ruptura em que pode ser pensado o processo psicoterapêutico. 
+VIEIRA, E. M.; FREIRE, J. C. Alteridade e psicologia humanista: uma leitura ética da abordagem centrada na pessoa. Estudos de Psicologia, v. 23, 2006, p. 431.
+
+**Enunciado**
+Considerando a importância da alteridade na psicologia humanista, avalie as afirmações a seguir.
+
+I.	A alteridade significa reconhecer a existência do outro, justamente pelo fato de o outro ser igual a mim, pois existe, de fato, um jeito autêntico de sentir e experimentar.
+II.	Ao buscar genuinamente compreender o ponto de vista do outro, superamos a tendência de julgar os outros com base em nossas próprias normas e valores.
+III.	Cada pessoa vive em seu próprio mundo fenomenológico, com suas próprias percepções, sentimentos e significados.
+IV.	A alteridade significa relacionar-se de forma autêntica, esforçando-se para agradar os outros e promover o maior bem-estar possível.
+
+É correto o que se afirma em
+**Alternativas:**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	II e III, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** C
+**Feedback**
+Rogers acreditava que ao nos colocarmos no lugar do outro sem julgamentos, em uma atitude não diretiva, criamos condições para um crescimento pessoal autêntico. Além disso, enfatizava que cada indivíduo constrói sua realidade a partir de sua experiência subjetiva, ou seja, de seu mundo fenomenológico. Contudo, não defendia que o outro seja "igual a mim" ou que exista apenas uma forma autêntica de sentir e experimentar. Pelo contrário, sua abordagem ressaltava a unicidade de cada indivíduo e a importância de compreender o outro em sua singularidade. Também valorizava a autenticidade (congruência) no relacionamento, mas não como um esforço para “agradar os outros”. A aceitação incondicional (consideração positiva incondicional) não equivale a agradar, mas a acolher o outro como ele é, sem condicionar sua validação a comportamentos específicos.
+
+Curso: 	Psicologia	Ponto de Interação: 	P3	N. da questão:	Q04
+**identificação da questão** 
+PPD_FE_09_ TS_ Humanismo _P3_2025-2_Q04
+**Texto-base**
+O objetivo da psicologia humanista, especialmente na teoria de Carl Rogers, consiste em compreender o desenvolvimento da identidade e do bem-estar psicológico. Rogers propôs que todo ser humano possui uma tendência inata à autorrealização, ou seja, uma força natural para crescer e viver de forma plena. 
+Nesse processo, o indivíduo forma uma imagem de si mesmo baseada em suas experiências de vida. Porém, ao mesmo tempo, constrói uma imagem influenciada por valores pessoais, sociais e culturais. 
+Quando há coerência no processo, a pessoa sente-se integrada e verdadeira; no entanto, quanto maior a incoerência, maior o risco do surgimento de ansiedade, frustração e conflitos psicológicos.
+
+**Enunciado**
+Considerando os principais conceitos da teoria humanista de Rogers, avalie as afirmações a seguir e a relação entre elas.  
+ 
+I.	O self real representa a percepção subjetiva que a pessoa tem de si mesma, incluindo suas experiências, valores, sentimentos e identidade. 
+PORQUE
+II.	Ele apresenta a imagem de como o indivíduo gostaria de ser, contendo os atributos, qualidades e características que a pessoa valoriza e almeja possuir. 
+   
+A respeito dessas asserções, assinale a opção correta. 
+
+**Alternativas:**
+A)	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C)	A asserção I é uma preposição verdadeira, e a II é uma proposição falsa.
+D)	A asserção I é uma preposição falsa, e a II é uma proposição verdadeira.
+E)	As asserções I e II são falsas. 
+**Gabarito** B
+**Feedback**
+Segundo Carl Rogers, o self real não é uma justificativa para o self ideal. O que ele propôs é que o self real (quem a pessoa realmente é agora, baseada em suas experiências reais) e o self ideal (quem a pessoa gostaria de ser) são duas imagens diferentes de si mesmo, e o ideal seria que elas fossem relativamente congruentes — ou seja, que a distância entre elas fosse pequena. O self ideal muitas vezes surge não do self real diretamente, mas de influências externas: pais, sociedade, cultura, expectativas de outros. Assim, ele pode refletir desejos que não correspondem à realidade interna da pessoa. Um exemplo seria uma pessoa desejar ser sempre "forte e invulnerável" (self ideal) porque foi ensinada que mostrar sentimentos é sinal de fraqueza, mesmo que seu self real reconheça que ela é sensível.
+
+Curso: 	Psicologia	Ponto de Interação: 	P3	N. da questão:	Q05
+**identificação da questão** 
+PPD_FE_09_ TS_ Humanismo _P3_2025-2_Q05
+**Texto-base**
+A importância do humanismo para a psicologia reside em sua capacidade de redefinir a compreensão da natureza humana, sendo que, em vez de conceber um ser passivo e reativo, pintou um retrato do indivíduo como um ser intrinsecamente motivado ao crescimento, à busca por significado e à realização de seu potencial único. 
+Essa mudança de foco permitiu que a psicologia explorasse dimensões da existência humana que haviam sido negligenciadas em outras abordagens. Essa visão influenciou profundamente diversas áreas da psicologia, desde a teoria da personalidade até a prática clínica, deixando um legado duradouro que continua a inspirar e a moldar como entendemos a complexidade da experiência humana. 
+
+**Enunciado**
+Considerando a importância que o humanismo adquiriu para o desenvolvimento da psicologia, avalie as afirmações a seguir.
+ 
+I.	A psicologia humanista abriu espaço para uma renovação da psicologia, sendo considerada uma alternativa ao behaviorismo e à psicanálise.  
+II.	A psicologia humanista trouxe à tona a importância da experiência vivida do indivíduo, valorizando a consciência, a intuição, os sentimentos e a percepção de si mesmo. 
+III.	A psicologia humanista foi representante da tendência do pensamento da época, na qual se acreditava que todas as pessoas têm uma natureza inata à autoatualização.  
+IV.	A psicologia humanista promoveu um estilo mais acolhedor, empático e centrado no cliente, defendendo a ideia do terapeuta especialista e detentor do saber sobre o paciente que conduz a prática clínica.
+ 
+É correto o que se afirma em
+**Alternativas:**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	I, II e III, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** C
+**Feedback**
+A psicologia humanista emergiu entre as décadas de 1950 e 1960, em um contexto histórico marcado por transformações sociais, culturais e filosóficas. Nesse período, havia um crescente interesse por temas como liberdade, autenticidade, autorrealização e potencial humano. Com isso, a psicologia humanista colocou a experiência subjetiva no centro de sua análise, valorizando conceitos como consciência, intuição, sentimentos, percepção e o significado pessoal que cada indivíduo atribui às suas experiências, tornando-os elementos relevantes para compreender a psique humana. Surgiu como uma "terceira força" na psicologia, oferecendo uma alternativa às duas principais correntes da época (o behaviorismo e a psicanálise), sendo considerada um avanço relativo em relação a essas abordagens. Contudo, a psicologia humanista, com figuras como Carl Rogers, rejeitou a ideia do terapeuta como um "especialista" detentor do saber sobre o paciente, optando, em vez disso, por promover uma relação terapêutica caracterizada por um estilo acolhedor, empático e genuíno, centrado na pessoa do cliente. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P3	N. da questão:	Q06
+**identificação da questão**  
+PPD_FE_09_ TS_ Humanismo _P3_2025-2_Q06
+**Texto-base**
+Para muitos autores das ciências humanas, a metodologia humanista representa uma contribuição valiosa para a psicologia ao colocar o ser humano como protagonista de sua própria história, respeitando sua individualidade, suas escolhas e seu potencial de crescimento. 
+Ao mesmo tempo, há também os críticos que apontam para seus limites metodológicos, baixa objetividade e pouco olhar crítico, fatores que, por vezes, colocam em dúvida sua integração com outras abordagens. 
+Nesse sentido, embora sua metodologia apresente contribuições relevantes para a prática psicológica, a metodologia humanista também enfrenta críticas e limitações. Ainda assim, permanece uma ferramenta potente, sobretudo em contextos que demandam acolhimento, escuta e promoção da saúde mental.
+
+
+**Enunciado**
+Considerando que a psicologia humanista foi influenciada por diversas correntes filosóficas em sua fundamentação teórica e metodológica, avalie as afirmações a seguir.
+**Alternativas:**
+
+I.	A filosofia da mente foi fundamental para a psicologia humanista, que buscou explicar os processos mentais exclusivamente em termos neurofisiológicos.
+II.	O existencialismo e a fenomenologia exerceram grande influência na psicologia humanista, especialmente na valorização da percepção individual.
+III.	O positivismo lógico foi a principal base metodológica, permitindo ao humanismo seguir o modelo das ciências naturais.
+
+É correto o que se afirma em
+
+**Alternativas:**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** B 
+
+**Feedback**
+A psicologia humanista sofreu influência da fenomenologia (Husserl, Heidegger), que enfatiza a experiência vivida e a consciência subjetiva, alinhando-se com a abordagem humanista de Rogers e Maslow. Do mesmo modo, filósofos como Sartre e Kierkegaard influenciaram a visão humanista sobre autonomia, escolha e responsabilidade, elementos centrais na terapia existencial-humanista. Contudo, o humanismo rejeitou o positivismo lógico, que prioriza dados mensuráveis e experimentação, pois a sua abordagem valorizou métodos qualitativos e a experiência subjetiva, opondo-se ao reducionismo científico. Consequentemente, a psicologia humanista não se baseou em explicações neurofisiológicas ou reducionistas (como as da filosofia da mente materialista); em vez disso, focou na experiência holística e na subjetividade, distanciando-se de perspectivas puramente biológicas.
+
+Curso: 	Psicologia	Ponto de Interação: 	P4	N. da questão:	Q01
+**identificação da questão** 
+PPD_FE_09_ TS_ Cognitivismo _ P4_2025-2_Q01
+**Texto-base**
+O ser humano é um processador de informação - é a metáfora computacional, a visão do ser humano como um organismo ativo que processa informação, primeiro a recebendo, depois a decodificando, a transformando, a armazenando, a recuperando e, por fim, a utilizando. É importante enfatizar novamente que o Cognitivismo (não as Ciências Cognitivas) sempre considerou a metáfora computacional somente uma metáfora, útil por oferecer linguagem e aparatos conceituais novos para a abordagem eficiente dos fenômenos cognitivos. O ser humano é mais do que um processador de informações.
+CASTAÑON, Gustavo Castañon Arja. O cognitivismo é um humanismo. Psicologia Argumento, v. 25, n. 48, 2007, p. 55.
+**Enunciado**
+Considerando que o cognitivismo é um sistema teórico que trouxe novas perspectivas para a compreensão do ser humano, avalie as afirmações a seguir.
+I.	A metáfora computacional adotada no cognitivismo, que representa metaforicamente o ser humano como um processador de informações, expõe a visão mecanicista defendida por essa teoria, a qual reduz a importância das emoções, percepções e experiências humanas. 
+II.	O cognitivismo adota a metáfora computacional porque ela oferece uma forma sofisticada de apresentar o próximo salto evolutivo da humanidade, estando em alinhamento com os avanços das tecnociências atuais.
+III.	Ao afirmar que o ser humano é mais do que um processador de informações, o cognitivismo rejeita a ideia de um determinismo biológico que rege a existência humana e suas experiências. 
+IV.	Ao adotar o conceito de cognição como central em sua proposta teórica, o cognitivismo envida esforços em compreender as formas de conhecimento humano.
+É correto o que se afirma em
+
+**Alternativas:**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	III e IV, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** C
+**Feedback**
+O texto enfatiza que o cognitivismo sempre considerou a metáfora computacional apenas uma metáfora útil, e não uma representação literal e completa do ser humano. Embora a metáfora possa ter implicações mecanicistas se interpretada rigidamente, conforme as informações apresentadas, o cognitivismo a utiliza como uma ferramenta para entender os processos cognitivos, sem necessariamente reduzir a importância de outros aspectos da experiência humana como emoções, percepções e experiências. A crítica de que a metáfora pode levar a uma visão mecanicista é válida, mas o texto argumenta que o cognitivismo a utiliza de forma consciente e limitada. O foco central do cognitivismo é a cognição, que engloba os processos mentais envolvidos na aquisição, organização e uso do conhecimento. Compreender como os seres humanos conhecem o mundo é um dos principais objetivos dessa abordagem teórica. Ao evidenciar a atividade da mente, distancia-se de um determinismo ambientalista estrito. No entanto, ele geralmente não rejeita a influência da biologia. O cognitivismo argumenta que, dentro das possibilidades biológicas, a mente tem um papel ativo por meio dos processos cognitivos. A afirmação de que o ser humano é "mais do que um processador de informações" aponta para a complexidade da experiência humana que vai além do simples processamento de dados.
+
+Curso: 	Psicologia	Ponto de Interação: 	P4	N. da questão:	Q02
+**identificação da questão** 
+PPD_FE_09_ TS_ Cognitivismo _ P4_2025-2_Q02
+**Texto-base**
+Em psicologia, cognição refere-se aos processos mentais envolvidos na aquisição, processamento, armazenamento e uso de informações. É o conjunto de habilidades que nos permite perceber, pensar, raciocinar, lembrar, resolver problemas e tomar decisões.
+No entanto, esse processo pode ser afetado por vieses ou distorções que comprometem a qualidade de vida das pessoas. Eles funcionam como filtros mentais e emocionais que elas utilizam para interpretar e reagir a situações externas. Dessa forma, consistem em distorções no julgamento que podem comprometer a habilidade de analisar informações de forma imparcial e racional.
+
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que exemplifica uma situação impactada por uma distorção cognitiva.
+
+**Alternativas:**
+A)	Uma pessoa, ao perceber um atraso no trânsito, logo verifica rotas alternativas no GPS e segue o caminho mais rápido, sentindo-se ansioso em relação a um possível atraso para seu compromisso. 
+B)	Um atleta, ao perder uma competição, chora intensamente ao final do evento e, ao retomar seus treinos, analisa sua performance para identificar como pode se preparar melhor na próxima vez.
+C)	Uma pessoa, ao receber um e-mail crítico do chefe, imediatamente pensa: "Vou ser demitido, nunca mais vou arrumar emprego e vou acabar falido", mesmo sem evidências concretas.
+D)	Um estudante, após tirar uma nota baixa em uma prova, fica chateado consigo mesmo e busca revisar os erros com calma e com a ajuda do professor para entender o conteúdo.
+E)	Um funcionário, ao receber feedback negativo, reflete sobre os pontos a melhorar e cria um plano de ação para desenvolver suas habilidades.
+
+**Gabarito** C
+**Feedback**
+Na situação em que a pessoa passa a acreditar que será demitida e não conseguirá outro emprego, mesmo que sem evidência empírica que sustente essa crença, é um exemplo de catastrofização. Portanto, essa alternativa é a única que demonstra um padrão de pensamento distorcido. As demais descrevem reações emocionais normais ou estratégias de enfrentamento adequadas, mesmo frente a situações emocionalmente desafiadoras. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P4	N. da questão:	Q03
+**identificação da questão** 
+PPD_FE_09_ TS_ Cognitivismo _P4_2025-2_Q03
+**Texto-base**
+O conceito de crenças centrais se relaciona à autoidentidade visto que representa as ideias mais centrais da pessoa a respeito do self, a forma como a pessoa interpreta a si mesma e aos outros. No que tange ao aspecto patológico, as crenças centrais são descritas como disfuncionais quando levam a interpretações distorcidas da realidade, frequentemente geradoras de sofrimento e de estratégias desadaptativas (J. S. Beck, 1995/1997). As crenças centrais disfuncionais são frequentemente rígidas, imperativas e supergeneralizadas, impondo um caráter determinista à autoimagem do cliente, que pode se perceber subjetivamente como incapaz de realizar mudanças no seu funcionamento. 
+OLIVEIRA, Cláudio Ivan de; PIRES, Anderson Clayton; VIEIRA, Timoteo Madaleno. A terapia cognitiva de Aaron Beck como reflexividade na alta modernidade: uma sociologia do conhecimento. Psicologia: Teoria e Pesquisa, v. 25, p. 637-645, 2009.
+
+**Enunciado**
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+
+I.	Crenças centrais disfuncionais podem levar a interpretações distorcidas da realidade e a estratégias desadaptativas, gerando sofrimento psicológico.
+PORQUE
+II.	Crenças rígidas, imperativas e supergeneralizadas podem levar uma pessoa a se perceber como incapaz de mudar seu funcionamento, mesmo diante de evidências contrárias.
+A respeito dessas asserções, assinale a opção correta.
+**Alternativas:**
+A)    As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)    As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C)    A asserção I é uma preposição verdadeira, e a II é uma proposição falsa.
+D)    A asserção I é uma preposição falsa, e a II é uma proposição verdadeira.
+E)    As asserções I e II são falsas.
+**Gabarito** A
+**Feedback**
+A assertiva I está correta, pois crenças centrais disfuncionais distorcem a realidade e levam a comportamentos mal adaptativos (ex.: "Sou incapaz" gera evitação de desafios). A assertiva II está correta, pois a rigidez e o caráter determinista dessas crenças impedem a reavaliação de evidências, perpetuando o sofrimento. A relação causal entre as assertivas está alinhada com a teoria cognitiva.
+
+Curso: 	Psicologia	Ponto de Interação: 	P4	N. da questão:	Q04
+**identificação da questão** 
+PPD_FE_09_ TS_ Cognitivismo _P4_2025-2_Q04
+**Texto-base**
+A psicologia cognitiva baseia-se na proposta teórica-metodológica do cognitivismo para elaborar estratégias que auxiliem o ser humano no desenvolvimento do autoconhecimento e na melhoria de sua capacidade de lidar com a própria vida. Essa abordagem busca explicações científicas e objetivas para compreender como pensamos e aprendemos, sendo bastante influente em áreas como educação, terapia cognitiva e a inteligência artificial.
+**Enunciado**
+Considerando a aplicabilidade da proposta teórico-metodológica do cognitivismo na psicologia, avalie as afirmações a seguir.
+I.	O sistema teórico e metodológico do cognitivismo encontra aplicabilidade efetiva somente em áreas relacionadas à computação e sistemas digitais.
+II.	Trata-se de um sistema teórico que subsidia práticas eficazes no tratamento de transtornos mentais, como depressão, ansiedade, fobias, entre outros.
+III.	Pode favorecer o desenvolvimento de intervenções focadas em estratégias de aprendizagem, desenvolvimento pessoal ou resolução de problemas. 
+IV.	Por enfocar processos cognitivos, sua aplicabilidade torna-se inviável em outros contextos de atuação além da clínica. 
+
+É correto o que se afirma em
+
+**Alternativas:**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	II e III, apenas. 
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** C
+**Feedback**
+O cognitivismo é a base da Terapia Cognitivo-Comportamental (TCC), uma das abordagens mais eficazes no tratamento de transtornos como depressão, ansiedade e fobias. A TCC trabalha com a reestruturação cognitiva, ajudando o paciente a identificar e modificar pensamentos distorcidos e padrões disfuncionais de processamento de informação. Além disso, favorece intervenções voltadas para aprendizagem, desenvolvimento pessoal e resolução de problemas, pois estuda como as pessoas processam informações, formam esquemas mentais e desenvolvem estratégias adaptativas. Embora tenha forte aplicação clínica (como na TCC), não se limita a esse contexto, é utilizado em outras áreas, como: educação, ambiente organizacional, neuropsicologia, psicologia do desenvolvimento, entre outros contextos de aplicação. Com isso, apesar de o cognitivismo ter sido influenciado pela metáfora computacional (mente como processador de informações), sua aplicação não se restringe à computação ou aos sistemas digitais. É amplamente utilizado em contextos psicológicos, educacionais e sociais. 
+
+Curso: 	Psicologia	Ponto de Interação: 	P4	N. da questão:	Q05
+**identificação da questão** 
+PPD_FE_09_ TS_ Cognitivismo _P4_2025-2_Q05
+**Texto-base**
+Ana, 28 anos, foi criada por pais extremamente críticos que raramente a elogiavam. Sempre que cometia pequenos erros, ouvia frases como "Você nunca faz nada direito!". Isso levou à formação de um esquema central de "Sou incapaz". Atualmente, é uma pessoa com elevada autocrítica e, em seu trabalho, ignora todos os elogios e foca obsessivamente no único ponto de melhoria, pensando: "Ele só está sendo gentil porque sou péssima nisso. Esse erro mostra que não sirvo para essa profissão."
+
+**Enunciado**
+Considerando a perspectiva teórica cognitivista, avalie as afirmações a seguir e a relação entre elas:
+I.	É possível que os esquemas de Ana em relação a si mesma e sua competência estejam disfuncionais, prejudicando sua capacidade de avaliar a si mesma.
+PORQUE
+II.	Os esquemas funcionam como estruturas mentais que organizam a compreensão do mundo, possibilitando a integração de novas informações a conhecimentos prévios.
+A respeito dessas asserções, assinale a opção correta.
+**Alternativas:**
+A)    As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)    As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C)   A asserção I é uma preposição verdadeira, e a II é uma proposição falsa.
+D)   A asserção I é uma preposição falsa, e a II é uma proposição verdadeira.
+E)    As asserções I e II são falsas.
+
+**Gabarito** A
+**Feedback**
+A assertiva I está correta, pois o caso de Ana demonstra claramente um esquema disfuncional ("Sou incapaz"), que distorce sua autoavaliação (ela ignora elogios e supervaloriza críticas). A assertiva II está correta, pois os esquemas são estruturas cognitivas que organizam nossa interpretação da realidade, conforme a teoria cognitivista.  A relação causal entre as assertivas está alinhada com a teoria cognitiva.
+
+Curso: 	Psicologia	Ponto de Interação: 	P4	N. da questão:	Q06
+**identificação da questão** 
+PPD_FE_09_ TS_ Cognitivismo _P4_2025-2_Q06
+**Texto-base**
+A Terapia Cognitivo-Comportamental (TCC) revolucionou a psicologia ao demonstrar que nossos pensamentos influenciam diretamente nossas emoções e comportamentos. 
+Um dos conceitos centrais dessa abordagem é o de esquemas cognitivos, introduzido pelo psiquiatra Aaron T. Beck nos anos 1960, quando ele pesquisava os mecanismos por trás da depressão. Beck percebeu que seus pacientes com depressão tinham pensamentos negativos automáticos (como "Sou um fracasso" ou "Nada dá certo para mim"), mas esses pensamentos não surgiam do nada. O termo “esquema” já existia na psicologia, usado por Jean Piaget, mas Beck o adaptou para utilizar na TCC.
+
+**Enunciado**
+Considerando a importância dos esquemas para a Teoria Cognitiva Comportamental, assinale a opção correta.
+
+**Alternativas:**
+A)	Esquemas são regras, atitudes e suposições que derivam dos pensamentos automáticos.
+B)	Esquemas são uma série de traços que representam uma característica estável do comportamento.
+C)	Esquemas são pensamentos rápidos, específicos e situacionais que surgem em resposta a um evento.
+D)	Esquemas são crenças centrais, muitas vezes inconscientes, que organizam nossa visão de nós mesmos, dos outros e do mundo.
+E)	Esquemas são representações mentais automáticas que envolvem emoções, julgamentos e predisposições para agir diante de algo.
+**Gabarito** D
+**Feedback**
+Os esquemas são as crenças mais fundamentais e arraigadas que temos sobre nós, sobre as outras pessoas e sobre como o mundo funciona. Eles são considerados a base para nossos pensamentos automáticos e influenciam a forma como processamos informações e atribuímos significado às experiências. Por serem centrais, muitas vezes operam em um nível inconsciente. As alternativas correspondem a conceitos também importantes para a TCC, como pensamentos automáticos, crenças intermediárias, modelos mentais e atitudes, bem como traços de personalidade.
+
+

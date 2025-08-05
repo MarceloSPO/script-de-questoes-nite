@@ -1,0 +1,534 @@
+Curso: Farmácia		Ponto de Interação:	1	Nº da questão:	1
+**Identificação da questão** PPD_FE_09_ assistência farmacêutica_P1_2025-2_Q01 
+**Texto-base**
+A Política Nacional de Assistência Farmacêutica também estabelece a necessidade de articulação entre os diferentes níveis de governo (federal, estadual e municipal) e de atenção (básica, especializada e hospitalar). Essa integração visa otimizar recursos e assegurar a universalidade e a integralidade no acesso a medicamentos.
+Enunciado:
+Por que a articulação entre os diferentes níveis de governo e de atenção é fundamental na Assistência Farmacêutica?
+**Alternativas**
+A)	Para otimizar recursos e padronizar protocolos.
+B)	Para concentrar a aquisição de medicamentos na esfera federal.
+C)	Para garantir o uso de medicamentos de laboratórios estrangeiros no país.
+D)	Para reduzir a cobertura de medicamentos nos municípios de pequeno porte.
+E)	Para dificultar a comunicação entre as equipes de saúde e evitar sobreposição de ações.
+**Gabarito** A
+**Feedback**
+A articulação entre os níveis de governo e de atenção contribui para uma gestão mais eficiente, ampliando o alcance e a qualidade da Assistência Farmacêutica, em conformidade com os princípios do SUS.
+
+Curso: Farmácia		Ponto de Interação:	1	Nº da questão:	2
+**Identificação da questão** PPD_FE_09_ assistência farmacêutica_P1_2025-2_Q02 
+**Texto-base**
+A Assistência Farmacêutica, no âmbito do Sistema Único de Saúde (SUS), está amparada por diretrizes legais que visam garantir o acesso, a qualidade e o uso racional de medicamentos. A Política Nacional de Assistência Farmacêutica (PNAF) consolida princípios como a integralidade do cuidado, a promoção da equidade e a valorização do farmacêutico na gestão dos recursos e na prática clínica.
+Enunciado:
+De acordo com a Política Nacional de Assistência Farmacêutica, qual é o objetivo central dessa estratégia no SUS?
+
+**Alternativas**
+A)	Estabelecer protocolos rígidos que impeçam a inclusão de novas tecnologias no SUS.
+B)	Reduzir os custos ao limitar a disponibilidade de medicamentos apenas a genéricos. 
+C)	Assegurar o acesso e a racionalidade no uso de medicamentos, articulando esses recursos às demais políticas de saúde.
+D)	Garantir que as decisões sobre medicamentos sejam tomadas unicamente pelo gestor federal, sem participação dos municípios.
+E)	Expandir a autonomia das unidades básicas de saúde para aquisição de medicamentos, ainda que isso implique duplicidade de estoques.
+**Gabarito** C
+**Feedback**
+A PNAF tem como objetivo principal viabilizar o acesso a medicamentos de forma segura e racional, em consonância com as demais estratégias de saúde. As outras opções ou restringem a disponibilidade de fármacos de modo incompatível com as diretrizes do SUS, ou centralizam decisões de forma contrária aos princípios de descentralização e participação.
+
+Curso: Farmácia		Ponto de Interação:	1	Nº da questão:	3
+**Identificação da questão** PPD_FE_09_ assistência farmacêutica_P1_2025-2_Q03 
+**Texto-base**
+A PNAF reforça a importância do uso racional de medicamentos, que compreende a prescrição adequada, a dispensação orientada e o acompanhamento terapêutico. Esse conjunto de ações visa prevenir riscos, evitar desperdícios e aprimorar os resultados de saúde, contribuindo para a eficiência e a sustentabilidade do SUS.
+Enunciado:
+Considerando o conceito de uso racional de medicamentos, segundo as diretrizes da PNAF, assinale a opção correta.
+
+**Alternativas**
+A)	Priorizar a prescrição de medicamentos de alto custo, assumindo que são superiores aos demais.
+B)	Distribuir a maior quantidade possível de fármacos aos usuários, com foco na rapidez da entrega.
+C)	Garantir que os medicamentos sejam prescritos, dispensados e utilizados com base em evidências.
+D)	Exigir que o paciente faça automedicação sempre que possível, reduzindo o número de consultas médicas.
+E)	Adotar protocolos de prescrição baseados na escolha do profissional, sem análise de eficácia ou segurança.
+**Gabarito** C
+**Feedback**
+O uso racional de medicamentos implica alinhar a escolha terapêutica às melhores evidências disponíveis, oferecendo segurança e eficácia ao paciente. As demais opções apresentam práticas que podem levar a riscos ou desperdícios, em desacordo com a PNAF. 
+
+Curso: Farmácia		Ponto de Interação:	1	Nº da questão:	4
+**Identificação da questão** PPD_FE_09_ assistência farmacêutica_P1_2025-2_Q04 
+**Texto-base**
+A Assistência Farmacêutica no Brasil está estruturada de acordo com os princípios e diretrizes do Sistema Único de Saúde (SUS). A Política Nacional de Assistência Farmacêutica (PNAF) reforça a importância do acesso racional e contínuo aos medicamentos, bem como a responsabilidade compartilhada entre as esferas federal, estadual e municipal na gestão e no financiamento dos fármacos.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	O princípio da integralidade no SUS exclui a distribuição de medicamentos de alto custo. 
+II.	A PNAF busca garantir que o acesso a medicamentos seja universal, sem discriminação. 
+III.	O financiamento dos medicamentos no SUS é realizado exclusivamente pelo governo federal. 
+IV.	A responsabilidade pela gestão dos medicamentos é compartilhada entre os diferentes níveis de governo. 
+V.	A equidade é um dos pilares do SUS, influenciando a distribuição de recursos para a Assistência Farmacêutica. 
+
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e IV, apenas.
+D)	II, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** D
+**Feedback** 
+•	A integralidade não exclui medicamentos de alto custo; ela prevê o cuidado em todas as suas dimensões. 
+•	A PNAF visa a universalidade, contemplando todos os cidadãos. 
+•	O financiamento é tripartite, envolvendo recursos das três esferas de governo.
+•	Há corresponsabilidade entre União, estados e municípios. 
+•	A equidade é um princípio do SUS e orienta a distribuição de recursos de forma justa. 
+
+Curso: Farmácia		Ponto de Interação:	1	Nº da questão:	5
+**Identificação da questão** PPD_FE_09_ assistência farmacêutica_P1_2025-2_Q05 
+**Texto-base**
+O Sistema Único de Saúde (SUS), instituído pela Constituição Federal de 1988, é regulamentado pela Lei nº 8.080/1990, conhecida como Lei Orgânica da Saúde. Entre seus princípios fundamentais destacam-se a universalidade, a integralidade e a equidade, que visam garantir o acesso de toda a população aos serviços de saúde, abrangendo todos os níveis de complexidade e contemplando ações de promoção, prevenção e recuperação da saúde.
+Enunciado:
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A Constituição de 1988 ainda não fazia menção à criação de um sistema de saúde unificado.
+II.	A Lei Orgânica da Saúde (Lei nº 8.080/1990) é a principal norma que regulamenta o SUS. 
+III.	A equidade busca distribuir recursos e serviços de forma justa, priorizando as necessidades mais urgentes. 
+IV.	A integralidade significa que o sistema deve oferecer apenas serviços de atenção básica, sem cobrir níveis especializados. 
+V.	A universalidade prevê que todos os cidadãos tenham direito à saúde, independentemente de sua condição socioeconômica. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	II, III e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback**
+•	A Constituição de 1988 prevê, sim, a criação de um sistema de saúde unificado, que deu origem ao SUS.
+•	A Lei nº 8.080/1990 regulamenta o funcionamento do SUS. 
+•	A equidade visa alocar recursos conforme as necessidades de cada região/grupo. 
+•	A integralidade engloba todos os níveis de atenção, não apenas a básica. 
+•	A universalidade garante que todos os brasileiros têm direito à saúde. 
+
+Curso: Farmácia		Ponto de Interação:	1	Nº da questão:	6
+**Identificação da questão** PPD_FE_09_ assistência farmacêutica_P1_2025-2_Q06 
+**Texto-base**
+O Sistema Único de Saúde (SUS) também se fundamenta em diretrizes operacionais, como a descentralização, a regionalização e a participação popular, que norteiam a forma como os serviços de saúde são estruturados e geridos em todo o país, influenciando a tomada de decisões e a organização das ações em saúde.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	A descentralização exclui a atuação dos estados no planejamento das ações de saúde.
+II.	A regionalização visa concentrar os serviços de saúde em grandes centros urbanos.
+III.	A regionalização busca organizar os serviços em redes, facilitando o acesso à saúde de acordo com a realidade local.
+IV.	A descentralização confere aos municípios a responsabilidade de executar as ações de saúde, seguindo normas gerais do SUS.
+V.	A participação popular ocorre por meio de conselhos e conferências de saúde, instâncias nas quais a sociedade discute e avalia as políticas públicas.
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e IV, apenas.
+D)	III, IV e V, apenas.  
+E)	I, II, III, IV e V.
+**Gabarito** D
+**Feedback**
+A descentralização não exclui os estados, que também são relevantes no planejamento e coordenação. 
+A regionalização não se limita a grandes centros, mas organiza os serviços em diferentes áreas conforme necessidades locais.
+A regionalização propõe a estruturação de redes de serviços em função do perfil de cada região, facilitando o acesso.
+A descentralização prevê que os municípios sejam executores das ações de saúde, seguindo diretrizes gerais. 
+A participação popular se efetiva por meio dos conselhos e conferências, instâncias nas quais a comunidade influencia a formulação e o acompanhamento das políticas públicas de saúde. 
+
+PONTO DE INTERAÇÃO: 2
+Curso: Farmácia		Ponto de Interação:	2	Nº da questão:	1
+**Identificação da questão** PPD_FE_09_ ciclo_assistência_P2_2025-2_Q01 
+**Texto-base**
+A logística de medicamentos na Assistência Farmacêutica envolve a programação, a aquisição, o armazenamento e a distribuição. A Política Nacional de Assistência Farmacêutica (PNAF) determina que cada uma dessas etapas seja conduzida de maneira transparente e eficiente, a fim de manter a qualidade dos produtos, evitar desabastecimentos e desperdícios, bem como assegurar o atendimento às necessidades da população.
+Enunciado:
+Considerando o principal propósito de uma logística eficiente de medicamentos no contexto da PNAF, assinale a opção correta.
+
+**Alternativas**
+A)	Minimizar as etapas de controle de estoque para agilizar a distribuição.
+B)	Reduzir o envolvimento e o volume de trabalho do farmacêutico na gestão.
+C)	Viabilizar a aquisição de fármacos de diversas marcas para competir com o setor privado.
+D)	Assegurar que os medicamentos estejam disponíveis no momento e na quantidade adequada.
+E)	Concentrar o fornecimento em poucas unidades de saúde para reduzir a necessidade de transporte.
+**Gabarito** D
+**Feedback**
+A logística eficiente objetiva garantir a disponibilidade contínua de medicamentos, em condições adequadas, de modo a atender à demanda. As alternativas que sugerem diminuir controles ou limitar o envolvimento do farmacêutico contrariam os princípios de boa gestão de estoque.
+
+
+Curso: Farmácia		Ponto de  :	2	Nº da questão:	2
+**Identificação da questão** PPD_FE_09_ ciclo_assistência_P2_2025-2_Q02 
+**Texto-base**  
+A programação e a aquisição de medicamentos são etapas que envolvem a estimativa das quantidades necessárias, a análise de custos e a definição de prazos para reposição. Uma programação bem estruturada evita tanto a falta de medicamentos quanto o acúmulo excessivo, que pode levar ao vencimento dos produtos antes do uso.
+Enunciado:
+Considerando o principal objetivo da etapa de programação no Ciclo da Assistência Farmacêutica, assinale a opção correta.
+
+**Alternativas**
+A)	Concentrar a aquisição de medicamentos em grandes centros urbanos.
+B)	Basear as compras apenas na preferência dos fornecedores mais próximos.
+C)	Excluir a participação de farmacêuticos na estimativa de consumo de fármacos.
+D)	Comprar medicamentos de uma forma mais ágil, sem considerar a demanda dos serviços de saúde.
+E)	Definir quantidades necessárias e períodos de reposição para evitar desabastecimento ou excedentes.
+**Gabarito** E
+**Feedback**
+A programação adequada permite prever a demanda e realizar aquisições de forma equilibrada, evitando desperdícios e garantindo o suprimento contínuo de medicamentos.
+
+Curso: Farmácia		Ponto de Interação:	2	Nº da questão:	3
+**Identificação da questão** PPD_FE_09_ ciclo_assistência_P2_2025-2_Q03 
+**Texto-base**
+A etapa de distribuição de medicamentos é responsável por levar os produtos farmacêuticos dos centros de armazenamento até as unidades de saúde. Uma boa distribuição depende de planejamento logístico, controle de estoque e transporte adequado.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	O controle de estoque não interfere na distribuição. 
+II.	A manutenção de registros de saída e entrega de medicamentos afeta a rastreabilidade. 
+III.	Uma logística ineficiente pode resultar em atrasos e desabastecimento nas unidades de saúde.  
+IV.	O acondicionamento inadequado durante o transporte pode comprometer a eficácia dos produtos.
+V.	A distribuição deve ocorrer de forma a garantir a integridade dos medicamentos durante o transporte. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e IV, apenas.
+D)	II, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** D
+**Feedback**
+•	O controle de estoque é essencial para determinar quantidades e evitar sobras ou faltas. 
+•	Os registros de saída e entrega permitem rastrear os lotes e verificar a regularidade da distribuição. 
+•	Falhas logísticas podem, de fato, ocasionar atrasos e desabastecimento. 
+•	O transporte inadequado pode prejudicar a estabilidade e a eficácia dos fármacos.
+•	A integridade dos medicamentos deve ser assegurada durante todo o transporte. 
+
+Curso: Farmácia		Ponto de Interação:	2	Nº da questão:	4
+**Identificação da questão** PPD_FE_09_ ciclo_assistência_P2_2025-2_Q04 
+**Texto-base**
+O Ciclo da Assistência Farmacêutica compreende etapas que vão desde a seleção dos medicamentos até a sua dispensação ao paciente. As fases iniciais — seleção e programação — são fundamentais para definir quais fármacos serão disponibilizados e em que quantidades.
+Enunciado:
+Considerando as informações apresentadas, assinale a opção correta.
+I.	O custo-efetividade é irrelevante na programação de compras. 
+II.	A seleção adequada evita a inclusão de medicamentos obsoletos na lista oficial. 
+III.	A seleção de medicamentos deve considerar evidências científicas e o perfil epidemiológico local. 
+IV.	A programação deve ser realizada de forma a prevenir tanto o excesso quanto a falta de produtos.
+V.	A definição de quantidades a serem adquiridas faz parte da programação, baseada em dados de consumo. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e IV, apenas.
+D)	II, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** D
+**Feedback**
+•	O custo-efetividade é fundamental para otimizar recursos na programação. 
+•	A seleção baseia-se em evidências científicas e no perfil de doenças mais prevalentes. 
+•	A programação considera o histórico de consumo e a projeção de demanda. 
+•	A seleção adequada evita a inclusão de medicamentos obsoletos na lista oficial.
+•	A programação deve equilibrar para não haver faltas nem sobras.
+
+Curso: Farmácia		Ponto de Interação:	2	Nº da questão:	5
+**Identificação da questão** PPD_FE_09_ ciclo_assistência_P2_2025-2_Q05 
+**Texto-base**
+As etapas de programação e aquisição no ciclo da Assistência Farmacêutica envolvem o planejamento das quantidades necessárias e a compra dos medicamentos selecionados. Uma programação eficiente requer dados, enquanto a aquisição deve considerar aspectos legais, garantindo que os produtos cheguem em condições adequadas.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	A análise de custo-efetividade é irrelevante na fase de aquisição. 
+II.	O preço mais baixo é o principal critério na compra de medicamentos.
+III.	A aquisição deve seguir critérios de qualidade e conformidade com as normas legais.           
+IV.	As falhas na programação podem resultar em excedentes de estoque ou desabastecimento. 
+V.	A programação deve ser baseada em dados de consumo anteriores e em projeções de demanda. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	III, IV e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback**
+
+•	A análise de custo-efetividade é fundamental também na aquisição, pois otimiza recursos. 
+•	Além do preço, é imprescindível considerar a qualidade, a segurança e a eficácia dos medicamentos.
+•	A qualidade e o cumprimento das normas legais são imprescindíveis para garantir a segurança dos medicamentos. 
+•	Falhas na programação podem gerar estoques excessivos ou faltas graves de produtos. 
+•	Dados de consumo anteriores e projeções futuras orientam uma programação assertiva. 
+
+Curso: Farmácia		Ponto de Interação:	2	Nº da questão:	6
+**Identificação da questão** PPD_FE_09_ ciclo_assistência_P2_2025-2_Q06 
+**Texto-base**
+A dispensação e o monitoramento constituem etapas indispensáveis para garantir que o paciente receba o medicamento adequadamente. A dispensação envolve conferir prescrições, explicar a posologia e os possíveis efeitos adversos. Essas ações promovem o uso racional e contribuem para a segurança do paciente.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	A dispensação não inclui a necessidade de orientações sobre armazenamento doméstico.
+II.	A dispensação adequada inclui a orientação sobre a forma de uso e a duração do tratamento. 
+III.	O monitoramento visa identificar precocemente falhas terapêuticas ou reações adversas. 
+IV.	O farmacêutico não precisa checar a prescrição médica antes de dispensar o medicamento. 
+V.	A adesão do paciente ao tratamento pode ser avaliada na etapa de monitoramento. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	II, III e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback** 
+•	Orientar o paciente sobre como armazenar o medicamento em casa faz parte da dispensação segura.
+•	A orientação quanto ao modo de usar e tempo de tratamento é fundamental na dispensação. 
+•	O monitoramento acompanha o progresso do tratamento e detecta problemas precocemente. 
+•	O farmacêutico deve verificar a prescrição para evitar erros de medicação. 
+•	A adesão ao tratamento pode ser acompanhada, permitindo ajustes no tratamento, se necessário. 
+
+PONTO DE INTERAÇÃO: 3
+Curso: Farmácia		Ponto de Interação:	3	Nº da questão:	1
+**Identificação da questão** PPD_FE_09_seleção_medicamentos_P3_2025-2_Q01 
+**Texto-base**
+Uma seleção criteriosa de medicamentos impacta diretamente a segurança do paciente, ao evitar a utilização de fármacos que apresentem riscos desnecessários e ao favorecer o uso racional. Na seleção de medicamentos, o farmacêutico deve considerar diversos critérios para assegurar o uso racional dos fármacos. Essa escolha deve balancear os resultados clínicos com a viabilidade econômica e a realidade epidemiológica da região atendida.  
+Enunciado:
+Considerando os critérios essenciais para a seleção de medicamentos, assinale a opção que apresenta uma combinação que melhor reflete os aspectos imprescindíveis para garantir o uso racional em um serviço de saúde.
+
+**Alternativas**
+A)	Eficácia, segurança e opinião dos usuários.
+B)	Eficácia, popularidade e tradição no mercado.
+C)	Qualidade, evidências científicas e análise de custo-benefício.
+D)	Qualidade, disponibilidade imediata e facilidade de distribuição.
+E)	Segurança, impacto cultural e margem de lucro dos fornecedores.
+**Gabarito** C.
+**Feedback**
+Essa combinação reúne critérios técnicos – qualidade e evidências científicas – e o aspecto econômico da análise de custo-benefício, fundamentais para a seleção de medicamentos de forma racional, enquanto as demais opções incluem elementos menos técnicos ou inadequados para a decisão clínica e gerencial.
+
+Curso: Farmácia		Ponto de Interação:	3	Nº da questão:	2
+**Identificação da questão** PPD_FE_09_ seleção_medicamentos_P3_2025-2_Q02
+**Texto-base**
+A integração de políticas públicas e protocolos clínicos na seleção de medicamentos é vital para alinhar as escolhas terapêuticas às necessidades da população e às diretrizes oficiais. Essa articulação exige uma compreensão aprofundada dos contextos local e nacional, permitindo uma seleção que seja pautada em evidências e adaptada à realidade socioeconômica.
+Enunciado:
+Considerando os desafios enfrentados pelo farmacêutico ao integrar políticas públicas à seleção de medicamentos, assinale a opção correta.
+
+**Alternativas**
+A)	A redução da autonomia do farmacêutico em decorrência da padronização das políticas públicas.
+B)	A escolha de medicamentos baseada na relação custo-preço, sem incorporar diretrizes clínicas.
+C)	A necessidade de adaptar a lista terapêutica às diretrizes nacionais, sem considerar as especificidades locais.
+D)	O desafio de conciliar protocolos clínicos rígidos com a variabilidade das demandas regionais e o uso de evidências atualizadas.
+E)	A priorização de medicamentos que atendam apenas às recomendações internacionais, independentemente das condições locais.
+**Gabarito** D
+**Feedback**
+Essa alternativa destaca a complexidade de integrar diretrizes nacionais (protocolos clínicos) às especificidades regionais e a necessidade de utilizar evidências científicas recentes, evidenciando um desafio real na seleção de medicamentos. 
+
+Curso: Farmácia		Ponto de Interação:	3	Nº da questão:	3
+**Identificação da questão** PPD_FE_09_ seleção_medicamentos_P3_2025-2_Q03
+**Texto-base**
+A análise de custo-efetividade é uma ferramenta crítica na seleção de medicamentos, pois não se trata apenas de reduzir custos, mas de avaliar a relação entre o investimento financeiro e os benefícios terapêuticos proporcionados. Esse equilíbrio é relevante para a sustentabilidade dos serviços de saúde e para assegurar que os recursos sejam aplicados de maneira que maximizem os resultados clínicos.
+Enunciado:
+Qual das alternativas apresenta a interpretação mais abrangente do conceito de custo-efetividade na seleção de medicamentos?
+
+**Alternativas**
+A)	Escolher medicamentos com base na facilidade de obtenção e distribuição.
+B)	Focar exclusivamente no preço de aquisição para selecionar medicamentos de menor custo.
+C)	Selecionar medicamentos que, mesmo com custo elevado, apresentem benefícios terapêuticos superiores comprovados.
+D)	Priorizar medicamentos que sejam economicamente vantajosos sem a necessidade de comprovação científica de eficácia.
+E)	Avaliar a relação entre o custo do medicamento e os benefícios terapêuticos, considerando tanto os ganhos clínicos quanto a sustentabilidade do serviço.
+
+**Gabarito** E
+**Feedback**
+Essa alternativa capta a essência da análise de custo-efetividade, que exige um equilíbrio entre os custos e os benefícios terapêuticos, integrando fatores clínicos e econômicos para uma decisão sustentável.
+
+Curso: Farmácia		Ponto de Interação:	3	Nº da questão:	4
+**Identificação da questão** PPD_FE_09_ seleção_medicamentos_P3_2025-2_Q04
+**Texto-base**
+A seleção de medicamentos é um processo que considera critérios de eficácia, segurança, qualidade e custo-efetividade. Além disso, deve contemplar as necessidades epidemiológicas da população e respeitar as diretrizes das políticas de saúde vigentes, a fim de garantir o uso racional dos fármacos e a sustentabilidade do sistema de saúde.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	O perfil epidemiológico deve orientar a seleção de medicamentos.
+II.	A análise de custo-efetividade é irrelevante para a escolha de fármacos.
+III.	A seleção visa também a promoção do uso racional dos medicamentos.
+IV.	Protocolos clínicos e diretrizes terapêuticas ajudam a embasar a seleção.
+V.	A seleção de medicamentos deve ser fundamentada em evidências científicas.
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** D
+**Feedback**
+ 
+•	O perfil epidemiológico local orienta quais doenças são mais prevalentes.
+•	A análise de custo-efetividade é fundamental para otimizar recursos.
+•	A seleção deve fundamentar-se em evidências científicas.
+•	Protocolos clínicos e diretrizes terapêuticas subsidiam a tomada de decisão.
+•	A seleção adequada incentiva o uso racional dos medicamentos.
+
+Curso: Farmácia		Ponto de Interação:	3	Nº da questão:	5
+**Identificação da questão** PPD_FE_09_ seleção_medicamentos_P3_2025-2_Q05
+**Texto-base**
+Durante o processo de seleção de medicamentos, considera-se a relação entre custo e benefício terapêutico. Essa avaliação de custo-efetividade é imprescindível para garantir que os recursos sejam aplicados em fármacos que ofereçam melhores resultados clínicos e maior segurança à população atendida.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	O custo-efetividade auxilia na definição de prioridades de investimento em saúde.
+II.	A análise de custo-efetividade integra-se a outros critérios, como segurança e qualidade.
+III.	A análise de custo-efetividade não deve considerar a eficácia do medicamento.
+IV.	A decisão deve basear-se prioritariamente no preço, independentemente do desfecho clínico.
+V.	Mesmo com preço elevado, um medicamento pode ser selecionado se demonstrar benefícios superiores.
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, II e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback**
+•	A análise de custo-efetividade ajuda a direcionar investimentos. 
+•	A análise de custo-efetividade soma-se a critérios como segurança e qualidade.   
+•	A eficácia do medicamento é um fator central na avaliação. 
+•	O preço não pode ser o único critério de seleção. 
+•	Se há benefícios clínicos superiores, pode justificar um custo mais alto. 
+
+Curso: Farmácia		Ponto de Interação:	3	Nº da questão:	6
+**Identificação da questão** PPD_FE_09_ seleção_medicamentos_P3_2025-2_Q06
+**Texto-base**
+A segurança do paciente é uma das premissas da seleção de medicamentos. Devem ser avaliados com cautela, os fármacos com alto risco de eventos adversos, considerando estudos clínicos e revisões sistemáticas que apontem a relação risco-benefício de cada produto.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	A segurança do medicamento independe da sua forma de administração.
+II.	Eventos adversos graves podem justificar a exclusão de um medicamento da lista. 
+III.	O uso racional dos fármacos está associado à minimização de eventos adversos. 
+IV.	A segurança do paciente deve ser um critério secundário na seleção de medicamentos. 
+V.	Estudos clínicos e revisões sistemáticas fornecem evidências relevantes acerca dos riscos. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	II, III e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback**
+
+•	A segurança também depende da forma de administração (por exemplo, via intravenosa pode ter riscos diferentes de via oral). 
+•	Reduzir eventos adversos é um dos objetivos do uso racional. 
+•	Se o risco for muito elevado, o fármaco pode ser retirado da lista. 
+•	A segurança do paciente é um critério prioritário.
+•	Essas fontes de evidências ajudam a mensurar a relação risco-benefício.
+PONTO DE INTERAÇÃO: 4
+Curso: Farmácia		Ponto de Interação:	4	Nº da questão:	1
+**Identificação da questão** PPD_FE_09_armazenamento_medicamentos_P4_2025-2_Q01 
+**Texto-base**
+O armazenamento de medicamentos requer atenção ao controle de temperatura. Em geral, recomenda-se manter a temperatura ambiente entre 15 °C e 25 °C, enquanto alguns fármacos exigem refrigeração entre 2 °C e 8 °C. Termômetros calibrados e registros periódicos ajudam a garantir a estabilidade dos produtos.
+Enunciado:
+Qual a principal razão para manter um controle rigoroso de temperatura no armazenamento de medicamentos?
+**Alternativas**
+A)	Preservar a eficácia e a estabilidade dos fármacos.
+B)	Evitar a condensação de água no ambiente de estoque.
+C)	Facilitar o manuseio dos medicamentos pelos funcionários.
+D)	Reduzir os custos de energia elétrica no local de armazenamento.
+E)	Aumentar o prazo de validade dos medicamentos sem critérios técnicos.
+**Gabarito** A
+**Feedback**
+O controle de temperatura é fundamental para manter as características originais do medicamento. Se a temperatura não for adequada, o princípio ativo pode degradar-se, prejudicando a eficácia do tratamento.
+
+Curso: Farmácia		Ponto de Interação:	4	Nº da questão:	2
+**Identificação da questão** PPD_FE_09_armazenamento_medicamentos_P4_2025-2_Q02
+**Texto-base**
+A umidade excessiva pode comprometer a integridade física e química dos medicamentos, especialmente daqueles em forma de pó ou comprimidos. Para evitar esse problema, é importante manter a área de armazenamento bem ventilada, utilizando, se necessário, equipamentos que auxiliem no controle da umidade.
+Enunciado:
+Considerando que o controle da umidade é essencial no armazenamento de medicamentos, assinale a opção correta.
+**Alternativas**
+A)	Reduz a necessidade de verificação periódica de estoques.
+B)	Aumenta a umidade relativa do ar, mantendo o ambiente fresco.
+C)	Impede a contaminação dos medicamentos por fungos e a degradação dos comprimidos.
+D)	Evita o desenvolvimento de odores desagradáveis no local de armazenamento.
+E)	Assegura que todos os medicamentos possam ser armazenados sem embalagem secundária.
+**Gabarito** C
+**Feedback**
+A umidade inadequada favorece o crescimento de microrganismos e a degradação dos fármacos, comprometendo a qualidade e a segurança dos produtos.
+
+Curso: Farmácia		Ponto de Interação:	4	Nº da questão:	3
+**Identificação da questão** PPD_FE_09_armazenamento_medicamentos_P4_2025-2_Q03
+**Texto-base**
+A organização do estoque é uma prática indispensável para garantir que os medicamentos sejam facilmente localizados e dispensados. Geralmente, a separação por classe terapêutica ou por ordem alfabética facilita o controle e minimiza erros. Ademais, a adoção do sistema PEPS (Primeiro que Entra, Primeiro que Sai) contribui para evitar que produtos com prazos de validade próximos se acumulem.
+Enunciado:
+Considerando a principal vantagem de adotar uma boa organização no armazenamento de medicamentos, assinale a opção correta.
+**Alternativas**
+A)	Manter os medicamentos em caixas fechadas para evitar extravios.
+B)	Aumentar o espaço livre no almoxarifado, otimizando-o para outros materiais.
+C)	Restringir o acesso aos medicamentos apenas ao farmacêutico responsável.
+D)	Facilitar que os funcionários deixem de registrar as entradas e saídas de produtos.
+E)	Facilitar a localização e a dispensação dos fármacos, além de prevenir perdas por validade expirada.
+**Gabarito** E
+**Feedback**
+Uma boa organização reduz o tempo de busca, minimiza erros e contribui para que os produtos com prazo de validade mais curto sejam utilizados primeiro, evitando desperdícios.
+
+Curso: Farmácia		Ponto de Interação:	4	Nº da questão:	4
+**Identificação da questão** PPD_FE_09_armazenamento_medicamentos_P4_2025-2_Q04
+**Texto-base**
+O controle de temperatura é fundamental no armazenamento de medicamentos, pois muitos fármacos podem perder a eficácia quando expostos a calor excessivo ou temperaturas muito baixas. De modo geral, recomenda-se manter a temperatura entre 15 °C e 25 °C. 
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	Alguns medicamentos precisam ser refrigerados entre 2 °C e 8 °C.
+II.	A temperatura inadequada pode acelerar a degradação dos princípios ativos.
+III.	Não é necessário registrar a temperatura se o ambiente tiver ar-condicionado.
+IV.	O uso de termômetros calibrados e registros diários auxilia no controle efetivo da temperatura.
+V.	A exposição frequente a variações extremas de calor ou frio não afeta a estabilidade dos fármacos.
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e IV, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** B
+**Feedback**
+
+•	Há medicamentos que exigem refrigeração.
+•	A temperatura inadequada pode acelerar a degradação. 
+•	Mesmo com ar-condicionado, o registro é fundamental para confirmar a estabilidade. 
+•	O monitoramento constante garante o controle efetivo. 
+•	Variações extremas de temperatura podem, sim, comprometer a estabilidade.
+
+Curso: Farmácia		Ponto de Interação:	4	Nº da questão:	5
+**Identificação da questão** PPD_FE_09_armazenamento_medicamentos_P4_2025-2_Q05
+**Texto-base**
+A higiene e a limpeza do ambiente de armazenamento são fundamentais para evitar contaminações. O controle de pragas, a remoção de poeira e resíduos, e a manutenção regular das instalações garantem a integridade dos medicamentos, reduzindo riscos de contaminação por microrganismos.
+Enunciado:
+Considerando a importância da limpeza e higiene no local de armazenamento de medicamentos, avalie as afirmações a seguir.
+I.	Poeira e resíduos podem comprometer a qualidade dos produtos. 
+II.	A manutenção adequada do local inclui verificar possíveis infiltrações e goteiras.
+III.	A higienização do ambiente substitui a necessidade de controle de temperatura. 
+IV.	O uso de barreiras físicas ou controle de insetos é desnecessário em estoques de medicamentos. 
+V.	A limpeza periódica previne a proliferação de pragas e microrganismos que podem contaminar os fármacos. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, II e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback**
+
+•	Resíduos podem afetar a integridade dos medicamentos.
+•	Infiltrações podem gerar umidade, prejudicando o estoque.
+•	A higienização não substitui o controle de temperatura; ambas são necessárias.
+•	Barreiras físicas e controle de insetos podem ser indispensáveis. 
+•	A limpeza regular evita pragas e microrganismos. 
+
+
+
+Curso: Farmácia		Ponto de Interação:	4	Nº da questão:	6
+**Identificação da questão** PPD_FE_09_armazenamento_medicamentos_P4_2025-2_Q06
+**Texto-base**
+A revisão periódica dos medicamentos armazenados permite descartar produtos vencidos ou em condições inadequadas. Esse procedimento é indispensável para assegurar que apenas medicamentos seguros e eficazes estejam disponíveis, prevenindo falhas terapêuticas e riscos à saúde dos pacientes.
+Enunciado:
+Considerando o texto apresentado, avalie as afirmações a seguir.
+I.	A realização desse processo não interfere na segurança do paciente.
+II.	A revisão periódica ajuda a identificar medicamentos próximos do vencimento. 
+III.	Produtos vencidos podem ser mantidos se destinados apenas a uso emergencial. 
+IV.	A inspeção visual das embalagens contribui para detectar possíveis danos ou contaminações. 
+V.	A revisão deve incluir a conferência de condições de armazenamento, como temperatura e umidade. 
+**Alternativas**
+É correto o que se afirma em
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	II, IV e V, apenas.
+D)	I, III, IV e V, apenas.
+E)	I, II, III, IV e V.
+**Gabarito** C
+**Feedback**
+
+•	Manter um estoque revisado e seguro é relevante para proteger o paciente. 
+•	O processo de revisão identifica medicamentos com prazo de validade próximo. 
+•	Produtos vencidos devem ser descartados, não há exceção para uso emergencial. 
+•	Embalagens danificadas podem indicar riscos de contaminação. 
+•	A revisão inclui verificação das condições de armazenamento. 
+

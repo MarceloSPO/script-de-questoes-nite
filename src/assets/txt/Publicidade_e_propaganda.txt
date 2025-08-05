@@ -1,0 +1,481 @@
+
+Curso: 		Ponto de Interação:	01	Nº da questão:	01
+**Identificação da questão** PPD_FE_04_ tema_P1_2025-1_Q01
+**Texto-base**:
+A publicidade tem suas origens na Antiguidade, manifestando-se por meio de anúncios em tabuletas de argila na Mesopotâmia e de proclamações públicas na Grécia Antiga. Contudo, foi a partir da Revolução Industrial que essa prática se consolidou como uma atividade profissional, impulsionada pelo advento dos jornais e pelo surgimento das primeiras agências especializadas.
+**Enunciado**
+Com base no texto apresentado sobre a história da publicidade, avalie as afirmações a seguir.
+I.	A publicidade sempre existiu, mas se profissionalizou com o advento da Revolução Industrial.
+II.	Os primeiros anúncios publicitários eram veiculados em jornais e revistas, antes mesmo da Revolução Industrial.
+III.	A Revolução Industrial marcou o início da profissionalização da publicidade, pois antes disso não havia anúncios como os conhecemos hoje.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** A) I, apenas.
+**Feedback** A publicidade já existia na Antiguidade, mas foi com a Revolução Industrial que ela se profissionalizou, com o surgimento de agências e o uso de jornais como veículos de comunicação.
+
+Curso: 		Ponto de Interação:	01	Nº da questão:	02
+**Identificação da questão** PPD_FE_04_ tema_P1_2025-1_Q02
+**Texto-base**:
+No século XX, a publicidade passou por profundas transformações com a introdução de técnicas como o slogan e o branding. Nesse contexto, destaca-se a atuação de David Ogilvy, um dos pioneiros da publicidade moderna, que revolucionou o setor ao adotar uma abordagem criativa centrada no consumidor. Ogilvy defendia que a publicidade deveria respeitar a inteligência do público, rompendo com práticas apelativas e pouco eficazes.
+**Enunciado**
+Com base no texto apresentado acerca das contribuições de David Ogilvy para o campo da publicidade, avalie as afirmativas a seguir.
+I.	Ogilvy defendia que a publicidade deveria respeitar a inteligência do consumidor.
+II.	Ele acreditava que a publicidade não necessitava de estratégias, apenas de criatividade.
+III.	David Ogilvy Introduziu o conceito de branding, valorizando a identidade visual e a construção da imagem das marcas.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** A) I, apenas.
+**Feedback** David Ogilvy defendia que a publicidade deveria respeitar a inteligência do consumidor, mas o conceito de branding foi desenvolvido por outros profissionais. Ele também valorizava a estratégia, não apenas a criatividade.
+
+Curso: 		Ponto de Interação:	01	Nº da questão:	03
+**Identificação da questão** PPD_FE_04_ tema_P1_2025-1_Q03
+**Texto-base**:
+A televisão, introduzida no Brasil na década de 1950, revolucionou a publicidade, permitindo campanhas mais impactantes e emocionais. Um exemplo emblemático dessa nova linguagem publicitária foi a campanha da Coca-Cola nos anos 1970, marcada pelo jingle “É isso que eu quero, é isso que eu quero, Coca-Cola!”.
+**Enunciado**
+Com base nas informações apresentadas sobre as transformações promovidas pela televisão na publicidade, avalie as afirmativas a seguir.
+I.	A televisão possibilitou campanhas mais impactantes ao integrar recursos audiovisuais como imagem e som.
+II.	As campanhas veiculadas na televisão eram menos emocionais do que aquelas transmitidas pelo rádio.
+III.	A televisão foi o primeiro meio de comunicação a utilizar jingles em campanhas publicitárias.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** A) I, apenas.
+**Feedback** A televisão permitiu campanhas mais impactantes e emocionais, com o uso de áudio e vídeo. Os jingles já eram utilizados no rádio antes da TV.
+
+Curso: 		Ponto de Interação:	01	Nº da questão:	04
+**Identificação da questão** PPD_FE_04_ tema_P1_2025-1_Q04
+**Texto-base**:
+No Brasil, a publicidade começou a ganhar força no início do século XX, com a criação de agências como A Eclética, considerada a primeira agência de publicidade do país. Na década de 1950, surgiram nomes como Standard Propaganda e McCann-Erickson, responsáveis por introduzir técnicas modernas de marketing e comunicação no mercado publicitário nacional.
+**Enunciado**
+Com base no texto, avalie as afirmações a seguir.
+I.	A publicidade no Brasil só começou a se desenvolver após a chegada da televisão.
+II.	A Eclética foi a primeira agência de publicidade do Brasil, fundada no início do século XX.
+III.	A Standard Propaganda e a McCann-Erickson surgiram na década de 1950, trazendo técnicas modernas de marketing.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	II e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) II e III, apenas.
+**Feedback** A Eclética foi a primeira agência de publicidade do Brasil, e a Standard Propaganda e a McCann-Erickson surgiram na década de 1950. A publicidade no Brasil já estava em desenvolvimento antes da chegada da televisão.
+
+Curso: 		Ponto de Interação:	01	Nº da questão:	05
+**Identificação da questão** PPD_FE_04_ tema_P1_2025-1_Q05
+**Texto-base**:
+David Ogilvy, fundador da Ogilvy & Mather, revolucionou a publicidade com sua abordagem criativa e centrada no consumidor. Ele é conhecido por campanhas icônicas, como a da marca de cosméticos Dove, e por frases como "The consumer isn’t a moron; she’s your wife".
+**Enunciado**
+Com base no texto sobre as contribuições de David Ogilvy para a publicidade, avalie as afirmativas a seguir.
+I.	David Ogilvy defendia que a publicidade deveria respeitar a inteligência do consumidor.
+II.	Ele desenvolveu campanhas voltadas exclusivamente para produtos de luxo, desconsiderando o público geral.
+III.	Ogilvy acreditava que a publicidade não precisava de criatividade, sendo fundamentada unicamente em dados.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** A) I, apenas.
+**Feedback** David Ogilvy defendia que a publicidade deveria respeitar a inteligência do consumidor e era conhecido por suas campanhas criativas e centradas no público.
+
+Curso: 		Ponto de Interação:	01	Nº da questão:	06
+**Identificação da questão** PPD_FE_04_ tema_P1_2025-1_Q06
+**Texto-base**:
+O Brasil passou a se destacar no cenário publicitário internacional a partir da conquista de prêmios no Festival de Cannes, considerado o mais prestigioso evento do setor. Em 1996, a campanha "Barriga", criada pela agência AlmapBBDO para a marca Bombril, conquistou o Leão de Ouro, representando a primeira grande vitória brasileira no festival.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmações a seguir.
+I.	O Festival de Cannes é o principal evento de publicidade do mundo.
+II.	A AlmapBBDO é uma agência brasileira que se destacou com campanhas premiadas.
+III.	A campanha "Barriga", da Bombril, foi a primeira a ganhar um prêmio internacional para o Brasil.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** O Festival de Cannes é o principal evento de publicidade do mundo, e a AlmapBBDO é uma agência brasileira premiada. No entanto, a campanha "Barriga" foi uma das primeiras grandes conquistas, não a primeira.
+
+Curso: 	04	Ponto de Interação:	02	Nº da questão:	01
+**Identificação da questão** PPD_FE_04_ tema_P2_2025-1_Q01
+**Texto-base**:
+A internet revolucionou a publicidade ao introduzir a segmentação de público, permitindo que as marcas direcionassem anúncios com base em dados como interesses, comportamentos e histórico de navegação. Essa possibilidade aumentou a eficiência das campanhas publicitárias, ao mesmo tempo em que reduziu o desperdício de recursos.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmativas a seguir sobre as vantagens da segmentação de público na publicidade digital.
+I.	Eliminam a necessidade de criatividade nas campanhas publicitárias.
+II.	Permitem o direcionamento de anúncios a grupos específicos de consumidores.
+III.	Reduzem o desperdício de recursos ao concentrar-se em públicos com maior probabilidade de se interessar pelo produto.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** A segmentação de público permite direcionar anúncios e reduzir desperdícios, mas a criatividade continua sendo essencial para o sucesso das campanhas.
+
+Curso: 	04	Ponto de Interação:	02	Nº da questão:	02
+**Identificação da questão** PPD_FE_04_ tema_P2_2025-1_Q02
+**Texto-base**:
+O surgimento dos banners na década de 1990 marcou o início da publicidade digital. Empresas como a DoubleClick foram pioneiras nesse mercado, permitindo que marcas anunciassem em sites de grande tráfego.
+**Enunciado**
+Considerando as informações apresentadas sobre os banners e a publicidade digital, avalie as afirmações a seguir.
+I.	Os banners foram os primeiros formatos de anúncios digitais, popularizados nos anos 1990.
+II.	A DoubleClick foi uma das pioneiras na veiculação de banners em sites de grande tráfego.
+III.	Os banners são considerados obsoletos na publicidade digital atual.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** Os banners foram os primeiros formatos de anúncios digitais, e a DoubleClick foi pioneira nesse mercado. Eles ainda são utilizados na publicidade digital atual, embora em formatos mais modernos e interativos.
+
+Curso: 	04	Ponto de Interação:	02	Nº da questão:	03
+**Identificação da questão** PPD_FE_04_ tema_P2_2025-1_Q03
+**Texto-base**:
+As redes sociais, como Facebook e Instagram, transformaram a publicidade ao permitir que as marcas se conectassem diretamente com os consumidores, criando comunidades engajadas e promovendo interações em tempo real.
+**Enunciado**
+Com base nas informações apresentadas, avalie as afirmações a seguir. 
+I.	As interações em tempo real nas redes sociais aumentaram o engajamento do público.
+II.	As redes sociais permitiram que as marcas se conectassem diretamente com os consumidores.
+III.	As redes sociais substituíram completamente os meios tradicionais de publicidade, como TV e rádio.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** As redes sociais permitiram conexões diretas e interações em tempo real, mas não substituíram completamente os meios tradicionais de publicidade.
+
+Curso: 	04	Ponto de Interação:	02	Nº da questão:	04
+**Identificação da questão** PPD_FE_04_ tema_P2_2025-1_Q04
+**Texto-base**:
+A publicidade programática utiliza algoritmos e inteligência artificial para comprar e veicular anúncios de forma automatizada, otimizando custos e resultados. Plataformas como Google Ads e Facebook Ads são líderes nesse mercado.
+**Enunciado**
+Com base nas informações apresentadas, avalie as afirmativas a seguir acerca das vantagens da publicidade programática.
+I.	Contribui para a redução de custos e o aumento da eficácia das campanhas publicitárias.
+II.	Utiliza algoritmos e inteligência artificial para automatizar a veiculação de anúncios.
+III.	Depende unicamente da intervenção humana para operar.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** A publicidade programática utiliza algoritmos e IA para automatizar a veiculação de anúncios, reduzindo custos e aumentando a eficácia, sem depender exclusivamente de intervenção humana.
+
+Curso: 	04	Ponto de Interação:	02	Nº da questão:	05
+**Identificação da questão** PPD_FE_04_ tema_P2_2025-1_Q05
+**Texto-base**:
+O marketing de afiliados consiste em uma estratégia na qual marcas estabelecem parcerias com afiliados — como sites, blogs ou influenciadores — para promover seus produtos em troca de comissões. No Brasil, a Boobox destacou-se como uma das iniciativas pioneiras nesse modelo.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmações a seguir.
+I.	O marketing de afiliados é uma estratégia obsoleta na era digital.
+II.	A Boobox foi uma das primeiras plataformas de afiliados no Brasil.
+III.	O marketing de afiliados envolve a promoção de produtos por afiliados em troca de comissão.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** O marketing de afiliados envolve a promoção de produtos por meio de parceiros afiliados, sendo que a Boobox foi uma das empresas pioneiras desse modelo no Brasil. Apesar de sua consolidação ao longo dos anos, essa estratégia mantém-se relevante na era digital.
+
+Curso: 	04	Ponto de Interação:	02	Nº da questão:	06
+**Identificação da questão** PPD_FE_04_ tema_P2_2025-1_Q06
+**Texto-base**:
+A cultura de dados na publicidade digital possibilita que as marcas mensurem o impacto de suas campanhas com métricas como o CTR (Click-Through Rate) e os índices de engajamento, ajustando estratégias em tempo real.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmativas a seguir sobre as vantagens da cultura de dados na publicidade digital.
+I.	Elimina a necessidade de criatividade na criação de anúncios.
+II.	Permite mensurar o impacto das campanhas por meio de métricas precisas.
+III.	Facilita o ajuste de estratégias em tempo real, contribuindo para o aumento da eficácia das campanhas.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** A cultura de dados permite medir o impacto das campanhas e ajustar estratégias em tempo real, mas a criatividade continua sendo essencial para o sucesso das campanhas.
+
+Curso: 	04	Ponto de Interação:	03	Nº da questão:	01
+**Identificação da questão** PPD_FE_04_ tema_P3_2025-1_Q01
+**Texto-base**:
+O influencer marketing é uma estratégia que utiliza influenciadores digitais para promover marcas ou produtos de forma autêntica e orgânica. Esses influenciadores, com grande engajamento em redes sociais, ajudam a construir confiança e conexão emocional com o público.
+**Enunciado**
+Com base no texto apresentado, avalie as características do influencer marketing.
+I.	Constitui uma estratégia obsoleta na era digital.
+II.	Utiliza influenciadores digitais para promover marcas de forma autêntica.
+III.	A eficácia dessa estratégia independe da confiança que o público tem no influenciador.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** B) II, apenas.
+**Feedback** O influencer marketing utiliza influenciadores digitais e depende da confiança do público, mas não é uma estratégia obsoleta; pelo contrário, é cada vez mais relevante.
+
+Curso: 	04	Ponto de Interação:	03	Nº da questão:	02
+**Identificação da questão** PPD_FE_04_ tema_P3_2025-1_Q02
+**Texto-base**:
+O user-generated content (UGC) é um formato publicitário em que os próprios consumidores produzem conteúdo, como reviews, fotos e vídeos, geralmente compartilhados nas redes sociais. Essa estratégia contribui para o aumento do engajamento e da credibilidade das marcas.
+**Enunciado**
+Com base nas informações apresentadas, avalie as afirmativas a seguir sobre o user-generated content (UGC).
+I.	Elimina a necessidade de investimento em publicidade por parte das marcas.
+II.	Aumenta o engajamento do público, uma vez que os consumidores se sentem parte integrante da marca.
+III.	Contribui para a credibilidade das campanhas, pois o conteúdo é produzido por consumidores reais.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** O UGC aumenta o engajamento e a credibilidade, mas ainda exige investimento das marcas para incentivar e gerenciar a criação de conteúdo.
+
+Curso: 	04	Ponto de Interação:	03	Nº da questão:	03
+**Identificação da questão** PPD_FE_04_ tema_P3_2025-1_Q03
+**Texto-base**:
+Os vídeos curtos, popularizados por plataformas como TikTok e Instagram Reels, são um dos formatos publicitários mais eficazes na era digital. Eles capturam a atenção do público em poucos segundos e são altamente compartilháveis.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmativas a seguir sobre os vídeos curtos como formato publicitário.
+I.	Têm baixo potencial de viralização nas redes sociais.
+II.	São eficazes, pois capturam rapidamente a atenção do público.
+III.	São utilizados principalmente em plataformas como TikTok e Instagram Reels.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** Os vídeos curtos são utilizados principalmente em plataformas como TikTok e Instagram Reels, são eficazes e possuem alto potencial de viralização.
+
+Curso: 	04	Ponto de Interação:	03	Nº da questão:	04
+**Identificação da questão** PPD_FE_04_ tema_P3_2025-1_Q04
+**Texto-base**:
+O native advertising é um formato publicitário que se integra de forma orgânica ao conteúdo do site ou da plataforma, oferecendo ao usuário uma experiência menos intrusiva. Exemplos desse formato incluem artigos patrocinados e anúncios que se disfarçam de conteúdo editorial.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmativas a seguir sobre o native advertising.
+I.	É sempre identificado de forma clara como publicidade, sem causar confusão.
+II.	Integra-se ao conteúdo do site, tornando a experiência do usuário menos intrusiva.
+III.	Pode incluir formatos como artigos patrocinados e anúncios disfarçados de conteúdo editorial.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** O native advertising integra-se ao conteúdo e pode incluir artigos patrocinados. No entanto, nem sempre é claramente identificado como publicidade, o que pode gerar confusão.
+
+Curso: 	04	Ponto de Interação:	03	Nº da questão:	05
+**Identificação da questão** PPD_FE_04_ tema_P3_2025-1_Q05
+**Texto-base**:
+As experiências imersivas, como a realidade aumentada (RA) e a realidade virtual (RV), estão ganhando popularidade na publicidade. Essas tecnologias possibilitam que os consumidores interajam com as marcas de maneira inovadora, promovendo a criação de conexões emocionais profundas.
+**Enunciado**
+Com base no texto, avalie as características das experiências imersivas na publicidade.
+I.	Criam conexões emocionais profundas com o público.
+II.	São formatos caros e inacessíveis para a maioria das marcas.
+III.	Não permitem interações inovadoras entre marcas e consumidores.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** A) I, apenas.
+**Feedback** As experiências imersivas permitem interações inovadoras e favorecem conexões emocionais. Esses recursos nem sempre são caros ou inacessíveis, variando conforme a escala e a tecnologia utilizada.
+
+Curso: 	04	Ponto de Interação:	03	Nº da questão:	06
+**Identificação da questão** PPD_FE_04_ tema_P3_2025-1_Q06
+**Texto-base**:
+O podcast tem ganhado relevância crescente no âmbito da publicidade digital. As marcas podem tanto patrocinar programas existentes quanto desenvolver conteúdos próprios, aproveitando o elevado nível de engajamento e a fidelização característica do público consumidor desse tipo de mídia.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmativas a seguir sobre o podcast como formato publicitário.
+I.	Aproveita o engajamento e a fidelidade do público consumidor.
+II.	Permite que marcas patrocinem programas ou criem conteúdos próprios.
+III.	É um formato obsoleto, com baixo potencial de crescimento na publicidade digital.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** O podcast permite patrocínios e criação de conteúdos próprios, além de aproveitar o engajamento do público. No entanto, é um formato em crescimento, não obsoleto.
+
+Curso: 	04	Ponto de Interação:	04	Nº da questão:	01
+**Identificação da questão** PPD_FE_04_ tema_P4_2025-1_Q01
+**Texto-base**:
+A inteligência artificial (IA) está transformando a publicidade, permitindo a automação de campanhas, a análise de dados em tempo real e a criação de anúncios personalizados. Essas tecnologias ampliam a capacidade de inovação e a eficiência das marcas.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmativas a seguir sobre a inteligência artificial.
+I.	Permite a automação de campanhas e a análise de dados em tempo real.
+II.	Cria anúncios personalizados, aumentando a relevância para o consumidor.
+III.	Substitui completamente a necessidade de criatividade humana na publicidade.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** A IA permite automação e personalização, mas não substitui a criatividade humana, que continua sendo essencial para o sucesso das campanhas.
+
+Curso: 	04	Ponto de Interação:	04	Nº da questão:	02
+**Identificação da questão** PPD_FE_04_ tema_P4_2025-1_Q02
+**Texto-base**:
+A realidade aumentada (RA) e a realidade virtual (RV) estão se consolidando como ferramentas poderosas na publicidade, proporcionando experiências imersivas que aproximam os consumidores das marcas. Exemplos incluem a visualização de produtos em ambientes reais e a interação com jogos interativos.
+**Enunciado**
+Com base no texto apresentado, avalie as vantagens da realidade aumentada e virtual na publicidade.
+I.	São tecnologias caras e inacessíveis para a maioria das marcas.
+II.	Permitem experiências imersivas que engajam o público de forma inovadora.
+III.	Podem ser usadas para visualizar produtos em ambientes reais antes da compra.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** D) II e III, apenas.
+**Feedback** A RA e RV permitem experiências imersivas e a visualização de produtos, mas nem sempre são caras ou inacessíveis, variando conforme a escala de uso.
+
+Curso: 	04	Ponto de Interação:	04	Nº da questão:	03
+**Identificação da questão** PPD_FE_04_ tema_P4_2025-1_Q03
+**Texto-base**:
+A publicidade hiperpersonalizada baseia-se em dados comportamentais e demográficos para entregar mensagens altamente segmentadas. Embora essa estratégia amplifique a relevância e a eficácia das campanhas, também suscita importantes debates acerca da privacidade e da ética no uso de dados pessoais.
+**Enunciado**
+Com base no texto apresentado, avalie as afirmativas a seguir sobre as características da publicidade hiperpersonalizada.
+I.	Utiliza dados para criar mensagens altamente segmentadas e relevantes.
+II.	Aumenta a eficácia das campanhas, mas pode gerar preocupações com a privacidade.
+III.	Elimina a necessidade de segmentação de público, pois todos recebem o mesmo conteúdo.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** A publicidade hiperpersonalizada utiliza dados para aprimorar a segmentação do público, elevando a eficácia das campanhas. No entanto, essa abordagem não substitui a segmentação tradicional; ao contrário, depende diretamente dela para identificar e direcionar com precisão as mensagens aos diferentes perfis de consumidores.
+
+Curso: 	04	Ponto de Interação:	04	Nº da questão:	04
+**Identificação da questão** PPD_FE_04_ tema_P4_2025-1_Q04
+**Texto-base**:
+A sustentabilidade e a responsabilidade corporativa estão se tornando fatores-chave para o sucesso das marcas no futuro. Consumidores esperam que as empresas não apenas vendam produtos, mas também contribuam para causas sociais e ambientais.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir. 
+I.	Espera-se que as marcas atuem de forma ativa em causas sociais e ambientais.
+II.	A transparência e a responsabilidade corporativa tornaram-se critérios prioritários na relação entre marcas e consumidores.
+III.	Os consumidores não valorizam apenas o preço e a qualidade dos produtos; eles também exigem práticas sustentáveis por parte das empresas.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e III, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** Resposta: E) I, II e III.
+**Feedback** Os consumidores esperam que as marcas contribuam para causas sociais e ambientais e valorizam a transparência e a responsabilidade corporativa.
+
+Curso: 	04	Ponto de Interação:	04	Nº da questão:	05
+**Identificação da questão** PPD_FE_04_ tema_P4_2025-1_Q05
+**Texto-base**:
+A cocriação de conteúdo com o público configura-se como uma tendência em expansão no campo da publicidade. Cada vez mais, as marcas vêm envolvendo os consumidores no processo de desenvolvimento de campanhas, o que contribui para o aumento do engajamento e para o fortalecimento da identificação.
+**Enunciado**
+Com base no texto e nas vantagens da cocriação de conteúdo, avalie as afirmações a seguir.
+I.	A cocriação de conteúdo eleva o engajamento do público, que se sente integrado ao processo criativo.
+II.	Esse processo contribui para uma maior identificação do consumidor com a marca, estreitando a relação entre ambos.
+III.	A cocriação reduz a necessidade de investimentos significativos em publicidade, uma vez que o conteúdo é criado de forma gratuita.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** A cocriação aumenta o engajamento e a identificação, mas ainda exige investimento das marcas para gerenciar e incentivar a participação do público.
+
+Curso: 	04	Ponto de Interação:	04	Nº da questão:	06
+**Identificação da questão** PPD_FE_04_ tema_P4_2025-1_Q06
+**Texto-base**:
+A privacidade de dados configura-se como uma preocupação central para o futuro da publicidade, especialmente com a implementação de regulamentações, como a Lei Geral de Proteção de Dados (LGPD) no Brasil. Nesse contexto, as marcas devem assegurar a transparência e obter o consentimento expresso dos consumidores no uso de suas informações pessoais.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A LGPD exige que as marcas garantam transparência no uso de dados pessoais, assegurando que os consumidores estejam cientes de como suas informações serão utilizadas.
+II.	O uso de dados sem o devido consentimento pode gerar desconfiança por parte dos consumidores e resultar em penalidades legais.
+III.	A privacidade de dados é uma questão irrelevante para o futuro da publicidade.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	I e II, apenas.
+D)	II e III, apenas.
+E)	I, II e III.
+**Gabarito** C) I e II, apenas.
+**Feedback** A LGPD exige transparência, uma vez que o uso inadequado de dados pode gerar desconfiança. Além disso, a privacidade de dados é uma questão crítica, e não irrelevante.
+

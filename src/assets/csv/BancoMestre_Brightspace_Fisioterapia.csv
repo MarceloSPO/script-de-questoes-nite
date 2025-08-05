@@ -1,0 +1,441 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q01,,,
+Title,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q01,,,
+QuestionText,"A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) foi desenvolvida pela Organização Mundial da Saúde (OMS) para substituir a Classificação Internacional de Deficiências, Incapacidades e Desvantagens (CIDID). 
+A CIF representa uma mudança significativa na forma como a deficiência e a incapacidade são abordadas, pois considera as atividades que um indivíduo pode desempenhar e sua participação social, não focando apenas nas limitações. Além disso, é um instrumento importante para a avaliação das condições de vida e para a promoção de políticas de inclusão social, sendo utilizada por diversos profissionais em diferentes setores da saúde.
+FARIAS, Norma e BUCHALLA, Cassia Maria. A Classificação Internacional de Funcionalidade, Incapacidade e Saúde da Organização Mundial da Saúde: conceitos, usos e perspectivas. Revista Brasileira de Epidemiologia, v. 8, n. jul. 2005, p. 187-193, 2005. Tradução. Disponível em: https://doi.org/10.1590/s1415-790x2005000200011. Acesso em: 12 jun. 2025. (Adaptado)
+
+Considerando as informações apresentadas, assinale a opção que indica o principal objetivo da CIF.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Diagnosticar doenças com precisão.,,
+Option,0,Fornecer um modelo baseado na anatomia e fisiologia das doenças.,,
+Option,0,Facilitar a formação de bases de dados nacionais de doenças consistentes.,,
+Option,0,Monitorar as diferentes causas de morbidade e mortalidade em indivíduos e populações.,,
+Option,100,Avaliar a funcionalidade e a incapacidade das pessoas em diferentes contextos, promovendo uma abordagem abrangente.,,
+Feedback,"O principal objetivo da CIF é avaliar a funcionalidade e a incapacidade das pessoas em diferentes contextos, promovendo uma abordagem abrangente.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q02,,,
+Title,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q02,,,
+QuestionText,"A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) descreve a funcionalidade e a incapacidade relacionadas às condições de saúde, identificando o que uma pessoa pode ou não fazer em sua vida diária. Essa classificação é composta por vários componentes, que fornecem uma visão abrangente da saúde e da funcionalidade das pessoas. A CIF é utilizada para entender como as condições de saúde afetam a vida diária das pessoas e promover uma abordagem mais inclusiva e holística na área da saúde.
+
+Considerando as informações apresentadas, assinale a opção que indica os principais componentes da CIF.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Doença, Deficiência e Desvantagem.,,
+Option,100,Funções do Corpo, Atividade e Participação.,,
+Option,0,Diagnóstico Etiológico, Tratamento e Prognóstico.,,
+Option,0,Fatores Ambientais, Funções do Corpo e Estruturas do Corpo.,,
+Option,0,Estruturas do Corpo, Condição da Saúde e Restrições à Participação Social.,,
+Feedback,"Funções do Corpo, Atividade e Participação são os principais componentes da CIF.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q03,,,
+Title,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q03,,,
+QuestionText,"A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) é utilizada em diversos setores da saúde e equipes multidisciplinares, sendo incorporada por um número crescente de profissionais. Ela facilita a comunicação entre profissionais de saúde, pesquisadores, gestores e usuários, promovendo uma melhor compreensão e colaboração. Além disso, a CIF permite uma avaliação mais abrangente das condições de saúde e funcionalidade, contribuindo para a formulação de políticas de inclusão social e a melhoria das práticas clínicas.
+
+FARIAS, Norma e BUCHALLA, Cassia Maria. A Classificação Internacional de Funcionalidade, Incapacidade e Saúde da Organização Mundial da Saúde: conceitos, usos e perspectivas. Revista Brasileira de Epidemiologia, v. 8, n. jul. 2005, p. 187-193, 2005. Tradução. Disponível em: https://doi.org/10.1590/s1415-790x2005000200011. Acesso em: 12 jun. 2025. (Adaptado)
+
+considerando as informações apresentadas, assinale a opção que indica uma das vantagens da adoção do modelo CIF.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Diagnóstico etiológico preciso.,,
+Option,0,Aumento da precisão nos exames laboratoriais.,,
+Option,0,Monitoramento das causas de morbidade e mortalidade.,,
+Option,0,Redução das complicações secundárias à doença base.,,
+Option,100,Uniformização de conceitos e utilização de uma linguagem padrão.,,
+Feedback,"Uma das vantagens da adoção do modelo CIF é a uniformização de conceitos e utilização de uma linguagem padrão.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q04,,,
+Title,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q04,,,
+QuestionText,"A Organização Mundial da Saúde (OMS) afirma que “saúde é um estado de completo bem-estar físico, mental e social e não a mera ausência de doença ou enfermidade”. Essa formulação evidencia a natureza holística da saúde, que extrapola a simples inexistência de patologias e incorpora dimensões subjetivas e intersubjetivas do bem-estar humano. 
+Dessa forma, a saúde deve ser compreendida como uma condição multifacetada que emerge da interação entre fatores biológicos, psicológicos e sociais, os quais conformam a experiência individual e coletiva do sujeito no mundo.
+
+Com base na definição de saúde preconizada pela OMS, assinale a opção que indica a complexidade desse conceito.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Saúde configura-se como a aptidão do indivíduo para manter homeostase fisiológica e equilíbrio metabólico, desde que preservados os parâmetros biomédicos convencionais.,,
+Option,0,Saúde consiste na ausência de qualquer manifestação sintomatológica que indique disfunções orgânicas, garantindo a plena funcionalidade do organismo.,,
+Option,0,Saúde pode ser definida como a capacidade do indivíduo de desempenhar suas funções cotidianas sem experimentar limitações físicas ou emocionais significativas.,,
+Option,0,Saúde corresponde à inexistência de qualquer forma de sofrimento psíquico ou emocional, assegurando o equilíbrio psicológico do indivíduo.,,
+Option,100,Saúde é um constructo complexo que se manifesta no estado de absoluto bem-estar físico, psíquico e social, independentemente da coexistência de condições patológicas.,,
+Feedback,"A- Limita-se à estabilidade fisiológica. 
+B- Foca apenas na ausência de sintomas clínicos. 
+C- Reduz a saúde à funcionalidade do indivíduo.
+D- Condiciona-a à ausência total de sofrimento psíquico, desconsiderando que a saúde, segundo a OMS, é um estado amplo de bem-estar que envolve múltiplas dimensões.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q05,,,
+Title,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q05,,,
+QuestionText,"A Organização Mundial da Saúde (OMS) afirma que “saúde é um estado de completo bem-estar físico, mental e social e não a mera ausência de doença ou enfermidade”. Essa concepção enfatiza que a promoção da saúde vai além da atuação médica, abrangendo diversas profissões que desempenham papéis fundamentais na prevenção, reabilitação e promoção do bem-estar integral dos indivíduos. 
+Profissionais como enfermeiros, fisioterapeutas, nutricionistas, psicólogos, terapeutas ocupacionais, assistentes sociais, entre outros, desempenham funções essenciais na manutenção e recuperação da saúde, muitas vezes atuando na interseção entre fatores biológicos, sociais e psicológicos.
+
+Considerando a definição de saúde, assinale a opção que enfatiza a importância da atuação multiprofissional na saúde.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O trabalho dos profissionais da saúde não médicos é secundário, pois sua atuação complementa os tratamentos clínicos prescritos.,,
+Option,0,O conceito de saúde da OMS ressalta a primazia da medicina curativa, reforçando o papel de outros profissionais da saúde na execução de atividades de suporte.,,
+Option,0,Os profissionais da saúde, exceto os médicos, têm sua importância restrita a atividades assistenciais e não participam diretamente da promoção do bem-estar do indivíduo.,,
+Option,0,Os profissionais de saúde das áreas assistenciais atuam apenas em contextos específicos, como reabilitação e assistência, sem influência direta na garantia do conceito de saúde da OMS.,,
+Option,100,A saúde, ao ser compreendida pela OMS como um estado que transcende a ausência de doenças, pressupõe uma abordagem interdisciplinar, na qual diversos profissionais exercem um papel autônomo e essencial na definição de condutas e estratégias para a promoção do bem-estar integral.,,
+Feedback,"A alternativa A minimiza a atuação multiprofissional, enquanto as opções B, C e D reduzem suas contribuições a papéis secundários ou assistenciais, desconsiderando sua relevância na promoção da saúde como um direito social amplo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q06,,,
+Title,PPD_FE_9_FamíliadeclassificaçõesdaOrganizaçãoMundialdaSaúde._P1_2025-1_Q06,,,
+QuestionText,"A Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID), desenvolvida pela Organização Mundial da Saúde (OMS), é um sistema internacionalmente aceito para catalogar e padronizar diagnósticos médicos e condições de saúde. Essa padronização visa garantir a comunicação eficiente entre profissionais de saúde, pesquisadores e gestores, além de permitir a elaboração de políticas públicas eficazes e a alocação adequada de recursos.
+
+Considerando o conceito de saúde estabelecido pela OMS e a função da Classificação Internacional de Doenças (CID) na atuação dos profissionais da saúde não médicos, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A Classificação Internacional de Doenças (CID) é um sistema técnico exclusivo para médicos, sem aplicabilidade nas decisões e condutas terapêuticas de outros profissionais da saúde.,,
+Option,0,A CID é um sistema que limita a noção de saúde à ausência de doença, desconsiderando os aspectos psíquicos e sociais do bem-estar humano, sendo, portanto, de pouco valor para profissionais da saúde não médicos.,,
+Option,0,A CID, enquanto classificação internacional, tem por finalidade exclusiva a definição de diagnósticos médicos, sendo irrelevante para o trabalho de profissionais da saúde não médicos, que devem seguir estritamente as determinações clínicas.,,
+Option,100,A CID transcende a mera classificação de doenças, constituindo-se como um instrumento essencial à formulação de políticas públicas de saúde e à atuação dos profissionais da saúde não médicos, que a utilizam como referência para a planificação e condução de intervenções em suas respectivas áreas de expertise, de modo autônomo e em consonância com o conceito de saúde integral proposto pela OMS.,,
+Option,0,A despeito de sua relevância para a categorização nosológica das doenças, a CID proscreve a aplicabilidade direta nas práticas dos profissionais da saúde não médicos, uma vez que sua principal utilidade reside na normatização dos diagnósticos médicos.,,
+Feedback,"A)	A CID não é de uso exclusivo dos médicos, sendo amplamente utilizada por outros profissionais de saúde na formulação de estratégias de cuidado.
+B)	Incorreta, ao sugerir que a CID se restringe ao aspecto biológico da saúde, ignorando sua abrangência nos âmbitos mental e social, conforme descrito pela OMS.
+C)	A CID não apenas categoriza doenças, mas também problemas de saúde de diversas naturezas, sendo uma ferramenta útil para a prática interdisciplinar e a tomada de decisão de diferentes profissionais da saúde.
+D)	Desconsidera a aplicação da CID na prática dos profissionais da saúde não médicos, ignorando sua função como ferramenta essencial na estruturação de planos de cuidado, reabilitação e intervenções terapêuticas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q01,,,
+Title,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q01,,,
+QuestionText,"A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) define a funcionalidade como aspecto positivo do componente incapacidade e funcionalidade, fundamental para compreender de que forma as condições de saúde afetam a vida diária das pessoas, além de promover uma abordagem mais inclusiva e holística na área da saúde.
+
+Considerando as informações apresentadas, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Funcionalidade é a ausência de qualquer tipo de desconforto ou dor.,,
+Option,0,Funcionalidade é a ausência de sintomas físicos de qualquer doença.,,
+Option,0,Funcionalidade é a capacidade de manter um peso corporal ideal e uma dieta equilibrada.,,
+Option,100,Funcionalidade é a capacidade de realizar atividades físicas intensas sem sentir cansaço.,,
+Option,0,Funcionalidade é a capacidade de realizar atividades diárias e participar socialmente, considerando as funções e estruturas do corpo.,,
+Feedback,"A- A funcionalidade abrange mais do que apenas a capacidade física, incluindo também atividades e participação social.
+B- A definição de funcionalidade vai além da ausência de desconforto ou dor, abrangendo o que uma pessoa pode fazer em seu ambiente cotidiano.
+C- Embora manter um peso corporal ideal e uma dieta equilibrada sejam importantes para a saúde, a funcionalidade inclui a capacidade de exercer atividades e a participação social.
+E- A definição de funcionalidade inclui o bem-estar físico, mental e social, não apenas a ausência de sintomas físicos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q02,,,
+Title,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q02,,,
+QuestionText,"A saúde de um indivíduo pode ser compreendida como a interação entre a Condição da Saúde, a integridade das Estruturas do Corpo e das Funções do Corpo e como ele desempenha diferentes Atividades e a sua Participação no Ambiente em que está inserido.
+
+Um paciente de 45 anos apresenta diagnóstico de diabetes mellitus tipo 2, hipertensão arterial e osteoartrite no joelho. Além das condições de saúde, enfrenta dificuldades para realizar atividades diárias, como caminhar e subir escadas, e possui limitações na participação social, uma vez que não pode jogar futebol devido à dor crônica. 
+O ambiente em que vive também influencia sua funcionalidade, pois reside em uma área com poucas opções de transporte público e acessibilidade limitada, sendo necessário percorrer longas distâncias a pé para chegar ao trabalho. 
+Considerando as informações apresentadas, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,As condições de saúde do paciente, como diabetes mellitus tipo 2 e hipertensão arterial, podem ser classificadas pela CIF.,,
+Option,0,As dificuldades do paciente para realizar atividades diárias e sua limitação na participação social podem ser classificadas pela CID-11.,,
+Option,100,As funções do corpo, estruturas do corpo, atividades e participação, bem como fatores ambientais do paciente, podem ser classificadas pela CIF.,,
+Option,0,Os fatores pessoais do paciente, como sua idade e histórico familiar, podem ser classificados pela CID-11.,,
+Option,0,As condições de saúde e fatores pessoais do paciente podem ser classificados pela CIF.,,
+Feedback,"A)	As condições de saúde, como diabetes mellitus tipo 2 e hipertensão arterial, são classificadas pela CID-11, e não pela CIF.
+B)	As dificuldades para realizar atividades diárias e a limitação na participação social são classificadas pela CIF, não pela CID-11.
+C)	Fatores pessoais, como idade e histórico familiar, não estão incluídos na CID-11.
+D)	Fatores pessoais não estão incluídos na CIF.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q03,,,
+Title,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q03,,,
+QuestionText,"Na Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF), os qualificadores fornecem uma medida detalhada da funcionalidade e incapacidade, permitindo uma avaliação mais precisa e abrangente das condições de saúde dos indivíduos.
+
+Considerando a Classificação Internacional de Funcionalidade, Incapacidade e Saúde, é correto afirmar que os qualificadores",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,servem para diagnosticar doenças específicas.,,
+Option,0,medem apenas as funções do corpo, excluindo atividades e participação.,,
+Option,100,fornecem a extensão dos problemas, abrangendo funções do corpo, estruturas do corpo, atividades e participação, além de fatores ambientais.,,
+Option,0,servem para medir a gravidade da condição de saúde.,,
+Option,0,servem para determinar a expectativa de vida dos indivíduos.,,
+Feedback,"A- Os qualificadores não são utilizados para diagnosticar doenças específicas; eles medem a extensão ou a gravidade de problemas relacionados à saúde.
+B- Os qualificadores medem funções do corpo, estruturas do corpo, atividades e participação, bem como fatores ambientais.
+D- A magnitude da condição de saúde não é medida e a condição de saúde é classificada pela CID-11.
+E- Determinar a expectativa de vida não é um dos objetivos da CIF.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q04,,,
+Title,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q04,,,
+QuestionText,"Uma paciente de 60 anos foi diagnosticada com osteoartrite grave nos joelhos, o que tem impactado extremamente suas articulações dos joelhos. Relata dor intensa ao caminhar, subir escadas e realizar outras atividades diárias que exigem movimento das pernas. Menciona que vive em um apartamento localizado no segundo andar sem elevador, o que agrava suas dificuldades de locomoção. Cita ainda que a falta de transporte público acessível em sua região limita sua participação em atividades sociais.
+
+Considerando os qualificadores da CIF, assinale a opção que melhor classifica as limitações enfrentadas pela paciente.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,As funções dos joelhos da paciente são classificadas como moderadas (qualificador 2), e suas dificuldades de mobilidade como leves (qualificador 1).,,
+Option,0,As estruturas dos joelhos da paciente são classificadas como leves (qualificador 1), e suas dificuldades de mobilidade como moderadas (qualificador 2).,,
+Option,0,As funções dos joelhos da paciente são classificadas como leves (qualificador 1), e suas dificuldades de mobilidade como graves (qualificador 3).,,
+Option,0,Os fatores ambientais da paciente são classificados como graves (qualificador 3), e suas dificuldades de mobilidade como moderadas (qualificador 2).,,
+Option,100,As funções e estruturas do joelho e as atividades relacionadas à mobilidade são classificadas como graves (qualificador 3), assim como os fatores ambientais que atuam como barreiras para a paciente.,,
+Feedback,"A- Tanto as funções dos joelhos quanto as dificuldades de mobilidade da paciente são classificadas como graves (qualificador 3).
+B- As estruturas dos joelhos da paciente são classificadas como graves (qualificador 3), e suas dificuldades de mobilidade também.
+C- As funções dos joelhos da paciente são classificadas como graves (qualificador 3) e suas dificuldades de mobilidade também.
+D- Os fatores ambientais da paciente são classificados como moderados (qualificador 2), e suas dificuldades de mobilidade como graves (qualificador 3).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q05,,,
+Title,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q05,,,
+QuestionText,"Um homem de 45 anos, sofreu um acidente de carro que resultou em uma lesão medular. Atualmente, apresenta paraplegia, ou seja, as funções motoras e sensoriais dos membros inferiores. Relata grande dificuldade em realizar atividades diárias, como se vestir, tomar banho e se transferir da cama para a cadeira de rodas. Embora resida em uma casa adaptada para cadeirantes, enfrenta barreiras ambientais ao sair, como calçadas irregulares e ausência de rampas de acesso em locais públicos. Afirma, ainda, que a falta de apoio social tem impactado gravemente de forma negativa sua participação em atividades comunitárias.
+
+Considerando os qualificadores da CIF, assinale a opção que melhor classifica as limitações enfrentadas por João.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,As funções do corpo, estruturas do corpo, atividades e participação, e fatores ambientais desse indivíduo são classificados como graves (qualificador 3).,,
+Option,0,As funções motoras desse indivíduo são classificadas como leves (qualificador 1), e suas dificuldades em atividades diárias como graves (qualificador 3).,,
+Option,0,As funções motoras desse indivíduo são classificadas como moderadas (qualificador 2), e suas dificuldades em atividades diárias como leves (qualificador 1).,,
+Option,0,As estruturas do sistema nervoso (medula) desse indivíduo são classificadas como leves (qualificador 1), e suas dificuldades em atividades diárias como moderadas (qualificador 2).,,
+Option,100,Os fatores ambientais enfrentados por esse indivíduo são classificados como graves (qualificador 3), e suas dificuldades em atividades diárias como moderadas (qualificador 2).,,
+Feedback,"A- As funções motoras desse indivíduo são classificadas como graves (qualificador 3), e suas dificuldades em atividades diárias também. A paraplegia resulta em uma perda completa de função motora nas pernas, e suas dificuldades em atividades diárias são severas.
+B- As funções motoras desse indivíduo são classificadas como graves (qualificador 3), e suas dificuldades em atividades diárias também (qualificador 3). A paraplegia implica uma perda total de função motora, não moderada.
+C- As estruturas do sistema nervoso (medula) desse indivíduo são classificadas como graves (qualificador 3), uma vez que houve uma lesão na estrutura local e suas dificuldades em atividades diárias também são classificadas como graves (qualificador 3). A lesão medular afeta gravemente as estruturas das pernas e suas atividades diárias.
+D- Os fatores ambientais desse indivíduo são classificados como moderados (qualificador 2), e suas dificuldades em atividades diárias como graves (qualificador 3). João enfrenta barreiras ambientais significativas, mas não são tão severas quanto suas dificuldades em atividades diárias.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q06,,,
+Title,PPD_FE_9_Aclassificaçãointernacionaldefuncionalidade,incapacidadeesaúdedaSaúde._P2_2025-1_Q06,,,
+QuestionText,"A CIF é composta por uma estrutura de códigos alfanuméricos, organizados conforme o domínio a que pertencem. Cada código é formado por: Código da CIF= Prefixo + Código Numérico + Qualificador.
+
+Considerando as informações apresentadas, é correto afirmar que o código d7 20.2",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,pertence ao domínio de Funções do Corpo, relacionado às funções de mobilidade óssea.,,
+Option,100,indica que o avaliado possui limitação moderada em interações sociais complexas.,,
+Option,0,é parte do capítulo 6 do domínio de Atividade e Participação.,,
+Option,0,indica deficiência moderada nas estruturas da região do ombro.,,
+Option,0,é o código de 1º nível hierárquico na CIF.,,
+Feedback,"A- A letra “d” do código indica que pertence ao domínio de atividade e participação. 
+C- O primeiro número que acompanha a letra, no prefixo do código, indica que pertence ao capítulo 7 do domínio de Atividade e Participação. 
+D- O qualificador indica problema moderado, porém o código pertence ao domínio de Atividade e Participação. Sendo assim, aponta uma limitação moderada nas interações sociais complexas.
+E- O código, de acordo com a CIF, pertence ao segundo nível hierárquico de classificação.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q02,,,
+Title,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q02,,,
+QuestionText,"Ao utilizar a estrutura da CIF para classificar o estado de saúde de um paciente, temos os seguintes códigos:
+•	Condição de saúde (pela CID): G35 
+•	Estruturas do corpo (CIF): s1100.3 – Deficiência grave na estrutura do sistema nervoso central
+•	Funções do corpo (CIF): b760.3 – Deficiência grave nas funções do movimento
+•	Atividade e participação (CIF): d450.3 – Limitação grave em andar longas distâncias e d920.3 – Limitação grave em participar de atividades recreativas
+
+Considerando a estrutura da CIF para classificar esse estado, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Um homem de 45 anos, diagnosticado com esclerose múltipla, grave, relata dificuldades em manter o equilíbrio e a coordenação, o que compromete sua capacidade de caminhar e realizar atividades diárias, como caminhar no parque. Devido a essas limitações, deixou de participar de atividades recreativas que envolvem movimento físico.,,
+Option,0,Uma mulher de 70 anos, diagnosticada com esclerose múltipla, relata dor intensa e rigidez nas articulações, especialmente nas mãos e joelhos, o que dificulta a realização de atividades diárias, como se vestir e cozinhar. Por esse motivo, deixou de participar de atividades sociais e recreativas que frequentava.,,
+Option,0,Um homem de 55 anos, diagnosticado com esclerose múltipla grave, relata falta de ar e cansaço extremo ao realizar atividades simples, como caminhar curtas distâncias dentro de casa. Em razão disso, interrompeu sua participação em atividades sociais e recreativas.,,
+Option,0,Uma mulher de 60 anos, diagnosticada com esclerose múltipla, relata tremores intensos e rigidez muscular, o que dificulta atividades como se alimentar e caminhar curtas distâncias. Devido a isso, interrompeu suas atividades sociais e recreativas que frequentava.,,
+Option,0,Um homem de 65 anos, diagnosticado com esclerose múltipla, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar curtas distâncias dentro de casa. Devido a isso, deixou de participar de atividades sociais e recreativas que frequentava.,,
+Feedback,"B- Os códigos da CIF relacionados à estrutura do sistema nervoso central não se aplicam às queixas da paciente.
+C- Para esse caso, faltam códigos que se aplicam à queixa respiratória do paciente. 
+D- Para esse caso clínico, faltam códigos de atividade e participação relacionados às atividades relativas à alimentação própria.
+E- Para esse caso clínico, faltam códigos que expressem os sintomas respiratórios do paciente.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q03,,,
+Title,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q03,,,
+QuestionText,"Uma mulher de 50 anos foi diagnosticada com fibromialgia grave. Relata dor generalizada e fadiga extrema, o que dificulta a realização de atividades diárias como se vestir e caminhar curtas distâncias. Devido a isso, deixou de participar de atividades sociais e recreativas que frequentava.
+
+Considerando a estrutura da CIF para classificar esse estado de saúde, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Condição de saúde (pela CID): MG30 – Fibromialgia; Estruturas do corpo (CIF): s7500.3 – Deficiência grave na estrutura dos músculos; Funções do corpo (CIF): b280.3 – Deficiência grave na sensação de dor; Atividade e participação (CIF): d500.3 – Limitação grave em andar distâncias curtas e d920.8 – Restrição não especificada na recreação e lazer.,,
+Option,0,Condição de saúde (pela CID): MG30 – Fibromialgia; Estruturas do corpo (CIF): s7500.3 – Deficiência grave na estrutura dos músculos; Funções do corpo (CIF): b280.3 – Deficiência grave na sensação de dor; Atividade e participação (CIF): d450.3 – Limitação moderada em andar longas distâncias e d920.8 – Restrição não especificada na recreação e lazer.,,
+Option,0,Condição de saúde (pela CID): MG30 – Fibromialgia; Estruturas do corpo (CIF): s7500.3 – Deficiência grave na estrutura dos músculos; Funções do corpo (CIF): b280.3 – Deficiência grave na sensação de dor; Atividade e participação (CIF): d500.3 – Limitação grave em andar distâncias curtas e d920.8 – Restrição não especificada na recreação e lazer.,,
+Option,0,Condição de saúde (pela CID): MG30 – Fibromialgia; Estruturas do corpo (CIF): s7500.3 – Deficiência grave na estrutura dos músculos; Funções do corpo (CIF): b710.3 – Deficiência grave nas funções da mobilidade articular; Atividade e participação (CIF): d500.3 – Limitação grave em andar distâncias curtas e d920.8 – Restrição não especificada na recreação e lazer.,,
+Option,0,Condição de saúde (pela CID): MG30 – Fibromialgia; Estruturas do corpo (CIF): s7500.3 – Deficiência grave na estrutura dos músculos; Funções do corpo (CIF): b280.3 – Limitação grave na sensação de dor; Atividade e participação (CIF): d450.3 – Limitação grave em andar longas distâncias e d920.8 – Deficiência na recreação e lazer.,,
+Feedback,"B- A limitação apontada pelo código d500.3 é grave.
+C- Aspectos negativos do domínio de função do corpo são descritos como “deficiência” e os negativos da participação social como “restrição”. Desse modo, a descrição dos códigos de função do corpo e atividade e participação estão incorretos.
+D- A alteração na atividade de andar do indivíduo não decorre de deficiências na função de mobilidade articular. Assim, o código “b710.3 – Deficiência grave nas funções da mobilidade articular” não representa o estado de saúde atual da paciente.
+E- Aspectos negativos do domínio de função do corpo são descritos como “deficiência” e os negativos da participação social como “restrição”.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q04,,,
+Title,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q04,,,
+QuestionText,"A insuficiência cardíaca congestiva é uma condição crônica em que o coração não consegue bombear sangue de maneira eficiente, resultando em sintomas como cansaço extremo, falta de ar e inchaço nas pernas. Pacientes com insuficiência cardíaca congestiva grave frequentemente enfrentam limitações significativas em suas atividades diárias e participação social, devido à severidade dos sintomas. 
+A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) é uma ferramenta útil para descrever e avaliar o impacto dessa condição na vida dos pacientes, considerando aspectos como funções do corpo, estruturas do corpo, atividades e participação, e fatores ambientais.
+
+Ao utilizar a estrutura da CIF para classificar o estado de saúde de um paciente, temos os seguintes códigos:
+•	Condição de saúde (pela CID-11): I50 – Insuficiência cardíaca
+•	Estruturas do corpo (CIF): s4100.3 – Deficiência grave na estrutura do coração
+•	Funções do corpo (CIF): b410.3 – Deficiência grave nas funções do coração
+•	Atividade e participação (CIF): d850.3 – Limitação grave em trabalho remunerado, d640.3 – Limitação grave em realizar tarefas domésticas e d920.8 – Restrição não especificada na recreação e lazer
+Considerando a estrutura da CIF para classificar esse estado de saúde, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Uma mulher de 70 anos, diagnosticada com insuficiência cardíaca congestiva grave, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar longas distâncias. Devido a isso, interrompeu as atividades sociais e recreativas que frequentava. Menciona também dor intensa no peito ao realizar esforços físicos.,,
+Option,0,Um homem de 60 anos, diagnosticado com insuficiência cardíaca congestiva grave, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar longas distâncias. Devido a isso, interrompeu as atividades sociais e recreativas que frequentava, como ir ao lago com a família. Menciona também dificuldades em manter o equilíbrio ao caminhar.,,
+Option,0,Uma mulher de 65 anos, diagnosticada com insuficiência cardíaca congestiva grave, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar longas distâncias. Devido a isso, interrompeu as atividades sociais e recreativas que frequentava, como ir ao shopping. Menciona também que a falta de transporte público acessível limita sua participação em atividades sociais.,,
+Option,0,Um homem de 75 anos, diagnosticado com insuficiência cardíaca congestiva grave, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar longas distâncias. Devido a isso, interrompeu as atividades sociais e recreativas que frequentava, como fazer um passeio no parque com os netos. Menciona também que a falta de apoio social tem impactado negativamente sua participação em atividades comunitárias.,,
+Option,100,Uma mulher de 45 anos, diagnosticada com insuficiência cardíaca congestiva grave, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar longas distâncias. Devido a isso, interrompeu as atividades sociais e recreativas que frequentava, como jogar vôlei no parque. Menciona ainda que a falta de acessibilidade em seu ambiente de trabalho limita sua participação profissional e que tem dificuldades em realizar tarefas domésticas.,,
+Feedback,"A- A descrição menciona dor intensa no peito, que não está refletida nos códigos apresentados.
+B- A descrição inclui dificuldades em manter o equilíbrio, que não está refletida nos códigos apresentados.
+C- A descrição menciona a falta de transporte público acessível, que não está refletida nos códigos apresentados.
+D- A descrição menciona a falta de apoio social, que não está refletida nos códigos apresentados.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q05,,,
+Title,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q05,,,
+QuestionText,"A osteoartrite é uma condição degenerativa que compromete as articulações, causando dor, rigidez e perda de função. Pacientes com osteoartrite severa frequentemente enfrentam limitações significativas em suas atividades diárias e participação social, devido à severidade dos sintomas.
+
+Ao utilizar a estrutura da CIF para classificar o estado de saúde de um paciente, temos os seguintes códigos:
+•	Condição de saúde (pela CID-11): M16 – Osteoartrite do quadril
+•	Estruturas do corpo (CIF): s7500.3 – Deficiência grave na estrutura dos músculos
+•	Funções do corpo (CIF): b710.3 – Deficiência grave nas funções da mobilidade articular
+•	Atividade e participação (CIF): d450.3 – Limitação grave em andar longas distâncias, d640.3 – Limitação grave em realizar tarefas domésticas e d850.3 – Limitação grave em trabalho remunerado
+Considerando a estrutura da CIF para classificar esse estado de saúde, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Uma mulher de 65 anos, diagnosticada com osteoartrite severa do quadril, relata dor intensa e rigidez nas articulações, especialmente no quadril, o que dificulta a realização de atividades diárias, como caminhar longas distâncias. Devido a essas limitações, deixou de realizar tarefas domésticas e precisou abandonar seu trabalho remunerado. Menciona ainda que a falta de apoio social tem impactado negativamente sua participação em atividades comunitárias, como frequentar aulas de dança e grupos de caminhada.,,
+Option,0,Um homem de 70 anos, diagnosticado com osteoartrite severa do quadril, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar curtas distâncias dentro de casa. Por esse motivo, deixou de participar de atividades sociais e recreativas que frequentava, como jogar xadrez no parque e participar de um clube de leitura. Menciona também dificuldades em manter o equilíbrio ao caminhar.,,
+Option,0,Uma mulher de 60 anos, diagnosticada com osteoartrite severa do quadril., relata dor intensa e rigidez nas articulações, especialmente nas mãos e joelhos, o que dificulta a realização de atividades diárias como se vestir e cozinhar. Em razão disso, interrompeu as atividades sociais e recreativas que frequentava, como fazer jardinagem e participar de um grupo de tricô.,,
+Option,0,Um homem de 55 anos, diagnosticado com osteoartrite severa do quadril, relata tremores intensos e rigidez muscular, o que dificulta a realização de atividades diárias, como se alimentar e caminhar curtas distâncias. Devido a isso, interrompeu as atividades sociais e recreativas que frequentava, como nadar e jogar boliche.,,
+Option,0,Uma mulher de 75 anos, diagnosticada com osteoartrite severa do quadril, relata cansaço extremo e falta de ar ao realizar atividades simples, como caminhar longas distâncias. Em razão disso, deixou de participar de atividades sociais e recreativas que frequentava, como fazer caminhadas no parque e participar de um grupo de leitura. Menciona ainda que a falta de transporte público acessível limita sua participação em atividades sociais.,,
+Feedback,"B- A descrição menciona cansaço extremo e falta de ar, que não estão refletidos nos códigos fornecidos.
+C- A descrição menciona dor intensa e rigidez nas articulações das mãos e joelhos, que não estão refletidos nos códigos fornecidos.
+D- A descrição menciona tremores intensos e rigidez muscular, que não correspondem aos códigos apresentados. 
+E- A menção à falta de transporte público acessível não está refletida nos códigos apresentados.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q06,,,
+Title,PPD_FE_9_IncapacidadeeFuncionalidade._P3_2025-1_Q06,,,
+QuestionText,"A asma é uma condição crônica que afeta as vias respiratórias, causando episódios de falta de ar, chiado, tosse e aperto no peito. Pacientes com asma severa frequentemente enfrentam limitações significativas em suas atividades diárias e participação social devido às crises recorrentes. Muitos também podem apresentar crises de ansiedade em razão de suas limitações físicas.
+
+Ao utilizar a estrutura da CIF para classificar o estado de saúde de um paciente, temos os seguintes códigos:
+•	Condição de saúde (pela CID-11): CA23 – Asma
+•	Estruturas do corpo (CIF): s430.3 – Deficiência grave na estrutura dos pulmões
+•	Funções do corpo (CIF): b440.3 – Deficiência grave nas funções respiratórias
+•	Atividade e participação (CIF): d450.3 – Limitação grave em andar longas distâncias, d640.3 – Limitação grave em realizar tarefas domésticas e d850.3 – Limitação grave em trabalho remunerado
+Considerando as informações apresentadas, assinale a opção que se refere à mudança que poderia melhorar significativamente a qualidade de vida do paciente.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Encaminhamento para exercícios físicos focados apenas em exercícios de alta intensidade.,,
+Option,0,Melhoria na acessibilidade ao trabalho por meio da construção de longas vias para pedestres.,,
+Option,0,Adaptação do ambiente de trabalho, visando à redução de interrupções nas atividades laborais.,,
+Option,0,Nesse caso, apoio psicológico não seria uma medida para auxiliar na melhoria da qualidade de saúde de um indivíduo.,,
+Option,100,Implementação de programas de reabilitação física focados em exercícios de fortalecimento muscular e capacidade respiratória.,,
+Feedback,"A- Exercícios de alta intensidade podem ser prejudiciais a pacientes com asma severa, pois tendem agravar os sintomas respiratórios.
+B- Melhorar a acessibilidade de locais é importante, mas nesse caso, o indivíduo possui limitação de caminhada de longas distâncias, o que torna a medida uma barreira para ele.
+C- Sem pausas frequentes, o paciente pode continuar enfrentando dificuldades devido à fadiga e aos sintomas respiratórios.
+D- Estratégias para lidar com a ansiedade na psicologia podem auxiliar, uma vez que a condição é comum em pacientes com asma severa.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q02,,,
+Title,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q02,,,
+QuestionText,"Os fatores ambientais interagem com os componentes das Funções e Estruturas do Corpo, bem como de Atividades e Participação. A incapacidade é caracterizada como o resultado de uma relação complexa entre o estado ou condição de saúde do indivíduo e fatores pessoais com os fatores externos que representam as circunstâncias nas quais o indivíduo vive. Assim, diferentes ambientes podem ter um impacto distinto sobre o mesmo indivíduo com uma determinada condição de saúde. Um ambiente com barreiras, ou sem facilitadores, vai restringir o desempenho do indivíduo; outros ambientes mais facilitadores podem melhorar esse desempenho. A sociedade pode limitar o desempenho de um indivíduo criando barreiras (ex.: prédios inacessíveis) ou não fornecendo facilitadores (ex.: indisponibilidade de dispositivos de auxílio).
+CENTRO COLABORADOR DA OMS PARA A CLASSIFICAÇÃO DE DOENÇAS EM PORTUGUÊS. Classificação Internacional de Funcionalidade, Incapacidade e Saúde: CIF. Edusp, 2008.
+
+Um indivíduo com asma grave reside em uma área urbana com alta poluição do ar. Dentro de casa, utiliza um purificador de ar, que contribui para a redução dos sintomas. No entanto, ao caminhar na rua, a poluição do ar agrava sua condição, dificultando sua respiração. 
+
+Considerando as informações apresentadas, assinale a opção que indica os códigos da CIF referentes à poluição do ar como uma barreira grave e os produtos e tecnologia de assistência que facilitam a respiração dentro de casa.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,e2501.3 e e1151+3.,,
+Option,0,e210.3 e e1151+3.,,
+Option,0,e225.3 e e1201+3.,,
+Option,100,e225.3 e e1151+3.,,
+Option,0,e210.3 e e1201+3.,,
+Feedback,"A)	O código e2501 refere-se à qualidade do som como uma barreira.
+B)	O código e210 refere-se à geografia física como uma barreira.
+C)	O código e1201 não está correto para indicar produtos e tecnologia de assistência.
+D)	O código e1201 refere-se à produtos e tecnologia de assistência para mobilidade e transporte pessoal em ambientes internos ou externos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q03,,,
+Title,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q03,,,
+QuestionText,"Como parte do componente de Fatores Contextuais da CIF, os Fatores Ambientais podem influenciar o desempenho de um indivíduo.
+
+Carlos, 45 anos, vive em uma área urbana densamente povoada. Ele apresenta asma grave e perda auditiva moderada. Além disso, enfrenta várias barreiras ambientais que impactam seu desempenho e qualidade de vida.
+1.	Reside em uma região com muitas colinas e ruas irregulares, o que dificulta sua mobilidade, especialmente em dias de cansaço ou crise asmática.
+2.	A poluição do ar é elevada devido ao tráfego intenso e à proximidade de indústrias, exigindo o uso de máscaras e restrição de atividades ao ar livre.
+3.	O ambiente barulhento dificulta a comunicação e aumenta o estresse, agravando os efeitos da perda auditiva e aumentando o estresse.
+Para mitigar essas barreiras, Carlos utiliza estratégias e tecnologias assistivas: um purificador de ar em casa, que alivia os sintomas da asma, e aparelhos auditivos, que facilitam a comunicação em ambientes ruidosos. Esses recursos contribuem significativamente para sua qualidade de vida.
+
+Considerando as informações apresentadas, assinale a opção correta quanto aos códigos CIF correspondentes às barreiras enfrentadas por Carlos.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,e210.3: Qualidade do som; e225.3: Geografia física; e2501.3: Poluição do ar.,,
+Option,100,e210.3: Geografia física; e225.3: Poluição do ar; e2501.3: Qualidade do som.,,
+Option,0,e210.3: Poluição do ar; e225.3: Qualidade do som; e2501.3: Geografia física.,,
+Option,0,e210.3: Geografia física como uma barreira; e225.3: Qualidade do som; e2501.3: Poluição do ar.,,
+Option,0,e210.3: Qualidade do som; e225.3: Poluição do ar; e2501.3: Geografia física.,,
+Feedback,"As descrições dos códigos nas alternativas “A”, “C”, “D” e “E” estão incorretas. A descrição correta é:
+•	e210.3 – Refere-se corretamente à geografia física como uma barreira (colinas e pisos irregulares).
+•	e225.3 – Corresponde à poluição do ar como barreira (tráfego e indústrias).
+•	e2501.3 – Relaciona-se à qualidade do som como barreira (ambiente barulhento dificultando a comunicação).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q04,,,
+Title,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q04,,,
+QuestionText,"Os fatores pessoais são o histórico particular da vida e do estilo de vida de um indivíduo e englobam as características do indivíduo que não são parte de uma condição de saúde ou de estados de saúde [...] todas ou algumas das quais podem desempenhar um papel na incapacidade em qualquer nível. Os fatores pessoais não são classificados na CIF. No entanto, eles são incluídos para mostrar sua contribuição, que pode ter um impacto sobre o resultado de várias intervenções.
+CENTRO COLABORADOR DA OMS PARA A CLASSIFICAÇÃO DE DOENÇAS EM PORTUGUÊS. Classificação Internacional de Funcionalidade, Incapacidade e Saúde: CIF. Edusp, 2008.
+
+Considerando as informações apresentadas, assinale a opção que representa um fator pessoal.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Nível de instrução.,,
+Option,0,Diagnóstico médico.,,
+Option,0,Ambiente de trabalho.,,
+Option,0,Qualidade do ar.,,
+Option,0,Acessibilidade de transporte público.,,
+Feedback,"B- O diagnóstico médico relaciona-se diretamente à condição de saúde (CID).
+C- O ambiente de trabalho é um fator ambiental (CIF).
+D- A qualidade do ar é um fator ambiental (CIF).
+E- A acessibilidade de transporte público é um fator ambiental (CIF).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q05,,,
+Title,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q05,,,
+QuestionText,"A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma condição crônica que causa obstrução das vias aéreas, resultando em dificuldade para respirar, tosse crônica e produção de muco. 
+A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) é uma ferramenta útil para descrever e avaliar o impacto dessa condição na vida dos pacientes, considerando diferentes domínios, como funções do corpo, estruturas do corpo, atividades e participação, além de fatores ambientais.
+
+Ao utilizar a estrutura da CIF para classificar o estado de saúde de um paciente, temos os seguintes códigos:
+Condição de saúde (pela CID-11): CA22 – Doença Pulmonar Obstrutiva Crônica
+Estruturas do corpo (CIF): s4300.3 – Deficiência grave na estrutura dos pulmões
+Funções do corpo (CIF): b440.3 – Deficiência grave nas funções respiratórias
+Atividade e participação (CIF): d230.3 – Limitação grave em realizar tarefas domésticas, d850.3 – Limitação grave em trabalho remunerado, d920.8 – Restrição não especificada na recreação e lazer
+Fatores ambientais (CIF): e150.3 – Barreira grave devido à falta de produtos e tecnologia para mobilidade pessoal, e310.3 – Barreira grave devido à falta de apoio da família, e1201+3 – Facilitador significativo devido ao transporte público acessível, e1151+3 – Facilitador significativo devido a produtos e tecnologia de assistência para uso pessoal na vida diária.
+
+Considerando as informações apresentadas, assinale a opção que corresponde às classificações da CIF para um paciente diagnosticado com DPOC grave.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Uma mulher de 65 anos, diagnosticada com DPOC grave, relata dificuldade para respirar e tosse crônica, o que dificulta a realização de tarefas domésticas. Menciona ainda que a falta de transporte público acessível limita sua participação em atividades sociais, apesar de contar com produtos de tecnologia de assistência para uso pessoal na vida diária.,,
+Option,0,Um homem de 70 anos, diagnosticado com DPOC grave, relata dificuldade para respirar e tosse crônica, o que dificulta a realização de tarefas domésticas. Menciona ainda que a falta de apoio social tem impactado negativamente sua participação em atividades comunitárias, embora se beneficie do transporte público acessível.,,
+Option,0,Uma mulher de 75 anos, diagnosticada com DPOC grave, relata dificuldade para respirar e tosse crônica, o que dificulta a realização de tarefas domésticas. Menciona ainda que a falta de acessibilidade em seu ambiente de trabalho limita sua participação profissional, embora se beneficie de produtos de tecnologia de assistência para uso pessoal na vida diária.,,
+Option,0,Um homem de 80 anos, diagnosticado com DPOC grave, relata dificuldade para respirar e tosse crônica, o que dificulta a realização de tarefas domésticas. Menciona ainda que a falta de apoio da família e a ausência de produtos de tecnologia para mobilidade pessoal agravam sua condição, embora não se beneficie do transporte público acessível.,,
+Option,100,Um homem de 60 anos, diagnosticado com DPOC grave, relata dificuldade para respirar e tosse crônica, o que dificulta a realização de tarefas domésticas. Menciona ainda que a falta de apoio da família e a ausência de produtos de tecnologia para mobilidade pessoal agravam sua condição. No entanto, ele se beneficia significativamente do transporte público acessível e de produtos de tecnologia de assistência para uso pessoal na vida diária.,,
+Feedback,"A- A descrição menciona a falta de transporte público acessível como uma barreira, enquanto o código e1201+3 indica que ele é um facilitador.
+B- A descrição menciona a falta de apoio social, um fator que não está refletido nos códigos apresentados.
+C- A descrição menciona a falta de acessibilidade no ambiente de trabalho, que não está refletida nos códigos apresentados.
+D- A descrição menciona a ausência de transporte público acessível como uma barreira, enquanto o código e1201+3 revela que ele é um facilitador.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q06,,,
+Title,PPD_FE_9_Fatorescontextuais._P4_2025-1_Q06,,,
+QuestionText,"A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma condição crônica que causa obstrução das vias aéreas, resultando em dificuldade para respirar, tosse crônica e produção de muco. 
+A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) é uma ferramenta útil para descrever e avaliar o impacto dessa condição na vida dos pacientes, considerando aspectos como funções do corpo, estruturas do corpo, atividades e participação, e fatores ambientais.
+
+Ao utilizar a estrutura da CIF para classificar o estado de saúde de um paciente, temos os seguintes códigos:
+•	Condição de saúde (pela CID-11): CA22 – Doença Pulmonar Obstrutiva Crônica
+•	Estruturas do corpo (CIF): s4300.3 – Deficiência grave na estrutura dos pulmões
+•	Funções do corpo (CIF): b440.3 – Deficiência grave nas funções respiratórias
+•	Atividade e participação (CIF): d230.3 – Limitação grave em realizar tarefas domésticas, d850.3 – Limitação grave em trabalho remunerado, d920.8 – Restrição não especificada na recreação e lazer
+Fatores ambientais (CIF): e150.3 – Barreira grave devido à falta de produtos e tecnologia para mobilidade pessoal, e310.3 – Barreira grave devido à falta de apoio da família, e1201+3 – Facilitador significativo devido ao transporte público acessível, e1151+3 – Facilitador significativo devido a produtos e tecnologia de assistência para uso pessoal na vida diária.
+
+ Considerando as informações apresentadas, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,A CIF não pode ser utilizada como ferramenta de pesquisa para aferir a qualidade de vida ou os fatores ambientais, uma vez que sua aplicação é restrita a avaliações clínicas e diagnósticos médicos específicos.,,
+Option,0,Um dos objetivos da CIF é viabilizar a comparação de dados entre diferentes nações, disciplinas de saúde, serviços e ao longo do tempo, permitindo uma análise abrangente e detalhada das condições de saúde em diversos contextos.,,
+Option,0,A CIF integra a "família" das classificações internacionais e proporciona um sistema para codificar uma vasta gama de informações sobre saúde, incluindo funcionalidade e incapacidade, facilitando a comunicação entre profissionais de saúde de diferentes áreas e países.,,
+Option,0,A CIF, sendo uma classificação abrangente da saúde e dos aspectos correlatos à saúde, pode ser empregada por seguradoras, previdência social, para o desenvolvimento de legislações e para a modificação ambiental, contribuindo para a formulação de políticas públicas e privadas mais inclusivas e eficazes.,,
+Option,0,A CIF é utilizada exclusivamente para avaliar condições físicas, não abrangendo aspectos de saúde mental ou fatores sociais, o que limita sua aplicabilidade em contextos que requerem uma abordagem holística da saúde do indivíduo.,,
+Feedback,"A- A CIF pode ser utilizada como ferramenta de pesquisa para aferir a qualidade de vida e os fatores ambientais, além de avaliações clínicas e diagnósticos médicos.
+B- Um dos objetivos da CIF é permitir a comparação de dados entre diferentes nações, disciplinas de saúde, serviços e ao longo do tempo.
+C- A CIF faz parte da "família" das classificações internacionais e oferece um sistema para codificar uma ampla gama de informações sobre saúde, incluindo funcionalidade e incapacidade.
+D- A CIF pode ser utilizada por seguradoras, previdência social, para o desenvolvimento de legislações e para a modificação ambiental.
+E- A CIF não é utilizada exclusivamente para avaliar condições físicas; ela também abrange aspectos de saúde mental e fatores sociais.",,,
+

@@ -1,0 +1,468 @@
+
+Curso:	LM	Ponto de Interação:	01	Nº da questão:  	01
+**Identificação da questão** PPD_FE_11_Matemática_Probabilidade_Inteligência_artificial_P1_2025-1_Q01
+**Texto-base**
+
+Texto 1 
+
+ 
+Fonte: Blog do AFTM, 2025.
+
+Texto 2
+
+A Inteligência Artificial (IA) tem a capacidade de nos apresentar um leque muito mais amplo de opções do que aquelas que normalmente buscaríamos, seja em filmes, músicas ou alimentação. Ela pode, por exemplo, sugerir produções com atores que se assemelham a você ou a pessoas cujas fotos você costuma curtir nas redes sociais. Para tanto, basta que se conceda acesso a esses dados. No entanto, será realmente vantajoso restringirmo-nos apenas ao que já nos é familiar?
+**Enunciado**
+A matemática está na base dos algoritmos utilizados pela Inteligência Artificial (IA). Algoritmos de recomendação, como os usados por plataformas de streaming, analisam padrões para sugerir conteúdo. Para isso, a IA utiliza
+
+**Alternativas**
+
+A)	apenas dados históricos previamente armazenados, sem realizar novas análises.
+B)	regras lógicas fixas definidas previamente, sem necessidade de ajuste automático.
+C)	métodos probabilísticos, ajustando suas previsões com base em grandes volumes de dados.
+D)	algoritmos desenvolvidos exclusivamente para IA, sem influência de modelos matemáticos clássicos.
+E)	algoritmos desenvolvidos e aqueles que a IA aprimora, que já compreendem todas as percepções e sentimentos humanos.
+**Gabarito** C
+**Feedback**
+A inteligência artificial não se restringe a regras fixas ou a dados históricos. Seus métodos são probabilísticos e seus modelos são capazes de incorporar novos dados e gerar novas análises, mas são incapazes de reproduzir sentimentos ou percepções humanas.
+
+
+Curso:	LM	Ponto de Interação:	01	Nº da questão:  	02
+**Identificação da questão**  PPD_FE_11_Matemática_Probabilidade_Inteligência_artificial_P1_2025-1_Q02
+
+**Texto-base**
+Considere um teste para detecção de um vírus com as seguintes características:
+●	Sensibilidade = probabilidade de o teste dar positivo se a pessoa realmente tem o vírus = 90% (ou seja, 1 – taxa de falso positivo).
+●	Especificidade = probabilidade de o teste dar negativo se a pessoa não tem o vírus = 95% (ou seja, 1 – taxa de falso negativo). Portanto, nos outros 5% o teste poderá dar positivo, mesmo a pessoa não tendo o vírus.
+●	Taxa de Prevalência = percentual da população que tem o vírus = 2%.
+**Enunciado**
+Ao interpretar um resultado que tenha dado positivo, é corretor afirmar que se deve levar em conta, para saber a chance de ser um falso positivo
+**Alternativas**
+A)	apenas a sensibilidade.
+B)	principalmente a especificidade.
+C)	a quantidade de testes realizados.
+D)	o produto entre especificidade e sensibilidade.
+E)	todos os dados conhecidos, especialmente a taxa de prevalência.
+**Gabarito** E
+**Feedback**
+A inteligência artificial não se restringe a regras fixas ou a dados históricos. Seus métodos são probabilísticos e seus modelos são capazes de incorporar novos dados e gerar novas análises, mas são incapazes de reproduzir sentimentos ou percepções humanas.
+
+Curso:	LM	Ponto de Interação:	01	Nº da questão:  	03
+**Identificação da questão**  PPD_FE_11_Matemática_Probabilidade_Inteligência_artificial_P1_2025-1_Q03
+
+**Texto-base**
+
+Texto 1
+
+ 
+
+Fonte: NSC Total, 2022.
+
+**Enunciado**
+A Inteligência Artificial, ao analisar comportamentos e padrões em plataformas de redes sociais, pode ser utilizada para influenciar decisões dos usuários. Considerando um dos riscos associados a essa prática, assinale a opção correta.
+**Alternativas**
+A)	Redução da capacidade de armazenamento dos dispositivos móveis.
+B)	Diminuição da precisão dos algoritmos em função da alta quantidade de dados.
+C)	Maior transparência nas decisões tomadas por algoritmos, já que o uso de IA é totalmente regulado.
+D)	Maior igualdade econômica, pois as pessoas poderão encontrar e comprar mais coisas pelas quais se interessem.
+E)	Manipulação de opiniões por meio da disseminação de informações direcionadas com base em padrões comportamentais.
+**Gabarito** E
+**Feedback**
+Um dos principais riscos que surgem com o direcionamento personalizado de informações é a disponibilização de muitas informações tendenciosas, sem que as pessoas tenham contato com outros pontos de vista. Com isso, as decisões sobre o direcionamento das informações podem manipular fortemente a opinião de muitos grupos.
+
+
+Curso:	LM	Ponto de Interação:	01	Nº da questão:	04
+**Identificação da questão**  PPD_FE_11_Matemática_Probabilidade_Inteligência_artificial_P1_2025-1_Q04
+
+**Texto-base**
+O Teorema de Bayes é um conceito matemático fundamental que permite calcular a probabilidade de um evento com base em informações anteriores. Na Inteligência Artificial, esse teorema é amplamente utilizado para ajustar algoritmos de aprendizado de máquina e aumentar a precisão de previsões e classificações. Em sistemas de recomendação de plataformas de streaming, por exemplo, é aplicado para estimar a probabilidade de um usuário gostar de determinado conteúdo, considerando seu comportamento anterior e as preferências de outros usuários com padrões similares.
+**Enunciado**
+Se um algoritmo de IA utiliza o Teorema de Bayes para recomendar um filme com 85% de chance de sucesso, considerando que o usuário já assistiu a outros filmes do mesmo gênero, qual das afirmações a seguir é matematicamente correta?
+**Alternativas**
+
+A)	O Teorema de Bayes é uma ferramenta estatística sem impacto direto na eficácia de algoritmos de IA.
+B)	A aplicação do Teorema de Bayes em IA é limitada a situações em que os eventos analisados são independentes entre si.
+C)	O Teorema de Bayes permite que o algoritmo de IA ajuste continuamente suas previsões com base em novos dados observados.
+D)	A aplicação do Teorema de Bayes em IA não depende dos dados previamente observados, apenas da frequência com que o evento ocorre.
+E)	O Teorema de Bayes calcula a probabilidade condicional de um evento ocorrer com base na suposição de que todos os eventos anteriores têm a mesma probabilidade.
+**Gabarito** C
+**Feedback**
+O Teorema de Bayes permite ajustar probabilidades com base no conhecimento disponível. Como a IA tem acesso a novas informações, ela pode aprimorar o cálculo de probabilidade e tornar mais precisas suas previsões.
+
+
+Curso:	LM	Ponto de Interação:	01	Nº da questão: 	05
+**Identificação da questão**  PPD_FE_11_Matemática_Probabilidade_Inteligência_artificial_P1_2025-1_Q05
+
+**Texto-base**
+A Inteligência Artificial utiliza a matemática para realizar previsões a partir de grandes volumes de dados. Em muitos casos, os algoritmos de IA fundamentam-se em probabilidade condicional, ou seja, a probabilidade de um evento ocorrer depende da ocorrência de outro evento relacionado. O Teorema de Bayes é um dos principais métodos para calcular essas probabilidades.
+**Enunciado**
+Considerando que a Inteligência Artificial se baseia em dados gerados a partir de situações anteriores, assinale a opção que representa um risco ético para IA.
+**Alternativas**
+A)	A reprodução de preconceitos sociais, em razão dos vieses dos dados.
+B)	O monopólio de um único software capaz de processar grandes volumes de dados.
+C)	O fortalecimento das fontes sustentáveis, devido à alta demanda de energia dos processadores.
+D)	A IA não pode aprender coisas novas e, por isso, a humanidade também pode perder a capacidade de aprender.
+E)	A possibilidades de culturas minoritárias tornarem-se referência para a IA e, consequentemente, assumirem predominância global.
+**Gabarito** A
+**Feedback**
+Os dados refletem uma parte da realidade social em que estão presentes muitos preconceitos e desigualdades históricas. Por isso, quando a IA se baseia nesses dados, é um grande desafio distinguir o que representa uma probabilidade intrínseca e o que reflete preconceito. Assim, o risco é que a IA reproduza, em uma escala muito maior, os preconceitos sociais.
+
+Curso:	LM	Ponto de Interação:	01	Nº da questão:	06
+**Identificação da questão**  PPD_FE_11_Matemática_Probabilidade_Inteligência_artificial_P1_2025-1_Q06
+ 
+**Texto-base**
+Os algoritmos de Inteligência Artificial utilizados em plataformas de recomendação, como Spotify e Netflix, baseiam-se em conceitos matemáticos avançados, como álgebra linear, estatística e teoria das probabilidades. Ao sugerir uma nova música ou filme, o sistema de IA considera diversos fatores, tais como o histórico de preferências do usuário, as escolhas de usuários com perfis semelhantes e a popularidade geral do conteúdo. Para realizar essas previsões, o sistema precisa calcular a probabilidade de o usuário aceitar a sugestão com base em dados previamente coletados.
+**Enunciado**
+Matematicamente, essa operação envolve a aplicação de qual dos seguintes conceitos?
+**Alternativas**
+A)	Cálculo diferencial, para determinar o valor exato da recomendação.
+B)	Progressão aritmética, para determinar a sequência de conteúdos a serem recomendados.
+C)	Teoria dos conjuntos, para agrupar os usuários em classes de comportamento.
+D)	Teorema de Bayes, para ajustar a probabilidade de sucesso com base nos dados observados.
+E)	Álgebra booleana, para filtrar os conteúdos incompatíveis com as preferências do usuário.
+**Gabarito** D
+**Feedback**
+O Teorema de Bayes é o conceito que permite gerar probabilidades e aprimorar esse cálculo considerando as informações disponíveis sobre ele. Os demais itens, embora aplicáveis à Inteligência Artificial, não focam no cálculo de probabilidades.
+
+
+Curso:	LM	Ponto de Interação:	02	Nº da questão:	01
+**Identificação da questão** 
+PPD_FE_11_ Pensamento_Computacional_P2_2025-1_Q01
+
+**Texto-base**
+O Pensamento Computacional (PC) é reconhecido na Base Nacional Comum Curricular (BNCC) como uma competência essencial para o desenvolvimento de habilidades de resolução de problemas e tomada de decisão. Ele envolve processos como decomposição, reconhecimento de padrões, abstração e construção de algoritmos.
+No ensino da matemática, desafios lógicos são uma ferramenta eficaz para estimular o PC, pois exigem que os estudantes analisem informações, estabeleçam conexões e desenvolvam estratégias para encontrar soluções.
+**Enunciado**
+Considerando o papel do Pensamento Computacional na educação matemática, assinale a opção correta.
+**Alternativas**
+A)	 A construção de algoritmos é uma prática isolada da matemática, estando restrita ao campo da computação.
+B)	O reconhecimento de padrões é um processo essencial para o Pensamento Computacional, mas não tem relevância na matemática.
+C)	O Pensamento Computacional é uma competência que pode ser desenvolvida apenas por meio de práticas de programação.
+D)	O Pensamento Computacional está diretamente associado à capacidade de resolver operações matemáticas simples de maneira mecânica e automática.
+E)	A resolução de desafios lógicos no ensino da matemática estimula o Pensamento Computacional, pois desenvolve a habilidade de reconhecer padrões e criar estratégias de solução.
+**Gabarito** E
+**Feedback**
+O Pensamento Computacional é uma competência relacionada ao desenvolvimento de soluções para problemas de diversos níveis de complexidade, envolvendo a capacidade de identificar padrões e construir estratégias, não se restringindo a uma área específica do conhecimento.
+
+Curso:	LM	Ponto de Interação:	02	Nº da questão:	02
+**Identificação da questão** 
+PPD_FE_11_ Pensamento_Computacional_P2_2025-1_Q02
+
+**Texto-base**
+No ensino da matemática, o reconhecimento de padrões permite que os estudantes identifiquem regularidades em sequências numéricas, figuras geométricas e até em soluções de problemas. Essa habilidade é um dos pilares do Pensamento Computacional, pois contribui para a simplificação de problemas complexos, permitindo que sejam abordados de maneira mais sistemática. 
+Na história de Carl Friedrich Gauss, a descoberta de que a soma de números consecutivos de 1 a 100 poderia ser simplificada por meio de um padrão demonstra como o reconhecimento de regularidades facilita a criação de algoritmos e soluções eficientes. Nesse caso, foi criado um algoritmo para calcular a soma de termos de uma Progressão Aritmética (PA).
+**Enunciado**
+Considerando o papel do reconhecimento de padrões no desenvolvimento do Pensamento Computacional, assinale a opção correta.
+**Alternativas**
+A)	A identificação de padrões é útil para a programação, mas não tem aplicação prática na matemática.
+B)	A análise de padrões numéricos é uma habilidade intuitiva, sem relação com o Pensamento Computacional.
+C)	Embora o reconhecimento de padrões seja irrelevante na matemática, ele é útil para a área de programação.
+D)	O reconhecimento de padrões é um processo inovador, que não segue nenhuma estrutura lógica definida.
+E)	O reconhecimento de padrões permite que algoritmos sejam criados com base em repetições, tornando a resolução de problemas mais rápida e eficiente.
+**Gabarito** E
+**Feedback**
+É por meio do reconhecimento de padrões em situações recorrentes que se pode criar formas também padronizadas para resolvê-las. A soma de termos de uma P.A é um exemplo disso. Outro caso é a fórmula de Bhaskara para encontrar as raízes de uma equação de segundo grau, já que esse tipo de equação segue um padrão específico. 
+
+Curso:	LM	Ponto de Interação:	02	Nº da questão:	03
+**Identificação da questão**  
+PPD_FE_11_Pensamento_Computacional_P2_2025-1_Q03
+
+**Texto-base**
+A decomposição de problemas é uma das principais habilidades associadas ao Pensamento Computacional. No ensino da matemática, ela permite que problemas complexos sejam divididos em partes menores e mais gerenciáveis, facilitando o processo de solução. 
+No desafio de Einstein, por exemplo, a solução requer que o problema seja decomposto em informações organizadas em categorias, como nacionalidade, cor da casa e animal de estimação, o que facilita a organização lógica das pistas e a descoberta da solução. 
+Esse processo relaciona-se com o chamado Método Cartesiano, proposto por René Descartes, segundo o qual, para resolver um problema, ele deve ser dividido em tantas partes quanto possível, permitindo que cada uma seja enfrentada até se chegar à solução completa.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor caracteriza a decomposição de problemas no desenvolvimento do Pensamento Computacional.
+**Alternativas**
+A)	A decomposição é o processo de memorização de fórmulas para resolução direta de problemas matemáticos.
+B)	A decomposição é útil apenas em contextos computacionais e não tem aplicação prática na resolução de problemas matemáticos.
+C)	A decomposição é uma técnica avançada, restrita ao Ensino Superior em áreas de exatas.
+D)	A decomposição é baseada em tentativa e erro, sem relação com a organização lógica do problema.
+E)	A decomposição consiste em dividir um problema em partes menores, tornando-o mais simples de ser analisado e resolvido.
+**Gabarito** E
+**Feedback**
+A decomposição é um processo que pode ser útil em várias áreas, desde a montagem de um quebra-cabeça até a realização de uma pesquisa complexa: ao olhar para uma parte de cada vez, podemos enfrentar problemas menores, mais simples de analisar e resolver. Na matemática e em outros campos do conhecimento, essa é uma estratégia importante, desde que não seja esquecida a relação de cada parte com o todo e do todo com cada parte.
+
+Curso:	LM	Ponto de Interação:	02	Nº da questão:	04
+**Identificação da questão** 
+PPD_FE_11_ Pensamento_Computacional_P2_2025-1_Q04
+
+**Texto-base**
+A abstração é um dos pilares do Pensamento Computacional, pois permite que os estudantes filtrem informações irrelevantes e se concentrem nos aspectos mais importantes de um problema. No ensino da matemática, ela é fundamental para a construção de modelos matemáticos, a resolução de equações e o desenvolvimento de estratégias para problemas complexos. 
+Muitas charadas ou enigmas são elaborados com diversos detalhes que podem desviar a atenção de elementos mais relevantes. Por isso, trabalhar com problemas lógicos também contribui para exercitar o foco e a capacidade de abstração.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor define o papel da abstração no Pensamento Computacional.
+**Alternativas**
+A)	A abstração consiste em criar soluções específicas para cada problema, sem relação com modelos gerais.
+B)	A abstração é o processo de tentativa e erro para encontrar padrões ocultos em problemas matemáticos.
+C)	A abstração é uma habilidade exclusiva de programadores e desenvolvedores de software.
+D)	A abstração é o processo de memorização de fórmulas e técnicas de resolução direta de problemas matemáticos.
+E)	A abstração ajuda a analisar um problema, desconsiderando detalhes irrelevantes para focar nos aspectos centrais.
+**Gabarito** E
+**Feedback**
+Por meio da abstração, é possível a analisar um problema identificando sua natureza e seus elementos essenciais. Com isso, pode-se compará-lo a outros tipos de problemas e modelos gerais, a fim de encontrar ou construir caminhos para a solução, que pode ser geral ou específica, dependendo da natureza do problema.
+
+
+Curso:	LM	Ponto de Interação:	02	Nº da questão:	05
+**Identificação da questão** 
+PPD_FE_11_ Pensamento_Computacional_P2_2025-1_Q05
+
+**Texto-base**
+O conceito de algoritmo está diretamente relacionado ao Pensamento Computacional e à matemática. Um algoritmo é uma sequência ordenada e lógica de passos que leva à solução de um problema. 
+No ensino da matemática, ensinar os estudantes a desenvolver algoritmos para resolver problemas contribui para estruturar o raciocínio lógico e criar estratégias para abordar desafios matemáticos.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor define um algoritmo.
+**Alternativas**
+A)	 É uma solução direta baseada em tentativa e erro.
+B)	É um método exclusivo de programação, sem relação com a matemática.
+C)	É uma técnica de resolução baseada na intuição e criatividade, sem estrutura definida.
+D)	É um processo de memorização de fórmulas para aplicação automática em problemas.
+E)	É um processo lógico estruturado que leva à solução de um problema por meio de uma sequência de passos definidos.
+**Gabarito** E
+**Feedback**
+O algoritmo é uma sequência estruturada de passos definidos para determinados tipos de resultado. Fórmulas matemáticas, em regra, são algoritmos e são úteis para aprender como utilizar essas sequências. Para fortalecer o desenvolvimento do Pensamento Computacional, é fundamental exercitar a capacidade de construir algoritmos, especialmente para problemas cuja solução ainda não é conhecida ou não possui fórmulas prontas.
+
+
+Curso:	LM	Ponto de Interação:	02	Nº da questão:	06
+**Identificação da questão** 
+PPD_FE_11_ Pensamento_Computacional_P2_2025-1_Q06
+
+**Texto-base**
+A Base Nacional Comum Curricular (BNCC) estabelece o desenvolvimento do Pensamento Computacional como uma competência essencial para o ensino de matemática. Além de promover a resolução de problemas, o Pensamento Computacional contribui para o desenvolvimento de habilidades analíticas, criativas e críticas por parte dos estudantes.
+O uso de desafios lógicos em sala de aula, como o desafio de Einstein, é uma ferramenta poderosa nesse processo, pois estimula a aplicação de estratégias matemáticas e computacionais na solução de problemas.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor explica o papel do Pensamento Computacional na formação matemática.
+**Alternativas**
+A)	O Pensamento Computacional desenvolve apenas habilidades técnicas de programação.
+B)	O Pensamento Computacional é desenvolvido apenas em cursos de Computação e Tecnologia.
+C)	O Pensamento Computacional é restrito ao campo da Computação e não tem relação com a matemática.
+D)	O Pensamento Computacional é um processo que depende exclusivamente de soluções já estabelecidas.
+E)	O Pensamento Computacional fortalece o raciocínio lógico e a capacidade de resolução de problemas complexos.
+**Gabarito** C
+**Feedback**
+Embora o Pensamento Computacional contribua para o desenvolvimento de habilidades técnicas de programas e seja fundamental para a computação, ele também é igualmente importante na matemática, por contribuir para a capacidade de criar soluções para problemas novos. Isso decorre da relevância desse pensamento para fortalecer o raciocínio lógico e a capacidade de resolução de problemas complexos.
+
+
+Curso:	LM	Ponto de Interação:	03	Nº da questão:	01
+**Identificação da questão** 
+PPD_FE_11_ Matemática_Financeira_P3_2025-1_Q01
+
+**Texto-base**
+O valor de um montante financeiro pode ser expresso de duas formas principais: valor nominal e valor real. O valor nominal é expresso em moeda corrente, sem considerar a inflação ou o poder de compra. Já o valor real reflete o quanto esse montante pode realmente comprar em determinado momento, considerando os efeitos da inflação. Por exemplo, R$ 100 hoje não compram a mesma quantidade de produtos que R$ 100 compravam há 10 anos, devido à perda de poder de compra causada pela inflação.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor explica a diferença entre valor nominal e valor real.
+**Alternativas**
+A)	O valor nominal e o valor real são sempre equivalentes, independentemente da variação da inflação.
+B)	O valor real é sempre maior que o valor nominal, pois considera o efeito positivo dos juros compostos.
+C)	O valor real é o valor atribuído à moeda em função da taxa de câmbio, sem relação com o poder de compra.
+D)	O valor nominal é o valor que reflete o poder de compra efetivo de um montante em determinado momento.
+E)	O valor nominal é o valor bruto em moeda, enquanto o valor real considera a inflação e o poder de compra do dinheiro.
+**Gabarito** E
+**Feedback**
+O valor nominal refere-se ao valor monetário expresso, ou seja, o “nome” pelo qual identificamos a quantia em moeda. Por exemplo, uma nota de cinquenta reais tem valor nominal de R$ 50,00; e, se pensarmos no valor real de hoje, ele será igual ao valor nominal, que se refere ao que esses cinquenta reais são capazes de fazer. Se pensarmos na mesma nota de cinquenta reais (valor nominal) três anos atrás, o seu valor real não será o mesmo que os cinquenta reais de hoje. Se projetarmos a mesma nota de cinquenta reais dois anos à frente, podemos conceber que ela continuará sendo chamada da mesma forma, mas que seu poder de compra será menor, ou seja, o valor nominal permanecerá igual, mas o valor real mudará. O valor real pode ser maior do que o valor nominal, em razão de juros, por exemplo, mas também pode ser menor, em razão da inflação.
+
+Curso:	LM	Ponto de Interação: 	03	Nº da questão:	02
+**Identificação da questão** 
+PPD_FE_Matemática_Financeira_P3_2025-1_Q02
+**Texto-base**
+A Matemática Financeira trabalha com o conceito de valor do dinheiro no tempo, que permite calcular o valor futuro de um investimento considerando uma taxa de juros. Por outro lado, o cálculo de valor presente permite determinar quanto um montante futuro vale hoje, descontado por uma taxa de juros.
+
+Suponha que você tenha a opção de receber R$ 10.000,00 hoje ou R$ 12.000,00 daqui a dois anos. Sabendo que a taxa de juros anual é de 8%, o valor presente de R$ 12.000,00 pode ser calculado pela fórmula:
+
+ 
+**Enunciado**
+Considerando o principal fator que determina o quanto o valor presente representa de um montante futuro, assinale a opção correta.
+**Alternativas**
+A)	O valor bruto que será recebido no futuro.
+B)	A quantidade de parcelas que serão pagas.
+C)	A inflação acumulada nos últimos 12 meses.
+D)	A taxa de câmbio vigente no momento do pagamento.
+E)	A taxa de juros aplicada e o número de períodos considerados.
+**Gabarito** E
+**Feedback**
+A variação entre o valor presente e o valor futuro está relacionada à mudança do seu poder de compra ao longo do tempo. Portanto, o tempo é um fator que influencia diretamente (períodos que serão considerados), bem como a taxa dessa variação, representada pela taxa de juros. 
+
+Curso:	LM	Ponto de Interação:	03	Nº da questão:	03
+**Identificação da questão** PPD_FE_Matemática_Financeira_P3_2025-1_Q02
+
+**Texto-base**
+A inflação é um fator econômico que impacta diretamente o valor real de um montante financeiro. Quando os preços dos bens e serviços aumentam, o poder de compra de uma determinada quantia, em dinheiro, diminui. Por exemplo, se a inflação acumulada em um ano for de 10%, um montante de R$ 1.000,00 (valor nominal) poderá ter seu valor real calculado da seguinte forma:
+ 
+Portanto, o valor real equivalente será de aproximadamente R$ 909,00 ao final desse período.
+**Enunciado**
+Considerando o impacto da inflação nos valores financeiros, assinale a opção correta.
+**Alternativas**
+A)	A inflação influencia apenas o valor nominal, sem afetar o valor real de um montante.
+B)	A inflação não tem impacto no valor nominal, pois este é definido pela taxa de câmbio.
+C)	A inflação aumenta o valor real do dinheiro, permitindo que o mesmo montante compre mais bens e serviços.
+D)	A inflação reduz o poder de compra do dinheiro, fazendo com que o valor real de um montante diminua ao longo do tempo.
+E)	A inflação é um fenômeno que ocorre exclusivamente em economias dolarizadas, sem impacto direto na moeda nacional.
+**Gabarito** D
+**Feedback**
+A inflação é um conceito que se refere ao aumento de preços. Com isso, o que realmente podemos fazer com um certo montante em dinheiro é afetado pela inflação: quanto maior a inflação, menor será o poder de compra. 
+Considerando que a inflação, em regra, é positiva (os valores em regra aumentam, sem retroagirem), então o poder de compra reduz, ou seja, o valor real vai reduzindo em relação ao valor nominal.
+
+Curso:	LM	Ponto de Interação:	03	Nº da questão:	04
+**Identificação da questão** 
+PPD_FE_11_ Matemática_Financeira_P3_2025-1_Q04
+
+**Texto-base**
+A matemática financeira é uma ferramenta essencial para o exercício pleno da cidadania, pois permite que as pessoas compreendam e administrem melhor o próprio dinheiro, tomem decisões de consumo mais conscientes e entendam o impacto de fatores como inflação e taxas de juros.
+Saber calcular o valor real de um montante, entender a diferença entre taxas de juros simples e compostos e avaliar o custo efetivo de um empréstimo são habilidades que ajudam os cidadãos a evitar endividamento excessivo e planejar melhor suas finanças pessoais.
+O conhecimento de matemática financeira fortalece a capacidade de negociação, reduzindo também o risco de cair em golpes que geram endividamento.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor explica como o conhecimento de matemática financeira contribui para o exercício da cidadania.
+**Alternativas**
+A)	A matemática financeira é útil para profissionais do mercado financeiro, sem impacto direto na vida cotidiana dos cidadãos.
+B)	Saber matemática financeira é importante para investimentos, mas não para o planejamento de gastos ou controle de dívidas pessoais.
+C)	A matemática financeira, apesar de relevante em contextos empresariais, é inacessível aos cidadãos e irrelevante para decisões pessoais.
+D)	O conhecimento de matemática financeira é necessário apenas para lidar com grandes valores, não sendo relevante para decisões cotidianas.
+E)	O conhecimento de matemática financeira facilita as decisões financeiras conscientes e o planejamento de gastos, seja no cotidiano ou em grandes decisões.
+**Gabarito** E
+**Feedback**
+O conhecimento de matemática financeira é essencial para o exercício da cidadania, pois possibilita ao indivíduo compreender o valor real dos bens e serviços, administrar melhor suas finanças e tomar decisões de consumo mais conscientes. 
+Ao entender como os juros, a inflação e o valor do dinheiro no tempo afetam o poder de compra, o cidadão pode se proteger contra endividamento excessivo e fazer escolhas mais vantajosas, evitando propagandas enganosas ou golpes. Por isso, é importante que todas as pessoas tenham acesso à matemática financeira desde a Educação Básica.
+
+Curso:	LM	Ponto de Interação:	03	Nº da questão:	05
+**Identificação da questão** 
+PPD_FE_11_ Matemática_Financeira_P3_2025-1_Q05
+
+**Texto-base**
+Decisões financeiras importantes, como aceitar ou não uma proposta de pagamento parcelado ou investir em uma aplicação, envolvem a análise de valor presente e valor futuro. Para isso, é necessário considerar a taxa de juros aplicada e o impacto da inflação sobre o valor real do montante. Em um cenário de alta inflação, a análise de valor real torna-se ainda mais importante para garantir que o retorno financeiro de um investimento seja vantajoso.
+**Enunciado**
+Considerando as informações apresentadas, qual é a estratégia mais adequada para tomar decisões financeiras, tendo em vista o valor do dinheiro no tempo?
+**Alternativas**
+A)	Considerar apenas o valor nominal de um montante, sem analisar o valor real.
+B)	Basear-se exclusivamente na taxa de câmbio vigente para avaliar o valor do montante.
+C)	Aceitar sempre o pagamento em 30 dias, para não se preocupar com a inflação ou a taxa de juros.
+D)	Aceitar pagamentos futuros, desde que o valor nominal dentro de 12 meses seja superior ao valor presente.
+E)	Calcular o valor presente ou valor futuro sempre que necessário, considerando o efeito das taxas de juros e da inflação.
+**Gabarito** E
+**Feedback**
+Para tomar decisões financeiras, não se deve comparar valores de tempos diferentes. Por isso, é importante levá-los para o mesmo tempo, o que pode ser feito pelas estratégias de cálculo de valor presente e cálculo de valor futuro. Para isso, é fundamental considerar os fatores que afetam o valor real do dinheiro ao longo do tempo, sendo os mais comuns a taxa de juros e a inflação.
+
+Curso:	LM	Ponto de Interação:	03	Nº da questão:	06
+**Identificação da questão** 
+PPD_FE_11_ Matemática_Financeira_P3_2025-1_Q06
+
+**Texto-base**
+Os juros compostos são uma ferramenta matemática essencial na análise de valor futuro de um investimento. Diferentemente dos juros simples, os juros compostos acumulam rendimento ao longo dos períodos, fazendo com que o valor do montante cresça exponencialmente. Por exemplo, um investimento inicial de R$ 10.000,00 aplicado a uma taxa de juros de 2% ao mês durante 12 meses resultará em um valor futuro maior devido ao efeito dos juros sobre os rendimentos acumulados.
+**Enunciado**
+Considerando o efeito dos juros compostos, assinale a opção que está matematicamente correta.
+**Alternativas**
+A)	Os juros compostos têm efeito apenas em economias com inflação estável.
+B)	Os juros compostos são aplicáveis apenas em investimentos de curto prazo.
+C)	Os juros compostos fazem com que o valor do investimento cresça linearmente ao longo do tempo.
+D)	Os juros compostos acumulam rendimentos, aumentando o valor do montante de forma exponencial.
+E)	Os juros compostos e os juros simples resultam no mesmo valor final após um longo período.
+**Gabarito** D
+**Feedback**
+Os juros compostos implicam a aplicação da taxa sucessiva de juros, de modo que a cada novo período, os rendimentos incidem sobre o montante original acrescido dos juros acumulados anteriormente. Como resultado, o valor do montante é multiplicado repetidamente, gerando um crescimento de natureza exponencial.
+
+
+Curso:	LM	Ponto de Interação:	04	Nº da questão:	01
+**Identificação da questão** PPD_FE_11_ Matemática_Exata_P4_2025-1_Q01
+
+**Texto-base**
+No contexto social e educacional, a matemática é frequentemente utilizada para estruturar modelos de alocação de recursos, definição de políticas públicas e avaliação de desempenho. A igualdade consiste em oferecer o mesmo recurso ou oportunidade a todos, independentemente das diferenças individuais. Já a equidade considera as diferenças sociais e econômicas para garantir que todos tenham acesso real às mesmas oportunidades.
+**Enunciado**
+Considere uma escola que distribui material escolar igualmente para todos os estudantes, independentemente da situação socioeconômica. Alguns discentes, no entanto, não têm acesso a materiais básicos em casa e enfrentam dificuldades de aprendizagem.
+Com base nesse cenário, assinale a opção que melhor reflete uma abordagem equitativa para resolver esse problema.
+**Alternativas**
+A)	Priorizar a distribuição para os estudantes com melhor desempenho escolar.
+B)	Deixar que os próprios estudantes solicitem materiais extras, caso sintam necessidade.
+C)	Distribuir a mesma quantidade de material para todos os estudantes, garantindo tratamento igualitário.
+D)	Oferecer mais material e apoio pedagógico para os estudantes com mais dificuldades ou com menos recursos.
+E)	Não dar importância ao material didático, pois a aprendizagem é essencialmente cognitiva e a diferença de condições entre os estudantes é apenas financeira.
+**Gabarito** D
+**Feedback**
+O conceito de equidade exige dar tratamento diferente aos que estão em condições diferentes.
+
+Curso:	LM	Ponto de Interação:	04	Nº da questão:	02
+**Identificação da questão** PPD_FE_11_ Matemática_Exata_P4_2025-1_Q02
+
+**Texto-base**
+Modelos matemáticos são frequentemente usados para definir políticas de financiamento educacional. Suponha que um sistema de distribuição de recursos para escolas adote um modelo que distribua o mesmo valor por estudante matriculado, independentemente das condições sociais da região em que a escola está localizada. Como consequência, escolas em regiões mais vulneráveis — que enfrentam mais desafios — recebem a mesma quantia que aquelas localizadas em regiões com melhores indicadores sociais.
+**Enunciado**
+Com base nesse cenário, assinale a opção que melhor descreve o impacto dessa política de financiamento.
+**Alternativas**
+A)	A política é eficiente porque oferece aos estudantes o mesmo valor financeiro, o que promove justiça educacional.
+B)	A aplicação de um valor fixo por aluno promove equidade, já que todas as escolas recebem o mesmo valor por estudante.
+C)	A política promove igualdade, mas não necessariamente equidade, pois não considera as desigualdades estruturais entre as escolas.
+D)	A distribuição igualitária de recursos resolve as desigualdades regionais e garante que todas as escolas tenham o mesmo nível de qualidade.
+E)	A aplicação de um valor fixo por aluno promove equidade ao garantir que todos os estudantes tenham acesso ao mesmo valor de investimento.
+**Gabarito** C
+**Feedback**
+Sempre que tratamos de condições desiguais, a igualdade não gera equidade, pois é preciso dar tratamento diferente aos diferentes. Nesse caso, o mais adequado, para a justiça social e para a equidade, seria garantir mais recursos para as escolas em que os desafios são maiores.
+
+Curso:	LM	Ponto de Interação:	04	Nº da questão:	03
+**Identificação da questão** PPD_FE_11_Matemática_Exata_P4_2025-1_Q03
+
+**Texto-base**
+Um governo utiliza um modelo matemático para calcular a alíquota de imposto de renda da população. Essa alíquota é fixa para todos os cidadãos, independentemente do nível de renda. Como consequência, a quantia disponível para que os cidadãos de baixa renda atendam às suas necessidades é baixa, enquanto os cidadãos de alta renda mantêm uma parcela significativamente maior de sua renda disponível para gastos ou investimentos.
+**Enunciado**
+Com base nesse cenário, assinale a opção que melhor explica o impacto desse modelo tributário em termos de igualdade e equidade.
+**Alternativas**
+A)	O modelo promove equidade, já que o valor absoluto pago por pessoas com maior renda será maior.
+B)	O modelo promove justiça social, pois o valor final pago em impostos é proporcional à renda de cada cidadão.
+C)	O modelo não promove equidade, pois ao aplicar a mesma alíquota a todos, desconsidera a desigualdade socioeconômica.
+D)	O modelo é neutro, pois trata todos os cidadãos da mesma forma, sem interferir nas condições econômicas individuais.
+E)	O modelo promove igualdade socioeconômica, pois todos pagam a mesma alíquota de imposto, independentemente da renda.
+**Gabarito** C
+**Feedback**
+Ao tratar todos de forma igual, o modelo reproduz a desigualdade socioeconômica existente. Portanto, não é um modelo equitativo. No Brasil, o Imposto de Renda é progressivo, ou seja, pessoas de maior renda contribuem com uma alíquota um pouco maior, sendo que cidadãos que possuem baixo rendimento são isentos. Contudo, é pouco gradativo: indivíduos com renda mensal de R$ 8.000 recebem o mesmo tratamento que aqueles cuja renda é de R$ 80.000.
+
+Curso:	LM	Ponto de Interação:	04	Nº da questão:	04
+**Identificação da questão** PPD_FE_11_Matemática_Exata_P4_2025-1_Q04
+
+**Texto-base**
+Em um processo seletivo para ingresso em uma universidade pública, todos os candidatos têm o mesmo tempo para responder às questões. No entanto, candidatos com deficiência ou transtornos de aprendizagem enfrentam dificuldades para concluir a prova no tempo estipulado. Alguns candidatos solicitaram um tempo adicional para garantir condições mais justas de participação.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor caracteriza uma solução baseada em equidade.
+**Alternativas**
+A)	Manter o mesmo tempo para todos os candidatos, garantindo igualdade no processo seletivo.
+B)	Oferecer tempo adicional para todos os candidatos, independentemente de suas condições individuais.
+C)	Eliminar o tempo máximo de prova para todos os candidatos, para evitar questionamentos sobre tratamento desigual.
+D)	Oferecer tempo adicional para candidatos com deficiência, reconhecendo as diferentes condições de realização da prova.
+E)	Permitir tempo adicional apenas para candidatos que obtiverem um laudo médico comprovando a deficiência e cobrar deles uma taxa de inscrição proporcionalmente maior.
+**Gabarito** D
+**Feedback**
+Ao oferecer tempo adicional a quem se encontra em condição que requer mais tempo, gera um tratamento que reconhece a desigualdade de condições, garantindo tratamento adequado a cada um; esse é o preceito que fundamenta a equidade. Note que, embora se trate de uma análise social, que contempla múltiplas variáveis, as decisões materializam-se em regras de tratamento construídas por meio do pensamento matemático e do pensamento computacional.
+
+
+Curso:	LM	Ponto de Interação:	04	Nº da questão:	05
+**Identificação da questão** PPD_FE_11_ Matemática_Exata_P4_2025-1_Q05
+
+Texto Base:
+O uso de mecanismos de Inteligência Artificial (IA) tem se tornado cada vez mais comum em processos de recrutamento e seleção de pessoal. A IA pode analisar currículos, cruzar dados de desempenho, comportamento e até perfis sociais para sugerir os candidatos mais adequados para uma determinada vaga. No entanto, o uso de IA em processos seletivos levanta questões importantes sobre riscos de reprodução de vieses e equidade. Os algoritmos de IA são treinados com dados históricos que podem refletir desigualdades estruturais, levando à reprodução de injustiças em relação a gênero, raça ou outras características sociais.
+Suponha que uma empresa decidiu contratar dois profissionais para o cargo de coordenador de avaliação, utilizando um sistema de IA para analisar os currículos e sugerir os salários. O algoritmo recomendou a contratação de uma mulher e de um homem, sugerindo um salário de R$ 6.000,00 para ela e de R$ 7.500,00 para ele, mesmo que ambos possuam qualificações e experiências semelhantes.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor explica os riscos relacionados ao uso de Inteligência Artificial nesse processo seletivo e o impacto sobre a equidade.
+**Alternativas**
+A)	A IA não é capaz de reproduzir vieses ou desigualdades, já que os algoritmos são objetivos e baseados apenas em dados quantitativos.
+B)	A diferença salarial é justificada porque o algoritmo considera fatores subjetivos que não estão acessíveis aos avaliadores humanos.
+C)	A diferença de salários é uma consequência natural de mercado, e o algoritmo reflete apenas a lógica da oferta e da procura de profissionais.
+D)	A recomendação do algoritmo é válida, pois a IA sempre sugere o valor salarial mais adequado com base na produtividade esperada de cada profissional.
+E)	O algoritmo está reproduzindo o viés dos dados históricos, resultando em uma recomendação que não é equitativa, pois sugere uma remuneração inferior para a mulher, apesar de qualificações semelhantes.
+**Gabarito** E
+**Feedback**
+O uso de algoritmos de Inteligência Artificial em processos seletivos pode reproduzir e reforçar desigualdades históricas e sociais, uma vez que os dados usados para treinar os sistemas refletem preconceitos presentes em nossa sociedade. No caso apresentado, o algoritmo sugere um salário mais baixo para a mulher, mesmo que as qualificações sejam equivalentes, o que revela um viés de gênero presente nos dados. A recomendação de salários desiguais para profissionais com qualificações semelhantes indica um problema de falta de equidade, que precisa ser identificado e corrigido para garantir um processo seletivo justo e transparente. O uso de algoritmos com base em dados, na matemática ou na IA, exige que as situações sejam analisadas cuidadosamente, para que a técnica não seja utilizada para perpetuar discriminações.
+
+
+Curso:	LM	Ponto de Interação:	04	Nº da questão:	06
+**Identificação da questão** PPD_FE_11_ Matemática_Exata_P4_2025-1_Q06
+
+**Texto-base**
+Em uma cidade, o valor da tarifa de transporte público é fixo para todos os passageiros, independentemente da renda. No entanto, essa política de igualdade penaliza proporcionalmente as pessoas de baixa renda, que comprometem uma parcela maior de seus ganhos para pagar a tarifa. Para promover maior equidade, o governo municipal está considerando a implementação de um modelo de tarifa baseado na renda do usuário.
+**Enunciado**
+Com base nesse cenário, assinale a opção que melhor caracteriza o impacto dessa política de ajuste tarifário.
+**Alternativas**
+A)	A cobrança de tarifa diferenciada criará distorções no sistema, tornando-o inviável economicamente.
+B)	A cobrança de tarifa fixa para todos é o modelo mais justo, pois não faz distinção entre os usuários.
+C)	A cobrança de tarifa diferenciada por renda é injusta, pois todos os usuários deveriam pagar o mesmo valor.
+D)	A cobrança de tarifa diferenciada promove maior equidade, pois ajusta o valor da tarifa à capacidade econômica dos usuários.
+E)	A cobrança de tarifa diferenciada fere o princípio da igualdade, pois alguns terão que pagar mais, enquanto outros pagarão menos pelo mesmo serviço.
+**Gabarito** D
+**Feedback**
+O princípio da equidade recomenda que sejam adotados tratamentos diferentes para quem está em condições desiguais. Assim, a mesma tarifa para todos não é socialmente justa quando a renda das pessoas é muito diferente entre si. Portanto, para promover equidade, o mais recomendável é aplicar tarifas diferentes. Note que muitas pessoas defendem a igualdade em todas as condições, mas, geralmente, essa defesa protege os privilégios daqueles que se encontram em condições mais vantajosas. A diferença entre o princípio da equidade ou o da igualdade exige também aplicar estratégias matemáticas distintas.
+
+

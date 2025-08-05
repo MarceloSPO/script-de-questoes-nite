@@ -1,0 +1,568 @@
+
+Curso:	Enfermagem	Ponto de Interação:	1	Nº da questão:	1
+**Identificação da questão** PPD_FE_09_ Teorias_de_Enfermagem_P1_2025-1_Q01 
+
+**Texto-base**
+A aplicação de teorias na enfermagem contribui para a organização do conhecimento e para a coleta sistemática de dados, com o objetivo de descrever, explicar e prever a prática profissional. As teorias definem o propósito da enfermagem, orientando a prática em direção a metas e resultados específicos. Além disso, ajudam a diferenciar a enfermagem de outras profissões da área da saúde, estabelecendo seus limites e identidade profissional.
+**Enunciado**
+Com base nas teorias de enfermagem, assinale a opção correta.
+
+**Alternativas**
+A)	A Teoria de Florence Nightingale enfatiza que as doenças são produzidas por hábitos de vida e fatores hereditários. Destaca que o ambiente influencia a pessoa, mas o que define sua condição clínica são suas próprias escolhas e estilo de vida. Nesse contexto, por meio da educação em saúde, os cuidados de enfermagem terão como objetivo a mudança de pensamento do indivíduo para que ele adote uma vida mais saudável.
+B)	A Teoria de Orem delineia três pilares fundamentais: a educação em saúde, a relação interpessoal e a adesão. O papel do enfermeiro é estabelecer uma relação amigável com o paciente, de modo que este aceite as orientações e obedeça às prescrições de enfermagem estabelecidas.
+C)	A Teoria das Relações Interpessoais de Hildegard Peplau enfatiza que a relação enfermeiro-paciente deve ser baseada na hierarquia. Segundo Peplau, o enfermeiro deve atuar como um líder, orientando o paciente sobre como lidar com sua situação de saúde, seguindo todos os cuidados prescritos a ele.
+D)	A Teoria do Cuidado Transpessoal de Callista Roy defende que cada pessoa, como um sistema adaptativo, tem um nível de adaptação, o qual é determinado por processos de controle, também chamados de mecanismos de enfrentamento reguladores (fisiológico) e cognatos (sentimentos e mobilizações emocionais), os quais são subsistemas da pessoa.
+E)	A Teoria das Necessidades Humanas Básicas de Wanda de Aguiar Horta recebeu forte influência de João Mohana e Maslow. A teoria de Wanda Horta trouxe para a Enfermagem a observação, interação e intervenção junto ao cliente para satisfazer suas necessidades humanas básicas.
+
+**Gabarito** [E] 
+A Teoria das Necessidades Humanas Básicas de Wanda de Aguiar Horta recebeu forte influência de João Mohana e Maslow. A teoria de Wanda Horta trouxe para a Enfermagem a observação, interação e intervenção junto ao cliente para satisfazer suas necessidades humanas básicas.
+**Feedback**
+A) Incorreta. A Teoria de Florence Nightingale, apresentada em 1859, destaca a influência do ambiente no processo de saúde e recuperação dos doentes. Destacam-se: a ventilação, a iluminação, o calor, a limpeza, os ruídos, os odores e a alimentação. Desenvolvida durante e após a Guerra da Crimeia, quando havia poucas opções de tratamento para doenças e infecções, ela se baseia na importância do ambiente, da higiene e do cuidado humanizado para a saúde e o bem-estar dos pacientes. 
+B) Incorreta. A Teoria do Autocuidado de Dorothea Orem é um modelo teórico que orienta a prática de enfermagem, desenvolvida a partir da ideia de que o enfermeiro e o paciente devem identificar déficits de autocuidado. Seus conceitos principais são autocuidado (capacidade do indivíduo de realizar atividades para manter a saúde e o bem-estar), déficit de autocuidado (quando o paciente não consegue atender às suas necessidades de autocuidado) e sistema de enfermagem (sistemas de apoio educacional parcialmente compensatório e totalmente compensatório).
+C) Incorreta. A Teoria das Relações Interpessoais de Hildegard Peplau enfatiza que a relação enfermeiro-paciente deve ser baseada na empatia, no respeito, na confiança, na comunicação eficaz e na compreensão das necessidades e perspectivas do paciente. Segundo Peplau, o enfermeiro deve atuar como um facilitador, ajudando o paciente a lidar com sua situação de saúde e promovendo seu autoconhecimento e autonomia. Ela compreende os seguintes princípios: a enfermagem é uma arte terapêutica e um processo interpessoal; o paciente é visto como um ser biopsicossocioespiritual; o enfermeiro deve ser preparado para reconhecer e responder às necessidades do paciente; a reflexão sobre as interações interpessoais é importante; a relação interpessoal é uma etapa primordial na assistência de enfermagem
+D) Incorreta. A Teoria do Cuidado Transpessoal foi desenvolvida por Jean Watson. Ela considera o cuidado humano como um contato entre os mundos subjetivos do enfermeiro e do cliente, propõe que a sociedade deve manter os ideais de cuidado humano, auxilia o enfermeiro a refletir sobre a sua prática de cuidado e propõe o cuidado baseado no respeito aos direitos do cliente. Callista Roy é a idealizadora da teoria da adaptação, enxergando o indivíduo como um ser biopsicológico e em constante interação com o ambiente externo. O nível da adaptabilidade do indivíduo muda de acordo com a variabilidade de estímulos sofridos do meio, gerando, assim, uma permanente troca de informações, estímulos e respostas.
+E) Correta. Inspirada na hierarquia de necessidades de Abraham Maslow e em João Mohana, que definiu o ser humano em três dimensões, Horta propôs que o cuidado de enfermagem deveria ser centrado no atendimento das necessidades humanas, compreendendo-as em três níveis: psicobiológicas, psicossociais e psicoespirituais.
+
+Curso:	Enfermagem	Ponto de Interação:	1	Nº da questão:	2
+**Identificação da questão** PPD_FE_09_ Teorias_de_Enfermagem_P1_2025-1_Q02
+**Texto-base** 
+No Brasil, na década de 1970, Wanda Horta desenvolveu a primeira geração do Processo de Enfermagem (PE), fundamentada na Teoria das Necessidades Humanas Básicas (NHB), baseada na teoria de Maslow. Essa abordagem reforça a importância de um cuidado amplo e humanizado, evidenciando a enfermagem como ciência e sustentando-a como teoria. Apoia-se em leis gerais como a do equilíbrio, da adaptação e do holismo, tendo como conceitos gerais: enfermagem, ser humano, ambiente, saúde/doença, necessidades humanas básicas, assistir e cuidar em enfermagem.
+SADY, A. A. B. et al. TEORIA DE WANDA HORTA. Teorias de enfermagem: relevância para a prática profissional na atualidade. Campo Grande: Editora Inovar, 2021. 56p.
+
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	Horta classifica as necessidades humanas básicas em três dimensões principais: psicobiológica, psicossocial e psicoespiritual.
+II.	A Teoria de Wanda Horta sobre necessidades humanas está relacionada à Teoria de Orem, que se refere ao autocuidado. Ambas visam à autonomia no cuidar.
+III.	Por meio do lema “Enfermagem cuida de gente”, Horta estabeleceu uma hierarquia no cuidado e destacou a importância dessa relação para favorecer a obediência do paciente no que se refere as orientações do profissional. 
+IV.	Para Wanda Horta, a Enfermagem é a ciência e a arte de assistir o ser humano no atendimento de seus desejos, tornando-o dependente de uma assistência pautada no paternalismo, na qual o indivíduo só se sentirá plenamente satisfeito se a equipe de cuidado oferecer um tratamento individualizado e atender a todas as suas solicitações. 
+É correto o que se afirma em
+
+**Alternativas**
+A)	I e II, apenas.
+B)	I e III, apenas.
+C)	II e III, apenas.
+D)	I, II e IV, apenas.
+E)	II, III e IV, apenas.
+**Gabarito** [A]
+I e II, apenas.
+**Feedback**
+I. Correto: Horta classifica as necessidades humanas básicas em três dimensões principais: psicobiológica, psicossocial e psicoespiritual. Além disso, estabelece uma relação entre os conceitos de ser humano, meio ambiente e enfermagem. A teoria descreve a enfermagem como um elemento da equipe de saúde e afirma que pode agir com eficiência por meio de um método científico.
+II. Correto: A Teoria das Necessidades Humanas de Wanda Horta relaciona-se à Teoria do Autocuidado de Dorothea Orem, pois ambas têm como objetivo promover a autonomia no cuidar. A Teoria de Orem descreve cinco métodos de ajuda: agir ou fazer pelo outro, orientar o outro, apoiar o outro, oferecer um ambiente favorável ao desenvolvimento pessoal e ensinar o outro. O autocuidado é compreendido como a capacidade do indivíduo de atender às suas próprias necessidades cotidianas de saúde de forma contínua. Diversos fatores podem interferir nesse processo, como idade, sexo, doenças, escolaridade, entre outros. A sexualidade também é um fator influente, especialmente por sua relação com a autoestima e a imagem corporal, ou seja, a forma como o indivíduo percebe e valoriza seu próprio corpo.
+III. Incorreto. A partir do lema "gente que cuida de gente", Wanda Horta revolucionou a ideia de cuidar e curar pessoas. Ao presenciar como eram tratadas as pessoas hospitalizadas, percebeu a ausência do reconhecimento do ser humano em sua totalidade, com todas as suas complexidades, necessidades e singularidades, o que evidenciava a falta de um cuidado verdadeiramente individualizado.
+IV. Incorreto. A Enfermagem é a ciência e a arte de assistir o ser humano no atendimento de suas necessidades básicas, com o objetivo de torná-lo independente dessa assistência por meio da educação, e de recuperar, manter e promover sua saúde, contando, para isso, com a colaboração de outros profissionais da área da saúde.
+
+Curso:	Enfermagem	Ponto de Interação:	1	Nº da questão:	3
+**Identificação da questão** 
+PPD_FE_09_ Teorias_de_Enfermagem_P1_2025-1_Q03
+**Texto-base**
+A teoria de Orem envolve três aspectos principais: (1) autocuidado, que é a capacidade dos indivíduos de realizar atividades para manter sua vida e bem-estar; (2) atividade de autocuidado, que se refere à habilidade de aplicar o autocuidado; e (3) exigência terapêutica de autocuidado, que engloba o conjunto total das ações necessárias para o autocuidado. Quando há déficit no autocuidado, ocorre a intervenção direta do enfermeiro. A teoria do sistema de enfermagem, por sua vez, é estruturada em três sistemas, entre eles, o sistema compensatório, que se aplica quando o indivíduo apresenta incapacidade para o autocuidado e a atuação da enfermagem torna-se indispensável.
+ROCHA, A. P. de S. et al. TEORIA DE DOROTHEA OREM. Teorias de enfermagem: relevância para a prática profissional na atualidade. Campo Grande: Editora Inovar, 2021. 56p. (Adaptado)
+**Enunciado**
+Com base na Teorias de Dorothea Orem, avalie as afirmações a seguir.
+I.	No século XXI, tem sido aplicada na reabilitação de pacientes afetados pela covid-19, uma vez que o déficit de autocuidado pode ocorrer total ou parcialmente em indivíduos acometidos pelo Sars-CoV-2.
+II.	A Teoria do Autocuidado deverá ser aplicada apenas na assistência básica de saúde, uma vez que, promovendo essas ações nesse nível do cuidado, o indivíduo será capaz de manter-se saudável e não será acometido por patologias.
+III.	A Teoria do Autocuidado serve como um referencial para a enfermagem, permitindo intervenções em diversos perfis de pacientes, com o objetivo de promover ações que possam ser realizadas por eles próprios para manter e cuidar da sua saúde. Essa teoria pode ser aplicada desde gestantes usuárias de drogas ilícitas até pacientes obesos, sempre respeitando as particularidades de cada indivíduo.
+IV.	A Teoria das Necessidades de Autocuidado, desenvolvida por Dorothea Orem, defende que os pacientes possuem a capacidade de cuidar de si mesmos.
+É correto o que se afirma em
+
+**Alternativas**
+A)	I e II, apenas.
+B)	I e III, apenas.
+C)	II e III, apenas.
+D)	I, III e IV, apenas.
+E)	II, III e IV, apenas.
+**Gabarito** [D]
+I, III e IV, apenas.
+**Feedback**
+I. Correta. No século XXI, a teoria do autocuidado é aplicada na reabilitação de pacientes acometidos pela covid-19, já que o déficit de autocuidado pode ocorrer total ou parcialmente em indivíduos infectados pelo Sars-CoV-2. Em pacientes entubados, a atuação do enfermeiro é integral, abrangendo desde a higienização, mudança de decúbito, alimentação e administração de medicações até a reabilitação, momento em que o enfermeiro assume o papel de educador, orientador e suporte psicológico, atuando de forma humanizada e integral. Assim, o autocuidado consiste na prática de atividades que os indivíduos realizam para manter a vida, a saúde e o bem-estar.
+II. Incorreta. A Teoria do Autocuidado é aplicada em diversos setores e níveis de assistência onde o enfermeiro dispõe de práticas educativas e orientações ao cliente e aos familiares com a intenção de promover a independência do paciente na manutenção de sua saúde. Dessa forma, o autocuidado oferece ao profissional de enfermagem uma visão clara e objetiva, possibilitando uma relação interpessoal mais saudável com o paciente, uma vez que a teoria busca atender às necessidades e peculiaridades de cada pessoa.
+III. Correta. A Teoria de Orem é um referencial para a enfermagem, pois, por meio de orientações educativas, permite o desenvolvimento de atitudes que capacitam os indivíduos ao autocuidado para prevenção, reabilitação ou manutenção da vida, como no caso de pacientes com doenças crônicas que necessitam de uso diário de medicamentos e reestruturação do estilo de vida. A aplicação das teorias evidencia o empenho da profissão em buscar a autonomia no cuidado, consolidando a enfermagem como ciência e arte.
+IV. Correta. A teoria das necessidades de autocuidado de Dorothea Orem propõe que os pacientes têm a capacidade de cuidar de si mesmos, com o objetivo de capacitá-los a desenvolver seu próprio cuidado. Os pacientes possuem tanto a capacidade quanto a responsabilidade pelo autocuidado, e o enfermeiro deve apoiá-los na busca pela recuperação da independência.
+
+Curso:	Enfermagem	Ponto de Interação:	1	Nº da questão:	4
+**Identificação da questão** PPD_FE_09_ Teorias_de_Enfermagem_P1_2025-1_Q04
+**Texto-base**
+A Teoria de Florence Nightingale, conhecida como Teoria Ambientalista, foi estruturada por ela para demonstrar que a enfermidade do indivíduo, assim como a sua possível não reabilitação, pode estar relacionada ao ambiente em que está inserido, o qual muitas vezes pode ser insalubre.
+ROCHA, A. P. de S. et al. TEORIA DE DOROTHEA OREM. Teorias de enfermagem: relevância para a prática profissional na atualidade. Campo Grande: Editora Inovar, 2021. 56p. (Adaptado).
+**Enunciado**
+Considerando a Teoria ambientalista de Florence, avalie as afirmações a seguir.
+I.	Florence Nightingale acreditava que o paciente era um produto do ambiente ao qual estava exposto, e que, após o desenvolvimento de uma patologia, a mudança no ambiente não teria mais impacto significativo na saúde; tais mudanças só causariam impacto se fossem feitas de forma preventiva. 
+II.	Atualmente, a enfermagem deve priorizar ambientes arejados, com ar puro, saneamento eficiente, água potável, ausência de ruídos e boa oferta nutricional, pois esses fatores são essenciais para a promoção da saúde física, psíquica e sociocultural. 
+III.	Ao analisar pacientes de covid-19 que estiveram internados em unidades de terapia intensiva, é possível inferir que o ambiente em que estavam inseridos contribuiu para o agravamento de seus quadros clínicos. 
+IV.	Os conceitos desenvolvidos por Florence em sua teoria ambientalista estão desatualizados, considerando toda a tecnologia disponível e o desenvolvimento de medicações mais potentes.
+É correto o que se afirma em
+
+**Alternativas**
+A)	I e II, apenas.
+B)	I e III, apenas.
+C)	II e III, apenas.
+D)	I, III e IV, apenas.
+E)	II, III e IV, apenas.
+**Gabarito** [C]
+II e III, apenas.
+**Feedback**
+I.	Incorreta. Florence defendia que o ambiente influenciava diretamente a recuperação do doente. Dessa forma, buscou integrar o conhecimento sanitário do cotidiano ao saber da enfermagem, compreendendo a doença como parte de um processo reparador.
+II.	Correta. Atualmente, a enfermagem deve considerar como prioridade a manutenção de um ambiente arejado, com ar puro, sistema de esgoto adequado, água potável, ausência de ruídos e alimentação adequada, pois esses fatores são essenciais para alcançar uma boa saúde física, psíquica e sociocultural. Assim, compreender o ambiente como matéria circundante que interfere no desenvolvimento humano é essencial para o enfermeiro definir suas metas no processo saúde-doença.
+III.	Correta. pacientes acometidos pela síndrome respiratória aguda grave causada pelo coronavírus (Sars-CoV-2), internados em Unidades de Terapia Intensiva (UTIs), permanecem constantemente expostos a estressores ambientais — como ruídos contínuos de monitores, iluminação intensa que compromete o descanso e o sono, procedimentos invasivos frequentes como cateteres, punções venosas, uso de seringas e agulhas, que podem causar hematomas e flebites — além da dor constante e do afastamento de seus familiares.
+IV.	Incorreta. A Teoria Ambientalista continua sendo considerada atual e abrangente, trazendo diversos benefícios à saúde. Além de contribuir para a segurança e recuperação do paciente, também favorece a preservação da saúde dos profissionais. Medidas simples, como a higienização correta das mãos, têm eficácia amplamente comprovada e são baseadas em princípios dessa teoria. 
+
+Curso:	Enfermagem	Ponto de Interação:	1	Nº da questão:	5
+**Identificação da questão** 
+PPD_FE_09_ Teorias_de_Enfermagem_P1_2025-1_Q05
+**Texto-base**
+O Processo de Enfermagem (PE) é a dinâmica das ações sistematizadas e inter-relacionadas que viabiliza a organização da assistência de enfermagem. Representa uma abordagem de enfermagem ética e humanizada, dirigida à resolução de problemas, atendendo às necessidades de cuidados de saúde e de enfermagem de uma pessoa.
+GARCIA, T. R.; NOBREGA, M. M. L. Processo de Enfermagem: da Teoria à prática Assistencial e de pesquisa. Esc Anna Nery Rev Enferm, 2009 mar; 13 : 188-193.
+**Enunciado**
+Em relação ao Processo de Enfermagem (PE), assinale a opção correta.
+
+**Alternativas**
+A)	O PE foi instituído por Florence Nightingale, que, por meio da observação, identificou que ações sistematizadas como a higienização das mãos, a limpeza dos ambientes, a circulação de ar puro e a boa alimentação contribuíam positivamente para a recuperação dos pacientes.
+B)	Em 1971, Wanda Horta definiu o PE como “a dinâmica das ações sistematizadas e inter-relacionadas, visando à assistência ao indivíduo, família e comunidade”, organizando-o em seis etapas: histórico de enfermagem, diagnóstico de enfermagem, plano terapêutico de enfermagem (posteriormente denominado plano assistencial), plano de cuidados de enfermagem, evolução de enfermagem e prognóstico de enfermagem.
+C)	O PE foi introduzido no Brasil por Wanda Horta, em conformidade com a Resolução COFEN nº 271/70, a qual descrevia as etapas do processo e delimitava as atribuições exclusivas do enfermeiro, bem como as atividades desenvolvidas por toda a equipe de enfermagem.
+D)	A Resolução COFEN nº 358/2009, que substituiu a Resolução nº 272/2002, determina que o PE seja implantado obrigatoriamente em todas as instituições públicas, enquanto, para as instituições privadas, sua adoção é facultativa, considerando o possível aumento de custos e a sobrecarga de trabalho.
+E)	A Resolução COFEN nº 736/2024 revoga a Resolução nº 272/2002 e altera o texto sobre o local de implantação do PE, estabelecendo que ele deve ser aplicado em todo contexto socioambiental onde ocorra o cuidado de enfermagem, mantendo, contudo, as mesmas etapas previstas anteriormente.
+**Gabarito** [B]
+Em 1971, Wanda Horta definiu o PE como “a dinâmica das ações sistematizadas e inter-relacionadas, visando à assistência ao indivíduo, família e comunidade”, organizando-o em seis etapas: histórico de enfermagem, diagnóstico de enfermagem, plano terapêutico de enfermagem (posteriormente denominado plano assistencial), plano de cuidados de enfermagem, evolução de enfermagem e prognóstico de enfermagem.
+**Feedback**
+A) Incorreta. O termo "Processo de Enfermagem" (PE) surgiu nos Estados Unidos na década de 1950, sendo utilizado para descrever um processo que, por meio do método científico, unia os aspectos mais desejáveis da arte de cuidar aos fundamentos teóricos da enfermagem. No Brasil, a introdução e incentivo ao PE ocorreram apenas na década de 1970, com a atuação de Wanda de Aguiar Horta. 
+B) Correta. Em 1971, Horta definiu o PE como uma “dinâmica das ações sistematizadas e inter-relacionadas, visando à assistência ao indivíduo, família e comunidade”, estruturando-o em seis etapas: histórico de enfermagem, diagnóstico de enfermagem, plano terapêutico de enfermagem (posteriormente denominado plano assistencial), plano de cuidados de enfermagem, evolução de enfermagem e prognóstico de enfermagem. A partir desse modelo, surgiram outros conceitos importantes, como assistência de enfermagem (a aplicação do PE pelo enfermeiro) e cuidado de enfermagem (ação planejada e deliberada, baseada na percepção e análise da condição do ser humano).
+C) Incorreta. Horta apresentou a definição do PE na década de 1970 como a “dinâmica das ações sistematizadas e inter-relacionadas, visando à assistência ao indivíduo, família e comunidade”. No entanto, foi apenas em 2002 que o COFEN publicou a Resolução nº 272, dispondo sobre a Sistematização da Assistência de Enfermagem (SAE) nas instituições de saúde e definindo-a como atividade privativa do enfermeiro.
+D) Incorreta. A Resolução COFEN nº 358/2009, que substituiu a Resolução nº 272/2002, estabelece em seu artigo 1º que o PE deve ser realizado de forma deliberada e sistemática em todos os ambientes, sejam públicos ou privados, onde ocorra o cuidado profissional de enfermagem.
+§ 1º – os ambientes de que trata o caput deste artigo referem-se a instituições prestadoras de serviços de internação hospitalar, instituições prestadoras de serviços ambulatoriais de saúde, domicílios, escolas, associações comunitárias, fábricas, entre outros.
+§ 2º – quando realizado em instituições prestadoras de serviços ambulatoriais de saúde, domicílios, escolas, associações comunitárias, entre outros, o Processo de Saúde de Enfermagem corresponde ao usualmente denominado nesses ambientes como Consulta de Enfermagem.
+E) Incorreta. A Resolução COFEN nº 736/2024 revoga a de nº 358/2009 e determina que o Processo de Enfermagem deve ser desenvolvido de forma deliberada e sistemática em qualquer contexto socioambiental onde ocorra o cuidado de enfermagem. Além disso, atualiza as etapas do PE, que passam a ser: avaliação de enfermagem, diagnóstico de enfermagem, planejamento de enfermagem, implementação de enfermagem e evolução de enfermagem. 
+
+Curso:	Enfermagem	Ponto de Interação:	1	Nº da questão:	6
+**Identificação da questão** 
+PPD_FE_09_ Teorias_de_Enfermagem_P1_2025-1_Q06
+**Texto-base**
+O Processo de Enfermagem (PE) contribui para uma linha de cuidados mais organizada. A partir da implementação de suas etapas, torna-se possível identificar as necessidades do paciente e planejar estratégias de cuidado que priorizem sua segurança. Além disso, o PE oferece respaldo legal ao enfermeiro e à equipe de enfermagem por meio dos registros documentados, facilitando a comunicação entre os profissionais de saúde. Essa troca de informações permite o uso de indicadores de qualidade, favorecendo a melhoria contínua da segurança do paciente e a busca pela excelência nos serviços prestados.
+KUHN, C. et al. A importância do processo de enfermagem como paradigma científico: Uma reflexão. XXII Seminário Interinstitucional de Ensino, Pesquisa e Extensão. 2017. (Adaptado)
+**Enunciado**
+Com base nas informações apresentadas, avalie as afirmações a seguir.
+I.	O PE deve estar fundamentado em suportes teóricos, que podem estar associados entre si. É possível recorrer a teorias, protocolos e outros instrumentos de avaliação comprovados cientificamente, além de empregar linguagem padronizada
+II.	O PE pode trazer vários benefícios para o profissional de enfermagem, como valorização profissional, melhoria da qualidade do cuidado e aperfeiçoamento das percepções. 
+III.	O PE, ao promover uma avaliação individualizada, possibilita um cuidado mais direcionado ao paciente, elevando seu nível de satisfação, contribuindo para a resolução de problemas e melhorando significativamente a comunicação entre enfermeiro e paciente. 
+IV.	A implementação do PE é uma tarefa simples, que pode ser realizada por qualquer profissional de enfermagem, sem enfrentar obstáculos, uma vez que sua aplicação já é abordada na formação básica desses profissionais.
+É correto o que se afirma em
+**Alternativas**
+A)	I e II, apenas.
+B)	I e III, apenas.
+C)	II e III, apenas.
+D)	I, II e III, apenas.
+E)	II, III e IV, apenas.
+**Gabarito** [D]
+I, II e III, apenas.
+**Feedback**
+I.	Correta. Conforme estabelece o artigo 2º da Resolução nº 736/2024, o PE deve ser fundamentado em bases teóricas, que podem estar inter-relacionadas, como teorias e modelos de cuidado, sistemas de linguagens padronizadas, instrumentos de avaliação e predição de risco validados, protocolos baseados em evidências científicas, além de outros conhecimentos correlatos. Esses elementos incluem estruturas teóricas conceituais e operacionais que oferecem fundamentos descritivos, explicativos, preditivos e prescritivos ao processo.
+II.	Correta. Entre os benefícios atribuídos à implementação do PE, estão: cuidado humanizado, individualizado e holístico; suporte à prática clínica e à tomada de decisões; qualificação do cuidado; melhoria na qualidade dos registros de enfermagem; valorização profissional; promoção da autonomia; maior interação entre os membros da equipe; satisfação dos usuários e otimização de custos.
+III.	Correta. O PE é uma ferramenta estratégica para a organização e sistematização das ações da equipe de enfermagem, contribuindo para a efetividade dos princípios e valores das políticas públicas de saúde. Ele favorece a elaboração de planos de cuidado individualizados, centrados no sujeito e não apenas na doença, promovendo intervenções voltadas à promoção, prevenção, recuperação e reabilitação da saúde. Além disso, fortalece a comunicação, reduz erros e melhora o desempenho institucional.
+IV.	Incorreto. A implementação do PE é uma atividade complexa que enfrenta diversas barreiras na sua implementação, tais como: resistência à mudança, desvalorização do método, falta de experiência e conhecimento sobre suas etapas. Além disso, há dificuldades relacionadas à qualificação e capacitação profissional, incluindo falhas na educação permanente, déficit de profissionais, jornadas exaustivas, múltiplos vínculos empregatícios e baixa remuneração. Também são desafios a gestão do tempo, o equilíbrio entre múltiplas tarefas assistenciais, o cumprimento de protocolos e a exigência de documentação administrativa. 
+
+Curso:	Enfermagem	Ponto de Interação:	2	Nº da questão:	1
+**Identificação da questão** 
+PPD_FE_09_ Primeira_Etapa_Processo_Enfermagem_P2_2025-1_Q01 
+
+**Texto-base**
+Para a coleta de dados durante o exame físico, é essencial a utilização dos sentidos – visão, olfato, tato e audição. A realização eficaz desse exame requer prática constante, por meio de treinamentos repetidos, seja em ambientes supervisionados com manequins, em indivíduos saudáveis ou em pacientes.
+ PORTO, C. C.; PORTO, A. L. Semiologia médica. 8. ed. Rio de Janeiro: Guanabara Koogan; 2021.p 67. (Adaptado).
+**Enunciado**
+Assinale a opção que apresenta a sequência correta das técnicas utilizadas durante o exame físico geral.
+
+**Alternativas**
+A)	Ausculta, palpação, percussão e inspeção.
+B)	Inspeção, palpação, percussão e ausculta.
+C)	Palpação, inspeção, ausculta e percussão.
+D)	Percussão, ausculta, inspeção e palpação.
+E)	Inspeção, ausculta, palpação e percussão.
+**Gabarito** [B]
+Inspeção, palpação, percussão e ausculta.
+**Feedback**
+A) Incorreta. Esta alternativa está incorreta porque a ausculta não deve ser realizada antes da inspeção e da palpação. A ausculta é uma técnica que depende de um ambiente silencioso e da preparação prévia do paciente, sendo realizada após a inspeção e a palpação.
+B) Correta. Esta alternativa está correta. A sequência lógica do exame físico geral começa com a inspeção (observação cuidadosa do paciente), seguida pela palpação (uso das mãos para sentir texturas, temperaturas e edemas), depois a percussão (para identificar tamanho e densidade de órgãos) e, por fim, a ausculta (uso do estetoscópio para ouvir sons do corpo).
+C) Incorreta. Esta alternativa está incorreta porque a inspeção deve ser realizada antes da palpação. A inspeção permite uma avaliação visual inicial, que orienta as técnicas subsequentes, como a palpação.
+D) Incorreta. Esta alternativa está incorreta porque a percussão e a ausculta são técnicas que devem ser realizadas após a inspeção e a palpação. A inspeção é o primeiro passo para uma avaliação geral do paciente.
+E) Incorreta. Esta alternativa está incorreta porque a ausculta não deve ser realizada antes da palpação e da percussão. A palpação e a percussão ajudam a identificar alterações que podem ser confirmadas ou complementadas pela ausculta.
+
+Curso:	Enfermagem	Ponto de Interação:	2	Nº da questão:	2
+**Identificação da questão** 
+PPD_FE_09_ Primeira_Etapa_Processo_Enfermagem_P2_2025-1_Q02 
+
+**Texto-base**
+As doenças do coração manifestam-se por variados sinais e sintomas, alguns originados no próprio coração, outros em diferentes órgãos nos quais repercutem com mais intensidade as alterações do funcionamento cardíaco.
+PORTO, C. C.; PORTO, A. L. Semiologia médica. 8. ed. Rio de Janeiro: Guanabara Koogan; 2021.p 67. (Adaptado).
+**Enunciado**
+Com base nas informações apresentadas, assinale a etapa do exame físico cardiovascular na qual se identifica, por meio do estetoscópio, sons cardíacos anormais, como sopros ou estalidos.
+
+**Alternativas**
+A)	Inspeção.
+B)	Palpação.
+C)	Percussão.
+D)	Ausculta.
+E)	Observação.
+**Gabarito** [D]
+Ausculta.
+**Feedback**
+A) Incorreta. A inspeção envolve a observação visual do paciente para identificar sinais como palidez, cianose, edema ou deformidades torácicas. Ela não utiliza o estetoscópio para auscultar sons cardíacos.
+B) Incorreta. A palpação consiste em usar as mãos para sentir vibrações, pulsos ou pontos de dor no tórax. Embora seja útil para avaliar a frequência e o ritmo cardíaco, ela não é usada para identificar sons cardíacos anormais.
+C) Incorreta. A percussão é uma técnica que envolve percutir levemente o tórax para avaliar o tamanho e a posição do coração com base no som produzido. Ela não é usada para auscultar sons cardíacos específicos, como sopros.
+D) Correta. A ausculta é a etapa do exame físico cardiovascular em que se utiliza o estetoscópio para ouvir os sons cardíacos, como S1 e S2, e identificar possíveis anormalidades, como sopros ou estalidos, que podem indicar problemas valvares ou outras condições cardíacas.
+E) Incorreta. A observação é um termo genérico que pode se referir à inspeção, mas não especifica o uso do estetoscópio para auscultar sons cardíacos. A ausculta é a técnica específica para essa finalidade.
+
+Curso:	Enfermagem	Ponto de Interação:	2	Nº da questão:	3
+**Identificação da questão** 
+PPD_FE_09_ Primeira_Etapa_Processo_Enfermagem_P2_2025-1_Q03
+
+**Texto-base**
+A avaliação do sistema cardiovascular deve ser conduzida com base em dados coletados na anamnese, no exame físico e em outros recursos diagnósticos. As queixas relatadas pelo paciente auxiliam na definição de prioridades para a busca de sinais durante o exame físico e para a realização das intervenções apropriadas. 
+BARROS, A. L.; BOTTURA, L. de. Anamnese & exame físico: avaliação diagnóstica de enfermagem no adulto. 4. ed. Porto Alegre: ArtMed, 2021. (Adaptado)
+**Enunciado**
+Com base no texto apresentado, pode-se afirmar que o principal objetivo da etapa de inspeção no exame físico cardiovascular é
+
+**Alternativas**
+A)	identificar vibrações ou pulsos anormais no tórax.
+B)	observar sinais como palidez, cianose ou edema.
+C)	percutir o tórax para avaliar o tamanho do coração.
+D)	auscultar os sons cardíacos com o estetoscópio.
+E)	realizar um ecocardiograma para avaliar a função cardíaca.
+**Gabarito** [B]
+auscultar os sons cardíacos com o estetoscópio.
+**Feedback**
+A) Incorreta. A identificação de vibrações ou pulsos anormais no tórax é realizada na etapa de palpação, não na inspeção.
+B) Correta.  A inspeção envolve a observação visual do paciente para detectar sinais de problemas cardiovasculares.
+C) Incorreta. A percussão do tórax para avaliar o tamanho do coração é realizada na etapa de percussão, não na inspeção.
+D) Incorreta. A ausculta de sons cardíacos com o estetoscópio faz parte da etapa de ausculta.
+E) Incorreta. O ecocardiograma é um exame complementar, não faz parte do exame físico direto.
+
+Curso:	Enfermagem	Ponto de Interação:	2	Nº da questão:	4
+**Identificação da questão** 
+PPD_FE_09_ Primeira_Etapa_Processo_Enfermagem_P2_2025-1_Q04 
+
+**Texto-base**
+Parte dos pacientes com lesão renal apresenta queixas que não estão diretamente relacionadas aos rins ou ao trato urinário. Isso ocorre em condições nas quais o órgão é lesionado de forma insidiosa, até que haja uma deterioração significativa da função renal. As manifestações das doenças do sistema urinário incluem alterações na micção (volume e características da urina), dor, edema, febre e calafrios.
+PORTO, C. C.; PORTO, A. L. Semiologia médica. 8. ed. Rio de Janeiro: Guanabara Koogan; 2021.p 67. (Adaptado).
+
+**Enunciado**
+Durante o exame físico do aparelho geniturinário, a técnica utilizada para identificar a presença de dor, aumento dos rins ou distensão da bexiga por meio do toque é a
+**Alternativas**
+A)	inspeção.
+B)	palpação.
+C)	percussão.
+D)	ausculta.
+E)	observação.
+**Gabarito** [B]
+palpação.
+**Feedback**
+A) Incorreta. A inspeção envolve a observação visual do paciente para identificar sinais como edema, palidez, distensão abdominal ou alterações na genitália. Ela não utiliza o toque para avaliar dor ou aumento dos rins.
+B) Correta. A palpação é a técnica que utiliza o toque das mãos para identificar alterações como dor, aumento dos rins ou distensão da bexiga. A palpação da região lombar, por exemplo, pode revelar sensibilidade renal, enquanto a palpação do abdômen inferior pode detectar distensão da bexiga.
+C) Incorreta. A percussão é utilizada para avaliar o tamanho dos rins e a distensão da bexiga por meio dos sons produzidos ao percutir a região. Ela não é usada para identificar dor ou sensibilidade diretamente.
+D) Incorreta. A ausculta é menos comum no exame geniturinário e é geralmente reservada para avaliar artérias renais em casos de suspeita de estenose. Ela não é usada para identificar dor ou aumento dos rins por meio do toque.
+E) Incorreta. A observação é um termo genérico que pode se referir à inspeção, mas não especifica a técnica de palpação, que é a mais adequada para identificar dor ou aumento dos rins por meio do toque.
+
+Curso:	Enfermagem	Ponto de Interação:	2	Nº da questão:	5
+**Identificação da questão** 
+PPD_FE_09_ Primeira_Etapa_Processo_Enfermagem_P2_2025-1_Q05 
+
+**Texto-base**
+A palpação coleta dados por meio do tato e da pressão, permitindo avaliar textura, temperatura, sensibilidade e presença de massas. Já a percussão baseia-se no princípio de que, ao golpear determinada área do corpo, são geradas vibrações que apresentam características específicas de intensidade, timbre e tonalidade, conforme a estrutura anatômica percutida. A percussão possibilita identificar ressonância, determinar o tamanho dos órgãos e detectar a presença de líquido.
+PORTO, C. C.; PORTO, A. L. Semiologia médica. 8. ed. Rio de Janeiro: Guanabara Koogan; 2021.p 67. (Adaptado).
+**Enunciado**
+Sabe-se que a sequência das técnicas propedêuticas utilizadas é de suma importância para a eficácia do exame.
+Com base nas informações, assinale a opção que apresenta a sequência correta para a realização do exame físico do sistema digestório (exame abdominal).
+**Alternativas**
+A)	Inspeção, Percussão, Palpação e Ausculta.
+B)	Inspeção, Ausculta, Percussão e Palpação.
+C)	Inspeção, Palpação, Percussão e Ausculta.
+D)	Inspeção, Palpação, Ausculta e Percussão. 
+E)	C e D estão corretas. 
+**Gabarito** [B]
+Inspeção, Ausculta, Percussão e Palpação.
+**Feedback**
+A)  Incorreta. Realizar a percussão antes da palpação pode alterar achados importantes, como a sensibilidade ou a presença de massas, comprometendo a precisão do exame. Além disso, a sequência clássica prioriza a palpação após a inspeção para confirmar ou refinar observações iniciais.
+B) Correta. A ausculta precoce (logo após a inspeção) é aplicada apenas em situações específicas, como no exame abdominal, para evitar alterar os sons intestinais com a palpação ou percussão. Porém, em exames gerais (ex.: cardíaco ou respiratório), a sequência tradicional não segue essa ordem.
+C) Incorreta. A sequência padrão para a maioria dos exames físicos (exceto o abdominal) é:
+1.Inspeção: Observação visual inicial.
+2.Palpação: Avaliação de textura, temperatura, sensibilidade e massas.
+3.Percussão: Identificação de ressonância, tamanho de órgãos ou presença de líquido.
+4.Ausculta: Detecção de sons internos (ex.: cardíacos, pulmonares).
+D) Incorreta. A percussão após a ausculta é inadequada na maioria dos casos. Por exemplo, no exame respiratório ou cardíaco, a percussão ajuda a delimitar áreas antes da ausculta direcionada. Inverter essa ordem pode levar a erros na interpretação dos sons. Exceção: No exame abdominal, a sequência é inspeção → ausculta → percussão → palpação, para evitar alterar os sons intestinais. Porém, a questão não especifica o contexto, então considera-se a regra geral.
+E) Incorreta. Apenas a opção C está correta como sequência geral. A opção D só seria válida no exame abdominal, mas a questão não restringe o contexto. Portanto, a afirmação de que "C e D estão corretas" é falsa.
+
+Curso:	Enfermagem	Ponto de Interação:	2	Nº da questão:	6
+**Identificação da questão** 
+PPD_FE_09_ Primeira_Etapa_Processo_Enfermagem_P2_2025-2_Q06 
+
+**Texto-base**
+O Processo de Enfermagem (PE) é composto por cinco etapas, que devem ser realizadas de forma ordenada e coerente, respeitando a sequência lógica entre elas.
+TANNURE, M. C. PINHEIRO, A. M. SAE: Sistematização do Processo de Enfermagem: Guia Prático. 2. ed. Rio de Janeiro: Guanabara Koogan, 2010. 298 p. (Adaptado)
+**Enunciado**
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+I. A etapa de anamnese e exame físico dentro do PE deve ser realizada pelo enfermeiro e é a primeira etapa do PE.
+PORQUE
+II. Essa é a etapa fundamental para a coleta dos dados (investigação), servirá de base para a formulação do diagnóstico de enfermagem e o planejamento dos resultados esperados; somente após isso é possível realizar as ações.
+A respeito dessas asserções, assinale a opção correta.
+
+**Alternativas**
+A)	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. 
+C)	A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. 
+D)	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. 
+E)	As asserções I e II são proposições falsas.
+**Gabarito** [A]
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+**Feedback** 
+Ambas as proposições são verdadeiras, sendo que a segunda justifica a primeira. Inicialmente, realiza-se a coleta de dados por meio da anamnese e do exame físico, etapas que fornecem subsídios essenciais para o raciocínio clínico e para a construção das fases subsequentes do PE, como o diagnóstico de enfermagem e o planejamento das ações.
+
+Curso:	Enfermagem	Ponto de Interação:	3	Nº da questão:	1
+**Identificação da questão** 
+PPD_FE_09_ Segunda_Etapa_Processo_Enfermagem_P3_2025-1_Q01 
+
+**Texto-base**
+O Processo de Enfermagem (PE) é um método sistemático para planejar e prestar cuidados de enfermagem individualizados. A Resolução COFEN nº 736/2024 estabelece que ele deve ser implementado em todos os contextos de cuidado, sendo dividido em cinco etapas: Avaliação, Diagnóstico, Planejamento, Implementação e Avaliação da Assistência. A Avaliação de Enfermagem, como primeira etapa, envolve a coleta e análise de dados subjetivos e objetivos, fundamentais para um diagnóstico preciso e embasado.
+Conselho Federal de Enfermagem (COFEN). Resolução COFEN nº 736/2024. Dispõe sobre a implementação do Processo de Enfermagem em todo contexto socioambiental onde ocorre o cuidado de enfermagem. Brasília: COFEN; 2024.
+**Enunciado**
+Com base na primeira etapa do PE, assinale a alternativa que melhor descreve a coleta de dados objetiva.
+
+**Alternativas**
+A)	Queixa do paciente sobre fadiga persistente.
+B)	Relato do paciente sobre a presença de dor no peito.
+C)	Histórico familiar de diabetes mellitus informado pelo paciente.
+D)	Aferição de pressão arterial e presença de edema em membros inferiores.
+E)	Declaração do paciente sobre dificuldades emocionais relacionadas à doença.
+**Gabarito** [D]
+Aferição de pressão arterial e presença de edema em membros inferiores.
+**Feedback** 
+A coleta de dados objetivos diz respeito a informações observáveis e mensuráveis, como sinais clínicos, achados do exame físico e resultados de exames laboratoriais. Por esse motivo, a alternativa D está correta, pois menciona a aferição da pressão arterial e a presença de edema — ambos dados mensuráveis e verificáveis. Já as **Alternativas** A, B e E estão incorretas por apresentarem dados subjetivos, ou seja, informações relatadas pelo paciente que não podem ser comprovadas diretamente pelo enfermeiro. A alternativa C também está incorreta, pois o histórico familiar, embora relevante, é um dado subjetivo obtido durante a anamnese.
+
+Curso:	Enfermagem	Ponto de Interação:	3	Nº da questão:	2
+**Identificação da questão** 
+PPD_FE_09_ Segunda_Etapa_Processo_Enfermagem_P3_2025-1_Q02 
+
+**Texto-base**
+Segundo a NANDA-I (2024-2026), os diagnósticos de enfermagem podem ser classificados em três categorias: foco no problema, diagnóstico de risco e promoção da saúde. Um diagnóstico de risco refere-se à vulnerabilidade do paciente para desenvolver um problema de saúde, enquanto um diagnóstico focado no problema descreve uma condição existente e observável.
+HERDMAN, T. H.; KAMITSURU, S.; LOPES, C. T. (Org.). Diagnósticos de enfermagem da NANDA-I: definições e classificação 2024-2026 [recurso eletrônico]. 13. ed. Porto Alegre: Artmed, 2024. Tradução: Camila Takáo Lopes. Revisão técnica: Alba Lucia Bottura Leite de Barros [et al.].
+**Enunciado**
+Um enfermeiro avalia um paciente idoso, acamado há 10 dias, apresentando imobilidade, edema em membros inferiores e risco elevado para o desenvolvimento de lesões graves. Assinale o diagnóstico que melhor se enquadra na classificação de risco, segundo a NANDA-I.
+**Alternativas**
+A)	Risco de integridade da pele prejudicada.
+B)	Déficit de autocuidado para banho.
+C)	Integridade da pele prejudicada.
+D)	Mobilidade física prejudicada.
+E)	Padrão de infecções ineficaz.
+**Gabarito** [A]
+Risco de integridade da pele prejudicada.
+**Feedback** 
+A alternativa A — risco de integridade da pele prejudicada — está correta, pois indica uma vulnerabilidade ao problema, mesmo sem sinais ou sintomas evidentes da condição. A **Alternativas** B, C, D e E estão incorretas, pois correspondem a diagnósticos com foco no problema, que descrevem condições já instaladas, enquanto a questão requer um diagnóstico de risco.
+
+Curso:	Enfermagem	Ponto de Interação:	3	Nº da questão:	3
+**Identificação da questão** 
+PPD_FE_09_ Segunda_Etapa_Processo_Enfermagem_P3_2025-1_Q03
+
+**Texto-base**
+A promoção da saúde é um componente essencial do cuidado de enfermagem, focado em estratégias para melhorar o bem-estar e a qualidade de vida dos pacientes. Segundo a NANDA-I (2024-2026), os diagnósticos de enfermagem podem ser classificados em três categorias: Foco no problema – que descreve uma condição existente e observável; Diagnóstico de risco – que aponta para a vulnerabilidade do paciente ao desenvolvimento de um problema de saúde; e Promoção da saúde – que expressa a motivação e intenção do paciente de melhorar sua condição e manter o bem-estar.
+HERDMAN, T. H.; KAMITSURU, S.; LOPES, C. T. (Org.). Diagnósticos de enfermagem da NANDA-I: definições e classificação 2024-2026 [recurso eletrônico]. 13. ed. Porto Alegre: Artmed, 2024. Tradução: Camila Takáo Lopes. Revisão técnica: Alba Lucia Bottura Leite de Barros [et al.].
+
+O enfermeiro Matheus conduz uma consulta de enfermagem em uma Unidade Básica de Saúde (UBS) com um paciente de 48 anos, sem doenças crônicas, que busca orientação sobre como melhorar seu condicionamento físico e alimentação. Durante uma consulta, o paciente relata que deseja adotar um estilo de vida mais saudável para prevenir doenças cardiovasculares, já que tem histórico familiar de hipertensão e diabetes mellitus tipo 2. Embora demonstre motivação para a prática regular de exercícios físicos e melhoria da alimentação, relata desconhecimento acerca dos passos iniciais para essa mudança.
+
+**Enunciado**
+Com base na avaliação realizada, indique o diagnóstico de enfermagem que melhor se enquadra na categoria de Promoção da Saúde, segundo a NANDA-I.
+**Alternativas**
+A)	Padrão de infecções ineficaz.
+B)	Mobilidade física prejudicada.
+C)	Risco de estilo de vida sedentário.
+D)	Disposição para controle da saúde melhorada.
+E)	Nutrição desequilibrada: menor que as necessidades corporais.
+**Gabarito** [D]
+Disposição para controle da saúde melhorada.
+**Feedback** 
+A alternativa D está correta, pois caracteriza um diagnóstico de promoção da saúde, aplicável quando o paciente demonstra interesse e intenção de melhorar seu estado de saúde. As **Alternativas** E e C estão incorretas, pois indicam problemas potenciais ou reais, não refletindo a motivação do paciente para a promoção da saúde. A alternativa A está equivocada, pois não há evidências de problemas relacionados à proteção. A alternativa B também está incorreta, pois o paciente não apresenta limitações de mobilidade.
+
+Curso:	Enfermagem	Ponto de Interação:	3	Nº da questão:	4
+**Identificação da questão** 
+PPD_FE_09_ Segunda_Etapa_Processo_Enfermagem_P3_2025-1_Q04
+
+**Texto-base**
+A documentação adequada dos diagnósticos de enfermagem no prontuário do paciente assegura a continuidade do cuidado, aprimora a comunicação entre os profissionais e oferece respaldo legal para as intervenções realizadas.
+
+**Enunciado**
+Com base nas informações apresentadas, assinale a alternativa correta sobre a documentação do diagnóstico de enfermagem.
+**Alternativas**
+A)	Deve ser registrada somente em situações de urgência e emergência.
+B)	Assegura a continuidade do cuidado e possibilita a realização de auditorias de qualidade.
+C)	Pode ser omitida caso a prescrição médica contenha todas as informações necessárias.
+D)	Pode ser redigida de forma subjetiva e informal, sem necessidade de padronização.
+E)	Serve exclusivamente como referência para enfermeiros, sem influenciar outros profissionais.
+**Gabarito** [B]
+Assegura a continuidade do cuidado e possibilita a realização de auditorias de qualidade.
+**Feedback** 
+A alternativa B está correta, pois a documentação no prontuário garante a continuidade do cuidado, possibilita auditorias e promove segurança jurídica para o profissional de enfermagem. As **Alternativas** A, C, D e E estão erradas, pois desconsideram a obrigatoriedade e a importância do registro no prontuário.
+
+Curso:	Enfermagem	Ponto de Interação:	3	Nº da questão:	5
+**Identificação da questão** 
+PPD_FE_09_ Segunda_Etapa_Processo_Enfermagem_P3_2025-1_Q05
+
+**Texto-base**
+A documentação do Processo de Enfermagem (PE) no prontuário eletrônico do paciente é fundamental para garantir a continuidade do cuidado. A padronização adequada dos registros possibilita que a equipe multiprofissional compreenda as necessidades do paciente, além de favorecer auditorias, atividades de ensino e pesquisa.
+Em uma auditoria realizada na UTI de um hospital universitário, foi constatado que algumas evoluções de enfermagem não apresentavam diagnósticos estruturados segundo a NANDA-I, o que dificultava a comunicação entre os profissionais e comprometia a qualidade da assistência.
+
+**Enunciado**
+Diante do cenário apresentado, assinale a principal justificativa para a necessidade da documentação dos diagnósticos de enfermagem.
+**Alternativas**
+A)	Utilizar o prontuário eletrônico somente em situações emergenciais.
+B)	Restringir o acesso às informações do prontuário exclusivamente a profissionais médicos.
+C)	Favorecer a comunicação entre os profissionais e assegurar a continuidade da assistência.
+D)	Desconsiderar a obrigatoriedade da documentação dos diagnósticos, conforme a Resolução COFEN nº 736/2024.
+E)	Limitar a responsabilidade dos diagnósticos de enfermagem à equipe de enfermagem, sem impacto para outros setores.
+**Gabarito** [C]
+Favorecer a comunicação entre os profissionais e assegurar a continuidade da assistência.
+**Feedback** 
+A documentação estruturada dos diagnósticos aprimora a comunicação, assegura a continuidade do cuidado e possibilita a realização de auditorias. Dessa forma, a alternativa C está correta. As **Alternativas** A, B, D e E estão incorretas, pois desconsideram a importância do registro adequado dos diagnósticos.
+
+Curso:	Enfermagem	Ponto de Interação:	3	Nº da questão:	6
+**Identificação da questão** 
+PPD_FE_09_ Segunda_Etapa_Processo_Enfermagem_P3_2025-1_Q06
+
+**Texto-base**
+Durante a internação hospitalar, os pacientes são submetidos a avaliações médicas e de enfermagem. Enquanto o diagnóstico médico concentra-se na doença e em sua fisiopatologia, o diagnóstico de enfermagem visa identificar as respostas humanas às condições de saúde.
+O enfermeiro Carlos atendeu um paciente de 68 anos, com dispneia, fadiga intensa e edema em membros inferiores, relatado por médico com insuficiência cardíaca congestiva (ICC). Durante a avaliação de enfermagem, Carlos planejou que o paciente relatasse dificuldade para dormir devido à dispneia e cansaço ao realizar pequenas atividades, como escovar os dentes.
+**Enunciado**
+Com base no caso apresentado, assinale a alternativa que melhor diferencia o diagnóstico médico do diagnóstico de enfermagem.
+**Alternativas**
+A)	O diagnóstico médico descreve o impacto da doença, enquanto o diagnóstico de enfermagem é "Intolerância à Atividade relacionada à fadiga, evidenciada por cansaço ao pentear o cabelo".
+B)	O diagnóstico de enfermagem deve ser baseado no diagnóstico médico para garantir continuidade no cuidado, sendo "ICC com necessidade de repouso absoluto".
+C)	O diagnóstico médico é "Insuficiência Cardíaca Congestiva" e o diagnóstico de enfermagem é "Risco de Débito Cardíaco Diminuído".
+D)	O diagnóstico médico e o de enfermagem são os mesmos, pois ambos descrevem a patologia do paciente.
+E)	Não há diferença entre os diagnósticos, pois ambos orientam o plano terapêutico.
+**Gabarito** [A]
+O diagnóstico médico descreve o impacto da doença, enquanto o diagnóstico de enfermagem é "Intolerância à Atividade relacionada à fadiga, evidenciada por cansaço ao pentear o cabelo".
+**Feedback** 
+O diagnóstico médico identifica a doença (Insuficiência Cardíaca Congestiva), enquanto o diagnóstico de enfermagem avalia as respostas humanas associadas à condição. A alternativa A está correta, pois "Intolerância à Atividade" descreve o impacto funcional do ICC na rotina do paciente. As **Alternativas** B, C, D e E estão erradas, pois não diferenciam corretamente a abordagem da enfermagem.
+
+Curso:	Enfermagem	Ponto de Interação:	4	Nº da questão:	1
+**Identificação da questão** 
+PPD_FE_09_Terceira_Quarta_Quinta_Etapas_Processo_Enfermagem_P4_2025-1_Q01 
+
+**Texto-base**
+A Resolução nº 736/2024 do Conselho Federal de Enfermagem (COFEN) estabelece normas para a implementação do Processo de Enfermagem (PE) em todos os contextos socioambientais onde se realiza o cuidado de enfermagem. Conforme especificado pela resolução, o PE organiza-se em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas. A quarta etapa do PE é denominada Implementação de Enfermagem, abrangendo a execução das intervenções, ações e atividades previstas no planejamento assistencial pela equipe de enfermagem. 
+COFEN – Resolução COFEN Nº 736/2024: Dispõe sobre a implementação do Processo de Enfermagem em todo contexto socioambiental onde ocorre o cuidado de enfermagem. Disponível em: https://www.cofen.gov.br/resolucao-cofen-no-736-de-17-de-janeiro-de-2024/. Acesso em: 29 mar. 2024.
+**Enunciado**
+Um exemplo de intervenção de enfermagem que se enquadra nos padrões de cuidados de Enfermagem, conforme previsto na Resolução COFEN nº 736/2024, é
+**Alternativas**
+A)	solicitar hemograma completo para avaliação clínica e tomada e elaboração de diagnóstico de enfermagem.
+B)	encorajar a verbalização de sentimentos, percepções e medos.
+C)	prescrever Miconazol creme a 2%, um aplicador (5g), à noite, ao deitar-se, por sete dias, via vaginal, em casos de candidíase vulvovaginal.
+D)	realizar sondagem vesical de demora para monitoramento e registro contínuo do volume e aspecto da urina.
+E)	avaliar os sinais vitais e a hemodinâmica do paciente. 
+**Gabarito** [D]
+A técnica de sondagem vesical é considerada um padrão de cuidados de enfermagem, caracterizada como cuidado autônomo do enfermeiro, ou seja, prescrita e realizada pelo enfermeiro de forma independente. Essa atividade é uma atribuição privativa do enfermeiro. O **Enunciado** da questão refere-se exclusivamente às ações previstas no planejamento assistencial da equipe de enfermagem.
+Essa informação está respaldada na Resolução COFEN nº 736/2024, § 4º, que define a implementação de enfermagem como a execução das intervenções, ações e atividades previstas no planejamento assistencial, realizadas pela equipe de enfermagem, em conformidade com as resoluções e pareceres do Conselho Federal e Conselhos Regionais de Enfermagem, respeitando a competência técnica de cada profissional. Essa execução ocorre por meio da colaboração e comunicação contínua, inclusive com a checagem da prescrição de enfermagem, e segue os seguintes padrões:
+I – Padrões de cuidados de enfermagem: cuidados autônomos do enfermeiro, ou seja, prescritos pelo enfermeiro de forma independente e realizados pelo enfermeiro, técnico de enfermagem ou auxiliar de enfermagem, conforme as competências técnicas e os preceitos legais da profissão.
+**Feedback** 
+As Alternativas A e C estão incorretas porque se referem a padrões de cuidados vinculados a programas do Ministério da Saúde, os quais não constituem ações privativas da equipe de enfermagem. Já as **Alternativas** B e E são equivocadas por tratarem de padrões de cuidados interprofissionais, permitindo que profissionais de outras áreas, além da enfermagem, realizem tais ações, o que não se aplica à técnica de sondagem vesical, que é uma atribuição exclusiva do enfermeiro.
+
+Curso:	Enfermagem	Ponto de Interação:	4	Nº da questão:	2
+**Identificação da questão** 
+PPD_FE_09_Terceira_Quarta_Quinta_Etapas_Processo_Enfermagem_P4_2025-1_Q02
+
+**Texto-base**
+O Processo de Enfermagem (PE) passou por uma atualização recente com a publicação da Resolução COFEN nº 736, de 17 de janeiro de 2024, que reorganizou suas etapas, tornando-as mais claras e objetivas. O PE constitui um instrumento fundamental que deve ser aplicado pelo enfermeiro durante a assistência, direcionando-se à pessoa, à família, à coletividade e a grupos especiais.
+COFEN – Resolução COFEN Nº 736/2024: Dispõe sobre a implementação do Processo de Enfermagem em todo contexto socioambiental onde ocorre o cuidado de enfermagem. Disponível em: https://www.cofen.gov.br/resolucao-cofen-no-736-de-17-de-janeiro-de-2024/. Acesso em: 29 mar. 2024. (Adaptado)
+**Enunciado**
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+I.	O Planejamento de Enfermagem envolve desenvolver um plano de cuidados para pessoas, famílias, comunidades e grupos especiais. Esse plano deve ser compartilhado com os cuidadores e a equipe de enfermagem e saúde, priorizando os diagnósticos de enfermagem.
+PORQUE
+II.	Os resultados esperados devem ser capazes de serem executados pela equipe de enfermagem e de saúde dentro de uma realidade possível no serviço de saúde.  
+A respeito dessas asserções, assinale a opção correta.
+**Alternativas**
+A)	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B)	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. 
+C)	A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D)	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E)	As asserções I e II são proposições falsas.
+**Gabarito** [A]
+De acordo com a nova resolução do COFEN 736/2024 em seu Art. 4º, § 3º, o Planejamento de Enfermagem compreende o desenvolvimento de um plano assistencial direcionado a pessoa, família, coletividade e grupos especiais, e compartilhado com os sujeitos do cuidado e equipe de Enfermagem e saúde. Deverá envolver:
+I – Priorização de Diagnósticos de Enfermagem;
+II – Determinação de resultados (quantitativos e/ou qualitativos) esperados e exequíveis de enfermagem e de saúde;
+Portanto, o planejamento deve ser passível de realização e deve compreender a realidade na qual o paciente está inserido.
+**Feedback** 
+A asserção II justifica a primeira, conforme o Art. 4º da Resolução, que determina que o planejamento do cuidado deve estar relacionado aos resultados esperados. O § 3º define o planejamento de enfermagem como o desenvolvimento de um plano assistencial direcionado à pessoa, família, coletividade e grupos especiais, e que deve ser compartilhado com os sujeitos do cuidado, bem como com a equipe de enfermagem e saúde. Dessa forma, ambas as asserções são verdadeiras e estão em conformidade com a Resolução do Conselho Federal.
+
+Curso:	Enfermagem	Ponto de Interação:	4	Nº da questão:	3
+**Identificação da questão** 
+PPD_FE_09_Terceira_Quarta_Quinta_Etapas_Processo_Enfermagem_P4_2025-1_Q03
+**Texto-base**
+Em um centro de saúde comunitária, um enfermeiro é responsável pelo cuidado de um paciente com tuberculose pulmonar ativa, proveniente de uma região com alta incidência da doença e que apresenta dificuldades para aderir ao tratamento medicamentoso. O enfermeiro está adotando medidas para garantir o controle da transmissão da tuberculose na comunidade e a aderência do paciente ao tratamento.
+
+**Enunciado**
+Um aspecto fundamental do “processo do cuidar em enfermagem” enfatizado neste cenário é
+**Alternativas**
+A)	a administração eficaz de medicamentos antituberculose.
+B)	a educação do paciente sobre a importância da aderência ao tratamento e das medidas de controle de infecção.
+C)	o monitoramento contínuo dos sintomas clínicos do paciente.
+D)	o isolamento do paciente em uma sala de isolamento respiratório.
+E)	o envolvimento da família para estimular a adesão ao tratamento mesmo sem o consentimento do paciente, pois a doença é contagiosa e coloca outros em perigo.
+**Gabarito** [B]
+A educação em saúde é uma atribuição do enfermeiro, de acordo com o Conselho Federal de Enfermagem (Cofen), sendo uma forma de promover a independência e o empoderamento do paciente. 
+**Feedback**
+A) Incorreta. A administração eficaz do medicamento é importante e deve ser muito bem explicada pelo enfermeiro, mas ela só ocorre quando o paciente apresenta boa adesão ao tratamento.
+C) Incorreta. O monitoramento contínuo dos sinais e sintomas só é possível em pacientes internados e em observação contínua pela equipe de saúde. No caso, o paciente está sendo atendido em um centro de saúde, não em um ambiente hospitalar.
+D) Incorreta. Não há salas de isolamento em um centro de saúde, somente em ambiente hospitalar. A tuberculose é uma doença grave, porém curável, e seu tratamento pode ser realizado em casa, com acompanhamento da equipe de enfermagem e saúde.
+E) Incorreta. De acordo com o código de ética, é dever do enfermeiro manter segredo sobre fato sigiloso de que tenha conhecimento em razão de sua atividade profissional, exceto casos previstos em lei, ordem judicial, ou com o consentimento escrito da pessoa envolvida ou de seu representante legal.
+
+Curso:	Enfermagem	Ponto de Interação:	4	Nº da questão:	4
+**Identificação da questão** 
+ PPD_FE_09_Terceira_Quarta_Quinta_Etapas_Processo_Enfermagem_P4_2025-1_Q04
+**Texto-base**
+
+**Enunciado**
+De acordo com a Resolução COFEN nº 736/2024, que regulamenta a implementação do Processo de Enfermagem (PE) em todos os contextos socioambientais onde se desenvolve o cuidado de enfermagem, assinale a alternativa correta.
+**Alternativas**
+A)	Os termos Sistematização da Assistência de Enfermagem (SAE) e Processo de Enfermagem (PE) são equivalentes, pois ambos se referem ao método que orienta o pensamento crítico e o julgamento clínico do enfermeiro no cuidado a pessoas, famílias e coletividades.
+B)	O Processo de Enfermagem organiza-se em seis etapas inter-relacionadas, interdependentes, recorrentes e cíclicas.
+C)	Diagnósticos, resultados, indicadores, intervenções e ações/atividades de enfermagem podem ser apoiados nos Sistemas de Linguagem Padronizada de Enfermagem, em protocolos institucionais, com os melhores níveis de evidências científicas.
+D)	A etapa do Processo de Enfermagem denominada Entrevista de Enfermagem compreende a coleta de dados subjetivos e objetivos (exame físico) inicial e contínua, pertinentes à saúde da pessoa, família e coletividade.
+E)	A etapa do Processo de Enfermagem denominada Tomada de Decisão Terapêutica envolve o uso de linguagem padronizada para embasar a escolha dos diagnósticos de enfermagem.
+**Gabarito** [C]
+Conforme o Art. 3º da Resolução COFEN nº 736/2024, os diagnósticos, os resultados esperados, os indicadores, as intervenções e as ações ou atividades de enfermagem podem ser fundamentados em Sistemas de Linguagem Padronizada de Enfermagem, em protocolos institucionais e nas melhores evidências científicas disponíveis.
+**Feedback**
+A) Incorreta. O Processo de Enfermagem (PE) e a Sistematização da Assistência de Enfermagem (SAE) são termos diferentes, mas interligados. A SAE é uma metodologia científica que organiza o trabalho profissional e o PE é um método de trabalho que orienta a assistência e as atividades da enfermagem 
+B) Incorreta. O Processo de Enfermagem organiza-se em cinco etapas inter-relacionadas, interdependentes, recorrentes e cíclicas.
+D) Incorreta. Essa etapa denomina-se Avaliação de Enfermagem.
+E) Incorreta. Essa etapa denomina-se Diagnóstico de Enfermagem.
+
+Curso:	Enfermagem	Ponto de Interação:	4	Nº da questão:	5
+**Identificação da questão** 
+PPD_FE_09_Terceira_Quarta_Quinta_Etapas_Processo_Enfermagem_P4_2025-1_Q05
+**Texto-base**
+Maria, 65 anos, hospitalizada com pneumonia, apresenta debilidade generalizada e risco de aspiração devido à dificuldade na deglutição. O enfermeiro responsável, ao estruturar o plano de cuidados, decide utilizar a Classificação das Intervenções de Enfermagem (NIC) para definir estratégias seguras para alimentação do paciente.
+**Enunciado**
+Com base no contexto descrito, assinale a opção que apresenta a intervenção de enfermagem mais adequada (NIC) para o caso.
+**Alternativas**
+A)	Estimular a deambulação precoce.
+B)	Posicionar o paciente em decúbito ventral após as refeições.
+C)	Administrar dieta por sonda nasoenteral sem prescrição médica.
+D)	Oferecer líquidos espessos e manter o paciente sentado durante a alimentação.
+E)	Incentivar a ingestão rápida de alimentos sólidos.
+**Gabarito** [D]
+Oferecer líquidos espessos e manter o paciente sentado durante a alimentação.
+**Feedback** 
+A alternativa D está correta, pois está alinhada às diretrizes da NIC para pacientes com risco de aspiração, recomendando medidas como líquidos espessos e posicionamento adequado durante a alimentação. As Alternativas A, B, C e E não são indicadas para o manejo seguro da disfagia.
+
+Curso:	Enfermagem	Ponto de Interação:	4	Nº da questão:	6
+**Identificação da questão** 
+PPD_FE_09_Terceira_Quarta_Quinta_Etapas_Processo_Enfermagem_P4_2025-1_Q06
+**Texto-base**
+Uma paciente de 57 anos, portadora de insuficiência venosa crônica, iniciou um plano de cuidados para tratar úlceras varicosas na perna esquerda. Após 15 dias de tratamento com curativos adequados e terapia compressiva, a equipe de enfermagem disponibiliza os parâmetros clínicos da cicatrização.
+**Enunciado**
+Com base na NOC, qual desfecho esperado indica uma evolução favorável no tratamento da úlcera venosa?
+**Alternativas**
+A)	Redução do exsudato e presença de tecido de granulação na ferida.
+B)	Aumento do edema na perna afetada, sem melhora na dor.
+C)	Expansão das bordas da ferida, com aumento da necrose.
+D)	Formação de crosta escura sobre a ferida, sem sinais de granulação.
+E)	Persistência da lesão sem sinais de melhoria.
+**Gabarito** [A]
+Redução do exsudato e presença de tecido de granulação na ferida.
+**Feedback** 
+A alternativa A está correta, pois a redução do exsudato e a presença de tecido de granulação indicam progresso na cicatrização da úlcera venosa. As Alternativas B, C, D e E indicam estagnação ou piora do quadro clínico, o que não corresponde a uma evolução favorável.
+

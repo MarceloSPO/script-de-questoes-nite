@@ -1,0 +1,897 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q01/PPD_FE_06-P1_2025-1_Q01,,,
+Title,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q01/PPD_FE_06-P1_2025-1_Q01,,,
+QuestionText,"A tensão total é composta pela tensão efetiva e pela pressão neutra. A tensão efetiva, suportada pelos grãos sólidos do solo, é essencial para a resistência ao cisalhamento e à deformação. Já a pressão neutra refere-se à pressão da água nos poros do solo.
+
+Um engenheiro geotécnico foi contratado para analisar um terreno antes da construção de uma edificação. Para avaliar o comportamento do solo, ele precisou calcular a tensão vertical efetiva em diferentes profundidades. Sabe-se que a tensão total em um ponto do solo é composta pela tensão devida ao peso das camadas superiores e pela pressão da água quando há presença de lençol freático.
+Considerando a situação descrita, é correto afirmar que a tensão efetiva, em um dado ponto do solo,",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,corresponde à tensão total menos a poropressão da água,,
+Option,0,é igual a tensão total, independentemente da presença de água,,
+Option,0,depende exclusivamente da densidade do solo seco, não sendo influenciada pelo nível do lençol freático.,,
+Option,0,representa a soma da tensão total com a poropressão.,,
+Option,0,corresponde à poropressão.,,
+Feedback,"A) Correto. Conforme formulação a seguir, a tensão efetiva é dada pela tensão total menos a poropressão da água:
+σ^'=σ-u
+B) Errado. A tensão efetiva só será igual à tensão total do solo quando não existir nível de água, pois a poropressão será igual a 0 na formulação apresentada.
+C) Errado. A tensão efetiva será influenciada pelo nível do lençol freático, o qual irá influenciar o valor da tensão efetiva.
+D) Errado. A tensão efetiva é a tensão total subtraída da poropressão.
+E) Errado. A poropressão (u) é a parcela de tensão devido à presença de água. A tensão efetiva é a tensão existente nos grãos de solo, desprezando o efeito da água.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q02/PPD_FE_06-P1_2025-1_Q02,,,
+Title,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q02/PPD_FE_06-P1_2025-1_Q02,,,
+QuestionText,"As tensões geostáticas referem-se às tensões que atuam em um ponto do solo devido ao peso das camadas sobrejacentes. Essas tensões são fundamentais na engenharia geotécnica, pois influenciam o comportamento mecânico dos solos e, consequentemente, a estabilidade de estruturas como edifícios, barragens e estradas.
+
+Um engenheiro está avaliando a tensão vertical total (σv) em um solo arenoso seco. O perfil do solo apresenta uma camada homogênea com peso específico (γ) de 18 kN/m³ até 5 m de profundidade. 
+Considerando as informações apresentadas, é correto afirmar que a tensão total a 5 m de profundidade é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,70 kPa.,,
+Option,0,80 kPa.,,
+Option,0,85 kPa.,,
+Option,100,90 kPa.,,
+Option,0,100 kPa.,,
+Feedback,"A) Errado. O cálculo da tensão total no solo é dado por σv = γ⋅h. Como o solo é homogêneo, ou seja, constituído de uma única camada de solo, com peso específico de 18 kN/m³ e altura de 5 m, a tensão total será σv = 18⋅5 => σv = 90 kPa.
+B) Errado. O cálculo da tensão total no solo é dado por σv = γ⋅h. Como o solo é homogêneo, ou seja, constituído de uma única camada de solo, com peso específico de 18 kN/m³ e altura de 5 m, a tensão total será σv = 18⋅5 => σv = 90 kPa.
+C) Errado. O cálculo da tensão total no solo é dado por σv = γ⋅h. Como o solo é homogêneo, ou seja, constituído de uma única camada de solo, com peso específico de 18 kN/m³ e altura de 5 m, a tensão total será σv = 18⋅5 => σv = 90 kPa.
+D) Certo.
+E) Errado. O cálculo da tensão total no solo é dado por σv = γ⋅h. Como o solo é homogêneo, ou seja, constituído de uma única camada de solo, com peso específico de 18kN/m³ e altura de 5 m, a tensão total será σv = 18⋅5 => σv = 90 kPa.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q03/PPD_FE_06-P1_2025-1_Q03,,,
+Title,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q03/PPD_FE_06-P1_2025-1_Q03,,,
+QuestionText,"A pressão neutra é a pressão da água nos poros do solo. Ela influencia diretamente a tensão efetiva e, portanto, o comportamento mecânico do solo. Em solos saturados, a pressão neutra pode ser significativa, especialmente em condições de carregamento rápido ou durante a saturação e drenagem do solo. Já a tensão efetiva é a parte da tensão total que é suportada pelos grãos sólidos do solo. Ela é fundamental para a resistência ao cisalhamento e à deformação.
+
+Em uma análise geotécnica, um engenheiro calcula a tensão efetiva (σ′) em um solo argiloso saturado. A camada de solo tem peso específico saturado (γsat) de 30 kN/m³ e o nível do lençol freático começa na superfície (γw = 10 kN/m³). A pressão neutra (u) pode ser calculada como u = γw⋅h. Sendo assim, a tensão efetiva a 4 m de profundidade é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,40 kPa.,,
+Option,0,50 kPa.,,
+Option,0,60 kPa.,,
+Option,0,70 kPa.,,
+Option,100,80 kPa.,,
+Feedback,"Tensão total:
+σv = 30 × 4 = 120 kPa
+Pressão neutra:
+u = 10 × 4 = 40 kPa
+Tensão efetiva:
+σ′ = σv − u = 120 − 40 = 80 kPa",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q04/PPD_FE_06-P1_2025-1_Q04,,,
+Title,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q04/PPD_FE_06-P1_2025-1_Q04,,,
+QuestionText,"O entendimento e a análise da tensão total são essenciais em diversas aplicações de engenharia, tais como:
+	Projetos de Fundações: calcular a capacidade de carga do solo e garantir a estabilidade das fundações.
+	Estabilidade de Encostas: avaliar o risco de deslizamentos e implementar medidas de estabilização.
+	Barragens e Diques: projetar estruturas seguras que possam suportar as tensões impostas pelo solo e pela água.
+
+Um engenheiro está analisando um perfil de solo composto por duas camadas para a construção de uma estrutura de contenção:
+	Camada 1: Areia seca, peso específico γ1=16 kN/m³, espessura de 3 m.
+	Camada 2: Argila saturada, peso específico γ2=19 kN/m³, espessura de 4 m
+	O nível do lençol freático está na superfície da argila e o peso específico da água é γw=10 kN/m³.
+
+Qual é a tensão total (σv) a 7 m de profundidade?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,54 kPa.,,
+Option,0,70 kPa.,,
+Option,100,124 kPa.,,
+Option,0,130 kPa.,,
+Option,0,135 kPa.,,
+Feedback,"σv = (γ1 × h1) + (γ2 × h2)
+σv = (16 × 3) + (19 × 4)
+σv = 48 + 76 = 124 kPa",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q05/PPD_FE_06-P1_2025-1_Q05,,,
+Title,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q05/PPD_FE_06-P1_2025-1_Q05,,,
+QuestionText,"As tensões geostáticas, particularmente a tensão total no solo, são fundamentais para a compreensão do comportamento do solo em diversas situações de engenharia. A análise precisa dessas tensões permite aos engenheiros projetar e construir infraestruturas seguras e duráveis, minimizando riscos e garantindo a estabilidade das obras ao longo do tempo.
+
+Considere um solo composto por três camadas:
+	Camada 1: Areia seca, γ1 = 17 kN/m³, espessura 2 m
+	Camada 2: Silte saturado, γ2 = 19 kN/m³, espessura 3 m
+	Camada 3: Argila saturada, γ3 = 21 kN/m³, espessura 5 m
+	O nível do lençol freático está na superfície da segunda camada, ou seja, inicia-se a 2 m de profundidade.
+
+Considerando γw = 10 kN/m³, indique a tensão efetiva (σ′) a 10 m de profundidade.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,75 kPa.,,
+Option,0,80 kPa.,,
+Option,0,196 kPa.,,
+Option,0,90 kPa.,,
+Option,100,116 kPa.,,
+Feedback,"Tensão total:
+σv = (17 × 2) + (19 × 3) + (21 × 5)
+σv = 34 + 57 + 105 = 196 kPa
+
+Pressão neutra (somente a partir do lençol freático):
+u = γw × profundidade abaixo do lençol freático
+u = 10 × 8 = 80 kPa
+Tensão efetiva:
+σ′ = σv – u = 196 − 80 = 116 kPa",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q06/PPD_FE_06-P1_2025-1_Q06,,,
+Title,PPD_FE_06_tensõesgeostáticas_P1_2025-1_Q06/PPD_FE_06-P1_2025-1_Q06,,,
+QuestionText,"A tensão total é um importante parâmetro para o cálculo de outras tensões importantes no solo, como a tensão efetiva e a pressão neutra. Entender a tensão total ajuda os engenheiros a prever o comportamento do solo sob diferentes condições de carregamento, o que é essencial para o projeto seguro e eficiente de infraestruturas.
+
+Um engenheiro está analisando um perfil de solo composto por três camadas:
+	Camada 1: Areia seca, γ1 = 16 kN/m³, espessura 2 m
+	Camada 2: Silte saturado, γ2 = 18 kN/m³, espessura 3 m
+	Camada 3: Argila saturada, γ3 = 20 kN/m³, espessura 4 m
+	O nível do lençol freático está na superfície do silte e o peso específico da água é γw = 10 kN/m³.
+
+Assinale a alternativa que apresenta a tensão total (σv) a 9 m de profundidade.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,166 kPa.,,
+Option,0,175 kPa.,,
+Option,0,180 kPa.,,
+Option,0,185 kPa.,,
+Option,0,190 kPa.,,
+Feedback,"A tensão total é a soma das tensões de cada camada acima da profundidade desejada:
+σv = (γ1 × h1) + (γ2 × h2) + (γ3 × h3)
+Substituindo os valores:
+σv = (16 × 2) + (18 × 3) + (20 × 4)
+σv = 32 + 54 + 80 = 166 kPa",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q01/PPD_FE_06-P2_2025-1_Q01,,,
+Title,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q01/PPD_FE_06-P2_2025-1_Q01,,,
+QuestionText,"O método de Boussinesq é uma solução clássica para calcular as tensões induzidas em um meio elástico semi-infinito devido a uma carga pontual. Desenvolvida pelo engenheiro matemático Joseph Valentin Boussinesq, essa abordagem considera um ponto de carga aplicado na superfície de um material elástico homogêneo e isotrópico. A solução de Boussinesq fornece as distribuições de tensão em qualquer ponto abaixo da superfície, permitindo a análise das tensões verticais, horizontais e cisalhantes.
+
+Para um carregamento pontual aplicado na superfície, a tensão vertical induzida a uma profundidade z pode ser estimada pela equação de Boussinesq:
+σ_z=(3×P)/(2×π×z²)×〖cos〗^5 θ
+
+Na equação apresentada, P é a carga aplicada, z é a profundidade e θ é o ângulo formado entre o ponto de aplicação de carga e o ponto em que se deseja calcular a tensão. 
+Se uma carga pontual de 100 kN for aplicada na superfície e o θ for 30°, qual será a tensão induzida a 2 m de profundidade? Considere o resultado até a segunda casa após a vírgula.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,5,81 kN/m².,,
+Option,0,10,81 kN/m².,,
+Option,0,15,81 kN/m².,,
+Option,0,20,81 kN/m².,,
+Option,0,25,81kN/m².,,
+Feedback,"σ_z=(3×P)/(2×π×z²)×〖cos〗^5 θ
+σ_z=(3×100)/(2×π×2²)×〖cos〗^5 30
+σ_z=5,81kN/m²",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Tensõesinduzidas_P2_2025-1_Q02/PPD_FE_06-P2_2025-1_Q02,,,
+Title,PPD_FE_06_Tensõesinduzidas_P2_2025-1_Q02/PPD_FE_06-P2_2025-1_Q02,,,
+QuestionText,"As tensões induzidas são forças internas geradas dentro de um material ou estrutura em resposta a uma carga externa. Essas tensões são fundamentais na engenharia estrutural e geotécnica, pois determinam o comportamento e a estabilidade de estruturas sob diferentes condições de carga. Entender essas tensões é essencial para garantir a segurança e a durabilidade das construções.
+
+Em relação ao desenvolvimento das tensões induzidas, analise as afirmações a seguir.
+	Tensões induzidas diminuem com a profundidade devido à dispersão das cargas.
+	Para cargas pontuais, as tensões induzidas são máximas diretamente abaixo do ponto de aplicação.
+	Tensões induzidas pelo método da carga pontual de Boussinesq dependem da carga aplicada, da profundidade e da angulação entre o ponto da carga e o ponto que se deseja calcular.
+	A tensão induzida é a tensão que o peso próprio do solo exerce sobre um determinado ponto.
+	Métodos numéricos, como o método dos elementos finitos (MEF), podem ser usados para calcular tensões induzidas em geotecnia.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I e III, apenas.,,
+Option,0,II, IV e V, apenas.,,
+Option,0,I, III e IV, apenas.,,
+Option,100,I, II, III e V, apenas.,,
+Option,0,I, II, III, IV e V, apenas.,,
+Feedback,"Certo.
+	Certo.
+	Certo.
+	Errado. A tensão gerada pelo peso próprio do solo em um determinado ponto é chamada de tensão geostática. Já a tensão induzida é aquela provocada por uma carga sobreposta ao maciço, que age sobre o solo.
+	Certo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q03/PPD_FE_06-P2_2025-1_Q03,,,
+Title,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q03/PPD_FE_06-P2_2025-1_Q03,,,
+QuestionText,"A solução de Carothers aborda o problema das tensões induzidas por uma carga linear aplicada ao longo de uma linha na superfície de um meio elástico. Essa abordagem é importante em situações nas quais a carga não está concentrada em um ponto, mas distribuída ao longo de uma linha, como em longos muros de contenção ou vigas sobre fundações.
+
+Em um solo homogêneo, um carregamento pontual de 200 kN é aplicado na superfície. Usando o método de Carothers, a tensão induzida (σz) a uma profundidade de 3 m diretamente abaixo da carga pode ser expressa pela seguinte fórmula simplificada:
+σ_z=P/π×(sin⁡2α+2α)
+Considerando α igual a 45°, ou seja, π/4 radianos, assinale a alternativa que representa a tensão induzida calculada (arredonde o resultado somente ao final do cálculo).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,51,75 kN/m².,,
+Option,100,101,75 kN/m².,,
+Option,0,151,75 kN/m³.,,
+Option,0,201,75 kN/m².,,
+Option,0,251,75 kN/m².,,
+Feedback,"σ_z=P/π×(sin⁡2α+2α)
+σ_z=200/π×((sin⁡(2×π/4) )+2(π/4))
+σ_z=101,75kN/m²",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q04/PPD_FE_06-P2_2025-1_Q04,,,
+Title,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q04/PPD_FE_06-P2_2025-1_Q04,,,
+QuestionText,"A solução de Carothers envolve a integração das equações diferenciais de equilíbrio e compatibilidade para obter as distribuições de tensão ao longo da profundidade e da extensão lateral do meio. Esse método permite o cálculo das tensões verticais e horizontais ao longo de uma linha de carga, fornecendo uma visão detalhada do comportamento estrutural.
+
+O método de Carothers é utilizado na engenharia geotécnica para estimar",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,a distribuição das tensões induzidas por cargas em um solo homogêneo.,,
+Option,0,o recalque de fundações rasas sobre solos argilosos saturados.,,
+Option,0,a capacidade de carga de sapatas em solos granulares.,,
+Option,0,o empuxo do solo.,,
+Option,0,a influência da profundidade no fator de segurança contra ruptura de solos coesivos.,,
+Feedback,"A) Certo.
+B) Errado. O recalque das fundações sobre solos compostos por argilas saturadas pode ser calculado pela teoria do adensamento. O método de Carothers é uma abordagem simplificada para estimar as tensões induzidas em solos devido a cargas aplicadas na superfície. Ele se baseia na teoria da elasticidade e é frequentemente utilizado como alternativa ao método de Boussinesq em algumas condições específicas.
+C) Errado. A capacidade de carga de sapatas pode ser obtida por métodos semi-empíricos que utilizam o Nspt. O método de Carothers é uma abordagem simplificada para estimar as tensões induzidas em solos devido a cargas aplicadas na superfície. Ele se baseia na teoria da elasticidade e é frequentemente utilizado como alternativa ao método de Boussinesq em algumas condições específicas.
+D) Errado. O empuxo do solo pode ser determinado pelo método de Rankine ou Coulomb, por exemplo. O método de Carothers é uma abordagem simplificada para estimar as tensões induzidas em solos devido a cargas aplicadas na superfície. Ele se baseia na teoria da elasticidade e é frequentemente utilizado como alternativa ao método de Boussinesq em algumas condições específicas.
+E) Errado. O fator de segurança, a depender do tipo de obra, é determinado por outras metodologias normativas. O método de Carothers é uma abordagem simplificada para estimar as tensões induzidas em solos devido a cargas aplicadas na superfície. Ele se baseia na teoria da elasticidade e é frequentemente utilizado como alternativa ao método de Boussinesq em algumas condições específicas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q05/PPD_FE_06-P2_2025-1_Q05,,,
+Title,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q05/PPD_FE_06-P2_2025-1_Q05,,,
+QuestionText,"
+
+Utilizando o método de Newmark, um engenheiro calcula a tensão induzida (σz) a uma profundidade de 5 m devido a uma carga distribuída uniformemente de 150 kN/m². Sabendo que o fator de influência (I) para esse tipo de carregamento e profundidade é 0,35, qual é o valor da tensão induzida (σz)?
+σ_v=I×σ_0",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,52,5kN/m².,,
+Option,0,102,5kN/m².,,
+Option,0,152,5 kN/m².,,
+Option,0,202,5 kN/m².,,
+Option,0,252,5 kN/m².,,
+Feedback,"σ_v=I×σ_0
+σ_v=0,35×150
+σ_v=52,5 kN/m²",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q06/PPD_FE_06-P2_2025-1_Q06,,,
+Title,PPD_FE_06_tensõesinduzidas_P2_2025-1_Q06/PPD_FE_06-P2_2025-1_Q06,,,
+QuestionText,"Compreender as tensões induzidas é indispensável para a engenharia estrutural e geotécnica, pois permite prever o comportamento de estruturas sob cargas diversas. Métodos como o de Boussinesq, Carothers e Newmark fornecem soluções práticas e teóricas para diferentes tipos de carregamento, ajudando engenheiros a garantir a segurança e a eficiência das construções.
+
+Em relação ao método de Boussinesq para o cálculo das tensões induzidas, é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,é aplicável apenas para solos coesivos.,,
+Option,0,não leva em consideração a profundidade das tensões induzidas.,,
+Option,0,é usado apenas para calcular tensões induzidas por cargas distribuídas uniformemente.,,
+Option,100,assume que o solo é homogêneo e elástico.,,
+Option,0,considera apenas as tensões horizontais induzidas.,,
+Feedback,"A) Errado. O método de Boussinesq pode ser aplicado a solos homogêneos e elásticos, não importa se o solo é coesivo ou granular. O método é baseado na teoria da elasticidade e pode ser usado para calcular as tensões induzidas em solos de diferentes tipos, desde que sejam homogêneos e elásticos.
+B) Errado. O método de Boussinesq leva em consideração a profundidade das tensões induzidas. As tensões induzidas por um carregamento variam com a profundidade, e o método de Boussinesq fornece uma forma de calcular essa variação com base na profundidade do ponto de interesse.
+C) Errado. Embora o método de Boussinesq seja frequentemente usado para cargas distribuídas uniformemente, ele também pode ser aplicado a cargas pontuais ou distribuídas de qualquer tipo. O método é flexível o suficiente para calcular tensões induzidas por diferentes tipos de carregamentos, não se limitando apenas a cargas uniformemente distribuídas.
+D) Correto.
+E) Errado. O método de Boussinesq leva em consideração tensões verticais e horizontais induzidas. No entanto, é mais comum calcular a tensão vertical no ponto de interesse, pois a principal aplicação envolve as tensões verticais induzidas pela carga na superfície. Contudo, o método pode ser estendido para outras direções.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q01/PPD_FE_06-P3_2025-1_Q01,,,
+Title,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q01/PPD_FE_06-P3_2025-1_Q01,,,
+QuestionText,"O empuxo neutro é um conceito essencial na física dos fluidos e é particularmente relevante nas áreas da engenharia, biologia marinha e atividades subaquáticas, como mergulho e exploração submarina. Esse fenômeno ocorre quando um objeto atinge um estado de equilíbrio, no qual a força de empuxo que o solo exerce sobre a estrutura é exatamente igual à força existente do outro lado da estrutura. A aplicação do empuxo neutro na engenharia de solos abre novas possibilidades para a estabilização e construção de infraestruturas.
+
+Em relação ao empuxo neutro em solos, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O empuxo neutro ocorre quando a força do solo aplicada sobre um muro é maior do que a força do outro lado, causando o deslocamento do muro para fora.,,
+Option,0,O empuxo neutro ocorre quando a força do solo aplicada sobre um muro é menor do que a força do outro lado, provocando o deslocamento do muro para dentro.,,
+Option,0,O empuxo neutro ocorre quando a força do solo aplicada sobre um muro é igual à força do outro lado, resultando no deslocamento do muro para fora.,,
+Option,0,O empuxo neutro ocorre quando a força do solo aplicada sobre um muro é igual à força do outro lado, causando o deslocamento do muro para dentro.,,
+Option,100,O empuxo neutro ocorre quando a força do solo aplicada sobre um muro é igual à força do outro lado, resultando na ausência de deslocamento do muro.,,
+Feedback,"A) Errado. Quando existe deslocamento do muro para fora do maciço, o empuxo é denominado ativo.
+B) Errado. Quando existe deslocamento do muro para dentro do maciço, o empuxo é denominado passivo.
+C) Errado. Quando as forças são iguais dos dois lados, o deslocamento é nulo.
+D) Errado. Quando as forças são iguais dos dois lados, o deslocamento é nulo.
+E) Certo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q02/PPD_FE_06-P3_2025-1_Q02,,,
+Title,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q02/PPD_FE_06-P3_2025-1_Q02,,,
+QuestionText,"O empuxo neutro nos solos é um conceito fundamental na mecânica dos solos e na engenharia geotécnica, especialmente em projetos que envolvem escavações, fundações e estabilidade de taludes.
+
+Um engenheiro está analisando um perfil de solo composto por uma camada de areia seca, γ1=16 kN/m³, φ=25° e espessura 3 m para a construção de uma contenção. 
+Considerando o contexto apresentado, assinale a alternativa que apresenta o empuxo neutro obtido para essa camada de solo, considerando a formulação de Jacky para o cálculo do coeficiente de empuxo (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,31,76 kN/m.,,
+Option,100,41,76 kN/m.,,
+Option,0,51,76 kN/m.,,
+Option,0,61,76 kN/m.,,
+Option,0,71,76 kN/m.,,
+Feedback,"Para o cálculo do empuxo neutro, devemos calcular primeiramente o coeficiente de empuxo neutro:
+k_0=1-sin⁡φ
+k_0=1-sin⁡25
+k_0=0,58
+
+Tensão vertical a 0 m e a 3 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 3
+σ=γ×z
+σ=16×3
+σ=48 kN/m²
+
+Tensão horizontal a 0 m e a 3 m de profundidade.
+Para z = 0
+σh=σv×k_0
+σh=0×0,58
+σh=0
+
+Para z = 3
+σh=σv×k_0
+σh=48×0,58
+σh=27,84kN/m³
+
+Desenho do diagrama das tensões horizontais:
+ 
+
+Cálculo da área do diagrama para encontro do empuxo neutro:
+E = A1
+A1=(b×h)/2
+A1=(27,84×3)/2
+A1=41,76kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q03/PPD_FE_06-P3_2025-1_Q03,,,
+Title,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q03/PPD_FE_06-P3_2025-1_Q03,,,
+QuestionText,"O empuxo neutro, também chamado de empuxo em repouso, representa a pressão exercida pelo solo quando não há movimentação da estrutura em relação ao maciço terroso. Ele é calculado com base no coeficiente de empuxo em repouso (K₀), que depende das características do solo, como seu ângulo de atrito interno (φ). Esse coeficiente é essencial para estimar corretamente as tensões horizontais atuantes e garantir a estabilidade das obras geotécnicas.
+
+A figura a seguir apresenta um muro de arrimo de 6 m de altura. Calcule o empuxo neutro de terra por unidade de comprimento do muro considerando o solo constituído de uma areia densa compacta com ϒd = 12kN/m³ e ϒdmin = 10kN/m³ (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,168,72kN/m.,,
+Option,0,268,72kN/m.,,
+Option,0,368,72kN/m.,,
+Option,100,468,72kN/m.,,
+Option,0,568,72kN/m.,,
+Feedback,"Para calcular empuxo neutro, devemos calcular o coeficiente de empuxo neutro:
+K_0=(1-sin⁡〖φ)+(γ_d/γ_dmín -1)×5,5〗
+K_0=(1-sin⁡〖25)+(12/10-1)×5,5〗
+K_0=1,68
+
+Tensão vertical a 0 m e a 6 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 6
+σ=γ×z
+σ=15,5×6
+σ=93 kN/m²
+
+Tensão horizontal a 0 m e a 6 m de profundidade.
+Para z = 0
+σh=σv×k_0
+σh=0×1,68
+σh=0
+
+Para z = 6
+σh=σv×k_0
+σh=93×1,68
+σh=156,24kN/m³
+
+Desenho do diagrama das tensões horizontais:
+ 
+
+Cálculo da área do diagrama para encontro do empuxo neutro:
+E = A1
+A1=(b×h)/2
+A1=(156,24×6)/2
+A1=468,72kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q04/PPD_FE_06-P3_2025-1_Q04,,,
+Title,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q04/PPD_FE_06-P3_2025-1_Q04,,,
+QuestionText,"O empuxo neutro é fundamental na engenharia geotécnica, especialmente em projetos que envolvem estruturas de contenção, como muros de arrimo, cortinas atirantadas e contenções em taludes. Esse conceito está diretamente relacionado ao estado de tensões no solo e à distribuição das forças horizontais exercidas por ele sobre estruturas enterradas.
+
+A figura a seguir apresenta um muro de arrimo de 6 m de altura. Calcule o empuxo neutro de terra por unidade de comprimento do muro, considerando o solo constituído de uma areia sobreadensada OCR = 1,5 (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,152,51kN/m.,,
+Option,0,162,51kN/m.,,
+Option,0,172,51kN/m.,,
+Option,0,182,51kN/m.,,
+Option,100,192,51kN/m.,,
+Feedback,"Para o cálculo do empuxo neutro, devemos calcular o coeficiente de empuxo neutro:
+K_0=(1-sin⁡〖φ)×〖OCR〗^senφ' 〗
+K_0=(1-sin⁡〖25)×〖1,5〗^sen25 〗
+K_0=0,69
+
+Tensão vertical a 0 m e a 6 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 6
+σ=γ×z
+σ=15,5×6
+σ=93 kN/m²
+
+Tensão horizontal a 0 m e a 6 m de profundidade.
+Para z = 0
+σh=σv×k_0
+σh=0×0,69
+σh=0
+
+Para z = 6
+σh=σv×k_0
+σh=93×0,69
+σh=64,17kN/m³
+
+Desenho do diagrama das tensões horizontais:
+ 
+
+Cálculo da área do diagrama para encontro do empuxo neutro.
+E = A1
+A1=(b×h)/2
+A1=(64,17×6)/2
+A1=192,51kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q05/PPD_FE_06-P3_2025-1_Q05,,,
+Title,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q05/PPD_FE_06-P3_2025-1_Q05,,,
+QuestionText,"A consideração do empuxo neutro é fundamental para o dimensionamento de contenções, pois influencia diretamente a escolha dos materiais, as espessuras das estruturas e os métodos construtivos empregados. Um dimensionamento incorreto pode levar a problemas estruturais, como recalques diferenciais, instabilidade global e até mesmo falhas catastróficas da contenção.
+
+A figura a seguir mostra um muro de arrimo com 5 m de altura. Calcule o empuxo neutro de terra por unidade de comprimento do muro, considerando que o solo é composto por uma areia fofa normalmente adensada, utilizando a formulação de Jacky (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,105,9kN/m.,,
+Option,0,125,9kN/m.,,
+Option,0,150,9kN/m.,,
+Option,0,175,9kN/m.,,
+Option,0,200,9kN/m.,,
+Feedback,"Para o cálculo do empuxo neutro, devemos calcular primeiramente o coeficiente de empuxo neutro:
+K_0=(1-senφ)
+Solo 1:
+K_0=(1-sen25)
+K_0=0,58
+Solo 2:
+K_0=(1-sen30)
+K_0=0,5
+
+Tensão vertical a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+
+Para z = 3,5m
+σ=γ×z
+σ=15,5×3,5
+σ=54,25 kN/m²
+
+Para z = 5m
+σ=γ×z
+σ=54,25+18×1,5
+σ=81,25 kN/m²
+
+Tensão horizontal a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σh=σv×k_0
+σh=0×0,58
+σh=0
+
+Para z = 3,5
+σh1=σv×k_0
+σh1=54,25×0,58
+σh1=31,47kN/m³
+
+σh2=σv×k_0
+σh2=54,25×0,5
+σh2=27,13kN/m³
+Para z = 5
+σh=σv×k_0
+σh=81,25×0,5
+σh=40,63kN/m²
+
+Desenho do diagrama das tensões horizontais:
+ 
+ 
+
+Cálculo da área do diagrama para encontro do empuxo neutro:
+E = A1 + A2 + A3
+A1=(b×h)/2
+A1=(31,47×3,5)/2
+A1=55,07kN/m
+A2=b×h
+A2=27,13×1,5
+A2=40,70kN/m
+A3=(b×h)/2
+A3=((40,63-27,13)×1,5)/2
+A3=10,13kN/m
+
+E = 55,07 + 40,70 + 10,13
+E= 105,9 kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q06/PPD_FE_06-P3_2025-1_Q06,,,
+Title,PPD_FE_06_empuxoneutronossolos_P3_2025-1_Q06/PPD_FE_06-P3_2025-1_Q06,,,
+QuestionText,"O empuxo neutro é um conceito essencial na engenharia geotécnica, desempenhando um papel fundamental na análise e no dimensionamento de estruturas de contenção, como muros de arrimo, cortinas atirantadas e fundações profundas. Ele representa a pressão exercida pelo solo quando não há deslocamento relativo entre a estrutura e o maciço terroso, estando diretamente relacionado ao coeficiente de empuxo em repouso (K₀).
+O coeficiente K₀ depende das características do solo, como sua composição, grau de compactação e ângulo de atrito interno (φ). O conhecimento adequado desse parâmetro permite estimar as tensões laterais atuantes, contribuindo para a estabilidade e segurança das estruturas geotécnicas. O empuxo neutro deve ser considerado no projeto para evitar problemas como recalques diferenciais, instabilidade de taludes e falhas estruturais.
+
+A figura a seguir apresenta um muro de arrimo de 5 m de altura. Calcule o empuxo neutro de terra por unidade de comprimento do muro considerando o solo constituído de uma areia sobreadensada e OCR = 2 para os dois solos (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,145,26kN/m.,,
+Option,0,10 kN/m.,,
+Option,0,200 kN/m.,,
+Option,0,55,26kN/m.,,
+Option,0,245,26kN/m.,,
+Feedback,"Para o cálculo do empuxo neutro, devemos calcular primeiramente o coeficiente de empuxo neutro:
+K_0=(1-sin⁡〖φ)×〖OCR〗^senφ' 〗
+Solo 1:
+K_0=(1-sin⁡〖25)×2^sen25 〗
+K_0=0,77
+Solo 2:
+K_0=(1-sin⁡〖30)×2^sen30 〗
+K_0=0,71
+
+Tensão vertical a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+
+Para z = 3,5m
+σ=γ×z
+σ=15,5×3,5
+σ=54,25 kN/m²
+
+Para z = 5m
+σ=γ×z
+σ=54,25+18×1,5
+σ=81,25 kN/m²
+
+Tensão horizontal a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σh=σv×k_0
+σh=0×0,77
+σh=0
+
+Para z = 3,5
+σh1=σv×k_0
+σh1=54,25×0,77
+σh1=41,77kN/m³
+
+σh2=σv×k_0
+σh2=54,25×0,71
+σh2=38,52kN/m³
+Para z = 5
+σh=σv×k_0
+σh=81,25×0,71
+σh=57,69kN/m²
+
+Desenho do diagrama das tensões horizontais:
+ 
+ 
+
+Cálculo da área do diagrama para encontro do empuxo neutro.
+E = A1 + A2 + A3
+A1=(b×h)/2
+A1=(41,77×3,5)/2
+A1=73,10kN/m
+A2=b×h
+A2=38,52×1,5
+A2=57,78kN/m
+A3=(b×h)/2
+A3=((57,69-38,52)×1,5)/2
+A3=14,38kN/m
+E = 73,10 + 57,78 + 14,38
+E = 145,26 kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q01/PPD_FE_06-P4_2025-1_Q01,,,
+Title,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q01/PPD_FE_06-P4_2025-1_Q01,,,
+QuestionText,"O empuxo ativo no solo é uma força horizontal exercida pelo maciço terroso sobre uma estrutura de contenção, como muros de arrimo e cortinas de concreto. Esse fenômeno ocorre devido à tendência natural do solo de se expandir lateralmente quando sua contenção é reduzida ou removida.
+
+Uma construtora está projetando um muro de arrimo para conter um maciço de solo. Durante a análise de estabilidade, foi identificado que o muro poderá se deslocar ligeiramente para fora do solo retido. Sabendo que esse movimento pode influenciar o estado de tensões do solo, a equipe de engenharia avalia os efeitos desse deslocamento na pressão lateral. 
+De acordo com a teoria de Rankine, o empuxo ativo ocorre quando",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,o solo está em equilíbrio e não há deslocamento do muro.,,
+Option,100,o muro se desloca no sentido oposto ao solo retido, reduzindo a tensão lateral.,,
+Option,0,o acréscimo de carga vertical no solo retido aumenta a pressão lateral.,,
+Option,0,o muro se desloca em direção ao solo retido, aumentando a pressão lateral.,,
+Option,0,a pressão lateral no solo se mantém constante independentemente do deslocamento.,,
+Feedback,"Errado. O empuxo ativo ocorre quando há deslocamento do muro, reduzindo a tensão lateral no solo. O estado de equilíbrio sem deslocamento caracteriza o estado de repouso, também chamado de neutro.
+	Certo.
+	Errado. A carga vertical pode influenciar as tensões no solo, mas não é a causa principal do empuxo ativo. O empuxo ativo ocorre devido ao deslocamento lateral do muro, e não diretamente pelo aumento de carga vertical.
+	Errado. O movimento do muro para dentro do solo retido caracteriza o empuxo passivo, que é o estado oposto ao empuxo ativo. No empuxo ativo, o muro se move para longe do solo retido.
+	Errado. A pressão lateral varia com o deslocamento. Quando o muro se afasta, a pressão lateral diminui, caracterizando o empuxo ativo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q02/PPD_FE_06-P4_2025-1_Q02,,,
+Title,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q02/PPD_FE_06-P4_2025-1_Q02,,,
+QuestionText,"O empuxo ativo se baseia na teoria de Rankine e na teoria de Coulomb, que estabelecem relações entre as propriedades do solo, o ângulo de atrito interno e a inclinação da superfície do terreno. Quando uma estrutura de contenção sofre um deslocamento suficiente no sentido oposto ao solo, o empuxo ativo se manifesta, resultando na mínima pressão lateral que o solo pode exercer sobre a estrutura.
+
+Uma empresa de engenharia está projetando uma parede de contenção para um aterro rodoviário. Para garantir a estabilidade do sistema, a equipe precisa calcular o coeficiente de empuxo ativo (Ka) do solo, que possui um ângulo de atrito interno ϕ. Sabendo que a teoria de Rankine pode ser utilizada para determinar essa grandeza, assinale a equação que expressa o coeficiente de empuxo ativo para um solo sem coesão.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,K_a=1-sin⁡φ,,
+Option,100,K_a= (1-senϕ^')/(1+senϕ^' ),,
+Option,0,K_a= (1+senϕ^')/(1-senϕ^' ),,
+Option,0,K_a=(1-sin⁡φ)×〖OCR〗^sinφ,,
+Option,0,K_a=0,44+0,42×(IP%)/100,,
+Feedback,"A) Errado. Essa fórmula é aplicável ao empuxo neutro em areias fofas.
+B) Correto.
+C) Errado. Essa fórmula é destinada ao empuxo passivo.
+D) Errado. Essa fórmula é para o empuxo neutro em solos sobreadensados.
+E) Errado. Essa fórmula é usada para o empuxo neutro em solos finos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q03/PPD_FE_06-P4_2025-1_Q03,,,
+Title,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q03/PPD_FE_06-P4_2025-1_Q03,,,
+QuestionText,"O empuxo ativo no solo é um dos principais fatores a serem considerados no projeto de estruturas de contenção, como muros de arrimo, cortinas atirantadas e contenções de taludes. Trata-se da pressão lateral exercida pelo solo sobre a estrutura quando esta sofre um deslocamento suficiente para permitir a expansão natural do maciço terroso. O entendimento desse fenômeno é essencial para garantir a estabilidade e a durabilidade das estruturas, minimizando riscos de ruptura e deslocamento.
+
+A figura a seguir apresenta um muro de arrimo de 6 m de altura. Calcule o empuxo ativo de terra por unidade de comprimento do muro e assinale a alternativa que apresenta a resposta correta (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,114,39kPa.,,
+Option,0,214,39kPa.,,
+Option,0,314,39kPa.,,
+Option,0,414,39kPa.,,
+Option,0,514,39kPa.,,
+Feedback,"Para o cálculo do empuxo ativo, é necessário calcular primeiramente o coeficiente de empuxo ativo:
+K_a= (1-senϕ^')/(1+senϕ^' )
+
+K_a= (1-sen25)/(1+sen25)
+
+K_a= 0,41
+
+Tensão vertical a 0 m e a 6 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 6m
+σ=γ×z
+σ=15,5×6
+σ=93 kN/m²
+
+Tensão horizontal a 0 m, e a 6 m de profundidade.
+Para z = 0
+σ_ha^'=〖σ'〗_v K_a-2c^' √(K_a )
+σ_ha^'=0×0,41-2×0×√(0,41)
+σ_ha^'=0 kPa
+
+Para z = 6m
+σ_ha^'=〖σ'〗_v K_a-2c^' √(K_a )
+σ_ha^'=93×0,41-2×0×√(0,41)
+σ_ha^'=38,13 kPa
+
+Desenho do diagrama das tensões horizontais:
+ 
+ 
+
+Cálculo da área do diagrama para encontro do empuxo ativo.
+E = A1
+A1=(b×h)/2
+A1=(38,13×6)/2
+A1=114,39kN/m
+E= 114,39 kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q04/PPD_FE_06-P4_2025-1_Q04,,,
+Title,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q04/PPD_FE_06-P4_2025-1_Q04,,,
+QuestionText,"O estudo do empuxo ativo se baseia principalmente em duas teorias clássicas da engenharia geotécnica:
+- Teoria de Rankine (1857)
+	Considera um solo homogêneo, sem atrito entre a estrutura de contenção e o solo.
+	O coeficiente de empuxo ativo (Ka) é calculado com base no ângulo de atrito interno (ϕ) do solo.
+	É útil para simplificações, mas pode ser limitada em casos com atrito significativo entre solo e estrutura.
+
+- Teoria de Coulomb (1776)
+	Considera a presença de atrito entre o solo e a estrutura de contenção.
+	Leva em conta a inclinação da superfície do terreno e da parede de contenção.
+	O coeficiente de empuxo ativo (Ka) é calculado considerando os ângulos envolvidos na interação solo-estrutura.
+
+A figura a seguir apresenta um muro de arrimo de 5 m de altura. Calcule o empuxo ativo de terra por unidade de comprimento do muro considerando a Teoria de Rankine (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,55,22kN/m.,,
+Option,0,25,22kN/m.,,
+Option,0,105,22kN/m.,,
+Option,0,155,22kN/m.,,
+Option,0,175,22kN/m.,,
+Feedback,"Para o cálculo do empuxo ativo, é necessário calcular o coeficiente de empuxo ativo:
+Solo 1:
+K_a= (1-senϕ^')/(1+senϕ^' )
+
+K_a= (1-sen25)/(1+sen25)
+
+K_a= 0,41
+
+Solo 2:
+K_a= (1-senϕ^')/(1+senϕ^' )
+
+K_a= (1-sen30)/(1+sen30)
+
+K_a= 0,33
+
+Tensão vertical a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 3,5 m
+σ=γ×z
+σ=15,5×3,5
+σ=54,25 kN/m²
+Para z = 5 m
+σ=γ×z
+σ=54,25+18×1,5
+σ=81,25 kN/m²
+
+Tensão horizontal a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σ_ha^'=〖σ'〗_v K_a-2c^' √(K_a )
+σ_ha^'=0×0,41-2×0×√(0,41)
+σ_ha^'=0 kPa
+
+Para z = 3,5 m, temos que calcular duas tensões horizontais: uma com o Ka e coesão do solo de cima e outra com o Ka e coesão do solo debaixo.
+
+Solo 1:
+σ_ha^'=〖σ'〗_v K_a-2c^' √(K_a )
+σ_ha^'=54,25×0,41-2×0×√(0,41)
+σ_ha^'=22,24 kPa
+Solo 2:
+σ_ha^'=〖σ'〗_v K_a-2c^' √(K_a )
+σ_ha^'=54,25×0,33-2×10×√(0,33)
+σ_ha^'=6,41 kPa
+Para z = 5 m
+σ_ha^'=〖σ'〗_v K_a-2c^' √(K_a )
+σ_ha^'=81,25×0,33-2×10×√(0,33)
+σ_ha^'=15,32 kPa
+
+Desenho do diagrama das tensões horizontais:
+ 
+ 
+
+Cálculo da área do diagrama para encontro do empuxo ativo.
+E = A1 + A2 + A3
+A1:
+A1=(b×h)/2
+A1=(22,24×3,5)/2
+A1=38,92kN/m
+A2:
+A2=b×h
+A2=6,41×1,5
+A2=9,62kN/m
+A3:
+A3=(b×h)/2
+A3=((15,32-6,41)×1,5)/2
+A3=6,68kN/m
+
+E = 38,92 + 9,62 + 6,68 kN/m
+E = 55,22 kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q05/PPD_FE_06-P4_2025-1_Q05,,,
+Title,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q05/PPD_FE_06-P4_2025-1_Q05,,,
+QuestionText,"O empuxo passivo é a resistência que o solo oferece ao movimento de uma estrutura de contenção quando ela se desloca contra o maciço terroso. Esse fenômeno ocorre quando a estrutura exerce uma força sobre o solo, levando-o a um estado de compressão lateral que gera um aumento na pressão passiva. O empuxo passivo é um fator essencial no projeto de estruturas como muros de arrimo, cortinas de contenção, fundações profundas e estacas submetidas a esforços horizontais.
+
+A figura a seguir apresenta um muro de arrimo de 6 m de altura. Calcule o empuxo passivo de terra por unidade de comprimento do muro e assinale a alternativa correta (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,206,34kN/m.,,
+Option,0,306,34kN/m.,,
+Option,0,406,34kN/m.,,
+Option,0,506,34kN/m.,,
+Option,100,686,34kN/m.,,
+Feedback,"Para o cálculo do empuxo passivo, devemos calcular primeiramente o coeficiente de empuxo passivo:
+K_p= (1+senϕ^')/(1-senϕ^' )
+
+K_p= (1+sen25)/(1-sen25)
+
+K_p= 2,46
+
+Tensão vertical a 0 m e a 6 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 6m
+σ=γ×z
+σ=15,5×6
+σ=93 kN/m²
+
+Tensão horizontal a 0 m e a 6 m de profundidade.
+Para z = 0
+σ_hp^'=〖σ'〗_v K_p+2c^' √(K_p )
+σ_hp^'=0×2,46+2×0×√(2,46)
+σ_hp^'=0 kPa
+
+Para z = 6 m
+σ_hp^'=〖σ'〗_v K_p+2c^' √(K_p )
+σ_hp^'=93×2,46+2×0×√(2,46)
+σ_hp^'=228,78 kPa
+
+Desenho do diagrama das tensões horizontais:
+ 
+ 
+
+Cálculo da área do diagrama para encontro do empuxo passivo.
+E = A1
+A1=(b×h)/2
+A1=(228,78×6)/2
+A1=686,34kN/m
+E = 686,34 kN/m",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q06/PPD_FE_06-P4_2025-1_Q06,,,
+Title,PPD_FE_06_empuxoativoepassivonossolos_P4_2025-1_Q06/PPD_FE_06-P4_2025-1_Q06,,,
+QuestionText,"O empuxo passivo é um importante fenômeno na engenharia geotécnica, pois representa a resistência que o solo pode oferecer contra movimentos horizontais de estruturas. Sua correta estimativa e consideração no dimensionamento de contenções e fundações são essenciais para garantir segurança e eficiência estrutural.
+
+A figura a seguir apresenta um muro de arrimo de 5 m de altura. Calcule o empuxo ativo de terra por unidade de comprimento do muro considerando a Teoria de Rankine e assinale a alternativa correta (indique o resultado mais próximo, pois o arredondamento das etapas de cálculo pode não conferir a resposta exata).",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,390,4kN/m.,,
+Option,0,490,4kN/m.,,
+Option,100,590,4kN/m.,,
+Option,0,690,4kN/m.,,
+Option,0,790,4kN/m.,,
+Option,0,790,4kN/m.,,
+Feedback,"Para o cálculo do empuxo passivo, devemos calcular primeiramente o coeficiente de empuxo passivo:
+
+Solo 1:
+K_p= (1+senϕ^')/(1-senϕ^' )
+
+K_p= (1+sen25)/(1-sen25)
+
+K_p= 2,46
+
+Solo 2:
+K_p= (1+senϕ^')/(1-senϕ^' )
+
+K_p= (1+sen30)/(1-sen30)
+
+K_p= 3
+
+Tensão vertical a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σ=γ×z
+σ=0
+Para z = 3,5 m
+σ=γ×z
+σ=15,5×3,5
+σ=54,25 kN/m²
+Para z = 5 m
+σ=γ×z
+σ=54,25+18×1,5
+σ=81,25 kN/m²
+
+Tensão horizontal a 0 m, 3,5 m e a 5 m de profundidade.
+Para z = 0
+σ_hp^'=〖σ'〗_v K_p+2c^' √(K_p )
+σ_hp^'=0×2,46+2×0×√(2,46)
+σ_hp^'=0 kPa
+
+Para z = 3,5m, é preciso calcular duas tensões horizontais: uma com o Kp e coesão do solo de cima e outra com o Kp e coesão do solo debaixo.
+
+Solo 1:
+σ_hp^'=〖σ'〗_v K_p+2c^' √(K_p )
+σ_hp^'=54,25×2,46+2×0×√(2,46)
+σ_hp^'=133,46 kPa
+Solo 2:
+σ_hp^'=〖σ'〗_v K_p+2c^' √(K_p )
+σ_hp^'=54,25×3+2×10×√3
+σ_hp^'=197,39 kPa
+Para z = 5 m
+σ_hp^'=〖σ'〗_v K_p+2c^' √(K_p )
+σ_hp^'=81,25×3+2×10×√3
+σ_hp^'=278,39 kPa
+
+Desenho do diagrama das tensões horizontais:
+ 
+ 
+
+Cálculo da área do diagrama para encontro do empuxo passivo.
+E = A1 + A2 + A3
+A1:
+A1=(b×h)/2
+A1=(133,46×3,5)/2
+A1=233,56kN/m
+
+A2:
+A2=b×h
+A2=197,39×1,5
+A2=296,09kN/m
+
+A3:
+A3=(b×h)/2
+A3=((278,39-197,39)×1,5)/2
+A3=60,75kN/m
+
+E = 233,56 + 296,09 + 60,75 kN/m
+E = 590,4 kN/m",,,
+

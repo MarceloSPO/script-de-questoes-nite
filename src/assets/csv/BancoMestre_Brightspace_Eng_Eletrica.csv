@@ -1,0 +1,406 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q01,,,
+Title,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q01,,,
+QuestionText,"A instalação elétrica compreende os componentes das ligações elétricas e a conexão entre a fonte geradora de energia (concessionária de energia) e as cargas elétricas. Os circuitos elétricos na instalação atendem a diversas cargas, tais como:  chuveiro elétrico, iluminação, ferro de passar roupa, secadora de louças, máquina de lavar etc.  Essas cargas são todas ligadas em paralelo, permitindo que a tensão seja a mesma. 
+Em Brasília, o circuito monofásico possui tensão de 220 V (fase/neutro) e alimenta as cargas. Em projetos de instalações prediais de pequeno porte, as alimentações podem ser monofásicas.
+
+Com base nesse contexto, imagine uma pequena residência monofásica que tenha um chuveiro de 6600 W, um ferro de passar roupa de potência 2200 W, uma torradeira de 2200 W e uma carga de iluminação total de 440 W, e você, como engenheiro eletricista, foi convidado a calcular o valor total da corrente consumida em uma instalação, lembrando que, nas instalações elétricas, as cargas devem ser conectadas em paralelo para evitar queda de tensão.
+Considerando as informações apresentadas, é correto afirmar que a corrente total, em amperes, é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,53,5 A.,,
+Option,100,52 A.,,
+Option,0,54,5 A.,,
+Option,0,60 A.,,
+Option,0,62 A.,,
+Feedback,"Como o circuito elétrico é paralelo, a corrente total é a soma das correntes individuais. A corrente de cada carga pode ser calculada dividindo a potência pela tensão de cada uma, e a corrente total será a soma dessas correntes.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q02,,,
+Title,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q02,,,
+QuestionText,"Os raios são descargas atmosféricas de grande extensão (alguns quilômetros) e de grande intensidade (picos de intensidade de corrente acima de um quiloampere), que ocorrem devido ao acúmulo de cargas elétricas em regiões localizadas na atmosfera, em geral, dentro de tempestades. O Brasil ostenta o título de líder mundial em descargas atmosféricas, um fenômeno natural poderoso e imprevisível. Essa proeminência se deve à combinação de fatores climáticos, padrões de precipitação, massas de ar e níveis de umidade que caracterizam nosso vasto território. Os raios são descargas elétricas que ocorrem quando as nuvens se carregam eletricamente e estima-se uma variação de carga elétrica de 40 C (coulomb) em um tempo de 1 ms (milissegundos).
+
+Considerando as informações apresentadas, é correto afirmar que a corrente elétrica desprendida por um raio em quiloampere (kA) equivale a",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,20 kA.,,
+Option,0,25 kA.,,
+Option,0,30 kA.,,
+Option,100,40 kA.,,
+Option,0,10 kA.,,
+Feedback,"A corrente elétrica é a variação de carga em relação ao tempo. Para determinar a corrente, basta dividir carga por tempo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q03,,,
+Title,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q03,,,
+QuestionText,"A figura a seguir apresenta um circuito puramente resistivo composto por uma combinação de resistores e alimentado por uma bateria de 24 V. 
+ 
+Esse circuito resistivo apresenta uma associação mista de resistores, ou seja, há resistores em série e em paralelo.
+
+Com base nas informações apresentadas, é correto afirmar que a corrente elétrica total indicada no circuito (em azul) equivale, em ampere, a",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,3 A.,,
+Option,0,5 A.,,
+Option,0,4 A.,,
+Option,0,6 A.,,
+Option,100,8 A.,,
+Feedback,"Para calcular a corrente total, é importante calcular a resistência equivalente total, fazendo a associação de resistores, cujo valor é 3 Ω. Para encontrar a corrente, basta dividir a tensão pela resistência equivalente.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q04,,,
+Title,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q04,,,
+QuestionText,"Em Belo Horizonte, a tensão elétrica que alimenta os equipamentos elétricos é 110 V em corrente alternada. Um chuveiro elétrico com potência 4400 W está conectado a essa rede elétrica na tensão de 110 V. O chuveiro está localizado a 50 metros do quadro de alimentação, e o cabo que o alimenta tem seção transversal  6,0〖mm〗^2, sendo que a resistividade do cobre é 1,7.10^(-8) Ω.m. O chuveiro elétrico pode ser representado por uma resistência. A figura a seguir ilustra esse circuito.
+
+Conforme as informações apresentadas, é correto afirmar que a tensão no chuveiro (em volts) será de aproximadamente",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,103,7 V.,,
+Option,0,102,7 V.,,
+Option,0,97,7 V.,,
+Option,0,105,7 V.,,
+Option,100,98,7 V.,,
+Feedback,"Para calcular a tensão no chuveiro, é necessário determinar a resistência elétrica do cabo nas duas pernas, aplicando a 2ª Lei de Ohm. Na sequência, calcula-se a corrente no chuveiro, dividindo a potência pela tensão; em seguida, multiplica-se a corrente do chuveiro pela resistência do cabo, encontrando a queda de tensão no cabo. A tensão no chuveiro será de 110 V menos a queda de tensão no cabo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q05,,,
+Title,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q05,,,
+QuestionText,"No circuito mostrado a seguir, cada resistor possui resistência R, e as baterias são iguais, com uma tensão de 10 V cada. A corrente registrada pelo amperímetro é de 4 A.
+
+ 
+
+As baterias que alimentam o circuito estão associadas em série, conforme ilustrado na figura.
+
+Conforme as informações apresentadas, é correto afirmar que a resistência R, em ohm (Ω), equivale a",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,5 Ω.,,
+Option,0,7 Ω.,,
+Option,0,10 Ω.,,
+Option,100,6 Ω.,,
+Option,0,3 Ω.,,
+Feedback,"Para calcular a resistência R, é necessário igualar a tensão de 20 V à resistência equivalente do circuito, multiplicada pela corrente de 4 A. Dessa forma, obtém-se uma equação em função de R e é possível determinar seu valor.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q06,,,
+Title,PPD_FE_06_CircuitosElétricos_P1_2024-2_Q06,,,
+QuestionText,"Uma carga elétrica indutiva com impedância Z= 10+j10 (Ω) é conectada em uma rede alternada cuja tensão é 220 V em módulo e ângulo de 0°. A figura a seguir ilustra essa carga e a tensão alternada. A frequência do sinal alternado é de 60 Hz, ou seja, a frequência da rede elétrica.
+
+ 
+
+Essa carga elétrica indutiva atrasa a corrente em relação à tensão.
+
+Com base nas informações fornecidas, é correto afirmar, em módulo, que a corrente e a potência aparente do circuito são, respectivamente",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,14,14 A e 4329,03 VA.,,
+Option,0,14,14 A e 3110,8 W.,,
+Option,100,14,14 A e 3110,8 VA.,,
+Option,0,14,14 A e 3110,8 VAr.,,
+Option,0,14,14 A e 3429,03 VA.,,
+Feedback,"Para calcular a corrente, é necessário dividir a tensão complexa pela impedância da carga. Com o valor da corrente, basta determinar seu conjugado e multiplicá-lo pela tensão.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q07,,,
+Title,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q07,,,
+QuestionText,"
+
+Segundo a NBR-5410/2008, a carga de iluminação que a sala deve comportar é, em VA,",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,680 VA.,,
+Option,0,780 VA.,,
+Option,0,700 VA.,,
+Option,100,580 VA.,,
+Option,0,700 VA.,,
+Feedback,"A NBR 5410:2008 determina que, para cada 6m², deve-se alocar uma carga de 100VA, e para a área excedente, deve-se considerar 60 VA a cada 4m².",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q08,,,
+Title,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q08,,,
+QuestionText,"
+
+De acordo com a NBR-5410/2008, o dispositivo que protege contra choque elétrico por contato direto e indireto é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,aterramento e disjuntor com corrente diferencial.,,
+Option,0,disjuntor termomagnético.,,
+Option,0,disjuntor motor.,,
+Option,0,disjuntor com corrente diferencial.,,
+Option,0,disjuntor térmico.,,
+Feedback,"A NBR 5410:2008 estabelece o uso de disjuntor com corrente diferencial para proteção contra choques elétricos diretos e indiretos, em conjunto com o aterramento.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q09,,,
+Title,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q09,,,
+QuestionText,"
+
+Para que o fator de potência fique em 0,92, o valor do banco de capacitor em kVAr deve ser de",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,136,1 kVAr.,,
+Option,0,160,1 kVAr.,,
+Option,0,165,8 kVAr.,,
+Option,0,168,8 kVAr.,,
+Option,0,148,6 kVAr.,,
+Feedback,"A potência reativa indutiva deve ser calculada para os fatores de potência 0,6 e 0,92. Considerando que a potência ativa da indústria permanece constante em 150 kW, ao subtrair as potências reativas, obtém-se o valor do banco de capacitores.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q10,,,
+Title,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q10,,,
+QuestionText,"
+
+Em relação à isolação dos cabos e aos critérios para dimensionamento, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,O cabo de PVC suporta menor temperatura em regime contínuo se comparado ao EPR e os critérios de dimensionamento dos cabos são por capacidade de corrente e queda de tensão.,,
+Option,0,O cabo de EPR suporta maior temperatura em regime contínuo se comparado ao PVC e os critérios de dimensionamento dos cabos são por corrente e sobrecarga.,,
+Option,0,O cabo de EPR suporta maior temperatura em regime contínuo se comparado ao PVC e os critérios de dimensionamento dos cabos são por corrente e temperatura.,,
+Option,0,O cabo de PVC suporta maior temperatura em regime contínuo se comparado ao EPR e os critérios de dimensionamento dos cabos são por corrente e temperatura.,,
+Option,0,O cabo de EPR suporta menor temperatura em regime contínuo se comparado ao PVC e os critérios de dimensionamento dos cabos são por capacidade de corrente e queda de tensão.,,
+Feedback,"Os cabos EPR apresentam uma isolação melhor que os cabos de PVC, dessa forma, suportam mais temperatura em regime contínuo. Para o dimensionamento dos cabos, é preciso verificar os critérios de capacidade de corrente e queda de tensão.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q11,,,
+Title,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q11,,,
+QuestionText,"
+
+Em relação ao critério capacidade de corrente, sobre o dimensionamento do cabo e disjuntor, é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,a corrente para dimensionar o cabo e disjuntor deve ser de 20 A.,,
+Option,0,a corrente para dimensionar o cabo e disjuntor deve ser calculada em função da temperatura.,,
+Option,0,a corrente para dimensionar o cabo e disjuntor devem ser diferentes.,,
+Option,0,a corrente para dimensionar o cabo deve ser maior que aquela usada para dimensionar o disjuntor.,,
+Option,100,a corrente para dimensionar o cabo e disjuntor deve ser de 40 A.,,
+Feedback,"A corrente para dimensionar cabo e disjuntor deve ser a mesma e corrigida pelo fator de temperatura e agrupamento. Basta dividir a corrente de circuito pelo fator de agrupamento e temperatura.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q12,,,
+Title,PPD_FE_06_InstalaçõesElétricasPrediaiseIndustriais_P2_2024-2_Q12,,,
+QuestionText,"O consumo de energia elétrica em uma indústria é medido em kWh, com tensão de fase e neutro de 220 V. Quanto mais tempo a energia for utilizada, maior será o valor a ser pago no final do mês. O medidor elétrico industrial mede a potência ativa em kW e a potência reativa em kVAr. Imagine uma indústria com as cargas e os tempos de uso diário indicados na tabela a seguir:
+
+Tipo de carga	Potência (W)	Tempo uso por dia
+Chuveiro Elétrico 	6500	1 hora
+Iluminação 	200	2 horas
+Geladeira	300	10 horas
+Ferro de passar	1000	2 horas
+
+Considerando um mês de 30 dias, o consumo de energia dessa residência em kWh ao final do mês será de",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,280 kWh.,,
+Option,0,320 kWh.,,
+Option,0,294 kWh.,,
+Option,0,394 kWh.,,
+Option,100,357 kWh.,,
+Feedback,"Basta calcular a energia consumida em um dia e multiplicar o valor obtido por 30 dias. Lembre-se de que a energia é dada pela potência multiplicada pelo tempo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q13,,,
+Title,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q13,,,
+QuestionText,"A construção das grandes usinas hidrelétricas foi uma tônica central no âmbito da produção de eletricidade e fontes de energia do Brasil. No entanto, em virtude das ressalvas, polêmicas e protestos contra os impactos ambientais gerados, o governo brasileiro vem adotando alternativas a essa estratégia. A busca por outras matrizes energéticas, como solar e eólica, é uma boa alternativa. O governo, porém, buscou outras alterativas.
+
+Além da busca por outras matrizes energéticas, uma outra medida adotada pelo governo é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,a substituição das hidrelétricas antigas por construções mais modernas e com efeitos atenuantes na matriz energética.,,
+Option,0,a construção das UHEs com nova tecnologia de automação e capacidade.,,
+Option,0,a migração das centrais para áreas de baixa densidade demográfica, como a região norte do país.,,
+Option,100,a construção das PCHs (Pequenas Centrais Hidrelétricas), com menor impacto ambiental.,,
+Option,0,a difusão de campanhas de grande apelo para a redução em massa do consumo de eletricidade, diminuindo a demanda.,,
+Feedback,"Não podemos deixar de ampliar nossa geração com outras fontes renováveis e com as pequenas centrais hidrelétricas conhecida como PCH de menor impacto ambiental.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q14,,,
+Title,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q14,,,
+QuestionText,"No ano passado, 45,8% da energia usada pelos brasileiros veio de fontes renováveis […]. É a matriz mais equilibrada entre as nações mais populosas ou ricas do planeta. A média mundial de uso de energias renováveis é de 12,7%; essa média cai para 6,2% entre os 30 países-membros da Organização para a Cooperação e o Desenvolvimento Econômico (OCDE), que inclui os Estados Unidos e as mais ricas nações do globo.
+MONTÓIA, P. Brasil: Energia múltipla. In: Planeta Sustentável. Disponível em: http://planetasustentavel.abril.com.br. Acesso em: 05 jun. 2015.
+
+Os recursos naturais renováveis e não renováveis mais utilizados como fontes de energia no Brasil são, respectivamente,",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,gás natural e carvão mineral – petróleo e etanol.,,
+Option,0,ventos e luz solar – gás natural e hidroeletricidade.,,
+Option,100,água e biomassa – petróleo e gás natural.,,
+Option,0,átomo e etanol – carvão vegetal e gás de xisto.,,
+Option,0,energia atômica e hidrelétrica – petróleo e carvão mineral.,,
+Feedback,"A biomassa é um recurso renovável e seu processo de conversão em energia é muito menos nocivo ao meio ambiente, assim como a água. A energia não renovável é aquela gerada por fontes esgotáveis, cujas reservas não se renovam naturalmente em um curto período (petróleo e gás natural).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q15,,,
+Title,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q15,,,
+QuestionText,"Entre as grandes obras, a usina de Balbina, construída no meio da bacia sedimentar amazônica, a aproximadamente 200 km ao norte de Manaus, foi a que causou os maiores prejuízos. […] Sua represa, que inundou 2594 km² da Floresta Amazônica, produz somente 250 MW, energia que abastece apenas 50% das necessidades de consumo de Manaus. Em suma, Balbina possui uma represa com dimensões comparáveis às de Tucuruí, mas a energia que pode produzir é praticamente irrisória (17 vezes menor que Tucuruí).
+SENE, E.; MOREIRA, J. C. Geografia Geral e do Brasil: Espaço Geográfico e Globalização. São Paulo: Scipione, 2010. p.521.
+
+O fator geográfico que explica a menor produtividade da usina de Balbina em relação à de Tucuruí é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,ausência de cursos d'água volumosos.,,
+Option,0,vazão fluvial muito intensa.,,
+Option,0,oscilações climáticas na região Norte.,,
+Option,100,edificação da barragem em relevo plano.,,
+Option,0,infiltração da água no ambiente sedimentar.,,
+Feedback,"Balbina possui uma represa com dimensões comparáveis às de Tucuruí, mas a energia que pode produzir é praticamente irrisória (17 vezes menor que Tucuruí). O fator geográfico que explica a menor produtividade da usina de Balbina em relação à de Tucuruí é a ausência de cursos d'água volumosos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q16,,,
+Title,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q16,,,
+QuestionText,"A distribuição de energia elétrica no Brasil é feita por meio da integração da produção, transmissão e distribuição ao consumidor final. Essa integração é motivada pela industrialização e urbanização, pelo aumento da demanda e pela origem das hidrelétricas. Quando a energia elétrica se aproxima do consumidor final, isto é, das residências e comércios, as subestações reduzem a tensão elétrica e entregam a energia através dos cabos que prosseguem por via aérea ou subterrânea. Essas são as redes de distribuição elétrica.
+
+Os esquemas de conexões em uma rede de distribuição são: radial, anel e interconectada. Com base nesse contexto, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Na conexão radial, o cabo alimentador é conectado em três subestações.,,
+Option,0,Na conexão anel, o final do distribuidor será mais carregado e com tensão mais elevada.,,
+Option,0,Na conexão interconectada, os consumidores vão ter maior queda de tensão e menor corrente.,,
+Option,0,Na conexão em anel, há mais flutuações de tensão e maior queda de tensão.,,
+Option,100,Na conexão em anel, há uma única subestação alimentado o anel.,,
+Feedback,"A distribuição radial assemelha-se à estrutura de circulação sanguínea do corpo humano. Nessa topologia, a energia é gerada em uma subestação e distribuída de forma "ramificada" até o consumidor final, de maneira similar ao percurso do sangue pelas artérias até os capilares. Na distribuição em anel, os dados circulam continuamente pelo anel. Caso um dispositivo falhe, os dados podem ser redirecionados automaticamente para contornar o ponto de falha, garantindo a continuidade do sistema. O anel é alimentado por uma única subestação. No modelo de distribuição interconectada, mais de uma subestação alimenta o anel, aumentando a redundância e a confiabilidade do sistema.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q17,,,
+Title,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q17,,,
+QuestionText,"Uma rede de distribuição em 15,2 kV atende duas ruas (A e B) com um total de 32 consumidores. O transformador trifásico possui uma potência de 150 kVA e saída 380 V/220 V. Essa distribuição de energia vai atender 32 usuários nas ruas A e B e com alimentações monofásica, bifásica e trifásica.
+
+A corrente no primário, no secundário e a demanda máxima por morador é, respectivamente,",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,9,0 A, 250 A e 4,68 kVA.,,
+Option,0,11,0 A, 250 A e 4,68 kVA.,,
+Option,100,9,87 A, 228,17 A e 4,69 kVA.,,
+Option,0,10,87 A, 227,9 A 4,68 kVA.,,
+Option,0,9,8 A, 220 A e 4,68 kVA.,,
+Feedback,"Para calcular a corrente no primário, basta dividir a potência aparente pela raiz de três multiplicada por 15,2 kV. No secundário, a corrente deve ser dividida por 380 V e multiplicada pela raiz de três. Para determinar a demanda, deve-se dividir a potência do Trafo pelo número de 32 moradores.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q18,,,
+Title,PPD_FE_06_Geração,TransmissãoeDistribuiçãodeenergia_P3_2024-2_Q18,,,
+QuestionText,"
+
+A área mencionada é conhecida como",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,área protegida.,,
+Option,0,área limitada.,,
+Option,100,área de servidão.,,
+Option,0,área controlada.,,
+Option,0,área segmentada.,,
+Feedback,"Essa área é conhecida como faixa de servidão e varia de 20 metros (10 metros para cada lado, a partir do centro da torre) até 70 metros (35 metros para cada lado). Isso depende da voltagem da Linha de transmissão.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_Q19,,,
+Title,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_Q19,,,
+QuestionText,"
+
+A frequência do campo girante e o escorregamento do motor são, respectivamente,",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,100,67 Hz e 0,0125.,,
+Option,0,100,5 Hz e 0,0325.,,
+Option,0,80 Hz e 0,0325.,,
+Option,0,90 Hz e 0,0325.,,
+Option,100,106,67 Hz e 0,0125.,,
+Feedback,"A frequência do campo girante é calculada multiplicando o número de polos pela velocidade do campo girante e dividido por 120. O escorregamento é a razão da velocidade do campo girante menos a velocidade do rotor dividido pela velocidade do campo girante.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_20,,,
+Title,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_20,,,
+QuestionText,"Para a análise técnica de um Sistema Elétrico de Potência (SEP), é necessário o desenvolvimento de diversos estudos, abordando sua operação tanto em regime permanente quanto transitório. 
+
+Com relação aos estudos realizados para análise técnica de um SEP, avalie as afirmações a seguir.
+	Os estudos de fluxo de potência ou fluxo de carga têm por objetivo a obtenção das condições de operação da rede elétrica em função da sua topologia, dos níveis de demanda dos consumidores e da geração de potência.
+	Os estudos de demanda no SEP têm por finalidade determinar as tensões nas barras e as correntes em diversos pontos do sistema para diferentes tipos de faltas.
+	Os estudos de estabilidade transitória avaliam o impacto de distúrbios no comportamento eletromecânico dinâmico dos geradores elétricos síncronos do SEP.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I, apenas.,,
+Option,100,II, apenas.,,
+Option,0,I e III, apenas.,,
+Option,0,II e III, apenas.,,
+Option,0,I, II e III.,,
+Feedback,"Estudar curto-circuito e estabilidade são premissas do sistema elétrico de potência.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_21,,,
+Title,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_21,,,
+QuestionText,"O retificador trifásico, conhecido como Ponte de Graetz, é um conversor de potência utilizado em aplicações de média e alta tensão. É empregado em sistemas de transmissão de alta tensão em corrente contínua, carregamento de baterias, processos de eletrólise, operação de motores de corrente contínua, fontes de potência controlada, sistemas de iluminação controlada e equipamentos de tração. 
+A figura a seguir mostra a topologia de um retificador trifásico controlado em ponte.
+
+Figura 1 - Topologia de um retificador trifásico controlado em ponte.
+ 
+
+Na Figura 2, são mostrados os resultados gráficos das principais formas de onda de tensão do referido retificador trifásico, considerando-se carga resistiva, tiristores ideais e uma tensão eficaz de alimentação de linha igual a 220 V.
+
+Figura 2 - Resultados gráficos das principais formas de onda de tensão do retificador trifásico.
+ 
+
+Na tabela a seguir, são listados os intervalos e as respectivas tensões geradas pelo circuito.
+Tabela 1 - Intervalos e tensões geradas pelo circuito.
+ 
+
+Com base nas informações apresentadas, avalie as afirmações a seguir.
+	A carga é submetida a uma tensão de fase e, na saída do circuito, acontece uma condução contínua.
+	Os tiristores do grupo positivo são T1, T2 e T3; já os tiristores do grupo negativo são T4, T5 e T6.
+	A tensão de saída apresenta uma variação de tensão (ripple) de 131,4801 V.
+	Os tiristores são disparados no ângulo α de 120º.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,I, apenas.,,
+Option,0,I e IV, apenas.,,
+Option,0,II e III, apenas.,,
+Option,0,I, III e IV, apenas.,,
+Option,0,II, III e IV, apenas.,,
+Feedback,"O circuito tem entrada alterada e saída continua.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_22,,,
+Title,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_22,,,
+QuestionText,"O Controlador Lógico Programável (CLP) é um equipamento de controle bastante utilizado no setor industrial, sobretudo em sistemas de acionamentos, controle de processos, manipulação de temperatura, pressão, vazão, nível, entre outras grandezas.
+
+Considerando as informações apresentadas, é correto afirmar que uma das linguagens mais utilizadas pelo CLP é",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Java.,,
+Option,0,Python.,,
+Option,0,Linux industrial.,,
+Option,0,C turbo.,,
+Option,100,Ladder.,,
+Feedback,"Ladder é a linguagem exclusiva do CLP, sendo que ele não utiliza outras linguagens de programação.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_23,,,
+Title,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_23,,,
+QuestionText,"Muitos dispositivos eletrônicos utilizam um regulador de tensão, que tem como objetivo manter a tensão elétrica na saída em um nível especificado. Considere um regulador de tensão utilizando diodo Zener e transistor com as seguintes especificações: tensão de entrada V1 = 20 V, tensão nominal do diodo Zener (D1) VZ = 8,7 V, VBE = 0,7 V, R1 = R2 = 1 kΩ, C1 = 100 nF e β = 10 (ganho de corrente do transistor), conforme o circuito a seguir.
+
+Para esse regulador, o valor da corrente contínua no resistor R2 é de",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,10,0 mA.,,
+Option,0,10,5 mA.,,
+Option,0,9,5 mA.,,
+Option,100,8 mA.,,
+Option,0,11,5 mA.,,
+Feedback,"Se a tensão no zener é 8,7 V e VBE 0,7 V, no R2 termos 8 V. Basta dividir 8 V pelo valor de R2.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_24,,,
+Title,PPD_FE_06_MáquinaselétricaseSistemasdeControle_P4_2024-2_24,,,
+QuestionText,"A figura a seguir ilustra a magnitude do espectro de frequência de um sinal analógico que deverá ser amostrado e analisado digitalmente. Esse sinal tem seu espectro de frequência maior do que 0 Hz e menor do que 50 Hz. Sabe-se, também, da existência de ruído entre 58 Hz e 62 Hz, que poderá afetar o processo de amostragem. A figura a seguir ilustra o espectro.
+
+Para amostrar o sinal, a frequência de amostragem deve ser, no mínimo",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,60 Hz.,,
+Option,100,100 Hz.,,
+Option,0,120 Hz.,,
+Option,0,50 Hz.,,
+Option,0,80 Hz.,,
+Feedback,"A frequência de amostragem deve ser no mínimo duas vezes a frequência do sinal.",,,
+

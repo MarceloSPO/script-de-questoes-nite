@@ -1,0 +1,387 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_09_Sustentabilidade_P1_2025_2_Q01,,,
+Title,PPD_FE_09_Sustentabilidade_P1_2025_2_Q01,,,
+QuestionText,"Estudos indicam que a adoção de práticas agrícolas sustentáveis pode melhorar significativamente a biodiversidade local. Essas práticas incluem, mas não se limitam a rotação de culturas, uso de pesticidas naturais e preservação de áreas não cultivadas.
+
+Considerando as informações apresentadas, assinale a opção que indica uma consequência direta da biodiversidade melhorada na agricultura sustentável.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Aumento da dependência de fertilizantes químicos.,,
+Option,0,Redução da resiliência do ecossistema agrícola.,,
+Option,0,Aumento do uso de pesticidas sintéticos.,,
+Option,100,Melhoria do controle natural de pragas.,,
+Option,0,Diminuição da qualidade do solo.,,
+Feedback,"A melhoria da biodiversidade proporcionada por práticas agrícolas sustentáveis aumenta a presença de predadores naturais, o que contribui para um melhor controle biológico de pragas, reduzindo a necessidade de pesticidas sintéticos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Sustentabilidade_P1_2025_2_Q02,,,
+Title,PPD_FE_09_Sustentabilidade_P1_2025_2_Q02,,,
+QuestionText,"O consumo responsável de alimentos é uma prática essencial para promover a sustentabilidade dos sistemas alimentares globais. Ele engloba diversas ações conscientes que os consumidores podem adotar para minimizar o impacto ambiental e melhorar a eficiência e a justiça da cadeia alimentar. A escolha por produtos locais é um dos pilares do consumo responsável pela escolha do consumidor por menos alimentos processados. Alimentos altamente processados frequentemente envolvem extensos processos de produção que consomem grandes quantidades de energia e recursos, além de frequentemente serem embalados em materiais não recicláveis que contribuem para o acúmulo de resíduos sólidos. Ao escolher alimentos mais naturais e minimamente processados, os consumidores não apenas favorecem sua própria saúde, mas também incentivam práticas de produção mais sustentáveis.
+
+Considerando o texto apresentado, é correto afirmar que o consumo de produtos locais beneficia os sistemas alimentares sustentáveis",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,aumentando a pegada de carbono dos alimentos consumidos.,,
+Option,0,contribuindo para maior dependência de importações de alimentos.,,
+Option,0,reduzindo a transparência e a rastreabilidade dos alimentos.,,
+Option,100,minimizando o uso de embalagens e transporte.,,
+Option,0,encorajando o uso de práticas agrícolas intensivas.,,
+Feedback,"Consumir produtos locais reduz a necessidade de transporte de longa distância, o que, por sua vez, diminui a pegada de carbono associada ao transporte e o uso de embalagens, promovendo, assim, a sustentabilidade ambiental.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Sustentabilidade_P1_2025_2_Q03,,,
+Title,PPD_FE_09_Sustentabilidade_P1_2025_2_Q03,,,
+QuestionText,"A erradicação da fome, um dos principais objetivos dos Objetivos de Desenvolvimento Sustentável (ODS), é uma meta global que busca alimentar a população mundial de maneira que sustente tanto as pessoas quanto o planeta. Uma abordagem sustentável para erradicar a fome implica garantir acesso universal a alimentos nutritivos e suficientes durante todo o ano, eliminando todas as formas de insegurança alimentar e revolucionando nossos sistemas de produção e consumo alimentar para que sejam mais eficientes, inclusivos e sustentáveis.
+
+Qual ação está diretamente associada à melhoria da segurança alimentar global sob uma perspectiva sustentável?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Expansão de monoculturas exportáveis.,,
+Option,0,Intensificação do uso de pesticidas biológicos.,,
+Option,0,Redução da diversidade de culturas agrícolas.,,
+Option,0,Promoção de dietas baseadas em alimentos provenientes de monocultura,,
+Option,100,Suporte à agricultura de pequena escala.,,
+Feedback,"A agricultura de pequena escala tende a utilizar práticas mais diversificadas e sustentáveis, contribuindo para a segurança alimentar local e a resiliência das comunidades agrícolas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Sustentabilidade_P1_2025_2_Q04,,,
+Title,PPD_FE_09_Sustentabilidade_P1_2025_2_Q04,,,
+QuestionText,"O desperdício de alimentos é um dos grandes desafios dos sistemas alimentares globais. A redução desse desperdício é essencial para promover a sustentabilidade alimentar e atingir metas de eficiência e responsabilidade ambiental. Estratégias eficazes podem envolver desde a adoção de práticas domésticas mais conscientes até mudanças em larga escala na cadeia de suprimentos alimentares.
+
+Considerando as atitudes que contribuem efetivamente para a redução do desperdício de alimentos, avalie as afirmativas a seguir.
+I.	Promover o uso de técnicas avançadas de conservação e embalagem que prolongam a vida útil dos alimentos.
+II.	Incentivar o consumo de produtos locais para reduzir a necessidade de transporte de longa distância e armazenamento prolongado.
+III.	Concentrar a produção de alimentos em grandes corporações para aumentar a eficiência da produção em massa.
+IV.	Implementar políticas públicas que apoiem programas de educação sobre o planejamento de refeições e técnicas de conservação de alimentos.
+V.	Promover dietas com alta dependência de produtos de origem animal, que têm cadeias de suprimento mais complexas e propensas ao desperdício.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I, II e III, apenas.,,
+Option,0,II, III e IV, apenas.,,
+Option,0,II, IV e V, apenas.,,
+Option,100,I, II e IV, apenas.,,
+Option,0,I, III e V, apenas.,,
+Feedback,"I - Verdadeira. Técnicas avançadas de conservação e embalagem ajudam a prolongar a vida útil dos alimentos, reduzindo, assim, o desperdício que ocorre devido à deterioração dos produtos. 
+II - Verdadeira. O consumo de produtos locais diminui a necessidade de longos transportes e armazenamento, reduzindo o desperdício associado a esses processos. 
+III - Falsa. Embora a produção em massa possa aumentar a eficiência em alguns aspectos, a concentração da produção em grandes corporações não necessariamente reduz o desperdício de alimentos e pode, de fato, distanciar os consumidores das fontes de produção, potencializando outros tipos de desperdício. 
+IV - Verdadeira. Programas de educação sobre planejamento de refeições e conservação de alimentos podem ensinar as pessoas a comprar e preparar alimentos de maneira que minimize o desperdício. 
+V - Falsa. Dietas ricas em produtos de origem animal frequentemente envolvem cadeias de suprimento mais longas e complexas, o que pode aumentar o risco de desperdício, não o contrário.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Sustentabilidade_P1_2025_2_Q06,,,
+Title,PPD_FE_09_Sustentabilidade_P1_2025_2_Q06,,,
+QuestionText,"A nutrição sustentável busca um equilíbrio entre a necessidade de alimentos nutritivos e acessíveis e a capacidade do meio ambiente de fornecer esses recursos de forma sustentável. É fundamental adotar dietas que não só atendam às necessidades nutricionais humanas, mas que também minimizem o impacto ambiental associado à produção de alimentos.
+
+Com base nas informações apresentadas, avalie as sentenças a seguir, considerando os aspectos que refletem componentes essenciais para uma dieta nutricionalmente sustentável.
+I.	Alta dependência de carnes vermelhas e processadas, que são intensivas em recursos.
+II.	Preferência por alimentos ultraprocessados que demandam menos preparação.
+III.	Consumo predominante de produtos importados que podem ter uma pegada de carbono maior.
+IV.	Inclusão de uma diversidade de fontes vegetais que promovem menor impacto ambiental.
+V.	Escolha por alimentos orgânicos e locais, que reduzem a necessidade de transporte e agroquímicos.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I e II, apenas.,,
+Option,0,III e IV, apenas.,,
+Option,100,IV e V, apenas.,,
+Option,0,III, IV e V, apenas.,,
+Option,0,I, II, IV e V, apenas.,,
+Feedback,"I - Falsa. Dietas com alta dependência de carnes vermelhas e processadas são consideradas menos sustentáveis devido à grande quantidade de recursos naturais necessários para sua produção, além do impacto significativo na emissão de gases de efeito estufa. 
+II - Falsa. Alimentos ultraprocessados geralmente requerem extensivos recursos para produção, embalagem e conservação, e frequentemente contêm ingredientes de baixa qualidade nutricional. 
+III - Falsa. O consumo predominante de produtos importados tende a aumentar a pegada de carbono dos alimentos devido ao transporte de longa distância, além de frequentemente envolver práticas de produção menos sustentáveis. 
+IV - Verdadeira. A inclusão de uma diversidade de fontes vegetais em uma dieta é benéfica para a sustentabilidade, pois as plantas geralmente requerem menos recursos para crescer do que os produtos de origem animal, além de promoverem a biodiversidade agrícola. 
+V - Verdadeira. Alimentos orgânicos e locais apoiam práticas sustentáveis ao reduzir o uso de agroquímicos prejudiciais e minimizar o transporte, contribuindo para uma menor pegada de carbono e um impacto ambiental reduzido.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q01,,,
+Title,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q01,,,
+QuestionText,"A medição da circunferência da cintura é uma ferramenta diagnóstica valiosa na avaliação do risco metabólico associado à obesidade, particularmente útil para identificar a obesidade central ou abdominal. Esse tipo de obesidade está fortemente correlacionado com um risco aumentado de desenvolver condições cardiovasculares e metabólicas, como síndrome metabólica, diabetes tipo 2 e doença cardíaca isquêmica. A circunferência da cintura proporciona uma medida direta do tecido adiposo visceral, que é um fator de risco significativo para essas condições devido à sua produção de adipocinas inflamatórias e hormônios que afetam adversamente o metabolismo da glicose e o perfil lipídico. Portanto, além do Índice de Massa Corporal (IMC), que fornece uma visão geral do status de peso, a circunferência da cintura oferece insights adicionais sobre a distribuição de gordura corporal que são cruciais para a avaliação de riscos à saúde mais específicos. A identificação de medidas de circunferência da cintura que indicam risco aumentado é fundamental para orientar intervenções preventivas e terapêuticas em indivíduos com obesidade.
+
+Com base nas informações apresentadas, assinale a opção que indica a medida considerada uma circunferência da cintura de risco para síndrome metabólica em mulheres.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Menor que 70 cm.,,
+Option,0,70 cm a 80 cm.,,
+Option,0,80 cm a 88 cm.,,
+Option,100,Maior que 88 cm.,,
+Option,0,Maior que 102 cm.,,
+Feedback,"A circunferência da cintura maior que 88 cm em mulheres é considerada um indicador de alto risco para condições associadas à síndrome metabólica, como diabetes tipo 2 e doenças cardiovasculares.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q03,,,
+Title,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q03,,,
+QuestionText,"A bioimpedância é uma técnica avançada que permite medir a composição corporal detalhada, incluindo percentuais de massa gorda, massa magra e água corporal. Esse método é extremamente útil no manejo da obesidade, pois fornece dados precisos que ajudam na avaliação do estado nutricional e na monitorização da eficácia de intervenções dietéticas e de atividade física. Além disso, a bioimpedância pode ajudar a identificar riscos de saúde associados a diferentes tipos de distribuição de gordura corporal, como a visceral, que está diretamente ligada a um maior risco de doenças cardiovasculares e metabólicas.
+
+Considerando o texto apresentado, assinale a opção que justifica corretamente o uso da bioimpedância no manejo da obesidade.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A bioimpedância é utilizada principalmente para determinar a quantidade de calorias consumidas pelo indivíduo.,,
+Option,0,A bioimpedância substitui completamente a necessidade de avaliações clínicas e exames de sangue.,,
+Option,100,A bioimpedância fornece uma análise detalhada da composição corporal, o que é essencial para o planejamento e ajuste de tratamentos na obesidade.,,
+Option,0,A bioimpedância é recomendada como a única ferramenta necessária para o diagnóstico de obesidade.,,
+Option,0,A bioimpedância é mais eficaz na avaliação de indivíduos com baixo percentual de gordura corporal.,,
+Feedback,"A bioimpedância fornece uma análise detalhada da composição corporal, incluindo gordura, músculo e água, o que é fundamental para avaliar o estado de saúde do indivíduo obeso e monitorar a eficácia das intervenções. Esse dado ajuda a personalizar os planos de tratamento, ajustando as recomendações dietéticas e de atividade física com base na composição corporal específica do paciente, e não apenas no peso ou no IMC.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q05,,,
+Title,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q05,,,
+QuestionText,"A obesidade clínica frequentemente transcende as fronteiras da fisiologia para impactar significativamente a psicologia dos pacientes. O estigma associado ao peso e a discriminação são realidades prevalentes que podem agravar o estado emocional e psicológico dos indivíduos afetados, contribuindo para o desenvolvimento de transtornos mentais como depressão e ansiedade. A abordagem terapêutica, portanto, não deve se limitar apenas ao tratamento físico da obesidade, mas também abordar esses aspectos psicossociais. O suporte psicológico é essencial não apenas para tratar as complicações emocionais, mas também para melhorar a adesão ao tratamento médico e promover uma mudança sustentável no estilo de vida.
+
+Considerando as complexidades psicossociais associadas à obesidade clínica, com base nas estratégias apropriadas para abordar os impactos psicológicos dessa condição, avalie as afirmações a seguir.
+I.	Encorajamento do isolamento social para proteger o paciente de estigma externo.
+II.	Foco exclusivo em terapias farmacológicas para tratar transtornos de humor associados.
+III.	Intervenção cirúrgica imediata como solução para melhorar a autoestima do paciente.
+IV.	Implementação de suporte psicológico integrado ao plano de tratamento multidisciplinar.
+V.	Considerar as experiências e percepções do paciente sobre seu estado de saúde como parte do tratamento.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,IV e V, apenas.,,
+Option,0,III e IV, apenas.,,
+Option,0,II e V, apenas.,,
+Option,0,III, IV e V, apenas.,,
+Option,0,I, II, IV e V, apenas.,,
+Feedback,"A integração de suporte psicológico ao tratamento da obesidade é crucial, pois aborda as necessidades emocionais e psicológicas do paciente, ajudando a combater o estigma, melhorar a autoestima e promover uma participação mais ativa e positiva no tratamento. Esse suporte é essencial para tratar eficazmente as dimensões psicológicas da obesidade, que são frequentemente tão debilitantes quanto os aspectos físicos da doença.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q06,,,
+Title,PPD_FE_09_Novos_Criterios_Obesidade_Clínica_P2_2025_2_Q06,,,
+QuestionText,"O tratamento da obesidade clínica exige uma abordagem integrada que combine estratégias médicas, nutricionais, comportamentais e, em alguns casos, cirúrgicas. A seleção de um ponto de partida adequado no tratamento é essencial para estabelecer uma fundação sólida que possa sustentar mudanças a longo prazo na saúde e no bem-estar do paciente. As mudanças dietéticas e o aumento da atividade física formam a espinha dorsal desse tratamento inicial, pois não só começam a abordar o excesso de peso, mas também ajudam a melhorar a função metabólica e a saúde mental. Esse estágio inicial prepara o paciente para outras intervenções potenciais e para avaliar sua resposta às mudanças básicas de estilo de vida, que podem ser ajustadas ou intensificadas conforme necessário.
+
+Considerando as informações apresentadas, assinale a opção que indica o primeiro passo fundamental no tratamento da obesidade clínica, de acordo com as práticas baseadas em evidências.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Recomendação de cirurgia bariátrica para redução rápida do peso.,,
+Option,0,Início de um regime de medicamentos antiobesidade para acelerar a perda de peso.,,
+Option,100,Implementação de mudanças significativas na dieta e no regime de atividade física.,,
+Option,0,Instalação de um balão gástrico como medida preliminar para redução de apetite.,,
+Option,0,Início de terapia genética para modificar a predisposição à obesidade.,,
+Feedback,"A escolha das mudanças dietéticas e o aumento da atividade física como primeiros passos no tratamento da obesidade clínica baseiam-se na evidência de que estes são os fundamentos para uma gestão eficaz do peso a longo prazo. Esse ponto de partida ajuda a estabelecer hábitos saudáveis que são sustentáveis e podem ser construídos com intervenções adicionais, se necessário. Esse método também permite uma avaliação precisa da resposta do paciente ao tratamento inicial, essencial para planejar passos futuros como medicações ou cirurgias, se as mudanças de estilo de vida não forem suficientes.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q01,,,
+Title,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q01,,,
+QuestionText,"A personalização de planos nutricionais utilizando dados genéticos é uma das aplicações mais inovadoras da Inteligência Artificial (IA) na área da nutrição. A capacidade de analisar interações genéticas complexas permite aos nutricionistas ajustarem as recomendações dietéticas não apenas com base em hábitos alimentares e condições de saúde, mas também considerando as variações genéticas específicas de cada indivíduo. Esse tipo de análise possibilita uma abordagem mais eficaz e personalizada na prevenção e tratamento de doenças, otimizando a saúde por meio de uma nutrição verdadeiramente personalizada.
+
+Qual tecnologia de IA é particularmente útil para analisar e integrar informações genéticas em recomendações nutricionais personalizadas?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Redes neurais convolucionais.,,
+Option,0,Aprendizado de reforço.,,
+Option,0,Processamento de linguagem natural.,,
+Option,100,Algoritmos genéticos.,,
+Option,0,Árvores de decisão.,,
+Feedback,"Algoritmos genéticos são especialmente adequados para trabalhar com dados genéticos, pois podem modelar e simular processos evolutivos, oferecendo insights sobre interações complexas entre genes e dieta.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q02,,,
+Title,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q02,,,
+QuestionText,"A precisão na estimativa de ingestão energética é fundamental na nutrição clínica e no manejo dietético. Tecnologias de IA, como aprendizado profundo e visão computacional, são empregadas para analisar imagens de alimentos e avaliar de forma precisa a ingestão calórica e a composição nutricional das refeições. Essas tecnologias permitem uma abordagem mais exata e menos invasiva em comparação aos métodos tradicionais baseados no autorrelato, que são frequentemente sujeitos a erros de memória e subestimação.
+
+Com base no texto apresentado, é correto afirmar que a precisão na estimativa da ingestão energética de um paciente, visando ao manejo nutricional eficaz,",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,permite uma melhor compreensão das preferências alimentares.,,
+Option,100,ajuda a determinar a adequação do consumo energético às necessidades metabólicas do paciente.,,
+Option,0,contribui para uma avaliação mais rápida do estado nutricional.,,
+Option,0,facilita o processo de planejamento de refeições em ambientes hospitalares.,,
+Option,0,reduz significativamente o custo de cuidados nutricionais ao longo do tempo.,,
+Feedback,"A precisão na estimativa da ingestão energética é fundamental, pois permite que os nutricionistas ajustem as dietas para corresponder exatamente às necessidades energéticas do paciente, levando em conta fatores como idade, peso, altura, sexo, nível de atividade física e condições de saúde. Isso é fundamental para evitar desequilíbrios nutricionais que podem levar a condições como desnutrição ou obesidade, além de apoiar a recuperação e a manutenção da saúde geral.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q03,,,
+Title,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q03,,,
+QuestionText,"Na nutrição, o manejo dietético personalizado é crucial para atender às necessidades individuais dos pacientes. Com a introdução de tecnologias avançadas como o Aprendizado Profundo (DL), nutricionistas podem agora processar e analisar grandes volumes de dados dietéticos e de saúde de maneira mais eficaz. Essa capacidade de manipular extensas bases de dados não só melhora a precisão das intervenções nutricionais, mas também personaliza a prescrição dietética ao considerar uma ampla gama de variáveis, incluindo hábitos alimentares, condições médicas, preferências pessoais e dados biométricos.
+
+Com base nas informações fornecidas, assinale a opção que melhor descreve a finalidade do uso de máquinas para processar grandes quantidades de dados na área da nutrição para a prescrição dietética individualizada de precisão.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Permitir a análise rápida de tendências dietéticas populacionais.,,
+Option,0,Facilitar a comunicação de recomendações dietéticas para grandes grupos.,,
+Option,0,Proporcionar uma base para a implementação de diretrizes nutricionais genéricas.,,
+Option,100,Viabilizar a personalização da dieta ao integrar múltiplas fontes de dados sobre o indivíduo.,,
+Option,0,Simplificar o processo de educação nutricional para pacientes e profissionais de saúde.,,
+Feedback,"A capacidade de processar grandes volumes de informações é essencial para a nutrição personalizada, pois permite que os sistemas de IA integrem e analisem dados de diversas fontes sobre cada paciente. Isso inclui informações de saúde, dados genéticos, preferências alimentares e respostas a intervenções prévias. Tal integração é fundamental para desenvolver planos dietéticos que sejam verdadeiramente personalizados e adaptados às necessidades específicas de cada indivíduo, maximizando a eficácia das recomendações nutricionais e contribuindo para melhores resultados de saúde.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q04,,,
+Title,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q04,,,
+QuestionText,"A personalização das dietas com base na genética de um indivíduo é um avanço significativo proporcionado pelo uso da Inteligência Artificial e Aprendizado de Máquina na nutrição. Essas tecnologias permitem uma análise detalhada das variantes genéticas que influenciam o metabolismo de nutrientes, sensibilidades alimentares e predisposições a condições de saúde específicas. Assim, a prescrição dietética pode ser ajustada não apenas para melhorar a saúde geral, mas também para prevenir ou gerir condições específicas de saúde de maneira mais eficaz.
+
+Considerando as informações apresentadas, assinale a opção que melhor destaca a importância de personalizar dietas com base na genética do paciente na prática nutricional.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Permite que dietas sejam ajustadas para promover uma maior diversidade alimentar.,,
+Option,0,Facilita a padronização das intervenções nutricionais para todos os pacientes.,,
+Option,0,Ajuda a reduzir o risco de desenvolvimento de doenças genéticas herdadas.,,
+Option,100,Promove a precisão na prevenção e no manejo de condições de saúde relacionadas à dieta.,,
+Option,0,Possibilita a escolha do uso de suplementos nutricionais baseados em tendências.,,
+Feedback,"A personalização de dietas com base na genética é importante, pois permite que os nutricionistas desenvolvam planos alimentares que são mais eficazes na prevenção e no manejo de doenças relacionadas à dieta. Ao entender como variantes genéticas específicas afetam o metabolismo de nutrientes e a resposta a diferentes tipos de alimentos, os profissionais podem criar recomendações que diminuem o risco de condições de saúde e melhoram o bem-estar geral do paciente. Essa abordagem é fundamental para uma nutrição de precisão, que visa otimizar a saúde com base em características individuais, não apenas em diretrizes gerais.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_5,,,
+Title,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_5,,,
+QuestionText,"A ética na nutrição envolvendo o uso de Inteligência Artificial (IA) é uma área de intensa discussão e importância crescente. Os dados coletados para personalizar as recomendações nutricionais podem incluir informações sensíveis, como dados genéticos e biométricos, que requerem cuidados especiais para garantir privacidade e consentimento informado. Além disso, o uso ético da IA deve assegurar que todas as prescrições dietéticas sejam baseadas em evidências científicas e considerem as necessidades e desejos do paciente, mantendo a transparência sobre como os dados são utilizados e os algoritmos operam.
+
+Com base no texto apresentado, é correto afirmar que os princípios fundamentais para garantir a ética na aplicação de IA em nutrição são
+I.	privacidade dos dados do paciente, assegurando que informações sensíveis sejam protegidas e acessadas apenas com consentimento explícito.
+II.	transparência nos modelos de IA, em que pacientes e profissionais entendem como os dados são processados e as decisões são tomadas.
+III.	universalidade nas recomendações, aplicando a mesma dieta a todos os pacientes, independentemente de suas características individuais.
+IV.	consentimento informado, em que os pacientes são completamente informados e concordam com a coleta e uso de seus dados pessoais para prescrição nutricional.
+V.	autonomia do paciente, respeitando suas escolhas e preferências pessoais ao recomendar planos dietéticos.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I e III, apenas.,,
+Option,0,I, III e IV, apenas.,,
+Option,0,II, III e IV, apenas.,,
+Option,0,II, III e V, apenas.,,
+Option,100,I, II, IV e V, apenas.,,
+Feedback,"Privacidade, transparência, consentimento informado e respeito pela autonomia são princípios éticos essenciais no uso de IA em nutrição. Cada um desses aspectos garante que os pacientes sejam tratados com respeito, que seus dados sejam protegidos e que eles tenham entendimento e controle sobre como suas informações são utilizadas. A sentença III é incorreta, pois a universalidade nas recomendações contradiz a necessidade de personalização e individualização no tratamento nutricional, que é um dos benefícios principais da aplicação de IA na nutrição.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q06,,,
+Title,PPD_FE_09_Inteligência_Artificial_Rastreamento_P3_2025_2_Q06,,,
+QuestionText,"Na era digital, a colaboração interprofissional torna-se cada vez mais vital para o sucesso na implementação de soluções tecnológicas avançadas, como a Inteligência Artificial (IA), na nutrição. O campo da nutrição, especialmente quando combinado com IA, demanda uma abordagem multidisciplinar envolvendo nutricionistas, cientistas de dados, médicos e especialistas em TI para desenvolver e aplicar soluções eficazes e personalizadas. Essa sinergia entre diferentes especialistas melhora a precisão das intervenções nutricionais e facilita a inovação contínua e o desenvolvimento de métodos diagnósticos e terapêuticos mais eficientes, ajustados às necessidades específicas dos pacientes. A integração efetiva dessas competências diversas permite superar desafios complexos e maximizar o potencial dos dados na promoção da saúde e bem-estar.
+
+Com base nas informações apresentadas, é correto afirmar que o principal benefício da colaboração interprofissional na implementação de IA em nutrição consiste",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,na redução de custos.,,
+Option,0,no aumento da eficiência operacional.,,
+Option,100,na melhoria da precisão das recomendações nutricionais.,,
+Option,0,na expansão da base de clientes.,,
+Option,0,na melhoria da comunicação interna.,,
+Feedback,"A colaboração interprofissional pode melhorar significativamente a precisão das recomendações nutricionais ao integrar conhecimentos multidisciplinares, garantindo que as intervenções sejam abrangentes e bem-informadas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q01,,,
+Title,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q01,,,
+QuestionText,"Desertos alimentares são áreas caracterizadas pela falta de acesso fácil e conveniente a alimentos frescos e nutritivos, como frutas, legumes e outros produtos saudáveis. Essas regiões, frequentemente encontradas em zonas urbanas e rurais desfavorecidas, são marcadas pela ausência de supermercados ou mercados de alimentos frescos em distâncias acessíveis. Os moradores dessas áreas muitas vezes recorrem a lojas de conveniência ou estabelecimentos de fast food, que não oferecem as opções mais saudáveis. A existência de desertos alimentares está diretamente ligada a desafios de saúde pública, como dietas inadequadas e taxas elevadas de doenças crônicas relacionadas à nutrição. Para enfrentar esse problema, é necessário desenvolver e implementar estratégias eficazes que aumentem a disponibilidade de alimentos frescos e acessíveis em comunidades afetadas.
+
+Qual estratégia seria mais eficaz para mitigar o problema dos desertos alimentares em áreas urbanas?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Aumento de fast foods que oferecem opções saudáveis.,,
+Option,100,Implementação de hortas comunitárias.,,
+Option,0,Construção de mais estradas para melhorar o transporte.,,
+Option,0,Redução de impostos para grandes corporações alimentícias.,,
+Option,0,Incentivos para abertura de novas farmácias.,,
+Feedback,"Hortas comunitárias fornecem acesso direto a alimentos frescos e saudáveis, incentivando a participação comunitária e aumentando a disponibilidade de alimentos nutritivos em áreas classificadas como desertos alimentares.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q02,,,
+Title,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q02,,,
+QuestionText,"
+
+Com base no texto apresentado, assinale a opção que apresenta a política mais eficaz para combater a insegurança alimentar diretamente relacionada à pobreza.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Redução de impostos para empresas alimentícias.,,
+Option,0,Incentivo à exportação de alimentos.,,
+Option,100,Programas de alimentação escolar gratuita.,,
+Option,0,Subsídios para restaurantes em áreas urbanas.,,
+Option,0,Campanhas de conscientização sobre nutrição.,,
+Feedback,"Programas de alimentação escolar gratuita abordam diretamente a insegurança alimentar ao garantir que crianças em famílias de baixa renda recebam pelo menos uma refeição nutritiva por dia, contribuindo significativamente para a redução da fome e da desnutrição infantil.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q03,,,
+Title,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q03,,,
+QuestionText,"Pântanos alimentares são áreas onde há abundância de opções de alimentos, mas a disponibilidade de alimentos saudáveis é ofuscada pela predominância de opções de baixa qualidade nutricional. Tais áreas são tipicamente saturadas com fast foods, lanchonetes e lojas de conveniência que vendem produtos ultraprocessados, contribuindo para dietas pobres e aumento das taxas de obesidade e doenças relacionadas à alimentação. Transformar pântanos alimentares em ambientes mais saudáveis requer uma abordagem multifacetada que inclua regulamentações governamentais, iniciativas comunitárias e mudanças no comportamento de consumo.
+
+Considerando as medidas que poderiam efetivamente transformar um pântano alimentar em um ambiente mais saudável, avalie as afirmações a seguir.
+I.	Introdução de incentivos fiscais para restaurantes que ofereçam opções saudáveis.
+II.	Restrições à publicidade de alimentos ultraprocessados.
+III.	Promoção de mercados de agricultores locais dentro das áreas afetadas.
+IV.	Aumento de áreas dedicadas ao cultivo comunitário de frutas e vegetais.
+V.	Expansão do número de fast foods que incluem opções light em seus menus.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I e III, apenas.,,
+Option,0,I, III e IV, apenas.,,
+Option,0,II, III e IV, apenas.,,
+Option,0,II, III e V, apenas.,,
+Option,100,I, II, III e IV, apenas.,,
+Feedback,"I) Introdução de incentivos fiscais para restaurantes que ofereçam opções saudáveis pode estimular os estabelecimentos a diversificar seus menus, incluindo alimentos mais nutritivos.
+II) Restrições à publicidade de alimentos ultraprocessados podem diminuir o consumo desses produtos e encorajar escolhas alimentares mais saudáveis.
+III) Promoção de mercados de agricultores locais aumenta o acesso direto a alimentos frescos e saudáveis, incentivando hábitos alimentares mais benéficos.
+IV) Aumento de áreas para cultivo comunitário permite que os moradores tenham envolvimento direto na produção de seus alimentos, garantindo frescor e qualidade nutricional.
+V) Embora a expansão de opções light em fast foods possa parecer uma melhoria, frequentemente essas opções ainda não atendem aos critérios de uma alimentação verdadeiramente saudável e podem não contribuir significativamente para transformar o ambiente alimentar.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q04,,,
+Title,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q04,,,
+QuestionText,"A educação nutricional desempenha um importante papel na promoção de hábitos alimentares saudáveis, especialmente em comunidades, enfrentando desafios como insegurança alimentar, desertos alimentares e pântanos alimentares. Ao fornecer conhecimento sobre o valor nutricional dos alimentos e as consequências de escolhas alimentares inadequadas, a educação nutricional capacita indivíduos e comunidades a fazerem escolhas mais informadas. Além disso, pode servir como uma ferramenta de empoderamento que ajuda a combater as disparidades na saúde associadas ao acesso desigual a alimentos saudáveis.
+
+Os principais objetivos da educação nutricional em áreas afetadas por pântanos alimentares consistem em
+I.	encorajar a implementação de dietas de baixa caloria.
+II.	promover a compreensão sobre os benefícios de uma dieta balanceada.
+III.	incentivar o consumo exclusivo de alimentos orgânicos.
+IV.	ensinar sobre a importância da atividade física juntamente com bons hábitos alimentares.
+V.	educar sobre os impactos ambientais da produção de alimentos.
+
+Assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Somente uma alternativa está correta.,,
+Option,0,Somente duas alternativas estão corretas.,,
+Option,100,Somente três alternativas estão corretas.,,
+Option,0,Todas as alternativas estão corretas.,,
+Option,0,Todas as alternativas estão incorretas.,,
+Feedback,"**Gabarito** II, IV e V estão corretas.
+I.	Incorreta - encorajar a implementação de dietas de baixa caloria pode não ser uma ação efetiva se não se concentrar na qualidade dos alimentos consumidos, o que é essencial em pântanos alimentares.
+II.	Correta - promover a compreensão sobre os benefícios de uma dieta balanceada é essencial para que as pessoas possam fazer escolhas alimentares que sustentem uma saúde ótima, mesmo em ambientes dominados por opções de baixa qualidade nutricional.
+III.	Incorreta - incentivar o consumo exclusivo de alimentos orgânicos pode ser impraticável para muitas pessoas devido ao custo e à disponibilidade, e não necessariamente aborda os principais desafios nutricionais encontrados em pântanos alimentares.
+IV.	Correta - ensinar sobre a importância da atividade física juntamente com bons hábitos alimentares ajuda a criar um estilo de vida mais saudável e integral, abordando não só a alimentação, mas também outros aspectos da saúde.
+V.	Correta - educar sobre os impactos ambientais da produção de alimentos pode levar a escolhas mais sustentáveis e conscientes, que consideram não apenas a saúde individual, mas também a saúde do planeta.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q05,,,
+Title,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q05,,,
+QuestionText,"Políticas públicas que abordam a insegurança alimentar garantem que todas as camadas da população tenham acesso a alimentos saudáveis e nutritivos. Tais políticas podem abranger uma ampla gama de estratégias, desde o fortalecimento da infraestrutura agrícola local até a implementação de programas sociais que direcionem recursos para as famílias mais vulneráveis. Essas medidas são projetadas para aumentar a disponibilidade de alimentos saudáveis e para torná-los acessíveis e atraentes para todos os segmentos da sociedade.
+
+Assinale a opção que apresenta a política pública considerada mais eficaz para reduzir a insegurança alimentar em uma escala nacional.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Redução de impostos sobre importações de alimentos de luxo.,,
+Option,100,Implementação de programas nacionais de vouchers alimentares.,,
+Option,0,Subsídios para a exportação de produtos agrícolas.,,
+Option,0,Incentivos fiscais para restaurantes fast foods que ofereçam opções saudáveis.,,
+Option,0,Campanhas publicitárias para promover marcas internacionais de alimentos.,,
+Feedback,"A implementação de programas nacionais de vouchers alimentares é uma política pública eficaz para combater a insegurança alimentar em larga escala. Esses programas proporcionam às famílias de baixa renda a capacidade de comprar alimentos nutritivos, garantindo acesso direto a uma alimentação adequada. Ao contrário das outras opções, que podem beneficiar segmentos específicos da população ou promover produtos que não necessariamente melhoram a segurança alimentar, os vouchers alimentares abordam diretamente o problema do acesso econômico a alimentos saudáveis para as camadas mais vulneráveis da população.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q06,,,
+Title,PPD_FE_09_Insegurança_Alimentar_P4_2025_2_Q06,,,
+QuestionText,"A acessibilidade a alimentos saudáveis é uma questão crítica em muitas comunidades, particularmente nas mais carentes, onde o acesso geográfico e econômico a tais alimentos é frequentemente limitado. Esse problema é exacerbado em áreas classificadas como desertos alimentares, na quais supermercados e mercados de alimentos frescos são escassos. Além disso, os custos mais elevados associados a opções mais saudáveis podem impedir que famílias de baixa renda adquiram esses produtos essenciais. Estratégias eficazes são necessárias para melhorar a acessibilidade física e financeira aos alimentos saudáveis, contribuindo para o bem-estar geral da comunidade.
+
+Considerando as abordagens que melhorariam a acessibilidade a alimentos saudáveis em comunidades de baixa renda, avalie as afirmativas a seguir.
+I.	Subsídios para o transporte público que facilitem o acesso a mercados de alimentos frescos.
+II.	Incentivos para a abertura de supermercados e mercados de alimentos frescos em áreas carentes.
+III.	Programas de cupons de alimentos que permitam a compra de produtos saudáveis.
+IV.	Construção de infraestruturas de transporte que priorizem grandes centros comerciais.
+V.	Implementação de políticas que aumentem os impostos sobre frutas e vegetais para gerar receita governamental.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,IV e V, apenas.,,
+Option,0,III e IV, apenas.,,
+Option,0,IV e V, apenas.,,
+Option,0,III, IV e V, apenas.,,
+Option,100,I, II e III, apenas.,,
+Feedback,"I) Subsídios para o transporte público que facilitam o acesso a mercados de alimentos frescos podem ajudar moradores de áreas carentes a alcançar locais onde alimentos saudáveis são vendidos, melhorando, assim, a acessibilidade física.
+II) Incentivos para a abertura de supermercados e mercados de alimentos frescos em áreas carentes aumentam diretamente a disponibilidade de opções saudáveis, combatendo a problemática dos desertos alimentares.
+III) Programas de cupons de alimentos que permitem a compra de produtos saudáveis oferecem suporte financeiro para que famílias de baixa renda possam adquirir alimentos nutritivos, abordando a barreira econômica ao acesso alimentar.
+IV) A construção de infraestruturas de transporte que priorizem grandes centros comerciais pode não necessariamente beneficiar comunidades de baixa renda, especialmente se esses centros não forem acessíveis ou não estiverem focados em oferecer opções alimentares saudáveis.
+V) Aumentar impostos sobre frutas e vegetais contraria o objetivo de tornar alimentos saudáveis mais acessíveis, tornando esta opção ineficaz para melhorar a acessibilidade alimentar em comunidades de baixa renda.",,,
+

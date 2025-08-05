@@ -1,0 +1,537 @@
+Curso: ODONTOLOGIA		Ponto de Interação: 	1	Nº da questão: 	1
+**Identificação da questão** PPD_FE_09_ tema_P1_2025-1_Q01
+**Texto-base**
+O Sistema Único de Saúde (SUS), instituído pela Constituição de 1988, representa um marco histórico das políticas públicas de saúde no Brasil. Fundamentado nos princípios da universalidade, equidade e integralidade, assegura que a saúde seja um direito de todos e um dever do Estado. O SUS oferece serviços de saúde gratuitos e de qualidade para toda a população, independentemente de sua condição socioeconômica. No entanto, apesar dos avanços, o sistema ainda enfrenta desafios, tais como desigualdades regionais e a necessidade de maior financiamento.
+**Enunciado**
+Considerando as informações apresentadas, é correto afirmar que o SUS
+**Alternativas**
+A)	foi criado para atender exclusivamente a população de baixa renda, excluindo aqueles que possuem planos de saúde privados.
+B)	tem como princípio a saúde como direito de todos e dever do estado, garantindo acesso universal e equidade.
+C)	prioriza o atendimento privado, relegando ao setor público apenas serviços de baixa complexidade.
+D)	não possui diretrizes para a saúde bucal, deixando essa área exclusivamente para a iniciativa privada.
+E)	foi implementado sem desafios, resolvendo completamente as desigualdades regionais no acesso à saúde.
+
+**Gabarito** B
+**Feedback**
+A)	Incorreta. O SUS é universal e atende a todos os cidadãos, independentemente de renda ou posse de planos privados.
+B)	Correta. O SUS foi criado com base nos princípios de universalidade, equidade e integralidade, garantindo a saúde como direito de todos.
+C)	Incorreta. O SUS oferece serviços de baixa, média e alta complexidade, não priorizando o setor privado.
+D)	Incorreta. O SUS inclui diretrizes para a saúde bucal, como o Programa Brasil Sorridente.
+E)	Incorreta. O SUS enfrenta desafios, como desigualdades regionais e falta de financiamento.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	1	Nº da questão: 	2
+**Identificação da questão** PPD_FE_09_ tema_P1_2025-1_Q02
+**Texto-base**
+O Programa Brasil Sorridente, lançado em 2004, é uma das principais políticas públicas de saúde bucal no Brasil. Integrado ao SUS, o programa tem como objetivo ampliar o acesso aos serviços odontológicos, especialmente para populações vulneráveis. Entre suas ações, destacam-se a implantação de Centros de Especialidades Odontológicas (CEOs), a distribuição de kits de higiene bucal e a fluoretação da água. O Brasil Sorridente é reconhecido internacionalmente por seus impactos positivos na saúde bucal da população brasileira.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção correta.
+**Alternativas**
+A)	O Programa Brasil Sorridente foi criado para substituir o SUS, focando exclusivamente na saúde bucal.
+B)	O Programa Brasil Sorridente ampliou o acesso aos serviços odontológicos por meio da implantação de Centros de Especialidades Odontológicas (CEOs).
+C)	O Programa Brasil Sorridente não inclui ações de prevenção, limitando-se ao tratamento de cáries e extrações dentárias.
+D)	O Programa Brasil Sorridente é financiado exclusivamente por organizações internacionais, sem a participação do governo brasileiro.
+E)	O Programa Brasil Sorridente beneficia apenas a população urbana, excluindo comunidades rurais e indígenas.
+
+**Gabarito** B
+**Feedback**
+A)	Incorreta. O Brasil Sorridente é uma política integrada ao SUS, não um substituto.
+B)	Correta. O programa ampliou o acesso por meio de CEOs e outras ações, como a fluoretação da água.
+C)	Incorreta. O programa inclui ações de prevenção, promoção e reabilitação.
+D)	Incorreta. O programa é financiado pelo governo brasileiro.
+E)	Incorreta. O programa busca atender a toda a população, incluindo comunidades rurais e indígenas. 
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	1	Nº da questão: 	3
+**Identificação da questão** PPD_FE_09_ tema_P1_2025-1_Q03
+**Texto-base**
+A fluoretação da água é uma das estratégias mais eficazes e de menor custo para a prevenção de cáries em larga escala. Essa prática, adotada no Brasil como parte do Programa Brasil Sorridente, consiste na adição de flúor à água de abastecimento público em concentrações seguras e controladas. A fluoretação beneficia toda a população, independentemente de sua renda, e é reconhecida internacionalmente como uma medida de saúde pública de grande impacto na redução da prevalência de cáries.
+**Enunciado**
+A fluoretação da água é uma das ações do Programa Brasil Sorridente. Sobre essa prática, é correto afirmar que
+**Alternativas**
+A)	é uma medida ineficaz na prevenção de cáries, sendo utilizada apenas por questões econômicas.
+B)	beneficia principalmente a população de alta renda, que tem maior acesso à água tratada.
+C)	é reconhecida internacionalmente como uma estratégia eficaz de prevenção de cáries em larga escala.
+D)	foi abandonada no Brasil devido aos altos custos de implementação.
+E)	não possui relação com a saúde bucal, sendo focada apenas na qualidade da água para consumo.
+
+**Gabarito** C
+**Feedback**
+A)	Incorreta. A fluoretação é uma medida eficaz e de baixo custo para prevenção de cáries.
+B)	Incorreta. A fluoretação beneficia toda a população, independentemente da renda.
+C)	Correta. A fluoretação é reconhecida como uma estratégia eficaz de saúde pública.
+D)	Incorreta. A fluoretação continua sendo utilizada no Brasil.
+E)	Incorreta. A fluoretação está diretamente relacionada à saúde bucal.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	1	Nº da questão: 	4
+**Identificação da questão** PPD_FE_09_ tema_P1_2025-1_Q04
+**Texto-base**
+As políticas públicas de saúde no Brasil, a exemplo do SUS e do Programa Brasil Sorridente, trouxeram avanços significativos no acesso e na qualidade dos serviços de saúde. No entanto, persistem desafios, como a falta de investimento, a má distribuição de recursos e as desigualdades regionais. A participação social e o fortalecimento do financiamento são essenciais para superar esses obstáculos e garantir que as políticas de saúde atendam às necessidades de toda a população.
+**Enunciado**
+Considerando os desafios das políticas públicas de saúde no Brasil, assinale a opção correta.
+**Alternativas**
+A)	As desigualdades regionais foram completamente superadas com a criação do SUS.
+B)	A falta de investimento e a má distribuição de recursos são problemas persistentes.
+C)	O Brasil Sorridente resolveu todos os problemas de acesso à saúde bucal no país.
+D)	O SUS não enfrenta desafios, sendo um modelo perfeito de saúde pública.
+E)	A participação social é irrelevante para o aprimoramento das políticas de saúde.  
+
+**Gabarito** B
+**Feedback**
+A)	Incorreta. As desigualdades regionais ainda são um desafio.
+B)	Correta. A falta de investimento e a má distribuição de recursos são problemas persistentes.
+C)	Incorreta. O Brasil Sorridente trouxe avanços, mas não resolveu todos os problemas.
+D)	Incorreta. O SUS enfrenta diversos desafios, como financiamento e capacitação profissional.
+E)	Incorreta. A participação social é fundamental para o aprimoramento das políticas de saúde.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	1	Nº da questão: 	5
+**Identificação da questão** PPD_FE_09_ tema_P1_2025-1_Q05
+**Texto-base**
+A participação social constitui um dos pilares do SUS e das políticas públicas de saúde no Brasil. Por meio de conselhos de saúde, conferências e outras formas de engajamento, a população pode contribuir para a definição, implementação e avaliação das políticas de saúde. Essa participação é fundamental para garantir a transparência, a efetividade e a equidade das ações em saúde, além de fortalecer o controle social sobre os recursos públicos. 
+**Enunciado**
+Considerando que a participação social é um elemento importante para o fortalecimento das políticas públicas de saúde, assinale a opção correta.
+**Alternativas**
+A)	A população não tem voz ativa na definição das políticas de saúde, sendo essas decisões tomadas exclusivamente pelo governo.
+B)	A participação social contribui para a transparência e a efetividade das políticas de saúde.
+C)	A participação social é irrelevante, pois as políticas de saúde são técnicas e não devem ser influenciadas pela população.
+D)	O SUS não permite a participação social em sua gestão.
+E)	A participação social é restrita a profissionais da saúde, excluindo a população geral.
+
+**Gabarito** B
+**Feedback**
+A)	 Incorreta. A participação social é incentivada no SUS, como nos conselhos de saúde.
+B)	Correta. A participação social contribui para a transparência e a efetividade das políticas.
+C)	Incorreta. A participação social é essencial para políticas alinhadas às necessidades da população.
+D)	Incorreta. O SUS inclui mecanismos de participação social, como conferências e conselhos de saúde.
+E)	Incorreta. A participação social é aberta a todos os cidadãos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	1	Nº da questão: 	6
+**Identificação da questão** PPD_FE_09_ tema_P1_2025-1_Q06
+**Texto-base**
+O Programa Brasil Sorridente é reconhecido internacionalmente por suas contribuições para a saúde bucal no Brasil. Desde sua criação em 2004, o programa ampliou o acesso aos serviços odontológicos, especialmente para populações vulneráveis, por meio de ações como a implantação de CEOs, a distribuição de kits de higiene bucal e a fluoretação da água. Apesar dos avanços, desafios como as desigualdades regionais e a necessidade de maior financiamento ainda precisam ser superados.
+**Enunciado**
+Considerando as informações apresentadas acerca do Programa Brasil Sorridente, assinale a opção que corresponde a um de seus impactos. 
+**Alternativas**
+A)	Reduziu as desigualdades regionais no acesso à saúde bucal de forma completa e definitiva.
+B)	Ampliou o acesso aos serviços odontológicos, especialmente para populações vulneráveis.
+C)	Foi descontinuado em 2010 devido à falta de resultados significativos.
+D)	Beneficiou apenas a população urbana, sem ações voltadas para áreas rurais.
+E)	Não incluiu a fluoretação da água como uma de suas estratégias.
+**Gabarito** B
+**Feedback**
+A)	Incorreta. Apesar dos avanços, as desigualdades regionais ainda persistem.
+B)	Correta. O programa ampliou o acesso, especialmente para populações vulneráveis.
+C)	Incorreta. O programa continua em vigor e trouxe resultados significativos.
+D)	Incorreta. O programa inclui ações para áreas urbanas e rurais.
+E)	Incorreta. A fluoretação da água é uma das estratégias do programa.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	2	Nº da questão: 	1
+**Identificação da questão** PPD_FE_09_ tema_P2_2025-1_Q01
+**Texto-base**
+A Odontologia Hospitalar é uma área essencial para a integração entre saúde bucal e geral, sobretudo no atendimento a pacientes internados com condições sistêmicas complexas. O cirurgião-dentista atua em equipes multiprofissionais, promovendo a saúde bucal como parte fundamental do bem-estar geral do paciente. Além disso, a análise sistêmica do paciente, considerando comorbidades e suas interações com a saúde bucal, é importante para um planejamento odontológico seguro e eficaz.
+**Enunciado**
+Considerando o papel do cirurgião-dentista no ambiente hospitalar, assinale a opção correta.
+**Alternativas**
+A)	No ambiente hospitalar, o cirurgião-dentista limita-se ao tratamento de cáries e extrações dentárias, sem integração com outras áreas da saúde.
+B)	No ambiente hospitalar, o cirurgião-dentista atua de forma isolada, dispensando a interação com equipes multiprofissionais.
+C)	No ambiente hospitalar, o cirurgião-dentista promove a saúde bucal como parte do bem-estar geral do paciente, integrando-se a equipes multiprofissionais.
+D)	No ambiente hospitalar, não há necessidade de considerar comorbidades sistêmicas no planejamento odontológico.
+E)	No ambiente hospitalar, a atuação do cirurgião-dentista é restrita a pacientes ambulatoriais, sem envolvimento em UTIs ou enfermarias.
+
+**Gabarito** C
+**Feedback**
+A)	Incorreta. No ambiente hospitalar, o cirurgião-dentista não se limita ao tratamento de cáries, mas também atua na prevenção de infecções e se integra a equipes multiprofissionais.
+B)	Incorreta. A atuação do cirurgião-dentista no hospital é essencialmente multidisciplinar.
+C)	Correta. O cirurgião-dentista promove a saúde bucal como parte do bem-estar geral e se integra a equipes multiprofissionais.
+D)	Incorreta. A análise sistêmica do paciente, incluindo comorbidades, é fundamental no planejamento odontológico.
+E)	Incorreta. O cirurgião-dentista atua também em UTIs e enfermarias, especialmente em pacientes críticos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	2	Nº da questão: 	2
+**Identificação da questão** PPD_FE_09_ tema_P2_2025-1_Q02
+**Texto-base**
+Em Unidades de Terapia Intensiva (UTIs), a saúde bucal frequentemente é negligenciada, embora desempenhe um papel significativo na prevenção de complicações, como a pneumonia nosocomial. O acúmulo de biofilme dental e doenças periodontais podem ser fontes de microrganismos patogênicos que, ao serem aspirados, levam a infecções respiratórias graves.
+**Enunciado**
+Considerando a importância da saúde bucal em UTIs, assinale a opção correta.
+**Alternativas**
+A)	A saúde bucal não tem impacto significativo na prevenção de infecções hospitalares.
+B)	O acúmulo de biofilme dental pode levar a infecções respiratórias, como a pneumonia nosocomial.
+C)	A pneumonia nosocomial é causada exclusivamente por fatores externos ao ambiente bucal.
+D)	A atuação do cirurgião-dentista em UTIs é desnecessária, pois a equipe médica cuida de todos os aspectos.
+E)	A higiene bucal em pacientes críticos não influencia o tempo de internação.
+
+**Gabarito** B
+**Feedback**
+A)	Incorreta. A saúde bucal é crucial para prevenir infecções hospitalares, como a pneumonia nosocomial.
+B)	Correta. O acúmulo de biofilme dental pode ser fonte de microrganismos patogênicos que causam infecções respiratórias.
+C)	Incorreta. A pneumonia nosocomial pode ser causada por microrganismos provenientes da cavidade bucal.
+D)	Incorreta. A atuação do cirurgião-dentista é essencial para prevenir complicações relacionadas à saúde bucal.
+E)	Incorreta. A higiene bucal adequada pode reduzir o tempo de internação e o uso de antibióticos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	2	Nº da questão: 	3
+**Identificação da questão** PPD_FE_09_ tema_P2_2025-1_Q03
+**Texto-base**
+Pacientes com comorbidades, como diabetes e doenças cardiovasculares, estão mais suscetíveis a complicações bucais, como xerostomia (boca seca) e disgeusia (alteração do paladar). Essas condições impactam diretamente a qualidade de vida e a capacidade de recuperação dos pacientes.
+**Enunciado**
+Considerando as interações entre saúde bucal e comorbidades sistêmicas, assinale a opção correta.
+**Alternativas**
+A)	Pacientes com diabetes não apresentam maior risco de complicações bucais.
+B)	A xerostomia e a disgeusia são condições que não afetam a qualidade de vida dos pacientes.
+C)	Comorbidades como diabetes e doenças cardiovasculares aumentam a suscetibilidade a complicações bucais.
+D)	A saúde bucal não influencia a recuperação de pacientes com condições sistêmicas complexas.
+E)	O cirurgião-dentista não precisa considerar comorbidades ao planejar o tratamento odontológico.
+
+**Gabarito** C
+**Feedback**
+A)	Incorreta. Pacientes com diabetes têm maior risco de complicações bucais, como xerostomia e doença periodontal.
+B)	Incorreta. A xerostomia e a disgeusia impactam diretamente a qualidade de vida e a capacidade de alimentação dos pacientes.
+C)	Correta. Comorbidades como diabetes e doenças cardiovasculares aumentam o risco de complicações bucais.
+D)	Incorreta. A saúde bucal é fundamental para a recuperação de pacientes com condições sistêmicas complexas.
+E)	Incorreta. O cirurgião-dentista deve considerar comorbidades para um planejamento seguro e eficaz.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	2	Nº da questão: 	4
+**Identificação da questão** PPD_FE_09_ tema_P2_2025-1_Q04
+**Texto-base**
+Os protocolos de biossegurança no ambiente hospitalar são essenciais para garantir a segurança do paciente e da equipe durante os procedimentos odontológicos. Esses protocolos incluem o uso de equipamentos de proteção individual (EPIs), a esterilização de instrumentos e a adoção de práticas que previnam a transmissão de infecções.
+**Enunciado**
+Considerando os protocolos de biossegurança na Odontologia Hospitalar, assinale a opção correta.
+**Alternativas**
+A)	O uso de EPIs é opcional, dependendo da disponibilidade no hospital.
+B)	A esterilização de instrumentos não é necessária em ambientes hospitalares.
+C)	A prevenção de infecções não é uma prioridade na Odontologia Hospitalar.
+D)	Os protocolos de biossegurança visam garantir a segurança do paciente e da equipe durante os procedimentos.
+E)	Os protocolos de biossegurança são os mesmos em consultórios odontológicos e hospitais.
+
+**Gabarito** D
+**Feedback**
+A)	Incorreta. O uso de EPIs é obrigatório para garantir a segurança do paciente e da equipe.
+B)	Incorreta. A esterilização de instrumentos é essencial para prevenir infecções.
+C)	Incorreta. A prevenção de infecções é uma prioridade na Odontologia Hospitalar.
+D)	Correta. Os protocolos de biossegurança garantem a segurança durante os procedimentos.
+E)	Incorreta. Os protocolos de biossegurança em hospitais são mais rigorosos devido ao maior risco de infecções.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	2	Nº da questão: 	5
+**Identificação da questão** PPD_FE_09_ tema_P2_2025-1_Q05
+**Texto-base**
+A pneumonia nosocomial é uma das principais causas de morbidade e mortalidade em pacientes críticos, prolongando o tempo de internação e aumentando o uso de antibióticos. A higiene bucal adequada, realizada pelo cirurgião-dentista, pode reduzir significativamente o risco dessa infecção.
+**Enunciado**
+Considerando a relação entre higiene bucal e pneumonia nosocomial, assinale a opção correta.
+**Alternativas**
+A)	A higiene bucal não impacta a prevenção de pneumonia nosocomial.
+B)	A pneumonia nosocomial é causada exclusivamente por fatores não relacionados à saúde bucal.
+C)	A higiene bucal adequada pode reduzir o risco de pneumonia nosocomial em pacientes críticos.
+D)	O cirurgião-dentista não tem papel na prevenção de infecções respiratórias em hospitais.
+E)	A pneumonia nosocomial não afeta o tempo de internação ou o uso de antibióticos.
+
+**Gabarito** C
+**Feedback**
+A)	Incorreta. A higiene bucal é crucial para prevenir pneumonia nosocomial.
+B)	Incorreta. A pneumonia nosocomial pode ser causada por microrganismos provenientes da cavidade bucal.
+C)	Correta. A higiene bucal adequada reduz o risco de pneumonia nosocomial.
+D)	Incorreta. O cirurgião-dentista tem um papel fundamental na prevenção de infecções respiratórias.
+E)	Incorreta. A pneumonia nosocomial prolonga o tempo de internação e aumenta o uso de antibióticos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	2	Nº da questão: 	6
+**Identificação da questão** PPD_FE_09_ tema_P2_2025-1_Q06
+**Texto-base**
+A Odontologia Hospitalar é fundamental para o cuidado integral de pacientes internados, especialmente aqueles com condições sistêmicas complexas. A atuação do cirurgião-dentista inclui a eliminação de focos infecciosos, a adaptação de protocolos de higiene bucal e a integração com equipes multidisciplinares para garantir um cuidado abrangente e eficaz.
+**Enunciado**
+Considerando a importância da Odontologia Hospitalar, assinale a opção correta.
+**Alternativas**
+A)	A Odontologia Hospitalar contribui para o cuidado integral do paciente, eliminando focos infecciosos e prevenindo complicações.
+B)	A atuação do cirurgião-dentista no hospital é desnecessária, pois a equipe médica cuida de todas as necessidades.
+C)	A Odontologia Hospitalar é restrita ao tratamento de cáries e não envolve a prevenção de infecções. 
+D)	A integração com equipes multidisciplinares não é importante na Odontologia Hospitalar.
+E)	A Odontologia Hospitalar não impacta a qualidade de vida dos pacientes internados.
+
+**Gabarito** A
+**Feedback**
+A)	Correta. A Odontologia Hospitalar contribui para o cuidado integral, eliminando focos infecciosos e prevenindo complicações. 
+B)	Incorreta. A atuação do cirurgião-dentista é essencial para prevenir complicações relacionadas à saúde bucal.
+C)	Incorreta. A Odontologia Hospitalar inclui a prevenção de infecções e o cuidado integral do paciente.
+D)	Incorreta. A integração com equipes multidisciplinares é fundamental para um cuidado abrangente.
+E)	Incorreta. A Odontologia Hospitalar impacta positivamente a qualidade de vida dos pacientes internados.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	3	Nº da questão: 	1
+**Identificação da questão** PPD_FE_09_ tema_P3_2025-1_Q01
+**Texto-base**
+A cárie dentária é uma doença multifatorial que resulta da interação entre dieta, higiene bucal, microbiota bucal e suscetibilidade individual. A fluorterapia é uma das principais estratégias preventivas, pois fortalece o esmalte dentário e reduz a desmineralização causada pelos ácidos bacterianos. O diagnóstico precoce é fundamental para intervir antes que a cárie cause danos irreversíveis.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+
+I.	A cárie dentária é causada exclusivamente por uma dieta rica em açúcares, sem influência de outros fatores.
+II.	A fluorterapia é uma estratégia eficaz para fortalecer o esmalte dentário e prevenir a desmineralização.
+III.	O diagnóstico precoce da cárie permite intervenções mais conservadoras e menos invasivas.
+É correto o que se afirma em
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+I.	Incorreto. A cárie é multifatorial, envolvendo dieta, higiene bucal, microbiota e suscetibilidade individual.
+II.	Correto. A fluorterapia fortalece o esmalte e previne a desmineralização.
+III.	Correto. O diagnóstico precoce permite tratamentos conservadores e minimamente invasivos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	3	Nº da questão: 	2
+**Identificação da questão** PPD_FE_09_ tema_P3_2025-1_Q02
+**Texto-base**
+A fluorterapia pode ser aplicada por meio de cremes dentais, enxaguantes, vernizes, géis e fluoretação da água. Essa estratégia é especialmente eficaz para grupos de alto risco, como crianças e idosos. Além disso, o diagnóstico precoce da cárie permite intervenções minimamente invasivas, preservando a estrutura dentária.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A fluorterapia é limitada ao uso de cremes dentais e não inclui outras formas de aplicação.
+II.	Crianças e idosos são considerados grupos de alto risco para cárie e se beneficiam da fluorterapia.
+III.	O diagnóstico precoce da cárie permite tratamentos mais conservadores e menos invasivos.
+É correto o que se afirma em
+
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+I.	Incorreto. A fluorterapia inclui diversas formas de aplicação, como enxaguantes, vernizes, géis e fluoretação da água.
+II.	Correto. Crianças e idosos são grupos de alto risco que se beneficiam da fluorterapia.
+III.	Correto. O diagnóstico precoce permite tratamentos conservadores e minimamente invasivos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	3	Nº da questão: 	3
+**Identificação da questão** PPD_FE_09_ tema_P3_2025-1_Q03
+**Texto-base**
+A cárie dentária é uma das doenças mais prevalentes no mundo, afetando bilhões de pessoas. Sua etiologia multifatorial envolve dieta, higiene bucal, microbiota e suscetibilidade individual. A fluorterapia é uma das principais estratégias preventivas, mas seu uso excessivo pode levar a riscos, como a fluorose dentária.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A cárie dentária é causada apenas por bactérias, sem influência de outros fatores.
+II.	A fluorterapia é uma estratégia preventiva eficaz, mas seu uso excessivo pode causar fluorose.
+III.	A fluorose dentária é um benefício do uso adequado do flúor.
+
+É correto o que se afirma em
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e II, apenas.
+E)	I, II, III.
+**Gabarito** B
+**Feedback**
+I.	Incorreto. A cárie é multifatorial, envolvendo dieta, higiene bucal, microbiota e suscetibilidade individual.
+II.	Correto. A fluorterapia é eficaz, mas o uso excessivo pode causar fluorose.
+III.	Incorreto. A fluorose é um efeito adverso do excesso de flúor, não um benefício.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	3	Nº da questão: 	4
+**Identificação da questão** PPD_FE_09_ tema_P3_2025-1_Q04
+**Texto-base**
+A fluorterapia é amplamente utilizada na prevenção da cárie, mas seu uso excessivo pode levar a riscos, como a fluorose dentária. Por isso, é importante orientar os pacientes sobre o uso adequado do flúor, especialmente em populações vulneráveis, como crianças.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	O uso excessivo de flúor pode causar fluorose dentária, especialmente em crianças.
+II.	A fluorterapia não deve ser utilizada em crianças devido ao risco de fluorose.
+III.	A orientação sobre o uso adequado do flúor é essencial para evitar efeitos adversos.
+É correto o que se afirma em
+
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+
+**Feedback**
+I.	Correto. O uso excessivo de flúor pode causar fluorose, especialmente em crianças.
+II.	Incorreto. A fluorterapia pode ser usada em crianças, mas com orientação adequada.
+III.	Correto. A orientação sobre o uso adequado do flúor é essencial para evitar efeitos adversos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	3	Nº da questão: 	5
+**Identificação da questão** PPD_FE_09_ tema_P3_2025-1_Q05
+**Texto-base**
+A abordagem moderna da odontologia prioriza tratamentos minimamente invasivos, preservando a estrutura dentária e promovendo a saúde bucal. A fluorterapia é uma das estratégias que se alinha a esses princípios, sendo eficaz na prevenção e no tratamento da cárie.
+
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A odontologia moderna prioriza tratamentos conservadores e minimamente invasivos.
+II.	A fluorterapia não se alinha aos princípios da odontologia moderna.
+III.	A preservação da estrutura dentária é um dos objetivos da odontologia moderna.
+É correto o que se afirma em
+
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+I.	Correto. A odontologia moderna prioriza tratamentos conservadores e minimamente invasivos.
+II.	Incorreto. A fluorterapia alinha-se aos princípios da odontologia moderna.
+III.	Correto. A preservação da estrutura dentária é um dos objetivos da odontologia moderna.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	3	Nº da questão: 	6
+**Identificação da questão** PPD_FE_09_ tema_P3_2025-1_Q06
+**Texto-base**
+A fluorterapia é amplamente reconhecida como uma das principais estratégias para a prevenção da cárie dentária. No entanto, sua eficácia depende de fatores como a concentração de flúor, a frequência de aplicação e a suscetibilidade individual do paciente. Além disso, o uso inadequado de flúor pode levar a efeitos adversos, como a fluorose dentária, que varia de leve a severa, dependendo da dose e da duração da exposição. Em populações vulneráveis, como crianças, o risco de fluorose é maior devido ao desenvolvimento incompleto do esmalte dentário. Por isso, a orientação profissional é importante para garantir que o flúor seja utilizado de forma segura e eficaz, equilibrando seus benefícios e riscos.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A eficácia da fluorterapia depende exclusivamente da concentração de flúor, sem influência de outros fatores.
+II.	A fluorose dentária pode variar de leve a severa, dependendo da dose e da duração da exposição ao flúor.
+III.	Crianças são consideradas menos suscetíveis à fluorose devido ao desenvolvimento completo do esmalte dentário.
+IV.	A orientação profissional é essencial para equilibrar os benefícios e riscos do uso do flúor, especialmente em populações vulneráveis.
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.                            
+B)	II, apenas.
+C)	I e II, apenas. 
+D)	II e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito** D
+**Feedback**
+I.	Incorreto. A eficácia da fluorterapia depende de múltiplos fatores, como concentração de flúor, frequência de aplicação e suscetibilidade individual, não apenas da concentração.
+II.	Correto. A fluorose dentária pode variar de leve a severa, dependendo da dose e da duração da exposição ao flúor.
+III.	Incorreto. Crianças são mais suscetíveis à fluorose devido ao desenvolvimento incompleto do esmalte dentário.
+IV.	Correto. A orientação profissional é crucial para equilibrar os benefícios e riscos do uso do flúor, especialmente em populações vulneráveis.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	4	Nº da questão: 	1
+**Identificação da questão** PPD_FE_09_ tema_P4_2025-1_Q01
+**Texto-base**
+O Envelhecimento Precoce Bucal é um fenômeno caracterizado por alterações aceleradas nos dentes e nas estruturas bucais, influenciado por fatores como bruxismo, dieta inadequada, estresse, hábitos parafuncionais e predisposição genética. Essas alterações podem levar a desgastes dentários, trincas, fraturas e impactos estéticos e funcionais, além de afetar a qualidade de vida dos pacientes.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+
+I.	O Envelhecimento Precoce Bucal é causado exclusivamente por fatores genéticos, sem influência de hábitos ou comportamentos.
+II.	O bruxismo e a dieta inadequada são fatores que contribuem para o Envelhecimento Precoce Bucal.
+III.	As consequências do Envelhecimento Precoce Bucal incluem apenas alterações estéticas, sem impacto funcional.
+É correto o que se afirma em
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e III, apenas.
+E)	I, II, III.
+**Gabarito** B
+**Feedback**
+I.	Incorreto. O Envelhecimento Precoce Bucal é multifatorial, envolvendo hábitos, comportamentos e predisposição genética.
+II.	Correto. O bruxismo e a dieta inadequada são fatores que contribuem para o Envelhecimento Precoce Bucal.
+III.	Incorreto. As consequências incluem alterações estéticas e funcionais, como desgastes e fraturas.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	4	Nº da questão: 	2
+**Identificação da questão** PPD_FE_09_ tema_P4_2025-1_Q02
+**Texto-base**
+A Síndrome do Envelhecimento Precoce Bucal (SEPB) está associada a um envelhecimento patológico da cavidade bucal, muitas vezes em pacientes com boa higiene oral. Fatores como estresse, má alimentação e qualidade do sono inadequada podem acelerar esse processo, mesmo na ausência de placa bacteriana.
+**Enunciado**
+
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A SEPB ocorre apenas em pacientes com má higiene oral e acúmulo de placa bacteriana.
+II.	O estresse e a má alimentação são fatores que podem acelerar o Envelhecimento Precoce Bucal.
+III.	A SEPB está associada a um envelhecimento patológico da cavidade bucal, mesmo em pacientes com boa higiene oral. 
+É correto o que se afirma em
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+I.	Incorreto. A SEPB pode ocorrer em pacientes com boa higiene oral, não estando exclusivamente ligada à placa bacteriana.
+II.	Correto. O estresse e a má alimentação são fatores que aceleram o Envelhecimento Precoce Bucal.
+III.	Correto. A SEPB está associada a um envelhecimento patológico, mesmo em pacientes com boa higiene oral.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	4	Nº da questão: 	3
+**Identificação da questão** PPD_FE_09_ tema_P4_2025-1_Q03
+**Texto-base**
+Lesões Cervicais Não Cariosas (LCNCs) são condições que afetam a estrutura dental sem a presença de cárie. Essas lesões estão relacionadas a fatores como hábitos alimentares ácidos, doenças gástricas, uso de aparelhos ortodônticos e estresse. O envelhecimento precoce dos dentes pode ser observado em pacientes jovens, a partir dos 25 anos.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	As LCNCs são causadas exclusivamente pela ação bacteriana, sem influência de outros fatores.
+II.	O uso de aparelhos ortodônticos pode contribuir para o desenvolvimento de LCNCs.
+III.	O envelhecimento precoce dos dentes pode ocorrer em pacientes jovens, a partir dos 25 anos.
+É correto o que se afirma em
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+
+I.	Incorreto. As LCNCs não são causadas por ação bacteriana, mas por fatores como hábitos alimentares e estresse.
+II.	Correto. O uso de aparelhos ortodônticos pode contribuir para o desenvolvimento de LCNCs.
+III.	Correto. O envelhecimento precoce dos dentes pode ocorrer em pacientes jovens, a partir dos 25 anos.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	4	Nº da questão: 	4
+**Identificação da questão** PPD_FE_09_ tema_P4_2025-1_Q04
+**Texto-base**
+O bruxismo e o apertamento dental são condições comuns em pessoas ansiosas, afetando a articulação temporomandibular (ATM) e a estrutura dos dentes. Esses hábitos podem levar a desgastes dentários, fraturas e dores na ATM, contribuindo para o Envelhecimento Precoce Bucal.
+**Enunciado**
+
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+
+I.	O bruxismo e o apertamento dental são causados exclusivamente por fatores genéticos.
+II.	Esses hábitos podem levar a desgastes dentários e dores na ATM.
+III.	O bruxismo não tem relação com o Envelhecimento Precoce Bucal.
+É correto o que se afirma em
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e III, apenas.
+E)	I, II, III.
+**Gabarito** B
+**Feedback**
+I.	Incorreto. O bruxismo e o apertamento dental estão relacionados a fatores como ansiedade e estresse, não apenas genéticos.
+II.	Correto. Esses hábitos podem levar a desgastes dentários e dores na ATM.
+III.	Incorreto. O bruxismo está diretamente relacionado ao Envelhecimento Precoce Bucal.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	4	Nº da questão: 	5
+**Identificação da questão** PPD_FE_09_ tema_P4_2025-1_Q05
+**Texto-base**
+A pandemia de COVID-19 impactou significativamente a saúde bucal das populações, aumentando casos de Envelhecimento Precoce Bucal devido ao estresse, má alimentação e redução da qualidade do sono. Esses fatores contribuíram para o surgimento de condições como a Síndrome do Envelhecimento Precoce Bucal (SEPB).
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A pandemia de COVID-19 não impactou a saúde bucal das populações.
+II.	O estresse e a má alimentação durante a pandemia contribuíram para o aumento de casos de SEPB.
+III.	A qualidade do sono inadequada é um fator que pode acelerar o Envelhecimento Precoce Bucal.
+É correto o que se afirma em
+**Alternativas**
+
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	II e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+I.	Incorreto. A pandemia de COVID-19 impactou a saúde bucal, aumentando casos de SEPB.
+II.	Correto. O estresse e a má alimentação durante a pandemia contribuíram para o aumento de casos de SEPB.
+III.	Correto. A qualidade do sono inadequada é um fator que pode acelerar o Envelhecimento Precoce Bucal.
+
+Curso: ODONTOLOGIA		Ponto de Interação: 	4	Nº da questão: 	6
+**Identificação da questão** PPD_FE_09_ tema_P4_2025-1_Q06
+**Texto-base**
+A abordagem do cirurgião-dentista no manejo do Envelhecimento Precoce Bucal deve incluir a identificação precoce dos fatores de risco, a orientação sobre hábitos saudáveis e a personalização dos planos de tratamento. A prevenção e a educação do paciente são essenciais para preservar a saúde bucal e a qualidade de vida.
+**Enunciado**
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I.	A identificação precoce dos fatores de risco é fundamental para o manejo do Envelhecimento Precoce Bucal.
+II.	A orientação sobre hábitos saudáveis é irrelevante para a prevenção do Envelhecimento Precoce Bucal.
+III.	A personalização dos planos de tratamento é essencial para preservar a saúde bucal dos pacientes.
+É correto o que se afirma em
+
+**Alternativas**
+A)	I, apenas.
+B)	II, apenas.
+C)	III, apenas.
+D)	I e III, apenas.
+E)	I, II, III.
+**Gabarito** D
+**Feedback**
+I.	Correto. A identificação precoce dos fatores de risco é fundamental para o manejo do Envelhecimento Precoce Bucal.
+II.	Incorreto. A orientação sobre hábitos saudáveis é relevante para a prevenção.
+III.	Correto. A personalização dos planos de tratamento é essencial para preservar a saúde bucal.
+

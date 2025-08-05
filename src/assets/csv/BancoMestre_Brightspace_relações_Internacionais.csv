@@ -1,0 +1,524 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P1_2024_2_Q01,,,
+Title,PPD_FE_02_tema_P1_2024_2_Q01,,,
+QuestionText,"Para Celso D. de Albuquerque Mello, “a cada sociedade corresponde um determinado sistema jurídico. À sociedade internacional corresponde, portanto, o Direito Internacional.” Assim, ainda que sejam consideravelmente diferentes as ordens jurídicas interna e internacional, é inegável a presença de um arcabouço jurídico que rege a vida e as relações internacionais influenciando o Direito Interno, e vice-versa. A esse conjunto de normas jurídicas (princípios e regras) denominamos Direito Internacional.
+Perguntas frequentes. In: Direito e Relações Internacionais: Disponível em: https://www.aurum.com.br/blog/direito-internacional-publico/. Acesso em: 20 jan. 2025.
+
+Com relação ao Direito Internacional, sua evolução e características no texto apresentado, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O Direito Internacional e o Direito Interno são sinônimos e um pode ser substituído pelo outro.,,
+Option,100,A cada sociedade corresponde um determinado sistema jurídico. À sociedade internacional corresponde, portanto, o Direito Internacional.,,
+Option,0,As Reações Internacionais possuem vários sistemas jurídicos e o Direito Internacional em nada dialoga com o Direito Internacional.,,
+Option,0,Princípios e regras estão solidificados no Direito interno, mas o Direito Internacional ainda carece de sedimentação por conta do elemento da soberania.,,
+Option,0,Princípios são contrários às regras que fundamentam os sistemas jurídicos, sejam internos ou internacionais.,,
+Feedback,"(A)	Incorreta, pois, conforme destaca Rezek (2022), o Direito Internacional e o Direito Interno se inter-relacionam, mas mantêm diferenças clássicas, como o princípio da soberania.
+(B)	Correta.
+(C)	Incorreta, pois o Direito Internacional, em algumas ocasiões, tem o Direito Interno como fonte, como aponta Mazuolli (2021).
+(D)	Incorreta, pois tanto no âmbito interno quanto no internacional, princípios e regras fazem parte dos dois sistemas. 
+(E)	Incorreta, pois princípios abrem espaço para a criação das regras.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P1_2024_2_Q02,,,
+Title,PPD_FE_02_tema_P1_2024_2_Q02,,,
+QuestionText,"Direitos humanos são direitos inatos a todos os seres humanos, independentemente de qualquer condição. São garantias jurídicas que protegem a dignidade das pessoas e devem ser iguais para todos. Os direitos humanos regem as relações entre as pessoas, entre as pessoas e o Estado, e as obrigações do Estado em relação aos cidadãos. Alguns exemplos de direitos humanos são: direito à vida, direito à liberdade de expressão, direito à educação, direito à saúde, direito à liberdade de ir e vir, direito à liberdade de crença, direito à integridade física e mental, direito à alimentação, direito ao trabalho, entre outros.
+O que são direitos humanos e por que são direitos de todos nós. In: Instituto Aurora. [S.l.], 20 ago. 2020. Disponível em: https://institutoaurora.org/o-que-sao-direitos-humanos/?gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgHx0MGvGbOBu2BWM0_KxdQE6ylrQtYyLNG81K7af1QshxyrZxLFM8waAiVAEALw_wcB. Acesso em: 20 jan. 2025.
+
+Sobre Direitos Humanos, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Direito Internacional em nada dialoga com Direitos Humanos. O primeiro pertence à realidade da sociedade internacional, já o segundo faz parte da exclusividade da realidade interna dos países.,,
+Option,0,Apesar da busca por legitimidade no cenário internacional, os Direitos Humanos estão amplamente consolidados e não passam por nenhum tipo de questionamento ou validação dos países como um todo.,,
+Option,0,A Declaração Universal dos Direitos Humanos nasceu no contexto da Primeira Guerra Mundial.,,
+Option,100,Os direitos humanos regem as relações entre as pessoas, entre as pessoas e o Estado, e as obrigações do Estado em relação aos cidadãos. Eles fazem parte de um desdobramento do Direito Internacional.,,
+Option,0,A discussão entre Direitos Humanos e Direito Internacional estagnou ao longo do tempo, pois, após a Segunda Guerra Mundial, o sistema internacional pouco evoluiu, e não houve grandes eventos ou situações internacionais que exigissem novas respostas ou atualizações nos sistemas de proteção dos direitos humanos.,,
+Feedback,"(A) Incorreta, pois ambos dialogam mutuamente.    
+(B) Incorreta, pois os Direitos Humanos são questionados por países de orientação relativista com relação à temática.
+(C) Incorreta, pois nasceram no contexto do Pós-Segunda Guerra Mundial.
+(D) Correta.
+(E) Incorreta, pois com a evolução das sociedades, os problemas igualmente se complexificaram, pedindo novos esforços do Direito Internacional e dos Direitos Humanos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P1_2024_2_Q03,,,
+Title,PPD_FE_02_tema_P1_2024_2_Q03,,,
+QuestionText,"A Declaração Universal dos Direitos Humanos é um marco na história mundial que estabeleceu, pela primeira vez, normas comuns de proteção aos direitos da pessoa humana, a serem seguidas por todos os povos e todas as nações. Elaborada por representantes de diferentes origens jurídicas e culturais, a DUDH foi proclamada pela Assembleia Geral das Nações Unidas, em Paris, no dia 10 de dezembro de 1948, por meio da Resolução 217 A (III) da Assembleia Geral.
+DECLARAÇÃO Universal dos Direitos Humanos. In: Unicef. [S.l.: s.n.]. Disponível em: https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos. Acesso em: 20 jan. 2025. Adaptado
+
+Acerca da Declaração Universal dos Direitos Humanos, é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,a DUDH surgiu para atender ao clamor internacional e buscou realçar alguns princípios básicos fundamentais para a compreensão da dignidade humana, entre eles, a liberdade e a igualdade.,,
+Option,0,o contexto da Segunda Guerra Mundial pouco influenciou a Declaração Universal dos Direitos Humanos, pois esse não foi o primeiro conflito em escalada mundial e seus desdobramentos não apresentaram questões relevantes ao respeito e à dignidade da pessoa humana.,,
+Option,0,a Declaração Universal dos Direitos Humanos nasce de uma concepção em que a soberania dos países possui mais importância do que valores essencialmente responsáveis por pensar, valorizar e agir em direção à proteção da vida, independentemente de nacionalidade. Não há ideias contrárias a esse pensamento.,,
+Option,0,o Direito Internacional não influenciou ou foi afetado na eclosão da Primeira e Segunda Guerra Mundial, tampouco abriu espaço para que os Direitos Humanos fossem idealizados, amadurecidos e implementados em 1948.,,
+Option,0,a Declaração Universal dos Direitos Humanos não nasceu propriamente no Século XX. A Revolução Francesa já se apresentava como um embrião da temática, mas seu lema não inspirou nenhum tipo de ideia em que categorizava tais direitos.,,
+Feedback,"(A) Correta.
+(B) Incorreta, pois, como afirmam Piovesan (2021), “o contexto da Segunda Guerra Mundial foi decisivo para a temática”.
+(C) Incorreta. A soberania abre espaço para questões de interesse coletivo e global, conforme Comparato, 2023.
+(D) Incorreta, pois as guerras desempenharam um papel importante na evolução do Direito Internacional, o qual, por sua vez, impactou diretamente o desenvolvimento dos Direitos Humanos.
+(E) Incorreta, pois o lema da Revolução, “Liberdade, Igualdade e Fraternidade”, inspirou valores para a consolidação dos Direitos de Primeira, Segunda e Terceira Geração (ver Comparato, 2023).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P1_2024_2_Q04,,,
+Title,PPD_FE_02_tema_P1_2024_2_Q04,,,
+QuestionText,"O Relativismo Cultural rejeita a universalidade dos direitos humanos. Segundo essa corrente, a identidade e a diversidade culturais e os costumes dos povos devem ser respeitados no tocante ao especial modo de distribuição de direitos e liberdades individuais e coletivas que prevalece em determinado seio social. 
+ARAUJO, Jailton Macena. Sobre Direitos Humanos, Relativismo e Universalismo. RIL Brasília a. 53 n. 212 out./dez. 2016 p. 155-179. Disponível em: https://www12.senado.leg.br/ril/edicoes/53/212/ril_v53_n212_p155.pdf. Acesso em: 20 jan. 2025.
+
+Acerca do Relativismo Cultural nos Direitos Humanos, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,No relativismo cultural sobre Direitos Humanos, observamos o forte peso da Ética universal fazendo-se presente entre os países que optaram em não assinar ou ratificar a DUDH.,,
+Option,0,A cultura é um elemento central para se observar em um país quando se fala de Direitos Humanos. A religião, entendida como um desdobramento da cultura, tem impactos insuficientes para o entendimento de como esse elemento se manifesta diante do tema em questão.,,
+Option,0,A moral é uma das bases que sustentam essa corrente (Universalista). Para muitos países que se ancoram nessa perspectiva, o discurso dos Direitos Humanos soa como um elemento a mais de dominação e de tentativa de uniformizar o mundo a partir de valores ocidentais.,,
+Option,0,Notadamente a Europa Ocidental e as Américas são os espaços onde o relativismo cultural mais se evidencia na concepção dos Direitos Humanos. Uma das evidências desse tema é a ausência de sistemas regionais de proteção.,,
+Option,100,A moral é uma das bases que sustentam essa corrente (Relativista). Para muitos países que se ancoram nessa perspectiva, o discurso dos Direitos Humanos soa como um elemento a mais de dominação e de tentativa de uniformizar o mundo a partir de valores ocidentais.,,
+Feedback,"(A) Incorreta, pois no relativismo, o elemento da moral (cultura) é que se evidencia. 
+(B) Incorreta, pois a religião é um desdobramento da cultura e ajuda a entender como um Estado pensa os Direitos Humanos.
+(C) Incorreta, pois a moral é a base do sistema relativista. 
+(D) Incorreta, pois, nessas regiões, a tendência é universalista e existem sistemas regionais de proteção.
+(E) Correta.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P1_2024_2_Q05,,,
+Title,PPD_FE_02_tema_P1_2024_2_Q05,,,
+QuestionText,"Hoje, a concentração de poder é especialmente clara no setor tecnológico. As cinco grandes – Apple, Google, Microsoft, Facebook e Amazon – são as mais valiosas da Bolsa. Sua capitalização oscila entre os 500 bilhões de dólares (1,6 trilhão de reais) do Facebook e os 850 bilhões de dólares (2,7 trilhões) da Apple. Com esse critério – um tanto volátil, mas indicador do potencial de uma empresa –, se a Apple fosse um país, teria um tamanho similar ao da economia turca, holandesa ou suíça.
+GALINDO, Cristina. Sobre empresas de tecnologia. In: El País. [S.l.], 07 nov. 2017. Disponível em: https://brasil.elpais.com/brasil/2017/11/03/economia/1509714366_037336.html. Acesso em: jan. 2025.
+
+Sobre a existência de empresas de tecnologia com capitais financeiros maior do que o PIB de alguns Estados-Nação, é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,não há impacto algum sobre o Direito Internacional ou sobre os Direitos Humanos, pois as temáticas não competem entre si e os assuntos privados não fazem parte do interesse e debate que acolhe o Direito Público Internacional e sua ramificação para os Direitos Humanos.,,
+Option,0,a Declaração Universal dos Direitos Humanos de 1948 já indicava, ainda na primeira metade do Século XX, a preocupação direta e explícita do uso da tecnologia da informação como um tema a ser cuidado e parametrizado já na década de 1950. Isso se observa de forma evidente nos quase 30 artigos que compõem tal Declaração.,,
+Option,0,as empresas de tecnologia, como as descritas, são facilmente contidas pelos governos dos Estados onde atuam, não se tornando uma ameaça real às bases e premissas do Direito Internacional nem aos Direitos Humanos.,,
+Option,100,situações como as descritas podem comprometer a ordem internacional quando se fala na conciliação entre o interesse público e o interesse privado. Cenários onde agentes privados muito poderosos atuam de forma tão intensa pode gerar incompatibilidade com a manutenção dos preceitos da Declaração Universal dos Direitos Humanos.,,
+Option,0,as empresas de tecnologia nasceram com o objetivo de auxiliar os Estados na promoção dos Direitos Humanos e, consequentemente, na robustez do Direito Internacional, auxiliando na formação dos Tratados Internacionais e auxiliando na efetivação de valores universais que não visem ao lucro.,,
+Feedback,"(A) Incorreta, pois tais empresas impactam e influenciam governos a agirem dentro de um contexto conexo ao Direito Internacional e os Direitos Humanos, como destaca Mazuolli (2022).
+(B) Incorreta, pois a Declaração Universal dos Direitos Humanos não chama atenção direta e explicitamente para o tema. Tal circunstância advém dos últimos anos do século XX, com maior intensificação nos últimos vinte anos.
+(C) Incorreta, pois, em algumas situações, essas empresas não estão sob o controle dos Estados. Na verdade, frequentemente ocorre o oposto: as empresas acabam exercendo mais influência sobre os Estados do que o contrário.
+(D) Correta.
+(E) Incorreta, pois o interesse do setor privado é o lucro e, na sequência, em decorrência dele, a influência política, como afirmam Jackson e Sorensen (2018).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P1_2024-2_Q06,,,
+Title,PPD_FE_02_tema_P1_2024-2_Q06,,,
+QuestionText,"A soberania física e geográfica dos países agora precisa ser conjugada dentro de um novo paradigma, que é a do espaço virtual. Os países se preocupam cada vez mais em fazer com que a sua soberania seja respeitada, também, no cyberespaço e nas plataformas digitais.  
+MACEDO, Arthur. Soberania digital: liberdade de expressão e regulação de notícias falsas. Rio de janeiro: 2022.
+
+Sobre Soberania Digital e seus desdobramentos no Direito Internacional e nos Direitos Humanos, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A soberania digital é uma ficção. Pelo fato de não ser materializada e estar no campo material, não pode ser objeto de análise e nem de preocupações que interessem ao Direito Internacional ou aos Direitos Humanos.,,
+Option,0,As plataformas digitais tornaram-se um espaço também para o discurso de ódio contra minorias, mas isso não pode ser questionado, pois a liberdade de expressão é um bem jurídico inquestionável e não pode ser controlado sob risco de censura.,,
+Option,100,O caso envolvendo o X (antigo Twitter) de Elon Musk e o Judiciário brasileiro dão uma dimensão disso. Igualmente, a situação do Telegram na França, onde seu fundador Pavel Durov foi preso, pode ilustrar a imposição que os Estados vêm tendo diante de crimes variados ocorridos no ciberespaço, tendo o elemento transnacional como uma de suas marcas. Isso é um claro impacto da temática que envolve Direito Internacional e Direitos Humanos.,,
+Option,0,O Direito de participar de eleições livres por meio do voto secreto, previsto no Artigo 21 da DUDH, está imune aos efeitos de um uso indevido das tecnologias de informação e das fake news, seja no Brasil ou em outros países, pois as empresas de tecnologia garantem rigoroso controle sobre a temática amparada por forte legislação internacional.,,
+Option,0,Soft law é o mecanismo mais eficiente contra o uso de tecnologias que violem e aviltem postulados, princípios, regras e leis estipuladas no Direito Internacional e nos Direitos Humanos.,,
+Feedback,"(A) Incorreta, pois discutir a temática é uma urgência para as Relações Internacionais e para o Direito, assim como para as sociedades como um todo.
+(B) Incorreta, pois a liberdade de expressão não pode ser usada para ferir outros direitos.
+(C) Correta (Ver Garcia, 2024).
+(D) Incorreta, pois as eleições são um campo fértil dos Direitos Humanos para violações do Direito Internacional. 
+(E) Incorreta, pois soft law não é o melhor caminho. Tratados internacionais, cooperação e inteligência são os caminhos mais eficientes para combater a questão.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P2_2024_2_Q01,,,
+Title,PPD_FE_02_tema_P2_2024_2_Q01,,,
+QuestionText,"Direitos humanos são direitos inatos a todos os seres humanos, independentemente de qualquer condição. São garantias jurídicas que protegem a dignidade das pessoas e devem ser iguais para todos. Os direitos humanos regem as relações entre as pessoas, entre as pessoas e o Estado, e as obrigações do Estado em relação aos cidadãos. 
+FUNDO Brasil. Direitos Humanos: O que são e porque precisamos falar sobre isso? In: Fundo Brasil. [S.l.], 07 jan. 2022. Disponível em: https://www.fundobrasil.org.br/blog/direitos-humanos-o-que-sao-e-porque-precisamos-falar-sobre-isso/?gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD54uF91ZTs15fmTp40hP_AckW5nbKlTS5u4kxxt2zJfAZF3I6pDhjZAaAv9TEALw_wcB. Acesso em: jan. 2025.
+
+Sobre a classificação do Direitos Humanos, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,As classificações dos Direitos Humanos em gerações foram inspiradas nos preceitos da Revolução Francesa: fraternidade (primeira geração), liberdade (segunda geração), igualdade (terceira geração).,,
+Option,0,As classificações dos Direitos Humanos em gerações foram inspiradas nos preceitos da Revolução Francesa: liberdade (primeira geração), fraternidade (segunda geração), igualdade (terceira geração).,,
+Option,0,Os Direitos Humanos de primeira geração são direitos coletivos e difusos que se baseiam na Liberdade e que se relacionam com o desenvolvimento, o meio ambiente e a paz.,,
+Option,0,Os Direitos Humanos de segunda geração são direitos coletivos e difusos que se baseiam na Liberdade. São direitos que se relacionam com o desenvolvimento, o meio ambiente e a paz.,,
+Option,100,Os Direitos Humanos de terceira geração são direitos coletivos e difusos que se baseiam na fraternidade e que se relacionam com o desenvolvimento, o meio ambiente e a paz.,,
+Feedback,"(A) Incorreta, pois os Direitos Humanos de terceira geração são direitos coletivos e difusos que se baseiam na fraternidade. Eles se relacionam com o desenvolvimento, o meio ambiente e a paz.  
+(B) Incorreta, pois os Direitos Humanos de terceira geração são direitos coletivos e difusos que se baseiam na fraternidade. Eles se relacionam com o desenvolvimento, o meio ambiente e a paz.  
+(C) Incorreta, pois os Direitos Humanos de terceira geração são direitos coletivos e difusos que se baseiam na fraternidade. São direitos que se relacionam com o desenvolvimento, o meio ambiente e a paz.  
+(D) Incorreta, pois os Direitos Humanos de terceira geração são direitos coletivos e difusos que se baseiam na fraternidade. São direitos que se relacionam com o desenvolvimento, o meio ambiente e a paz.  
+(E) Correta.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P2_2024_2_Q02,,,
+Title,PPD_FE_02_tema_P2_2024_2_Q02,,,
+QuestionText,"Os direitos humanos são frágeis e falham na sua função de diminuir as desigualdades e garantir os direitos dos oprimidos. Eles precisam ser reestruturados para que sejam mais inclusivos e reconheçam a diversidade e precisam ser reconstruídos teórica e politicamente, considerando as lutas sociais e políticas. Os direitos humanos precisam ser ressignificados para que sejam mais contra-hegemônicos, ou seja, que não sejam dominados pelo neoliberalismo, pelo patriarcalismo e pelo colonialismo.
+SANTOS, Boaventura de Sousa. Direitos Humanos, democracia e desenvolvimento. Rio de Janeiro: Editora Cortez, 2017. Adaptado
+
+Considerando as reflexões apresentadas por Boaventura de Sousa Santos, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Os Diretos Humanos, pautados pela Declaração Universal, nasceram tão modernos e conectados com as necessidades do século XX que não precisaram de atualizações nas décadas subsequentes, estando intactos e sem necessidades de respostas novas na transição do Século XX para o XXI.,,
+Option,100,Uma constante revisão dos Direitos Humanos se faz necessária, pois isso garante que as sociedades estejam atentas às novas maneiras em que o poder e as relações se consolidam na sociedade.,,
+Option,0,Os oprimidos em destaque na reflexão de Boaventura de Sousa Santos podem ser caracterizados como qualquer grupo à margem da sociedade, não reconhecidamente como detentor de direitos, vítimas exclusivas do neoliberalismo.,,
+Option,0,A diversidade a qual se refere o autor, é a dos povos europeus, pois é nesse contexto em que a Declaração Universal dos Direitos Humanos foi pensada.,,
+Option,0,A grande importância atribuída aos grandes temas da política internacional, do meio ambiente aos diretos humanos, do combate à fome à reforma das organizações internacionais, tem espaço limitado e pouco valor nas Nações-Unidas.,,
+Feedback,"(A) Incorreta, pois os Direitos Humanos precisam de novos olhares e contemplações para que se mantenham atualizados e fiéis aos seus próprios princípios (Santos, 2008).    
+(B) Correta. 
+(C) Incorreta, pois o neoliberalismo é apensas um dos elementos decorrentes causadores dos problemas.
+(D) Incorreta, pois povos fora da Europa também são afetados.
+(E) Incorreta, pois as Nações Unidas se preocupam muito com a temática.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P2_2024-2_Q03,,,
+Title,PPD_FE_02_tema_P2_2024-2_Q03,,,
+QuestionText,"Por diversos motivos, as cidades são parte importante da vida no planeta. Até 2050, cerca de 77% da população mundial viverá em áreas urbanas, de acordo com dados da Organização das Nações Unidas (ONU). Em função de vários problemas, a vida urbana figura entre os Objetivos de Desenvolvimento Sustentável (ODS) para 2030, especificamente, no ODS 11.
+ODS 11: conheça os objetivos da ONU para as cidades. In: Habitability. [S.l.], 11 jan. 2023. Disponível em: https://habitability.com.br/ods-11-conheca-o-objetivo-da-onu-para-as-cidades/?utm_source=google_pago&utm_medium=&utm_content=&gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD56ctI_ipZyqwTyxPQmQXbVCgS3LJJmM1CmNmHXZNqAnY_LFeeAP2k4aAuwVEALw_wcB. Acesso em: jan. 2025.
+
+Sobre os Objetivos de Desenvolvimento Sustentável (ODS), assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Os ODS 1, 6 e 9 falam, respectivamente, sobre: saúde e bem-estar, igualdade de gênero, trabalho decente e crescimento econômico.,,
+Option,0,O Programa das Nações Unidas Para o Meio-Ambiente, PNUMA, foi criado em 1987 em consequência do Relatório Brundtland.,,
+Option,0,Direitos Humanos e Desenvolvimento Sustentável são temas que se cruzam e se interconectam, mas os Organismos Internacionais, como as Nações-Unidas, ainda carecem de amadurecimento acerca da relevância de tratá-los em um mesmo contexto.,,
+Option,0,A Agenda 2030 é um desdobramento direto da Declaração de Estocolmo, não tendo havido nenhum outro entendimento ou arranjo internacional (conferências etc.) antes dela.,,
+Option,100,Os ODS compõem uma Agenda Internacional dentro de um Regime Internacional conduzido, também, por Organismos Internacionais.,,
+Feedback,"(A) Incorreta, pois os ODS 1, 6 e 9 tratam acerca de: 1) Erradicação da Pobreza; 6) Água potável e saneamento; e 9) Indústria, inovação e infraestrutura.
+(B) Incorreta, pois, em 1968, o Relatório Atividades da Organizações das Nações Unidas e Programas Relevantes ao Meio Ambiente Humano estabeleceu bases para o Programa das Nações Unidas para o Meio Ambiente (PNUMA).
+(C) Incorreta, pois trata-se um tema de altíssima relevância para os Organismos Internacionais.
+(D) Incorreta, pois existiram vários outros momentos importantes entre uma coisa e outra, como a Rio 92 (1992) e o Protocolo de Kyoto (1997).
+(E) Correta.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P2_2024_2_Q04,,,
+Title,PPD_FE_02_tema_P2_2024_2_Q04,,,
+QuestionText,"A década de 1990 foi caracterizada como “década das conferências” em virtude do grande ativismo no sistema multilateral em torno da temática de Direitos Humanos e Desenvolvimento sustentável, em especial, no seio das Nações Unidas. De acordo com a visão da ONU, uma conferência teria por finalidade a mobilização e a conscientização de governos e entidades da sociedade civil para tratar de questão específica, por meio do estabelecimento de prescrições que embasariam posteriormente a ação de cada país.
+ARRAES, V. O Brasil e a ONU, de 1990 a nossos dias: das grandes conferências às grandes pretensões. In: OLIVEIRA, H. A. de.; LESSA, A. C. (org.). Relações Internacionais do Brasil: temas e agendas. 2. ed. São Paulo: Saraiva, 2007, cap. 1. Disponível em: https://pergamum.ucb.br/acervo/5067541. Acesso em: 1 jun. 2024 Adaptado.
+
+Sobre o Desenvolvimento Sustentável e Meio Ambiente no âmbito das Nações Unidas desde os anos 1990, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Em linha com o período áureo da globalização neoliberal, as conferências das Nações Unidas realizadas na década de 1990 não se preocuparam com temas correlatos e afetos aos Direitos Humanos e Desenvolvimento Sustentável.,,
+Option,100,Uma das inovações consolidadas na Conferência das Nações Unidas sobre o Meio Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 1992, foi a grande presença de Organizações Não-Governamentais (ONGs), consagrando a existência de eventos paralelos aos oficiais.,,
+Option,0,O Brasil na Década de 1990 foi um ator pouco interessado, pouco participativo e considerado de baixa-relevância no cenário internacional quando a temática se referia ao Desenvolvimento Sustentável, Direitos Humanos e Meio Ambiente.,,
+Option,0,O Constitucionalismo e o neoconstitucionalismo deram pouca atenção às temáticas que envolviam Direitos Humanos e Desenvolvimento Sustentável.,,
+Option,0,Temas como meio ambiente e direitos humanos mantiveram o Brasil em posição defensiva nas principais conferências da ONU nos anos 1990, contribuindo para uma piora da imagem do país naquele período.,,
+Feedback,"(A) Incorreta, pois a “década das conferências” na ONU foi marcada por uma diversidade de temas políticos e sociais, tais como: Criança (1990), Meio Ambiente (1992), Direitos Humanos (1993), População (1994) entre outros tantos. (Arraes, 2007).
+(B) Correta. 
+(C) Incorreta, pois o Brasil foi um ator importante no cenário descrito.
+(D) Incorreta, pois o constitucionalismo e o neoconstitucionalismo se preocuparam com a temática em torno dos temas propostos.
+(E) Incorreta, pois conforme Casarões (2022, p. 159), “Desde a redemocratização, o multilateralismo ocupou lugar de destaque nas preocupações do país. O protagonismo em temas como direitos humanos e mudanças climáticas foi fundamental para reconstruir a imagem do Brasil no mundo a partir de valores alinhados aos da ‘nova ordem mundial.’”",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P2_2024_2_Q05,,,
+Title,PPD_FE_02_tema_P2_2024_2_Q05,,,
+QuestionText,"As Conferências ambientais são grandes eventos, na esfera das Nações Unidas, com encontros e reuniões de representantes dos diversos países de todo o mundo, que têm como principal objetivo debater a respeito dos impactos negativos das atividades humanas (ação antrópica) no meio ambiente e buscar soluções para minimizá-los, proteger os ecossistemas e a biodiversidade e promover o desenvolvimento sustentável. Com o crescimento da preocupação mundial com eventos de poluição e degradação ambiental transfronteiriça e sobre a importância de se compatibilizar o desenvolvimento socioeconômico com o uso sustentável dos recursos naturais, surgiram as grandes Conferências de Meio Ambiente.
+LINHA do tempo das principais conferências e eventos da área ambiental na esfera das Nações Unidas e os principais documentos resultantes. In: Governo do Estado de São Paulo. [S.l.], 12 jun. 2024. Disponível em: https://semil.sp.gov.br/educacaoambiental/2024/06/linha-do-tempo-das-principais-conferencias-e-eventos-da-area-ambiental-na-esfera-das-nacoes-unidas-e-os-principais-documentos-resultantes/ Acesso em: 27 jan. 2025.
+
+Sobre as conferências ambientais da segunda metade do Século XX aos dias atuais, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,1992 - Primeiro Programa de Montevidéu: estabeleceu prioridades para a legislação ambiental global, aprovou importantes acordos e apoiou 120 governos no desenvolvimento de legislações ambientais.,,
+Option,0,1997 - Publicação do Relatório de Brundtland “Nosso Futuro Comum”: publicado pelas Nações Unidas e Universidade de Oxford, o documento apontava o multilateralismo e a interdependências das nações na busca pelo desenvolvimento sustentável.,,
+Option,100,2015 - Renovação dos Objetivos do Desenvolvimento do Milênio: buscava estabelecer uma agenda até 2030 para o desenvolvimento global sustentável.,,
+Option,0,2015 - Conferência de Kyoto, reunindo 189 países, chefes de Estado e de governo para estabelecer metas de desenvolvimento em áreas prioritárias (meio ambiente, pobreza, saúde).,,
+Option,0,1992 - Rio 92 ou Eco 92: conferência das Nações Unidas para o Meio Ambiente e Desenvolvimento nenhuma repercussão causou na agenda para a sustentabilidade, englobando os cinco continentes.,,
+Feedback,"(A) Incorreta, pois Montevideu foi em 1982.     
+(B) Incorreta, pois Brundtland foi 1987.
+(C) Correta.
+(D) Incorreta, pois Kyoto foi em 1997.
+(E) Incorreta, pois a Rio 92 foi importante de deixou grande legado para Kyoto e demais outros marcos, com repercussões internas e internacionais.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P2_2024_2_Q06,,,
+Title,PPD_FE_02_tema_P2_2024_2_Q06,,,
+QuestionText,"O neoconstitucionalismo é uma teoria que pode ser aplicada ao direito ambiental, promovendo a efetividade das leis ambientais, visando refundar o direito constitucional, desenvolver a teoria dos direitos fundamentais, fortalecer a força normativa da Constituição, reaproximar a ética e o direito. O Direito Ambiental articulado com os Direitos Humanos, por sua vez, é o conjunto de leis e princípios que visam proteger o meio ambiente zelando pela dignidade da pessoa humana e vice-versa, fazendo parte dos pilares do neoconstitucionalismo.
+CERVO, A. L. Inserção Internacional: formação dos conceitos brasileiros. São Paulo: Saraiva, 2008.
+
+Com base no texto “Direitos Humanos na Perspectiva Eco Social do Constitucionalismo Latino-Americano E Sua Múltipla Contribuição Ambiental”, de Rodrigo Guilherme Tomaz Zaiden Geraige Neto, (p. 58-76), é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,a Constituição do Equador traz a noção de buen vivir (Sumak Kawsay, em língua do povo Quíchua), em que se integram várias faces de materialização da dignidade humana, entre elas, o direito à alimentação, à água, ao ambiente, à comunicação e informação, ao respeito à identidade cultural, à educação, ao habitat adequado e à moradia segura, à saúde, ao trabalho, à seguridade social. Dessa forma, ocorre uma mudança radical nos fundamentos da relação do homem com o mundo que integra e, portanto, acaba por fornecer outros parâmetros para o direito ambiental.,,
+Option,0,a atual Constituição Boliviana é atrasada e altamente deficitária no entendimento que conceitual moderno que articula desenvolvimento sustentável e Direitos Humanos.,,
+Option,0,a Constituição do Argentina, por sua vez, traz a noção de buen vivir (Sumak Kawsay, em língua do povo Quíchua), em que se integram várias faces de materialização da dignidade humana, entre elas, o direito à alimentação, à água, ao ambiente, à comunicação e informação, ao respeito à identidade cultural, à educação, ao habitat adequado e à moradia segura, à saúde, ao trabalho, à seguridade social. Dessa forma, ocorre uma mudança radical nos fundamentos da relação do homem com o mundo que integra e, portanto, acaba por fornecer outros parâmetros para o direito ambiental.,,
+Option,0,a Justiça socioambiental destaca exclusivamente a proteção ambiental, sem considerar a inclusão de diversas cosmogonias, como a cultura indígena, que detém saberes, valores, espiritualidades e cosmovisões intimamente conectados ao estado da natureza.,,
+Option,0,a Constituição Brasileira de 1988 é omissa e silente com relação às questões ambientais. Trata-se de um documento ultrapassado que não previu a importância das questões ambientais discutidas ao longo do Século XX.,,
+Feedback,"(A) Correta.  
+(B) Incorreta, pois a Constituição Boliviana é uma das mais avançadas do novo modelo, cria o estado plurinacional – contestando o primado do constitucionalismo liberal de que Estado e nação se confundem.
+(C) Incorreta, não se trata da Constituição Argentina, e sim da Equatoriana.
+(D) Incorreta, pois a justiça socioambiental prevê a inclusão de diversas cosmogonias, como a cultura indígena, que detém saberes, valores, espiritualidades e cosmovisões intimamente conectados ao estado da natureza.
+(E) Incorreta, pois nossa Constituição Federal prevê artigos importantes que fazem menção à temática e emprestam princípios e valores para nossa normativa infraconstitucional.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P3_2024_2_Q01,,,
+Title,PPD_FE_02_tema_P3_2024_2_Q01,,,
+QuestionText,"O Acordo de Paris, muitas vezes referido como os Acordos de Paris ou os Acordos Climáticos de Paris, é um tratado internacional sobre mudanças climáticas, adotado em 2015. Ele abrange mitigação, adaptação e financiamento de políticas que combatam as mudanças climáticas. O Acordo foi negociado por 196 países na Conferência das Nações Unidas sobre Mudanças Climáticas de 2015, nas proximidades de Paris, França.
+Disponível em: https://pt.wikipedia.org/wiki/Acordo_de_Paris_(2015). Acesso em: 02 fev. 2025.
+
+Em relação ao Acordo de Paris, é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,por ser um acordo, não há obrigatoriedade de os países signatários seguirem com as diretrizes traçadas.,,
+Option,100,estabelece metas para a redução de emissões de gases do efeito estufa, tanto para países desenvolvidos quanto para países em desenvolvimento.,,
+Option,0,o tratado não prevê a criação de uma estrutura para monitorar e relatar as metas climáticas dos países, fazendo com que estes, por conta própria, criem seus mecanismos de monitoramento.,,
+Option,0,a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025, também chamada de COP30, é a 30ª Conferência das Nações Unidas sobre as Mudanças Climáticas, prevista para ocorrer entre os dias 10 e 21 de novembro de 2025, na cidade de Mendoza, na Argentina, segundo o anúncio da ONU em 18 de maio de 2023.,,
+Option,0,o Brasil nunca se candidatou a ser sede da COP e dá pouca relevância ao tema, especialmente no atual governo Lula.,,
+Feedback,"(A) Incorreta, pois “acordo” é um nome genérico, mas possui peso de tratado e vincula as partes.
+(B) Correta.
+(C) Incorreta, pois o Tratado prevê a criação de uma estrutura para monitorar e relatar as metas climáticas dos países, fazendo com que estes, por conta própria, criem seus mecanismos de monitoramento.
+(D) Incorreta, pois não será em Mendoza (Argentina), e sim em Belém do Pará, no Brasil.
+(E) Incorreta, pois o Brasil é um ator interessado nesta temática, principalmente o atual governo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P3_2024_2_Q02,,,
+Title,PPD_FE_02_tema_P3_2024_2_Q02,,,
+QuestionText,"Acordo de Paris é um tratado internacional que tem como objetivo a diminuição das emissões de gases do efeito estufa, buscando conter o agravamento do aquecimento global e, por conseguinte, das mudanças climáticas. Esse acordo foi resultado da COP21, realizada em 2015 na capital francesa, substituindo o Protocolo de Kyoto.
+ACORDO de Paris. In: Brasil Escola. [S.l.: s.n.]. Disponível em: https://brasilescola.uol.com.br/geografia/acordo-paris.htm. Acesso em 02 de fevereiro de 2025.
+
+Sobre o Tratado e o Decreto n. 9.073, de 5 de junho de 2017, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,A redação do Artigo 2 é: 1. Este Acordo, ao reforçar a implementação da Convenção, incluindo seu objetivo, visa fortalecer a resposta global à ameaça da mudança do clima, no contexto do desenvolvimento sustentável e dos esforços de erradicação da pobreza, incluindo: (a) Manter o aumento da temperatura média global bem abaixo de 2ºC em relação aos níveis pré-industriais, e envidar esforços para limitar esse aumento da temperatura a 1,5ºC em relação aos níveis pré-industriais, reconhecendo que isso reduziria significativamente os riscos e os impactos da mudança do clima; (b) Aumentar a capacidade de adaptação aos impactos negativos da mudança do clima e promover a resiliência à mudança do clima e um desenvolvimento de baixa emissão de gases de efeito estufa, de uma maneira que não ameace a produção de alimentos; e (c) Tornar os fluxos financeiros compatíveis com uma trajetória rumo a um desenvolvimento de baixa emissão de gases de efeito estufa e resiliente à mudança do clima. 2. Este Acordo será implementado de modo a refletir equidade e o princípio das responsabilidades comuns, porém diferenciadas e respectivas capacidades, à luz das diferentes circunstâncias nacionais.,,
+Option,0,A redação do Artigo 4 é: A título de contribuições nacionalmente determinadas à resposta global à mudança do clima, todas as Partes deverão realizar e comunicar esforços ambiciosos conforme definido nos Artigos 4º, 7º, 9º, 10, 11 e 13, com vistas à consecução do objetivo deste Acordo conforme estabelecido no Artigo 2º. Os esforços de todas as Partes representarão uma progressão ao longo do tempo, reconhecendo a necessidade de apoiar as Partes países em desenvolvimento na implementação efetiva deste Acordo.,,
+Option,0,A redação do Artigo 1 é: A contribuição nacionalmente determinada sucessiva de cada Parte representará uma progressão em relação à contribuição nacionalmente determinada então vigente e refletirá sua maior ambição possível, tendo em conta suas responsabilidades comuns, porém diferenciadas e respectivas capacidades, à luz das diferentes circunstâncias nacionais.,,
+Option,0,A redação do Artigo 5 é: (a) Manter o aumento da temperatura média global bem abaixo de 2ºC em relação aos níveis pré-industriais, e envidar esforços para limitar esse aumento da temperatura a 1,5ºC em relação aos níveis pré-industriais, reconhecendo que isso reduziria significativamente os riscos e os impactos da mudança do clima.,,
+Option,0,A redação do Artigo 6 é: A contribuição nacionalmente determinada sucessiva de cada Parte representará uma progressão em relação à contribuição nacionalmente determinada então vigente e refletirá sua maior ambição possível, tendo em conta suas responsabilidades comuns, porém diferenciadas e respectivas capacidades, à luz das diferentes circunstâncias nacionais.,,
+Feedback,"(A) Correta.
+(B) Errada, pois essa é a redação do Artigo 3.
+(C) Errada, pois essa é uma parte do Artigo 2.
+(D) Errada, pois essa é uma parte do Artigo 2
+(E) Errada, pois essa é uma parte do Artigo 3",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P3_2024_2_Q03,,,
+Title,PPD_FE_02_tema_P3_2024_2_Q03,,,
+QuestionText,"1,5°C é o chamado “limite seguro” das mudanças climáticas. É o limiar de aumento da taxa média de temperatura global que temos que atingir até o final do século para evitar as consequências da crise climática provocada pelo homem por causa da crescente emissão de gases de efeito estufa na nossa atmosfera. O Acordo de Paris é um tratado assinado em 2015, durante a COP21, a 21ª cúpula do clima da ONU em Paris.
+PEIXOTO, Roberto. O que é o Acordo de Paris, compromisso ambiental do qual Trump assinou retirada dos EUA. In: G1. [S.l.], 21 jan. 2025. Disponível em: https://g1.globo.com/meio-ambiente/noticia/2025/01/21/entenda-acordo-de-paris.ghtml. Acesso em: 01 fev. 2025.
+
+Sobre o Acordo de Paris, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,O Acordo de Paris e o Protocolo de Kyoto são acordos internacionais que visam reduzir a emissão de gases do efeito estufa. O Acordo de Paris substituiu o Protocolo de Kyoto a partir de 2020.,,
+Option,0,O Acordo de Paris e a Declaração de Estocolmo são acordos internacionais que visam reduzir a emissão de gases do efeito estufa. O Acordo de Paris substituiu a Declaração de Estocolmo partir de 2020.,,
+Option,0,O multilateralismo nas Relações Internacionais não é um fator importante para a Declaração de Paris, visto que poucos são os países afetados pelos fatores climáticos da atualidade.,,
+Option,0,As COPs não fazem uma menção ou conexão direta com o Acordo.,,
+Option,0,O Acordo de Paris e o Protocolo de Kyoto são acordos internacionais que visam reduzir a emissão de gases do efeito estufa. O Acordo de Paris substituiu a ECO-92 a partir de 2020.,,
+Feedback,"(A) Correta.
+(B) Incorreta, pois o Acordo de Paris substitui o Protocolo de Kyoto.
+(C) Incorreta, pois o multilateralismo é decisivo para resolução de problemas comuns.
+(D) Incorreta, pois as COPs são os fóruns de manutenção do Acordo.
+(E) Incorreta, pois o Acordo de Paris substitui o Protocolo de Kyoto.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P3_2024_2_Q04,,,
+Title,PPD_FE_02_tema_P3_2024_2_Q04,,,
+QuestionText,"A crise do multilateralismo é um problema que se caracteriza pela paralisia das organizações internacionais e pela dificuldade em resolver problemas globais. Algumas causas da crise do multilateralismo são: a inadequação do arcabouço institucional liberal-ocidental para lidar com os novos polos de poder, o aumento da diversidade identitária e ideológica, a paralisia na ação das organizações internacionais, como a ONU, a saída dos Estados Unidos de instituições internacionais, como o Acordo de Paris e a OMS, o aumento das tensões geopolíticas. 
+AHRENS, Jan Martínez. Donald Trump enterra esforço global para deter mudança climática. In: El País. [S.l.], 01 jun. 2017. Disponível em: https://brasil.elpais.com/brasil/2017/06/01/internacional/1496334641_201201.html. Acesso em: 24 fev. 2025.
+
+Quanto à crise do multilateralismo atualmente vivida, no que se refere ao Acordo de Paris e à COP30, pode-se afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,tal contexto não pode ser classificado como crise, pois os Estados Unidos são somente uma das quase duzentas nações que ratificaram o Acordo.,,
+Option,0,o mundo do Século XXI não passa por questões em que o multilateralismo se faça algo decisivo, seja no meio ambiente ou em guerras localizadas, como na Rússia e Ucrânia ou ainda nas questões atuais da Faixa de Gaza.,,
+Option,0,não há evidências práticas de que o financiamento de Acordos, Tratados e Organizações Internacionais possa abalar planos multilaterais que buscam atuar em prol de bens comuns.,,
+Option,100,a crise do multilateralismo pode ter consequências para a gestão da vida internacional, a paz, a segurança e a vida humana.,,
+Option,0,os Estados Unidos pouco contribuem nos financiamentos internacionais e a atual gestão de Donald Trump se mostra atenta e preocupada em ampliar tal contribuição.,,
+Feedback,"(A) Os Estados Unidos não são apenas um participante nas Relações Internacionais; suas ações têm repercussões globais, afetando diretamente os acordos e tratados dos quais fazem parte ou decidem se ausentar.
+(B) Guerras e crises não se restringem a eventos bilaterais ou regionais. Em um sistema de alianças e em um cenário global interdependente, tanto política quanto economicamente, os impactos dessas situações se espalham por todo o mundo.
+(C) De fato, há evidências claras de que o financiamento tem um impacto significativo na gestão de acordos e tratados. Sem recursos, fundos e orçamentos, os planos de ação não saem do papel. O financiamento é uma das principais expressões da vontade política nas relações internacionais.
+(D) Correta.
+(E) Os Estados Unidos são um dos maiores financiadores econômicos e políticos de acordos como o Acordo de Paris. Sem sua participação, os objetivos podem ser seriamente comprometidos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P3_2024_2_Q05,,,
+Title,PPD_FE_02_tema_P3_2024_2_Q05,,,
+QuestionText,"A COP 30 é uma conferência do clima que será realizada em Belém, no Pará, em novembro de 2025. A conferência discutirá temas como a redução de emissões de gases de efeito estufa, a adaptação às mudanças climáticas e o financiamento climático. 
+Rumo à COP30. In: gov.br. Disponível em: https://www.gov.br/planalto/pt-br/agenda-internacional/missoes-internacionais/cop28/cop-30-no-brasil#:~:text=O%20que%20%C3%A9%20a%20COP30,combater%20as%20mudan%C3%A7as%20do%20clima. Acesso em: jan. 2025.
+
+Sobre a COP30, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Apenas Estados participarão do evento.,,
+Option,0,A discussão é de pouco interesse e pouca relevância para o setor privado.,,
+Option,100,A COP30 é importante porque é uma oportunidade para o Brasil reafirmar seu papel de liderança nas negociações sobre mudanças climáticas. O evento também é uma chance para o mundo ver os avanços tecnológicos e de recursos que estão sendo feitos para combater a mudança do clima.,,
+Option,0,A sociedade civil organizada não possui aspecto relevante na discussão sobre meio-ambiente e terá baixa relevância no evento que se realizará em Belém do Pará neste ano de 2025.,,
+Option,0,Até o presente momento o Brasil não anunciou quem será o presidente da COP30.,,
+Feedback,"(A) Incorreta, pois há interesse do Primeiro, Segundo e Terceiro Setores em sinergia.
+(B) Incorreta, pois há interesse do Primeiro, Segundo e Terceiro Setores em sinergia. 
+(C) Correta.
+(D) Incorreta, pois há interesse do Primeiro, Segundo e Terceiro Setores em sinergia.
+(E) Incorreta, pois o presidente Lula anunciou o Embaixador André Corrêa do Lago como presidente da COP-30 em Belém.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P3_2024_2_Q06,,,
+Title,PPD_FE_02_tema_P3_2024_2_Q06,,,
+QuestionText,"Quais são os desafios esperados na COP30? Os principais desafios incluem alinhar os compromissos de países desenvolvidos e em desenvolvimento em relação ao financiamento climático, garantir que as metas de redução de emissões sejam compatíveis com a ciência climática e lidar com os impactos socioeconômicos das mudanças climáticas em populações vulneráveis.
+QUAIS são os desafios esperados na COP30?. In: gov.br. Disponível em: https://www.gov.br/planalto/pt-br/agenda-internacional/cop30/faq-cop-30-no-brasil/quais-sao-os-desafios-esperados. Acesso em: 03 fev. 2025.
+
+Acerca dos desafios da COP30, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Sem dúvida, um dos principais desafios das COPs em geral, e especialmente da COP30, é a falta de clareza nas metas a serem alcançadas pelos países dentro de um prazo definido.,,
+Option,0,A agenda internacional para o meio ambiente é imune às oscilações das trocas de governos dos países que ratificaram o Acordo de Paris.,,
+Option,0,A redução de emissões de gases de efeito estufa, a adaptação às mudanças climáticas e o financiamento climático para países em desenvolvimento são pontos já pacificados, e a COP30 cuidará de burocracias referentes a eles.,,
+Option,100,A COP30 é representativa ao Brasil e apresenta uma oportunidade de o país reafirmar seu papel de liderança nas negociações do clima.,,
+Option,0,Tecnologias de energia renovável e soluções de baixo carbono, preservação de florestas e biodiversidade, justiça climática e os impactos sociais das mudanças climáticas são pontos já pacificados e a COP30 cuidará de burocracias referentes a eles.,,
+Feedback,"(A) Incorreta, pois o Acordo estabelece claramente metas, prazos e responsabilidades.
+(B) Incorreta, pois tanto o Brasil quanto os Estados Unidos são exemplos claros de como a mudança de governo pode afetar temas, posturas e compromissos globais.
+(C) Incorreta, pois questões como essas ainda necessitam de garantias mais firmes e compromissos sólidos por parte dos países signatários.
+(D) Correta.
+(E) Incorreta, pois pontos como estes ainda exigem garantias mais robustas e comprometimento firme dos países signatários.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P4_2024_2_Q01,,,
+Title,PPD_FE_02_tema_P4_2024_2_Q01,,,
+QuestionText,"O Museu do Amanhã é um museu de ciências diferente. Um ambiente de ideias, explorações e perguntas sobre a época de grandes mudanças em que vivemos e os diferentes caminhos que se abrem para o futuro. O Amanhã não é uma data no calendário, não é um lugar aonde vamos chegar. É uma construção da qual participamos todos, como pessoas, cidadãos, membros da espécie humana. E por que um Museu do Amanhã? Porque vivemos em uma nova era, em que o conjunto da atividade humana se tornou uma força de alcance planetário. Somos capazes de intervir na escala de moléculas e de continentes. Manejamos átomos e criamos microrganismos artificiais. Desviamos o curso de grandes rios, alteramos florestas, influenciamos a atmosfera, transformamos o clima. Habitamos um planeta que vem sendo profundamente modificado por nossas ações. Que amanhãs serão gerados a partir de nossas próprias escolhas? O Museu do Amanhã oferece uma narrativa sobre como poderemos viver e moldar os próximos 50 anos. Uma jornada rumo a futuros possíveis, a partir de grandes perguntas que a Humanidade sempre se fez. De onde viemos? Quem somos? Onde estamos? Para onde vamos? Como queremos ir? Orientado pelos valores éticos da Sustentabilidade e da Convivência, essenciais para a nossa civilização, o Museu busca também promover a inovação, divulgar os avanços da ciência e publicar os sinais vitais do planeta. Um museu para ampliar nosso conhecimento e transformar nosso modo de pensar e agir.
+SOBRE o Museu. In: Museu do Amanhã. [S.l.: s.n.]. Disponível em: https://museudoamanha.org.br/pt-br/sobre-o-museu. Acesso em: 07 fev. 2025.
+
+Sobre o espaço do museu como lugar de reflexão, analise as afirmativas a seguir.
+
+I.	O Museu do Amanhã dialoga frontalmente com os desafios impostos pelo Acordo de Paris e com as premissas da COP30.
+II.	Os museus são um espaço em que se deve discutir exclusivamente o passado. É um espaço superficial que pouco interessa às Relações Internacionais e seus desdobramentos de reflexão e formação social, acadêmica-científica e humana. 
+III.	O Museu do Amanhã nos permite vincular as temáticas de Justiça Climática, Cooperação Sul-Sul (e outras modalidades de cooperação), assim como abre espaço para falarmos dos desdobramentos para as vítimas de desastres ambientais, como os refugiados.
+IV.	Museus auxiliam na educação não-formal. Ou seja, aquela que se adquire fora de sala de aula e amplia horizontes de leituras de mundo aplicáveis a análises, teorias e métodos dos saberes formais.
+V.	Tanto a Cooperação Sul-Sul como outros arranjos de cooperação são importantes quando falamos de meio ambiente, pois essa temática, que também é retratada no Museu do Amanhã, é de interesse amplo e geral, com repercussões em toda forma de vida no planeta, inclusive a humana.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I e III, apenas.,,
+Option,100,I, III, IV e V, apenas.,,
+Option,0,III, IV e V, apenas.,,
+Option,0,II, III, IV e V, apenas.,,
+Option,0,I, II, III, IV e V.,,
+Feedback,"I.	Correta. Lutz (2008) destaca que as principais funções sociais dos museus são: preservar e conservar o patrimônio cultural e natural, promover a educação e o desenvolvimento da sociedade, contar a história do homem e da evolução da sociedade, promover o respeito aos Direitos Humanos e à igualdade de gênero e temáticas variadas de interesse da sociedade, chamando atenção para pontos que precisam ser discutidos, lembrados, projetados e cuidados.
+II.	Incorreta.
+III.	Correta. As bases do Museu do Amanhã, assim como sua premissa central, tratam sobre justiça climática, cooperação e vítimas dos desastres climáticos, como os refugiados.
+IV.	Correta, pois os museus ajudam na educação não-formal.
+V.	Correta, pois as variadas formas de cooperação são necessárias para a resolução de problemas comuns.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P4_2024_2_Q02,,,
+Title,PPD_FE_02_tema_P4_2024_2_Q02,,,
+QuestionText,"O Observatório da Cooperação Internacional Para o Desenvolvimento define que:  
+Cooperação: é uma relação de interação e troca entre dois ou mais entes parceiros. A interação acontece pelas diferenças e semelhanças entre os atores. As trocas podem ser materiais ou imateriais, e ocorrem a partir da percepção de sua potencial importância para os atores envolvidos. 
+Internacional: a Cooperação Internacional é uma vertente das relações internacionais. Os agentes envolvidos podem ser públicos ou privados: estados, entes subnacionais, organizações internacionais, intergovernamentais, empresas, instituições filantrópicas e outros atores da sociedade civil. 
+Desenvolvimento: a Cooperação Internacional para o Desenvolvimento tem o propósito de promover o desenvolvimento socioeconômico ambientalmente sustentável. Os mecanismos e práticas dessa cooperação internacional devem proporcionar os meios, as capacidades e os conhecimentos necessários para a superação das causas estruturais da pobreza, meio ambiente e direitos humanos. Além disso, auxilia na promoção e melhoria permanente dos níveis de desenvolvimento econômico, social e cultural, de forma justa, pacífica, equilibrada e sustentável dos países em desenvolvimento que envolve o esforço comum de atores públicos e privados.
+Disponível em: https://ocid.ibict.br/. Acesso em: 07 fev. 2025.
+
+Acerca das funções e papeis da cooperação internacional para o desenvolvimento, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,O modelo de Cooperação Sul-Sul precisa, pode e deve ser utilizado para o enfrentamento das mudanças climáticas, mas não é a única opção e arranjo possível para a discussão em temas que se refiram ao Acordo de Paris e à COP30.,,
+Option,0,A Cooperação Internacional funciona basicamente por força de leis internacionais que obrigam os países a cooperarem entre si. Em caso de não aceite, há sanções explícitas impostas aos países que não aderirem à ideia.,,
+Option,0,A Cooperação Internacional Sul-Sul não precisa de nenhum tipo de financiamento em nenhum tipo de suas ações. Tudo acontece com base no voluntarismo e nas trocas de favores entre os países, pois não se precisa de recursos financeiros para tais operações.,,
+Option,0,Outros arranjos de Cooperação Internacional Para o Desenvolvimento, como a Sul-Norte, pouco impactam nas questões que envolvem o enfrentamento relacionado às mudanças climáticas.,,
+Option,0,Justiça Climática é um conceito abstrato e de pouca materialização nas discussões que envolvem a COP30 e o Acordo de Paris, pois, afinal de contas, as mudanças climáticas atingem a todos da mesma maneira. A cooperação internacional para o desenvolvimento, conforme defendido por renomados autores na literatura científica reforça essa ideia de forma categórica.,,
+Feedback,"A)	Correta.
+B)	Incorreta, pois a cooperação é voluntária e não se permite coerções, tampouco obrigatoriedades, especialmente por estar no campo internacional, no qual o elemento da soberania se evidencia e é um dos postulados mais evidentes das RIs (Pecequilo,2016).
+C)	Incorreta, pois, sem financiamento financeiro, as ações não acontecem (Milani, 2022).
+D)	Incorreta, pois, em se tratando de meio-ambiente e questões climáticas, a pluralidade de arranjos é fundamental para resolução de problemas comuns (Pecequilo, 2016).
+E)	Incorreta, pois os mais pobres e vulneráveis socioeconomicamente falando sofrem mais com desastres ambientais, tanto em forma individual como coletiva (Nações), a ver os impactos de um terremoto no Japão e um terremoto no Haiti (Ipea, 2011).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P4_2024_2_Q03,,,
+Title,PPD_FE_02_tema_P4_2024_2_Q03,,,
+QuestionText,"ONU adota resolução sobre responsabilidade dos países para “justiça climática”. Em reunião na Assembleia Geral, [...], secretário-geral da ONU afirma que decisão com base num parecer da Corte Internacional de Justiça, CIJ, pode melhorar conduta dos países por ação climática; texto aprovado por consenso foca em consequências legais para nações que causem dano ao sistema climático. O secretário-geral, António Guterres, defende uma “ação mais incisiva” na busca por justiça climática. Ele fez a declaração antes de a Assembleia Geral adotar, por consenso, uma resolução que evidencia a responsabilidade dos países no tema. Segundo Guterres, um parecer consultivo da Corte Internacional de Justiça, CIJ, que inspirou a resolução, pode contribuir para a tomada de medidas necessárias que levem a mais ação climática pelo mundo. 
+ONU adota resolução sobre responsabilidade dos países para “justiça climática”. In: ONU News. [S.l.], 29 mar. 2023. Disponível em: https://news.un.org/pt/story/2023/03/1812102. Acesso em: 07 fev. 2025. Adaptado
+
+Sobre justiça climática, analise as afirmativas a seguir.
+
+I.	Negacionistas costumam defender que a temática da Justiça Climática é uma discussão irrelevante, pois as mudanças climáticas não têm impacto significativo para os países ou para as pessoas, especialmente as mais pobres.
+II.	A Justiça Climática privilegia mais atenção aos mais ricos, pois estes contribuem mais para os PIBs dos Estados e pagam mais impostos. Por conta disso, são as prioridades do conceito de Justiça Climática.
+III.	A Justiça Climática é um compromisso com o futuro da humanidade e com a garantia de direitos fundamentais. Ela observa que os mais pobres, socioeconomicamente falando, são os mais afetados pelas mudanças climáticas. 
+IV.	A Justiça Climática pode ser uma resposta às desigualdades raciais e socioeconômicas evidenciadas nas interações presentes nas Relações Internacionais.
+V.	A Justiça Climática pode ser alcançada por meio da cooperação internacional com forte apelo à situação dos refugiados ambientais. Os museus, como o do Amanhã, podem ajudar na reflexão da temática e sensibilização da sociedade.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I e III, apenas.,,
+Option,100,I, III, IV e V, apenas.,,
+Option,0,II, III e IV, apenas.,,
+Option,0,II, III, IV e V, apenas.,,
+Option,0,I, II, III, IV e V.,,
+Feedback,"I.	Correta, pois os negacionistas geralmente argumentam que a discussão sobre Justiça Climática é irrelevante, alegando que as mudanças climáticas não têm impacto significativo nos países, especialmente nas populações mais pobres (ONU, 2022).
+II.	Incorreta, pois a Justiça Climática não prioriza os mais ricos. Ao contrário, foca em como as desigualdades socioeconômicas resultantes das mudanças climáticas afetam mais severamente os mais vulneráveis, como as populações de baixa renda (PNUMA, 2022).
+III.	Correta, pois a Justiça Climática representa um compromisso com o futuro da humanidade e com a garantia de direitos fundamentais. Ela destaca que as populações socioeconomicamente desfavorecidas são as mais afetadas pelas mudanças climáticas (Robinson, 2021). 
+IV.	Correta, pois a Justiça Climática também pode ser vista como uma resposta às desigualdades raciais e socioeconômicas evidenciadas nas relações internacionais (Robinson, 2021).
+V.	Correta, pois a Justiça Climática pode ser promovida por meio da cooperação internacional, com destaque para a situação dos refugiados ambientais. Museus como o do Amanhã podem desempenhar um papel importante na reflexão e sensibilização sobre a temática, mobilizando a sociedade para a ação (Robinson, 2021).",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P4_2024_2_Q04,,,
+Title,PPD_FE_02_tema_P4_2024_2_Q04,,,
+QuestionText,"Reportagem 1
+Vítimas da tragédia no RS são consideradas refugiadas climáticas? Dados da ONU apontam que desastres são uma das principais causas de deslocamentos forçados em todo o mundo. A tragédia que afeta o Estado do Rio Grande do Sul desde o início do mês levou mais 300 mil pessoas a deixarem suas casas e trouxe um tema até então pouco comum ao debate público brasileiro. A expressão “refugiados climáticos” passou a ser utilizada em referência à parte da população gaúcha que precisou se deslocar frente ao risco das chuvas e enchentes. Embora o termo "refugiado climático" não seja oficialmente reconhecido pelo direito internacional, ele é comumente usado para se referir a grupos que tiveram que sair de regiões afetadas por grandes eventos climáticos e recomeçar a vida em outro lugar. 
+LACERDA, Nara. Vítimas da tragédia no RS são consideradas refugiadas climáticas?. In: Brasil de Fato. [S.l.], 11 maio 2024. Disponível em: https://www.brasildefato.com.br/2024/05/11/vitimas-da-tragedia-no-rs-sao-consideradas-refugiadas-climaticas. Acesso em: 08 fev. 2025.
+
+Reportagem 2
+Deslocados climáticos do RS e uso inadequado da categoria jurídica do refúgio. O desastre ambiental ocorrido em maio pautou a urgente demanda por uma Política Nacional para Deslocados Internos. A situação do deslocamento forçado de mais de 600 mil pessoas no Rio Grande do Sul em decorrência do evento climático de maio deste ano passou a ser tratada de forma recorrente por diversos meios de comunicação como sinônima à situação de refúgio, associando-se ao conceito de “refugiados ambientais ou climáticos”. Uma associação que chama atenção para o drama e o flagelo humano de quem vivencia esta condição traumática do deslocamento forçado, que necessita proteção, acolhimento e amparo, e como a pressão para a inserção no debate político da agenda de políticas públicas para as vítimas dos desastres socioambientais. Todavia, o conceito jurídico de refugiado nasce de uma gênese sociopolítica muito distinta, com especificidades genuínas das migrações forçadas internacionais, que apontam para uma gama de desafios que não são compartilhados com as particularidades dos deslocamentos forçados internos. 
+DESLOCADOS climáticos do RS e uso inadequado da categoria jurídica do refúgio. In: Brasil de Fato. [S.l.]. Disponível em: https://www.brasildefato.com.br/2024/07/09/deslocados-climaticos-do-rs-e-uso-inadequado-da-categoria-juridica-do-refugio. Acesso em: 08 fev. 2025.
+
+Sobre refugiados ambientais (ou climáticos), analise as afirmativas a seguir. 
+
+I.	Ambas as reportagens deixam claro que não há dúvidas acerca da caracterização do que é um refugiado ambiental (ou climático). Os documentos internacionais, convenções e tratados são claros no reconhecimento e proteção legal da temática, tendo os Estados interesse em garantir tal entendimento com base em leis.
+II.	A temática dos refugiados ambientais está amplamente debatida nos meios sociais e humanitários, mas ainda carece de delimitações e garantias no campo da legalidade jurídica.
+III.	O refúgio ambiental ou climático é uma das temáticas que suscitam cuidados e apresentam contornos importantes para se falar de justiça climática, pois apesar de carecer de uma cobertura jurídica clara e uníssona, é uma realidade presente e um desafio para as Relações Internacionais.
+IV.	As duas reportagens divergem de concepção acerca do que um refugiado ambiental e da sua cobertura conceitual e legal, deixando a correta impressão no leitor de que a temática apresenta desdobramentos variados e que carecem ser estudados. 
+V.	O presidente da Comissão Catalã de Ajuda ao Refugiado e escritor do livro Refugiados Climáticos, Miguel Pajares, defende que as mudanças climáticas e os impactos socioambientais não são um fenômeno natural.  Segundo Pajares, os impactos ambientais são “resultado de uma ação política e provocados pelos gases de efeito estufa que os humanos vêm produzindo desde o início da industrialização”. Pessoas que sofrem com os impactos socioambientais são vítimas das ações políticas dos governos e, por isso, necessitam de seu reconhecimento como refugiadas.
+
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,II, III, IV e V, apenas.,,
+Option,0,I, II e V, apenas.,,
+Option,0,I, II, III e IV, apenas.,,
+Option,0,I, III, IV e V, apenas.,,
+Option,0,I, II, III, IV e V.,,
+Feedback,"I.	Incorreta.
+II.	Correta. Consulte a explicação completa no link: https://www.brasildefato.com.br/2024/07/09/deslocados-climaticos-do-rs-e-uso-inadequado-da-categoria-juridica-do-refugio.
+III.	Correta. Consulte as obras de Castles (2002) e a Cátedra Sérgio Vieira de Melo (2016).
+IV.	Correta, pois uma reportagem sustenta uma posição que a outra contradiz: o uso da expressão "Refugiado Climático".
+V.	Correta. Verifique o material de apoio na seção específica.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P4_2024-2_Q05,,,
+Title,PPD_FE_02_tema_P4_2024-2_Q05,,,
+QuestionText,"O tema do aquecimento global está constantemente presente na mídia, incluindo televisão, revistas e jornais. No entanto, a população ainda não demonstra a preocupação necessária com as alterações climáticas, nem adota mudanças comportamentais significativas para mitigar esse processo. O documentário “Uma Verdade Inconveniente” (2006), dirigido por Davis Guggenheim e apresentado por Al Gore, ambientalista e ex-vice-presidente dos Estados Unidos, introduz o conceito de aquecimento global. No filme, são exibidos gráficos que ilustram as mudanças climáticas no planeta. De acordo com estudos científicos apresentados, se as emissões de dióxido de carbono (CO2) e outros gases não forem reduzidas, o aquecimento global levará a mudanças climáticas que poderão destruir a vida como a conhecemos. O documentário mostra dados estatísticos que evidenciam o derretimento das calotas polares, o aumento do nível dos oceanos e mudanças drásticas no clima. Esses fenômenos resultam em desastres como furacões, enchentes, secas, proliferação de insetos e epidemias.
+ALVES DA COSTA, Ana Paula. Resenha crítica do filme Uma Verdade Inconveniente. Revista De Geografia, v. 33, n. 1, 2016. Recuperado de https://periodicos.ufpe.br/revistas/index.php/revistageografia/article/view/229169
+Disponível em: https://periodicos.ufpe.br/revistas/index.php/revistageografia/article/view/229169 Acesso em: 09 fev. 2025.
+
+Acerca das Mudanças Climáticas, Justiça Climática, Cooperação Internacional e Refugiados Ambientais Climáticos, à luz do documentário “Uma Verdade Inconveniente”, assinale a alternativa correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O que o ex-candidato à presidência dos Estados Unidos, Al Gore, destaca no filme faz pouca menção aos assuntos destacados neste PPD, desde o Ponto de Interação 1 até aqui.,,
+Option,0,O Acordo de Paris e a COP30, assim como esforços oriundos das COPs, revelam uma dimensão importante destacada no documentário “Uma Verdade Inconveniente”. Contudo, não podemos contextualizar a narrativa da obra com os esforços da cooperação internacional ou, muito menos, com a questão dos refugiados.,,
+Option,100,“Uma Verdade Inconveniente” e o Museu do Amanhã demonstram claramente o poder que a arte tem de nos fazer refletir sobre temas importantes para as Relações Internacionais, como podem nos inspirar a trilhar caminhos que ajudem a solucionar problemas do nosso cotidiano.,,
+Option,0,O Acordo de Paris nasceu e foi inspirado pela obra “Uma Verdade Inconveniente”.,,
+Option,0,A COP30, que foi sediada no Azerbaijão, em nada avançou ou discutiu preocupações como as que Al Gore apresentou no documentário “Uma Verdade Inconveniente”.,,
+Feedback,"A)	Incorreta, pois os temas estão todos interconectados e encadeados, de forma que o documentário retrata, de forma direta ou indireta, as premissas deste PPD.
+B)	Incorreta, pois a resolução dos problemas climáticos se faz com esforços internos, no plano doméstico, mas, no plano internacional, a cooperação para o desenvolvimento é a ferramenta mais adequada para a resolução de problemas compartilhado, seja na modalidade Sul-Sul, seja em outros arranjos entre os Estados e Organizações Internacionais (IPEA, 2011).
+C)	Correta.
+D)	Incorreta, pois o Acordo de Paris é de 2015 e a obra apresentada por Al Gore é de 2006.
+E)	Incorreta, pois a COP 30 será sediada no Brasil em 2025.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_02_tema_P4_2024_2_Q06,,,
+Title,PPD_FE_02_tema_P4_2024_2_Q06,,,
+QuestionText,"“Cooperação Sul-Sul é vital para luta contra mudança climática”, diz Guterres em Buenos Aires. A Cooperação Sul-Sul é chave para o desenvolvimento sustentável e para a luta contra o aquecimento global, disse o secretário-geral das Nações Unidas na quarta-feira (20), na sessão de abertura da Segunda Conferência da ONU sobre Cooperação Sul-Sul, na capital argentina, Buenos Aires. António Guterres relembrou os presentes, entre políticos, líderes empresariais e da sociedade civil, que a conferência BAPA+40 irá melhorar a agenda inovadora estabelecida na primeira conferência. A primeira reunião, realizada há 40 anos, adotou o Plano de Ação de Buenos Aires para Promoção e Implementação de Cooperação Técnica entre Países em Desenvolvimento. Segundo o chefe da ONU, esta semana é uma oportunidade de reafirmar, desenvolver e fortalecer estruturas para a Cooperação Sul-Sul – entre países em desenvolvimento do Sul Global – e melhorar sistemas e ferramentas, além de aumentar a transparência”. 
+COOPERAÇÃO Sul-Sul é vital para luta contra mudanças climática, diz Guterres em Buenos Aires. In: Nações Unidas. [S.l.], 21 mar. 2019. Disponível em: https://brasil.un.org/pt-br/82707-coopera%C3%A7%C3%A3o-sul-sul-%C3%A9-vital-para-luta-contra-mudan%C3%A7a-clim%C3%A1tica-diz-guterres-em-buenos-aires. Acesso em: 25 fev. 2025. 
+
+O texto integral está disponível no link a seguir: https://brasil.un.org/pt-br/82707-coopera%C3%A7%C3%A3o-sul-sul-%C3%A9-vital-para-luta-contra-mudan%C3%A7a-clim%C3%A1tica-diz-guterres-em-buenos-aires
+
+Acerca da reportagem acessada, analise as sentenças a seguir.
+
+I.	Segundo Guterres, a cooperação pode permitir que países em desenvolvimento aprendam uns com os outros e cresçam mais rapidamente, diminuindo diferenças de renda e construindo sociedades inclusivas e resilientes.
+II.	O secretário-geral da ONU destacou os principais desafios que líderes presentes poderão ajudar a superar e que são fundamentais para alcançar os Objetivos de Desenvolvimento Sustentável (ODS) e o Acordo de Paris para o clima, no qual os países se comprometeram a manter o aquecimento global abaixo de 2°C. Em primeiro lugar, há crescente desigualdade entre e dentro de países, erodindo a confiança mundial e aprofundando um sentimento de injustiça. Em segundo, a luta contra mudança climática acabou de se intensificar.
+III.	O secretário-geral da ONU destacou os principais desafios que líderes presentes poderão ajudar a superar e que contribuem para o alcance dos Objetivos de Desenvolvimento Sustentável (ODS) e do Acordo de Paris para o clima, no qual os países se comprometeram a manter o aquecimento global abaixo de 2°C. Em terceiro lugar, há a necessidade de melhorar infraestruturas, especialmente nas cidades, à medida que demandas energéticas crescem no Sul Global.
+IV.	O secretário-geral da ONU destacou os principais desafios que líderes presentes poderão ajudar a superar e que são cruciais para alcançar os Objetivos de Desenvolvimento Sustentável (ODS) e o Acordo de Paris para o clima, no qual os países se comprometeram a manter o aquecimento global abaixo de 2°C. Em quarto lugar, Guterres afirmou que, embora tenha havido progresso significativo em alcançar a igualdade de gênero ao longo dos anos, a lacuna está se ampliando.
+V.	Guterres destaca que refugiados ambientais são uma preocupação latente, especialmente no caso dos haitianos, que se espalham pelas américas e trazem preocupações para as sociedades receptoras, especialmente a estadunidense e a brasileira.
+É correto o que se afirma em",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,I, II, III e V, apenas.,,
+Option,0,II, III, IV e V, apenas.,,
+Option,0,III, IV e V, apenas.,,
+Option,0,II, III e IV, apenas.,,
+Option,100,I, II, III e IV.,,
+Feedback,"A)	Correta, verificar literalidade do artigo.
+B)	Correta, verificar literalidade do artigo.
+C)	 Correta, verificar literalidade do artigo.
+D)	Correta, verificar literalidade do artigo.
+E)	Incorreta, não há nenhuma menção acerca de refugiados haitianos.",,,
+

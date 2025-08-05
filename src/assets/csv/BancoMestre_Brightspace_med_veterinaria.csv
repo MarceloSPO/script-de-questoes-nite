@@ -1,0 +1,387 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q02,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q02,,,
+QuestionText,"Os anticorpos são proteínas essenciais para a imunidade adaptativa e desempenham um papel importante na defesa contra agentes infecciosos. Produzidos por linfócitos B, eles reconhecem e se ligam a antígenos específicos, promovendo sua neutralização ou facilitando sua destruição por outras células do sistema imunológico.
+
+Sobre o papel dos anticorpos na resposta imune, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Os anticorpos são produzidos exclusivamente pela imunidade inata e destroem diretamente os patógenos.,,
+Option,0,A principal função dos anticorpos é a destruição mecânica dos microrganismos, sem interação com outras células do sistema imunológico.,,
+Option,100,Os anticorpos marcam os patógenos para destruição por outras células do sistema imune e podem neutralizar toxinas.,,
+Option,0,Os anticorpos são produzidos apenas após o primeiro contato com um patógeno e não possuem capacidade de memória imunológica.,,
+Option,0,A imunidade mediada por anticorpos é eficiente apenas contra infecções virais, não tendo efeito sobre infecções bacterianas.,,
+Feedback,"Os anticorpos são proteínas especializadas que reconhecem e se ligam a antígenos específicos. Eles não destroem diretamente os microrganismos, mas os marcam para destruição por células imunes, além de neutralizar toxinas produzidas por patógenos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q03,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q03,,,
+QuestionText,"A imunidade adaptativa pode ser classificada em dois principais tipos: a imunidade mediada por anticorpos, que é eficaz contra infecções bacterianas, e a imunidade mediada por células, que atua contra vírus e células alteradas.
+
+Assinale a alternativa que descreve corretamente a imunidade mediada por células.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Envolve linfócitos T que reconhecem e destroem células infectadas ou anormais.,,
+Option,0,Depende exclusivamente da produção de anticorpos para neutralizar patógenos.,,
+Option,0,Atua apenas contra bactérias e não possui função na resposta a infecções virais.,,
+Option,0,É uma resposta inespecífica e não envolve células especializadas.,,
+Option,0,Não participa da defesa contra vírus, sendo um mecanismo exclusivo contra parasitas.,,
+Feedback,"A imunidade mediada por células envolve a ação dos linfócitos T, que reconhecem e eliminam células infectadas por vírus ou alteradas, desempenhando um importante papel na defesa do organismo contra infecções virais e câncer.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q04,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q04,,,
+QuestionText,"A memória imunológica é um dos principais benefícios da imunidade adaptativa. Após o primeiro contato com um patógeno, o sistema imunológico “aprende” a reconhecê-lo, permitindo uma resposta mais rápida e eficiente em exposições futuras.
+
+Com base nas informações apresentadas, assinale a alternativa que indica a principal vantagem da memória imunológica para a sobrevivência dos organismos.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Permite que o organismo elimine qualquer patógeno sem a necessidade de resposta imune.,,
+Option,0,Proporciona uma resposta mais rápida e eficaz em reinfecções pelo mesmo patógeno.,,
+Option,0,Elimina a necessidade de vacinação, pois a imunidade adaptativa já protege contra todas as doenças.,,
+Option,100,Atua apenas na imunidade inata, sem impacto na imunidade adaptativa.,,
+Option,0,Garante proteção contra qualquer tipo de patógeno, mesmo sem exposição prévia.,,
+Feedback,"A memória imunológica permite que o sistema imunológico reconheça rapidamente um patógeno já encontrado anteriormente, ativando uma resposta mais eficiente e reduzindo a gravidade da infecção. Esse mecanismo é a base da imunização por vacinas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q05,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q05,,,
+QuestionText,"As barreiras físicas são a primeira linha de defesa do organismo contra invasores. A pele, por exemplo, impede a entrada de microrganismos, enquanto as mucosas secretam substâncias que ajudam a neutralizar patógenos.
+
+Neste contexto, qual das opções a seguir representa corretamente uma barreira física do sistema imunológico?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Produção de anticorpos pelos linfócitos B.,,
+Option,0,Secreção de enzimas digestivas pelo pâncreas.,,
+Option,100,Pele e mucosas que impedem a entrada de microrganismos.,,
+Option,0,Resposta inflamatória desencadeada pela ativação de macrófagos.,,
+Option,0,Ativação de linfócitos T na imunidade adaptativa.,,
+Feedback,"As barreiras físicas, como a pele e as mucosas, impedem a entrada de microrganismos no organismo. Elas fazem parte da imunidade inata e atuam como a primeira linha de defesa contra infecções.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q06,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q06,,,
+QuestionText,"As vacinas são uma das estratégias mais eficazes para estimular a imunidade adaptativa e prevenir doenças infecciosas. Elas atuam ao expor o organismo a antígenos inofensivos, permitindo que o sistema imunológico desenvolva memória imunológica.
+
+Com base nas informações apresentadas, assinale a alternativa que melhor descreve o principal objetivo da vacinação.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Estimular a produção de anticorpos e memória imunológica sem causar a doença.,,
+Option,0,Substituir a necessidade de barreiras físicas e imunidade inata.,,
+Option,0,Eliminar completamente qualquer possibilidade de infecção por patógenos.,,
+Option,0,Criar uma resposta imunológica inespecífica e temporária.,,
+Option,0,Garantir que o organismo nunca entre em contato com microrganismos.,,
+Feedback,"As vacinas funcionam ao estimular o sistema imunológico a produzir anticorpos e desenvolver memória imunológica, conferindo proteção contra doenças sem a necessidade de uma infecção real.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q01,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q01,,,
+QuestionText,"A imunização pode ocorrer de duas formas: passiva e ativa. A imunização passiva ocorre pela transferência de anticorpos prontos, proporcionando proteção imediata, porém temporária. Já a imunização ativa envolve a exposição a um antígeno, levando à produção de uma resposta imunológica duradoura.
+
+Tipo de Imunização	Descrição 	Duração da Proteção	Exemplo
+Passiva	Transferência de anticorpos prontos	Curta duração	Soro antiofídico
+Ativa	Estímulo ao sistema imune	Longa duração	Vacinas
+Fonte: Tizard, 2020 (Adaptado).
+TIZARD, I. Imunologia Veterinária: Introdução e Conceitos Básicos. 10. ed. Rio de Janeiro: Elsevier, 2020
+
+Com base na tabela apresentada sobre os tipos de imunização, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A imunização passiva gera uma resposta imunológica duradoura e com memória imunológica.,,
+Option,0,A imunização ativa promove proteção imediata, pois fornece anticorpos já prontos.,,
+Option,0,A imunização passiva ocorre naturalmente apenas em resposta a infecções.,,
+Option,100,A imunização ativa pode ser induzida por vacinas, estimulando o sistema imunológico a produzir anticorpos.,,
+Option,0,A imunização passiva é mais eficaz do que a ativa, pois confere proteção de longo prazo.,,
+Feedback,"A tabela destaca que a imunização ativa confere proteção duradoura, visto que estimula o próprio sistema imunológico a produzir anticorpos, ao contrário da imunização passiva, que oferece proteção imediata, porém temporária.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q02,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q02,,,
+QuestionText,"A vacinação é uma das ferramentas mais eficazes na prevenção de doenças infecciosas em animais e humanos. Além de proteger o indivíduo vacinado, a vacinação contribui para a imunidade coletiva, reduzindo a disseminação de patógenos dentro de uma população.
+
+Gráfico - Redução de doenças infecciosas após a vacinação em massa.
+ 
+Fonte: Silva; Mendes; Freitas, 2021 (Adaptado).
+SILVA, J. R.; MENDES, P. A.; FREITAS, C. G. Imunização ativa e passiva: conceitos e aplicações na medicina veterinária. Revista Brasileira de Imunologia Animal, v. 5, n. 2, p. 112-126, 2021.
+
+Com base no gráfico apresentado, assinale a opção que melhor descreve a importância da vacinação.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A vacinação protege exclusivamente os indivíduos imunizados e não tem impacto na saúde pública.,,
+Option,0,As vacinas são eficazes apenas quando administradas em doses múltiplas e anuais.,,
+Option,100,A vacinação contribui para a imunidade coletiva, reduzindo a transmissão de doenças infecciosas.,,
+Option,0,A vacinação ativa impede qualquer tipo de infecção no organismo imunizado.,,
+Option,0,A imunização passiva por meio da vacinação gera uma resposta imunológica mais eficiente do que a ativa.,,
+Feedback,"O gráfico demonstra que, após a implementação da vacinação, houve uma significativa redução nos casos de doenças infecciosas, confirmando a eficácia da imunização coletiva.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q03,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q03,,,
+QuestionText,"A memória imunológica permite que o sistema imune responda mais rapidamente a uma segunda exposição ao mesmo patógeno, graças à presença de células de memória.
+
+Com base nas informações apresentadas, é correto afirmar que",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,a memória imunológica permite que o organismo reaja de forma mais rápida e intensa a um patógeno já encontrado anteriormente.,,
+Option,0,a memória imunológica impede completamente qualquer infecção futura, independentemente do tipo de patógeno.,,
+Option,0,a memória imunológica ocorre apenas em resposta à imunização passiva.,,
+Option,0,o organismo humano não desenvolve memória imunológica contra patógenos virais, apenas contra bacterianos.,,
+Option,0,a memória imunológica reduz a eficácia das vacinas, pois limita a produção de anticorpos.,,
+Feedback,"A memória imunológica permite que o sistema imune responda rapidamente a patógenos previamente encontrados, tornando a resposta imunológica secundária mais eficiente e reduzindo a gravidade das infecções subsequentes.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q04,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q04,,,
+QuestionText,"As vacinas podem ser classificadas em diferentes categorias, como as vivas atenuadas e as inativadas. As vacinas vivas atenuadas contêm microrganismos enfraquecidos, induzindo uma resposta imune mais forte. Já as vacinas inativadas são produzidas a partir de patógenos mortos ou de seus fragmentos, sendo comum a necessidade de doses de reforço para garantir a imunidade ao longo do tempo.
+
+Sobre os diferentes tipos de vacinas, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Vacinas inativadas contêm patógenos vivos que foram geneticamente modificados para perder a virulência.,,
+Option,100,Vacinas vivas atenuadas estimulam uma resposta imunológica mais robusta do que as vacinas inativadas.,,
+Option,0,As vacinas inativadas garantem imunidade vitalícia sem a necessidade de reforços.,,
+Option,0,As vacinas vivas atenuadas não requerem refrigeração para manter sua eficácia.,,
+Option,0,Vacinas recombinantes não utilizam antígenos, mas substâncias químicas para estimular a imunidade.,,
+Feedback,"Vacinas vivas atenuadas induzem uma resposta imunológica mais forte e duradoura em comparação com vacinas inativadas, pois mimetizam melhor a infecção natural.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q05,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q05,,,
+QuestionText,"As vacinas podem ser administradas por diferentes vias, como injeção intramuscular, subcutânea, intranasal e oral. A escolha da via influencia a resposta imunológica e a eficácia da imunização.
+
+Tabela - Diagrama mostrando as diferentes vias de administração de vacinas em animais.
+Via de Administração	Uso Comum
+Intramuscular	Vacinas contra raiva, tétano
+Subcutânea 	Vacinas contra leptospirose
+Intranasal	Vacinas respiratórias
+Oral	Vacinas contra rotavírus
+Fonte: Organização Mundial de Saúde Animal (OIE), 2021 (Adaptado).
+ORGANIZAÇÃO MUNDIAL DE SAÚDE ANIMAL (OIE). Guia sobre a imunização de animais. Paris: OIE, 2021.
+
+Sobre a administração de vacinas, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Todas as vacinas devem ser aplicadas exclusivamente por via intramuscular.,,
+Option,100,Vacinas intranasais são utilizadas para induzir imunidade local contra infecções respiratórias.,,
+Option,0,A administração oral de vacinas não é eficaz na imunização de animais.,,
+Option,0,A vacinação subcutânea é menos eficiente do que a intramuscular e raramente é utilizada.,,
+Option,0,Vacinas podem ser administradas sem seguir as recomendações do fabricante, desde que o profissional de saúde ajuste a dosagem.,,
+Feedback,"As vacinas intranasais são projetadas para estimular a imunidade local nas mucosas respiratórias, sendo amplamente utilizadas contra doenças infecciosas respiratórias.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q06,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q06,,,
+QuestionText,"As vacinas são seguras e eficazes, mas podem causar efeitos adversos leves, como febre e dor no local da aplicação. Reações graves são raras, e os benefícios da vacinação superam amplamente os riscos.
+
+Sobre a segurança das vacinas, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Todas as vacinas causam efeitos colaterais graves e devem ser evitadas.,,
+Option,0,Vacinas são completamente isentas de qualquer efeito adverso.,,
+Option,100,Os efeitos adversos mais comuns das vacinas são leves e transitórios.,,
+Option,0,Vacinas causam doenças em todos os indivíduos vacinados.,,
+Option,0,Os riscos da vacinação são maiores do que os benefícios, tornando a imunização desnecessária.,,
+Feedback,"As vacinas são seguras e os efeitos adversos mais comuns são leves e passageiros. Os benefícios da vacinação na prevenção de doenças graves superam amplamente os riscos associados.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q01,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q01,,,
+QuestionText,"A capacidade do intestino do recém-nascido de absorver imunoglobulinas é temporária e diminui progressivamente nas primeiras horas de vida. A seguir, observa-se uma comparação da absorção de IgG em bezerros em diferentes tempos após o nascimento:
+Tempo após o nascimento	Absorção de IgG (%)
+2 horas	70%
+6 horas	50%
+12 horas	30%
+24 horas	10%
+
+Com base na tabela apresentada, assinale a opção que indica a principal implicação da redução progressiva da absorção de IgG pelo intestino neonatal.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O colostro pode ser fornecido a qualquer momento, pois a absorção de imunoglobulinas permanece constante ao longo do tempo.,,
+Option,0,A administração tardia do colostro (após 24 horas) ainda garante imunidade passiva eficiente.,,
+Option,100,A ingestão do colostro deve ser priorizada nas primeiras horas de vida, pois a absorção de imunoglobulinas é maior nesse período.,,
+Option,0,O fechamento intestinal pode ser revertido caso o neonato receba suplementação de leite materno.,,
+Option,0,A absorção de IgG atinge seu pico após 24 horas do nascimento.,,
+Feedback,"A capacidade de absorção de IgG cai rapidamente após o nascimento, sendo máxima nas primeiras seis horas de vida. Isso reforça a importância da administração precoce do colostro para garantir uma transferência passiva eficaz.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q02,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q02,,,
+QuestionText,"A transferência de imunidade passiva em mamíferos recém-nascidos ocorre de duas formas principais: pela placenta e pelo colostro. Em primatas, a placenta hemocorial permite a passagem eficiente de IgG materna para o feto. Já em espécies como equinos e ruminantes, cuja placenta impede essa passagem, os neonatos dependem exclusivamente da absorção de imunoglobulinas do colostro para a proteção inicial.
+
+Com base na fisiologia da transferência de imunoglobulinas, assinale a opção que descreve corretamente a imunidade neonatal nos mamíferos.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Em equinos e ruminantes, a IgG é transferida da mãe para o feto pela placenta, garantindo proteção até o nascimento.,,
+Option,0,Nos cães e gatos, a placenta endoteliocorial permite que quase 100% das imunoglobulinas maternas sejam transferidas para o feto.,,
+Option,100,Os primatas nascem com altos níveis de IgG devido à eficiente transferência placentária dessa imunoglobulina.,,
+Option,0,Nos ruminantes, a transferência transplacentária de IgA é responsável pela proteção contra infecções intestinais neonatais.,,
+Option,0,A placenta hemocorial dos bovinos permite que o feto receba IgG materna antes do nascimento.,,
+Feedback,"Primatas possuem placenta hemocorial, que permite a passagem de IgG materna para o feto, garantindo que os recém-nascidos já tenham um nível significativo dessa imunoglobulina ao nascer. Em equinos e ruminantes, essa passagem não ocorre, tornando o colostro a única fonte de anticorpos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q03,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q03,,,
+QuestionText,"A figura a seguir apresenta os diferentes tipos de placenta em mamíferos e sua capacidade de permitir a passagem de imunoglobulinas, especialmente IgG, para o feto. O gráfico ilustra como a placenta hemocorial (presente em humanos e primatas) permite uma transferência eficiente de IgG, enquanto as placentas epiteliocorial e sindesmocorial (presentes em equinos, suínos e ruminantes) impedem totalmente essa transferência, tornando o colostro essencial para a imunidade neonatal.
+
+Figura – Tipos de Placenta e Transferência de Imunoglobulinas. 
+Fonte: Elaborado pelo autor, com base em Tizard, 2017; Janssen et al., 2007; Reynolds, Capton, 2016; Brasil, 2019 (Adaptado).
+
+A placenta é um fator determinante na transferência de imunidade passiva. Com base na imagem apresentada e nos conhecimentos sobre os tipos de placenta, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,A placenta hemocorial permite maior transferência de IgG para o feto do que a placenta epiteliocorial.,,
+Option,0,A placenta sindesmocorial promove a transferência de IgM materna para o feto durante a gestação.,,
+Option,0,A placenta endoteliocorial impede totalmente a passagem de imunoglobulinas da mãe para o feto.,,
+Option,0,A placenta epiteliocorial dos primatas facilita a absorção de anticorpos maternos antes do nascimento.,,
+Option,0,Ruminantes possuem placenta hemocorial, garantindo altos níveis de IgG no feto antes do parto.,,
+Feedback,"A placenta hemocorial (primatas) permite uma eficiente passagem de IgG materna para o feto, enquanto a placenta epiteliocorial (equinos e ruminantes) bloqueia totalmente essa passagem, tornando o colostro essencial para a imunidade neonatal.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q04,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q04,,,
+QuestionText,"O colostro contém altas concentrações de imunoglobulinas, variando conforme a espécie. A seguir, observa-se a composição de imunoglobulinas no colostro e no leite de diferentes espécies:
+Espécie	IgG no Colostro (%)	IgA no Leite (%)
+Bovinos	80%	5%
+Equinos	70%	25%
+Suínos	60%	30%
+Humanos	10%	85%
+Fonte: Elaborado pelo autor, com base em Tizard, 2017.
+
+Com base na tabela apresentada, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Nos bovinos, a IgA predomina tanto no colostro quanto no leite.,,
+Option,0,O colostro humano tem maior concentração de IgG do que o colostro bovino.,,
+Option,100,Em equinos e suínos, a IgG predomina no colostro, enquanto a IgA torna-se predominante no leite.,,
+Option,0,Nos bovinos, a concentração de IgA no leite é maior do que a de IgG.,,
+Option,0,A IgA é a principal imunoglobulina do colostro em todas as espécies.,,
+Feedback,"Em equinos e suínos, a IgG é dominante no colostro, mas à medida que a lactação progride, a IgA se torna a imunoglobulina mais abundante no leite, auxiliando na proteção das mucosas intestinais dos neonatos.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q05,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q05,,,
+QuestionText,"A falha na transferência passiva (FTPI) ocorre quando o recém-nascido não recebe uma quantidade adequada de imunoglobulinas do colostro, tornando-se suscetível a infecções. Existem três principais causas para a FTPI:
+1.	Falha de produção – a mãe produz quantidade insuficiente ou colostro de baixa qualidade.
+2.	Falha de ingestão – o neonato não consome colostro suficiente devido a fraqueza, dificuldades de sucção ou separação da mãe.
+3.	Falha de absorção – o colostro é ingerido, mas as imunoglobulinas não são absorvidas corretamente pelo intestino do neonato.
+
+Com base nas informações apresentadas, assinale a opção que descreve corretamente um manejo adequado para evitar a FTPI.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Monitorar a ingestão de colostro e garantir que o recém-nascido consuma pelo menos 1 litro nas primeiras seis horas de vida.,,
+Option,0,Administrar apenas leite comum ao recém-nascido, pois ele contém todas as imunoglobulinas necessárias.,,
+Option,0,Se a absorção de IgG for insuficiente, o animal deve ser separado da mãe para evitar contaminação.,,
+Option,0,O colostro deve ser fornecido apenas após 24 horas, pois a absorção intestinal de imunoglobulinas aumenta com o tempo.,,
+Option,0,A FTPI não impacta a saúde do recém-nascido, pois ele pode produzir suas próprias imunoglobulinas imediatamente após o nascimento.,,
+Feedback,"A absorção de imunoglobulinas ocorre de forma eficiente apenas nas primeiras horas de vida, sendo fundamental garantir a ingestão precoce do colostro. Caso seja necessário, suplementação ou transfusão de plasma podem ser alternativas para corrigir a FTPI.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q06,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q06,,,
+QuestionText,"O gráfico a seguir representa a variação dos níveis de IgG materna e IgG própria do neonato ao longo das primeiras semanas de vida.
+ 
+Fonte: Tizard, 2017.
+TIZARD, I. R. Imunologia Veterinária: Introdução e Princípios Básicos. 9. ed. Rio de Janeiro: Elsevier, 2017.
+
+Com base no gráfico apresentado, assinale a opção correta sobre a maturação do sistema imunológico neonatal.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O nível de IgG materna aumenta progressivamente no sangue do recém-nascido até atingir um pico por volta da quarta semana.,,
+Option,0,A imunidade passiva do colostro garante proteção ao neonato indefinidamente, sem necessidade de ativação da imunidade própria.,,
+Option,100,A queda da IgG materna e o aumento da IgG do recém-nascido indicam a transição da imunidade passiva para a imunidade ativa, que ocorre gradualmente.,,
+Option,0,Os níveis de IgG materna e IgG do recém-nascido permanecem constantes ao longo das primeiras semanas de vida.,,
+Option,0,A produção endógena de IgG pelo recém-nascido ocorre imediatamente após o nascimento, tornando o colostro desnecessário.,,
+Feedback,"O recém-nascido depende da IgG materna adquirida pelo colostro nas primeiras semanas de vida, enquanto sua própria produção de IgG ainda está baixa. Com o tempo, a IgG materna diminui e o sistema imune do neonato começa a produzir seus próprios anticorpos, marcando a transição da imunidade passiva para a ativa.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q01,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q01,,,
+QuestionText,"As reações alérgicas cutâneas em animais são frequentemente associadas à hipersensibilidade do tipo I, caracterizada por uma resposta imune exagerada a substâncias inofensivas, como pólen, ácaros e proteínas alimentares. Essa resposta envolve a imunoglobulina E (IgE) e a ativação dos mastócitos, que liberam mediadores inflamatórios, resultando em prurido, vermelhidão e inflamação.
+
+Com base nas informações apresentadas, assinale a alternativa que descreve corretamente o mecanismo da hipersensibilidade do tipo I nos animais.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A hipersensibilidade tipo I ocorre pela ativação de linfócitos T citotóxicos, sem envolvimento de anticorpos.,,
+Option,100,A reação alérgica é mediada pela IgE, que se liga aos mastócitos, desencadeando a liberação de histamina.,,
+Option,0,A alergia cutânea ocorre exclusivamente por contato direto com alérgenos ambientais.,,
+Option,0,Os mastócitos não desempenham papel significativo nas reações alérgicas, pois a resposta inflamatória ocorre apenas pela ação de neutrófilos.,,
+Option,0,A hipersensibilidade tipo I leva à destruição de células do próprio organismo, sendo classificada como autoimune.,,
+Feedback,"A hipersensibilidade do tipo I ocorre quando a IgE se liga aos mastócitos, tornando-os sensíveis ao alérgeno. Na reexposição ao mesmo alérgeno, os mastócitos degranulam-se, liberando histamina e outros mediadores inflamatórios, resultando em inflamação e prurido.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q02,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q02,,,
+QuestionText,"A dermatite atópica canina é uma doença alérgica crônica, geneticamente predisposta, caracterizada por prurido intenso e inflamação cutânea. Seu diagnóstico é clínico e baseado em critérios específicos, como início precoce dos sintomas (antes dos três anos), resposta ao tratamento com glicocorticoides e localização das lesões.
+
+Assinale a opção que apresenta um critério comumente associado ao diagnóstico da dermatite atópica canina.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Início dos sinais após os sete anos de idade.,,
+Option,100,Prurido intenso presente antes do desenvolvimento das lesões cutâneas.,,
+Option,0,Acometimento exclusivo à região dorso-lombar e às margens das orelhas.,,
+Option,0,Ausência de resposta ao tratamento com glicocorticoides.,,
+Option,0,Relação exclusiva com a ingestão de alimentos alergênicos.,,
+Feedback,"Um critério importante da dermatite atópica canina é que a coceira surge antes do aparecimento das lesões na pele. O diagnóstico se baseia em sinais clínicos e na exclusão de outras causas, como alergias alimentares e ectoparasitas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q03,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q03,,,
+QuestionText,"A genética é fundamental no desenvolvimento da dermatite atópica em cães. Algumas raças apresentam maior predisposição, incluindo Terriers, Dálmatas, Golden Retrievers e Labradores.
+
+Com base nas informações apresentadas, assinale a opção que indica um fator capaz de aumentar significativamente o risco de um cão desenvolver dermatite atópica.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Histórico familiar de dermatite atópica (pais diagnosticados com a doença).,,
+Option,0,Dieta composta por proteínas hidrolisadas.,,
+Option,0,Crescimento em ambiente isento de alérgenos.,,
+Option,0,Exposição precoce a parasitas intestinais.,,
+Option,0,Contato exclusivo com ambientes externos.,,
+Feedback,"A dermatite atópica tem um forte componente genético, sendo mais comum em filhotes de pais atópicos. Algumas raças específicas, como Golden Retrievers e Terriers, apresentam maior predisposição.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q04,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q04,,,
+QuestionText,"O diagnóstico de alergias cutâneas em animais pode ser realizado por meio de testes cutâneos intradérmicos ou testes sorológicos para IgE específica. Esses exames ajudam a identificar os alérgenos responsáveis pelas reações alérgicas.
+
+Assinale a opção que indica o teste mais adequado para identificar alérgenos ambientais em cães com dermatite atópica.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Teste cutâneo intradérmico.,,
+Option,0,Hemograma completo.,,
+Option,0,Cultura microbiológica.,,
+Option,0,Exame parasitológico de fezes.,,
+Option,0,Citologia de pele.,,
+Feedback,"O teste cutâneo intradérmico é amplamente utilizado para identificar alérgenos ambientais em cães com dermatite atópica, auxiliando no manejo da doença.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q05,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q05,,,
+QuestionText,"As reações alérgicas alimentares em cães e gatos podem se manifestar por prurido, inflamação cutânea, otite recorrente e sintomas gastrointestinais. O diagnóstico é feito por dieta de eliminação, identificando os alimentos alergênicos.
+
+Diversos sintomas podem estar associados à hipersensibilidade alimentar em animais, exceto",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,coceira intensa.,,
+Option,0,diarreia crônica.,,
+Option,0,otite recorrente.,,
+Option,100,hipoglicemia súbita.,,
+Option,0,descamação da pele.,,
+Feedback,"A hipersensibilidade alimentar pode causar sintomas dermatológicos e gastrointestinais, mas não está associada à hipoglicemia.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_09_tema_P1_2025-1_Q06,,,
+Title,PPD_FE_09_tema_P1_2025-1_Q06,,,
+QuestionText,"Em alguns casos, reações alérgicas podem se tornar sistêmicas e graves, evoluindo para choque anafilático, caracterizado por queda da pressão arterial, dificuldade respiratória e risco de colapso circulatório.
+
+Assinale a opção que apresenta a principal consequência clínica de uma reação anafilática grave em animais.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Febre moderada e letargia.,,
+Option,0,Coceira localizada e irritação leve.,,
+Option,100,Queda abrupta da pressão arterial e risco de colapso.,,
+Option,0,Aumento da produção de anticorpos IgA.,,
+Option,0,Crescimento acelerado de pelos.,,
+Feedback,"O choque anafilático é uma resposta sistêmica grave, caracterizada por vasodilatação excessiva e queda da pressão arterial, podendo levar ao colapso e óbito.",,,
+

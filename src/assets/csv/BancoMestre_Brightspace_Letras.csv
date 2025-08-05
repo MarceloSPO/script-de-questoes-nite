@@ -1,0 +1,382 @@
+//MULTIPLE CHOICE QUESTION TYPE,,,,
+//Options must include text in column3,,,,
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q01,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q01,,,
+QuestionText,"A Literatura é uma arte cujo nome carece de um significado objetivo. Em realidade, torna-se até mesmo injusto esperar uma definição exata de uma arte que possui tantas formas e possibilidades, o que inclui a evolução da palavra junto ao humano. A leitura pode ser observada a partir de foco em tema e/ou estrutura, o que contribui para análise de características relacionadas ao escritor e ao processo de edição.
+
+Qual grupo de intelectuais procurou definir a Literatura a partir de sua forma estrutural, inicialmente com mais foco em forma que em tema?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Formalistas russos.,,
+Option,0,Formalistas ingleses.,,
+Option,0,Formalistas alemães.,,
+Option,0,Formalistas canadenses.,,
+Option,0,Formalistas dinamarqueses.,,
+Feedback,"Os formalistas russos, inicialmente, viram o tema das narrativas como pretexto para a execução de boa forma escrita, o que posteriormente passou por mudanças.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q02,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q02,,,
+QuestionText,"É necessário entender que a Literatura existe em ambiente escrito, mas que, desde sempre, diversas narrativas estiveram conectadas à tradição oral. Assim, percebe-se que a arte da palavra nasce originalmente em ambiente da fala, não da escrita. Esse processo permite ao pesquisador uma gama de possibilidades sobre o traçado histórico de diversos textos, como aqueles escritos em mosteiros da Grã-Bretanha na Idade Média, mas que já existiam em forma oral há anos.
+
+Qual das narrativas listadas é conhecida por ter surgido de histórias já contadas pela população, mas que apenas posteriormente foi reunida e organizada em ambiente escrito?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Ilíada, de Homero.,,
+Option,0,Dom Casmurro, de Machado de Assis.,,
+Option,0,Dom Quixote, de Miguel de Cervantes.,,
+Option,0,Orgulho e Preconceito, de Jane Austen.,,
+Option,0,A hora da estrela, de Clarice Lispector.,,
+Feedback,"Homero reuniu em ambiente escrito narrativas mitológicas que corriam na Grécia Antiga. Assim, ele colocou em estrutura épica, de espécie epopeia, os poemas Ilíada e Odisseia.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q03,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q03,,,
+QuestionText,"Muitos tentam definir a Literatura como a arte de falar de maneira complicada, com palavras de difícil compreensão. É uma ideia compreensível, já que a arte da palavra realmente se utiliza de diversos termos que não são tão corriqueiros a depender do contexto em que se encontram. Aristóteles até mesmo discorre sobre a linguagem da Poesia na Poética, mostrando que esse não é um tema estritamente contemporâneo dos estudos literários.
+
+Considerando as informações apresentadas, assinale a opção que representa a palavra utilizada por Aristóteles, na Poética, para a referência a palavras estrangeiras na construção poética.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Vocábulos externos.,,
+Option,100,Vocábulos bárbaros.,,
+Option,0,Vocábulos estranhos.,,
+Option,0,Vocábulos incompreensíveis.,,
+Option,0,Vocábulos do leitor estrangeiro.,,
+Feedback,"Aristóteles utiliza a palavra “bárbaro” para referência ao vocabulário que vem de outro idioma, o que poderá ser utilizado na Poesia local para o aprimoramento da construção artística.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q04,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q04,,,
+QuestionText,"Torna-se necessária a aceitação de que a Literatura trabalha com a criatividade, o que exige capacidade imaginativa não apenas do escritor, mas também de quem aprecia a arte literária. Uma vez que a Literatura trabalha com a ficção, é preciso que muito esforço seja colocado na construção narrativa, o que inclui o cuidado com noções de verossimilhança e de entretenimento.
+
+Em sala de aula, com estudantes de Ensino Médio e Fundamental, é possível trabalhar com a criatividade junto à Literatura. Qual das opções seguintes representa uma forma de estímulo lúdico ao hábito de leitura?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Leitura de histórias em quadrinhos.,,
+Option,0,Escrita de resumos sobre livros curtos.,,
+Option,0,Análise morfológica de balões de fala em quadrinhos.,,
+Option,0,A preferência por filmes ao invés de livros em sala de aula.,,
+Option,0,Escrita de resumos sobre livros de personagens animados.,,
+Feedback,"Os quadrinhos são uma forma artística com alto foco em criatividade, o que pode ser observado nos escritos de Terry Eagleton. Eles se relacionam com a Literatura e propõem uma construção narrativa que junta a arte da palavra e alta criatividade em ilustrações únicas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q05,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q05,,,
+QuestionText,"Trata-se de uma forma de escrita que se popularizou no século XX, com foco em diversas reflexões das personagens. No Brasil, Clarice Lispector é uma das maiores representantes, e a escrita é como a seguinte cena: os cérebros de personagens sendo abertos, com todos os pensamentos sendo expostos ao leitor, até mesmo os mais profundos.
+
+O texto refere-se a qual técnica de escrita literária?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Metáfora.,,
+Option,0,Alegoria.,,
+Option,0,Pragmatismo.,,
+Option,0,Escrita surrealista.,,
+Option,100,Fluxo de consciência.,,
+Feedback,"O fluxo de consciência é uma técnica literária que consiste na alta exploração de pensamentos das personagens, com a impossibilidade de algo ser escondido, ao menos em primeiro momento, do leitor. Alguns representantes desse estilo são James Joyce, Virginia Woolf e Clarice Lispector.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q06,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte1_P1_2025-1_Q06,,,
+QuestionText,"Homero foi um escritor de epopeias, estilo poético casualmente conhecido por apresentar histórias de personagens heroicas, de grande reconhecimento. Esse tema se repete desde a Grécia antiga, podendo ser identificado em novelas de cavalaria e até em quadrinhos de Super-heróis.
+
+Considerando as informações apresentadas, assinale a opção que representa uma característica-chave da epopeia a partir dos escritos de Aristóteles.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Representação de homens de alto caráter passando por situações de baixa fortuna.,,
+Option,100,Representação de homens de alto caráter passando por situações de alta fortuna.,,
+Option,0,Representação de homens de baixo caráter passando por situações de baixa fortuna.,,
+Option,0,Representação de homens de baixo caráter passando por situações de alta fortuna.,,
+Option,0,Representação de homens de baixo caráter passando por situações de alta e baixa fortuna.,,
+Feedback,"Na Poética, ao citar características da espécie epopeia, Aristóteles diz que o objeto de imitação consiste em homens de alto caráter, os quais passam por situações de alta fortuna.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q01,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q01,,,
+QuestionText,"A relação entre Literatura e História existe há milênios. É impossível realizar a separação entre as duas áreas do conhecimento, já que temas contemporâneos são apresentados na arte da palavra a todo momento, além da utilização de estruturas pertinentes à forma escrita da língua no momento. Há aqueles que preferem prezar pela leitura sem a conexão com o momento de escrita, mas essa atividade torna-se incompleta ao se ler textos que focam intensamente em algum período histórico específico.
+
+Considerando as informações apresentadas, assinale a opção que indica a área dos estudos literários com foco na relação entre Literatura e História.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Literatura e Sociedade.,,
+Option,0,Literatura e Psicanálise.,,
+Option,0,Literatura e Multimídias.,,
+Option,0,Literatura e Estaticidade.,,
+Option,0,Literatura e Poesia abstrata.,,
+Feedback,"Ainda que todas as alternativas falem sobre a Literatura e suas relações com outros elementos, a Literatura e Sociedade representa de forma explícita a relação entre Literatura e as pessoas de uma época, com foco em questões históricas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q02,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q02,,,
+QuestionText,"Machado de Assis é constantemente estudado a partir da ironia que coloca em textos, mas, além disso, é necessário vê-lo como grande representante brasileiro que denunciou os males da aristocracia do século XIX. Em livros como Dom Casmurro e Memórias Póstumas de Brás Cubas, o autor está em constante ataque aos bacharéis rentistas da época, o que faz a partir de escrita irônica que, para muitos, é o motivo pelo qual conseguiu a longevidade das obras em meio a diversas práticas de censura.
+
+Em Memórias Póstumas de Brás Cubas, a quais bacharéis é possível perceber a denúncia crítica de Machado de Assis?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Bacharéis de Direito.,,
+Option,0,Bacharéis de Medicina.,,
+Option,0,Bacharéis de Psicologia.,,
+Option,0,Bacharéis de Engenharia.,,
+Option,0,Bacharéis de Comunicação.,,
+Feedback,"Brás Cubas representa os bacharéis de Direito que obtinham renda por meio de imóveis conquistados pela família e continuavam a expansão de riqueza a partir da exploração de classes.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q03,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q03,,,
+QuestionText,"Existe a Literatura que trata do imaginário, do fantástico, mas também há a que trata de características históricas precisas. Aqui, percebe-se a ficção a partir da construção narrativa com personagens e cenários de nuances únicas, advindas do talento poético. Além disso, há a percepção do que se insere em um contexto racional, para além das páginas dos livros.
+
+Considerando as informações apresentadas, assinale a opção que caracteriza um movimento literário cujo foco principal está na relação direta entre literatura e o mundo concreto.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Pós-modernismo.,,
+Option,0,Surrealismo.,,
+Option,0,Romantismo.,,
+Option,100,Realismo.,,
+Option,0,Barroco.,,
+Feedback,"O Realismo é o movimento literário em que o foco principal está na relação entre a literatura e a história, com alta valorização do talento poético em proporcionar verossimilhança com aquilo que o leitor pode encontrar no dia a dia.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q04,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q04,,,
+QuestionText,"A alta valorização de obras específicas é bastante questionada pelos estudos contemporâneos da Historiografia Literária, em que se procura a percepção de todas as Literaturas, e não apenas àquela que é dita como boa por um grupo dominante. Esse processo de descobertas proporciona o surgimento de novas discussões, principalmente as que concernem à produção literária de grupos historicamente marginalizados.
+
+Com base nas informações apresentadas, assinale a opção que representa o nome de um grupo de obras que compõem a ideia do que é considerado de alto valor na Literatura.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Graal.,,
+Option,100,Cânone.,,
+Option,0,Conjunto.,,
+Option,0,Romances.,,
+Option,0,Bibliografia.,,
+Feedback,"O Cânone Literário representa um grupo de livros que são considerados em alta estima pelos estudos literários, como obras de William Shakespeare e James Joyce. A ideia de Cânone é bastante questionada, principalmente pelos estudos contemporâneos da Historiografia Literária.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q05,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q05,,,
+QuestionText,"Os estudos de Terry Eagleton apontam que há aqueles que acreditam que a literatura esteja no desvio de uma norma padrão, focando em uma ideia de estranhamento a partir do que é comumente encontrado em textos de outras áreas do conhecimento. Essa noção é questionável, já que a norma é diferente quando se comparam grupos e realidades de produção literária.
+
+Sobre qual norma o texto acima se refere?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Normas de práticas de leitura.,,
+Option,0,Normas de conexões intermídias.,,
+Option,100,Normas de utilização da linguagem.,,
+Option,0,Normas de verossimilhança histórica.,,
+Option,0,Normas de caracterização de personagens.,,
+Feedback,"É comum a ideia de que a literatura deve ser uma escrita que promove o desvio da norma comum na representação da linguagem, com a utilização de diversas formas linguísticas pouco usuais. Porém, essa norma depende do local e tempo em que se encontra, o que a coloca como objeto que pode ser questionado e discordado.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q06,,,
+Title,PPD_FE_11_Não_Definições_Literatura_Parte2_P2_2025-1_Q06,,,
+QuestionText,"Na Poética, Aristóteles diz que as espécies de Poesia diferem por modo de imitação. O autor afirma que a epopeia imita com o poeta assumindo as personagens, o que pode ser interpretado como a utilização de um narrador que mostra as ações das personagens e diz o que elas falaram. Já a tragédia se utiliza do modo dramático, com as falas das personagens expostas sem a presença de um narrador.
+
+Considerando a forma poética que se utilizou do verso na Antiguidade Clássica grega para a construção artística, assinale a opção correta.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Conto.,,
+Option,100,Epopeia.,,
+Option,0,Romance.,,
+Option,0,Narrativa histórica.,,
+Option,0,Construção filosófica clássica.,,
+Feedback,"Na Antiguidade Clássica Grega, as epopeias eram escritas em modo narrativo em verso, como é o caso dos poemas Ilíada e Odisseia, de Homero, que se utilizam de estrutura com características próprias da construção em verso.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q01,,,
+Title,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q01,,,
+QuestionText,"[...] Porque, meu bom Adimanto, se nossos jovens ouvirem a sério tais histórias em vez de levá-las em brincadeira como seria justo, raros serão os que considerem semelhantes ações indignas de si mesmos, uma vez que não passam de homens mortais; tampouco tratarão de refrear qualquer impulso que lhes venha de dizer e fazer o mesmo. Muito ao contrário, diante do menor contratempo se entregarão a longos trenos e lamentações, sem se envergonharem nem demonstrar qualquer domínio próprio [...].
+
+PLATÃO. A República. Tradução Leonel Vallandro. Rio de Janeiro: Nova Fronteiro, 2018.
+
+Sobre o que Platão está falando ao apontar algo como nocivo aos jovens?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Poesia.,,
+Option,0,Romance.,,
+Option,0,Teatro sem falas.,,
+Option,0,Poéticas realistas.,,
+Option,0,Literatura histórica.,,
+Feedback,"Platão afirma que a Poesia é capaz de corromper o espírito dos jovens, levando-os a ter ideias advindas de Poetas, esses que são imitadores e não conhecem a Verdade.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q02,,,
+Title,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q02,,,
+QuestionText,"[...] — Se há, pois, alguém a quem seja lícito faltar à verdade, serão os governantes da cidade, os quais poderão mentir com respeito a seus inimigos e concidadãos, em benefício da comunidade, sem que nenhuma outra pessoa esteja autorizada a fazê-lo. E se um indivíduo enganar os governantes, será isso considerado uma falta não menos grave que a do doente ou do atleta que mente ao médico ou ao treinador em assuntos atinentes a seu corpo, ou a do marinheiro que não diz a verdade ao piloto sobre o estado do navio ou da tripulação, ou as condições em que se encontra ele ou qualquer de seus companheiros [...].
+
+PLATÃO. A República. Tradução Leonel Vallandro. Rio de Janeiro: Nova Fronteiro, 2018.
+
+Considerando as informações apresentadas, assinale a opção que indica o grupo representado pelos poetas que, segundo Platão, não pode ser exposto como um conjunto de seres egoístas e rancorosos.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,100,Deuses.,,
+Option,0,Crianças.,,
+Option,0,Filósofos.,,
+Option,0,Educadores.,,
+Option,0,Governantes.,,
+Feedback,"Por meio de Sócrates-Personagem, Platão diz que a má representação dos deuses é nociva, pois passa uma imagem errônea sobre aqueles que devem propor o oposto de malefícios à população.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q03,,,
+Title,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q03,,,
+QuestionText,"[...] — Porque, se não me engano, teremos de dizer que poetas e narradores desvirtuam gravemente a verdade quando dizem que muitos homens maus são felizes, enquanto existem justos que são desgraçados, que é vantajoso ser mau contanto que isso passe despercebido e que a justiça é um bem para o próximo, mas a ruína para quem a pratica [...].
+
+PLATÃO. A República. Tradução Leonel Vallandro. Rio de Janeiro: Nova Fronteiro, 2018.
+
+Em associação à fala de Sócrates-Personagem, indique a espécie de Poesia, sinalada na Poética aristotélica, que apresenta “justos que são desgraçados”.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Espécie lírica.,,
+Option,0,Espécie epopeia.,,
+Option,0,Espécie comédia.,,
+Option,100,Espécie tragédia.,,
+Option,0,Espécie narrativa.,,
+Feedback,"De acordo com Aristóteles, a espécie tragédia consiste na representação de homens de caráter elevado que passam por má sorte, baixa fortuna.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q04,,,
+Title,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q04,,,
+QuestionText,"[...] — Por outro lado, quando o poeta não se oculta detrás de ninguém, desaparece a imitação, e a obra poética se converte em narrativa simples. Para que fique bem claro o sentido de minhas palavras e não voltes a dizer que não me entendes, vou mostrar-te como se poderia operar a mudança. Se, depois de ter dito: “Chegou o sacerdote, trazendo nas mãos o resgate da filha, a suplicar os aqueus e acima de tudo os reis”, Homero continuasse falando como Homero em vez de assumir a personalidade de Crises, bem percebes que não haveria imitação e sim narração simples, expressa mais ou menos nestes termos (falarei em prosa, pois não sou poeta): “Chegou o sacerdote e fez votos para que os deuses concedessem aos gregos o regressar indenes depois de haverem tomado Troia, rogando também que, em consideração ao deus, lhe devolvessem sua filha em troca do resgate” [...].
+
+PLATÃO. A República. Tradução Leonel Vallandro. Rio de Janeiro: Nova Fronteiro, 2018.
+
+No texto acima, Platão apresenta duas formas de escrita poética. Posteriormente, Aristóteles classificará tais técnicas como modos de imitação da Poesia. Qual modo é predominantemente utilizado pela espécie epopeia?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Modo heroico.,,
+Option,0,Modo histórico.,,
+Option,0,Modo filosófico.,,
+Option,100,Modo narrativo.,,
+Option,0,Modo dramático.,,
+Feedback,"A epopeia é conhecida por utilizar-se de modo narrativo. Eventualmente, pode haver momentos de exposição direta da fala de personagens, o que se assemelha ao modo dramático. Ainda assim, o modo imitativo predominante em poéticas como as de Homero é o narrativo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q05,,,
+Title,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q05,,,
+QuestionText,"[...] — Pois bem — volvi —, esta imagem, amigo Gláucon, deve ser aplicada sem tirar nem pôr ao que antes dizíamos. A caverna-prisão é o mundo das coisas visíveis, a luz do fogo que ali existe é o Sol, e não me terás compreendido mal se interpretares a subida para o mundo lá de cima e a contemplação das coisas que ali se encontram com a ascensão da alma para a região inteligível; essa é a minha humilde opinião, que expresso porque assim mo pediste, e que só a divindade sabe se está certa ou errada. Seja como for, a mim me parece que no mundo inteligível a última coisa que se percebe é a ideia do bem, e isso com grande esforço; mas, uma vez percebida, forçoso é concluir que ela é a causa de todas as coisas retas e belas, geradora da luz e do senhor da luz no mundo visível e fonte imediata da verdade e do conhecimento no inteligível; e que há de tê-la por força diante dos olhos quem deseje proceder sabiamente em sua vida privada ou pública [...] 
+
+PLATÃO. A República. Tradução Leonel Vallandro. Rio de Janeiro: Nova Fronteiro, 2018.
+
+No texto acima, Platão apresenta a ideia da caverna como uma prisão, e o mundo exterior como onde a Verdade pode ser alcançada. Em conexão à Poesia, escolha o elemento que pode ser associado à criação poética na Alegoria da Caverna.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,O sol.,,
+Option,0,O rio/lago.,,
+Option,100,As sombras.,,
+Option,0,A voz dos transeuntes.,,
+Option,0,Os objetos passados em frente à fogueira.,,
+Feedback,"A Poesia seria representada pelas sombras, pois consiste em algo que está muito distante da realidade. Representa uma cópia do instrumento produzido pelo artífice, mas que tem essência advinda do divino.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q06,,,
+Title,PPD_FE_11_Alegoria_Caverna_Platão_P3_2025-1_Q06,,,
+QuestionText,"[...] — Bem longe da verdade está, pois, o imitador; e, ao que parece, se pode fazer todas as coisas é porque não alcança senão uma pequena parte delas, parte essa que é um mero fantasma. Por exemplo: um pintor pode pintar um sapateiro, um carpinteiro ou qualquer outro artesão, sem nada entender das artes desses homens; e, se for hábil no seu mister, poderá enganar as crianças e os néscios mostrando-lhes de longe o quadro de um carpinteiro e fazendo-lhes crer que estão vendo um carpinteiro de verdade [...].
+
+PLATÃO. A República. Tradução Leonel Vallandro. Rio de Janeiro: Nova Fronteiro, 2018.
+
+De acordo com Platão, e sobre a poesia imitativa, assinale a opção que representa a quantos pontos de distância ela se encontra em relação à Verdade.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Dois pontos de distância.,,
+Option,100,Três pontos de distância.,,
+Option,0,Quatro pontos de distância.,,
+Option,0,Cinco pontos de distância.,,
+Option,0,Seis pontos de distância.,,
+Feedback,"Para Platão, a arte imitativa encontra-se a três pontos de distância da realidade, sendo ela uma cópia da cópia.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q01,,,
+Title,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q01,,,
+QuestionText,"[...] A língua, no contexto ideológico (em pleno movimento militar pós-64), é considerada instrumento a serviço do desenvolvimento. Aliás, é nesse mesmo contexto que a disciplina “Português” passa a ser denominada de Comunicação e Expressão (nas séries iniciais), Comunicação em Língua Portuguesa (nas séries finais) e no 2°grau: Língua Portuguesa e Literatura Brasileira [...].
+
+RAUPP, Eliane Santos. Ensino de Língua Portuguesa: uma perspectiva linguística. Publicatio UEPG: Ciências Humanas, Linguística, Letras e Artes, v. 13, n. 2, 2005.
+
+Em análise do texto acima, assinale a opção que represente o momento da história do Brasil em que o ensino de língua portuguesa foi organizado da maneira apresentada.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Contemporaneidade do século XXI.,,
+Option,100,Ditadura Militar iniciada na década de 1960.,,
+Option,0,Século XIX, com o ensino exclusivo a famílias aristocratas.,,
+Option,0,Reforma escolar após a publicação da primeira Lei de Diretrizes e Bases.,,
+Option,0,Momento logo após a declaração de independência do país, na década de 1820.,,
+Feedback,"A organização da disciplina, como apresentada pelo texto, refere-se à adotada no período da Ditadura Militar iniciada na década de 1960.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q02,,,
+Title,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q02,,,
+QuestionText,"É uma abordagem educacional baseada em pesquisas de Paulo Freire, com a consideração da realidade do estudante e a percepção de que ele é sujeito ativo na produção do conhecimento. A partir desse pensamento, o professor não pode ser visto como o único detentor do conhecimento em sala de aula, pois também tem muito a aprender com as diversas realidades presentes no espaço educacional.
+
+O texto acima realiza descrição de qual abordagem educacional?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Abordagem tradicional.,,
+Option,0,Abordagem humanista.,,
+Option,0,Abordagem cognitivista.,,
+Option,100,Abordagem sociocultural.,,
+Option,0,Abordagem comportamentalista.,,
+Feedback,"O texto refere-se a características da abordagem sociocultural. Ela é conhecida por levar em alta consideração elementos conectados à cultura e realidade individual de cada estudante.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q03,,,
+Title,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q03,,,
+QuestionText,"É uma abordagem educacional baseada na ideia de que o docente é o único que possui conhecimento em sala de aula. É uma forma bastante usual de ensino de língua portuguesa com foco em gramática, mas isso não significa que é a mais eficaz. Aqui, o estudante é visto como uma tábula rasa, sem ter o próprio conhecimento de mundo em posição de relevância.
+
+O texto acima realiza descrição de qual abordagem educacional?",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Abordagem humanista.,,
+Option,100,Abordagem tradicional.,,
+Option,0,Abordagem cognitivista.,,
+Option,0,Abordagem sociocultural.,,
+Option,0,Abordagem comportamentalista.,,
+Feedback,"O texto refere-se a características da abordagem tradicional, responsável pelo modelo de ensino em que há pouca ou quase nenhuma participação do estudante na escolha de conteúdos e planejamento de aulas.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q04,,,
+Title,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q04,,,
+QuestionText,"[...] Consideremos, por exemplo, a produção dos sons necessários à fala: os Órgãos vocais são tão exteriores à língua como os aparelhos elétricos que servem para transcrever o alfabeto Morse são estranhos a esse alfabeto; e a fonação, vale dizer, a execução das imagens acústicas, em nada afeta o sistema em si. Sob esse aspecto, pode-se comparar a língua a uma sinfonia, cuja realidade independe da maneira por que é executada; os erros que podem cometer os músicos que a executam não comprometem em nada tal realidade [...]
+
+SAUSSURE, Ferdinand de. Curso de linguística geral. Organização Charles Bally e Albert Sechehaye; com a colaboração de Albert Riedlinger; prefácio à edição brasileira de Isaac Nicolau Salum. Tradução Antônio Chelini, José Paulo Paes, Iziodoro Blikstein. 28. ed., São Paulo: Cultrix, 2012.
+
+Considerando os estudos de Ferdinand de Saussure, assinale a opção que representa diferenças entre a língua e a fala.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,A língua é individual, e a fala é coletiva.,,
+Option,100,A língua é coletiva, e a fala é individual.,,
+Option,0,A língua é coletiva, e a fala também é coletiva.,,
+Option,0,A língua é individual, e a fala também é individual.,,
+Option,0,A língua é coletiva, e a fala pode ser coletiva ou individual.,,
+Feedback,"Saussure diz que a língua é um sistema compartilhado por vários falantes, o que a torna coletiva. Por outro lado, a fala é individual, pois necessita de características próprias de quem a produz.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q05,,,
+Title,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q05,,,
+QuestionText,"[...] Ensinar língua portuguesa hoje, é não duvidar de que a leitura confere à escrita uma característica de prática social entre sujeitos, pois é, também, por meio da prática de leitura que o leitor vai gradualmente elaborando e organizando seu discurso interno, produzindo e registrando as suas leituras, a sua história e seus textos [...].
+
+RAUPP, Eliane Santos. Ensino de Língua Portuguesa: uma perspectiva linguística. Publicatio UEPG: Ciências Humanas, Linguística, Letras e Artes, v. 13, n. 2, 2005.
+
+Considerando o texto apresentado, assinale a opção que se refere à ação mais apropriada para o incentivo da leitura em Ensino Fundamental e Médio.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Apresentação de filmes baseados em livros, sem a obrigatoriedade de leitura dos textos.,,
+Option,0,Utilização de histórias em quadrinhos para simples entretenimento, sem cunho pedagógico.,,
+Option,100,Apresentação de histórias em quadrinhos, filmes e séries em conjunto aos textos originais, com foco na relação entre as artes.,,
+Option,0,Imposição de ao menos a leitura de um clássico da literatura por semestre, sem a necessidade de leitura obrigatória de outros textos.,,
+Option,0,Permitir que o estudante faça as avaliações a partir dos livros que melhor desejar, com ou sem relação com o conteúdo aparente, já que o importante é ler.,,
+Feedback,"Dentre as opções apresentadas, a única que caracteriza prática pedagógica dinâmica é a que especifica a utilização de recursos interartes junto às obras originais. Não se pode desconsiderar os textos, e é possível utilizá-los junto a outras artes e mídias para contextualização do conteúdo.",,,
+
+NewQuestion,MC,,,
+ID,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q06,,,
+Title,PPD_FE_11_O_Ensino_de_Lingua_Portuguesa_P4_2025-1_Q06,,,
+QuestionText,"[...] Em versão preliminar, os Parâmetros Curriculares Nacionais (PCNs) em 1995 defendem o ensino de Língua Portuguesa como meio de instrumentalizar o aluno no domínio pleno e efetivo do uso da linguagem oral e da linguagem escrita, buscando romper com a ideologia fortemente tradicional que impregnara o ensino de Língua Materna. Uma nova concepção de língua e linguagem se instaura, não mais a língua como expressão do pensamento nem como instrumento de comunicação, mas a língua como meio de interação entre sujeitos (ouvintes/falantes-leitores/escritores) que, por meio da linguagem, produzem sentidos, interagindo através da linguagem, produzem sentidos, emitem opiniões, discordam, concordam, enfim, dialogam por meio da língua [...]. 
+
+RAUPP, Eliane Santos. Ensino de Língua Portuguesa: uma perspectiva linguística. Publicatio UEPG: Ciências Humanas, Linguística, Letras e Artes, v. 13, n. 2, 2005.
+
+Indique a função primordial da escrita na relação de ensino-aprendizagem da língua portuguesa na Educação Básica.",,,
+Points,1,,,
+Difficulty,1,,,
+Option,0,Apreciação dos clássicos da literatura.,,
+Option,0,Realização de redação para aprovação em Vestibular.,,
+Option,0,Documentação de arquivos públicos relacionados a Leis.,,
+Option,0,Realização de redação para aprovação em concursos públicos do Governo Federal.,,
+Option,100,Escrita de documentos (textos diversos) com memórias e consciência histórico-social para gerações atuais e futuras.,,
+Feedback,"O ensino da escrita e da leitura tem como maior foco a documentação da História, da memória da humanidade, com considerações sociais e culturais. Todos os grupos devem ser motivados a ler e a contar histórias sobre a própria realidade. A partir desse processo, é possível que o estudante entenda o que ocorre na contemporaneidade a partir dos textos do passado, e possa escrever para a geração atual e futura.",,,
+

@@ -1,0 +1,562 @@
+﻿
+Curso:	Cinema
+	Ponto de Interação:	1	Nº da questão:	1
+**Identificação da questão**
+PPD_FE_04_No Brasil se faz Cinema?_P1_2025-2_Q01 
+
+**Texto-base**
+O cinema brasileiro enfrenta desafios econômicos e estruturais em relação às produções hollywoodianas, como a limitação de recursos financeiros e a consequente necessidade de adaptações criativas. Ainda assim, uma de suas características mais marcantes é a capacidade de construir narrativas autênticas e inovadoras, mesmo operando com orçamentos limitados.
+
+**Enunciado**
+A limitação de recursos impacta diretamente as produções cinematográficas brasileiras. Nesse contexto, é correto afirmar que o cinema nacional tem superado esses desafios
+**Alternativas**
+A)	investindo em tecnologias de ponta importadas.
+B)	reduzindo o tamanho das equipes técnicas e utilizando recursos locais.
+C)	buscando financiamento exclusivo em instituições estrangeiras.
+D)	concentrando-se em produções de gênero com alto potencial comercial.
+E)	apostando em narrativas que exigem grandes cenários e efeitos visuais.
+**Gabarito**
+[B] reduzindo o tamanho das equipes técnicas e utilizando recursos locais.
+**Feedback**
+[A] Apesar do interesse por tecnologias avançadas, a limitação financeira impede a aquisição de equipamentos de última geração, levando as produções a recorrerem a alternativas mais acessíveis. 
+[B] Essa é uma prática recorrente nas produções brasileiras, nas quais equipes reduzidas e o uso criativo de recursos locais ajudam a superar os desafios financeiros. 
+[C] Embora algumas produções busquem parcerias internacionais, a maior parte do financiamento ainda depende de editais e leis de incentivo locais. 
+[D] O foco em produções comerciais é uma estratégia, mas não resolve a questão da limitação de recursos financeiros. 
+[E] Produções de grande escala são menos comuns devido aos altos custos envolvidos.
+
+Curso:	Cinema	Ponto de Interação:	1	Nº da questão:	1
+**Identificação da questão**
+PPD_FE_04_ No Brasil se faz Cinema? _P1_2025-2_Q02 
+**Texto-base**
+Em uma entrevista a Veja São Paulo em 2024, Fernando Meirelles fala sobre seus planos para o ano de 2025, em que vai dirigir projetos na França, Estados Unidos e México, além de uma série no Brasil, conciliando produções internacionais e nacionais. Na sequência, ele responde se "é importante ter um pouco dos dois": 
+"Gosto de filmar em português, com atores brasileiros, contando histórias brasileiras. Mas, por outro lado, os filmes internacionais chegam mais longe e posso trabalhar com orçamentos maiores. Então, se eu intercalar, posso ter um pouquinho dos dois mundos."
+LIMA, Laura P. “Me sentia culpado de mostrar a Cidade de Deus tão violenta”, diz Fernando Meirelles. Cultura e Lazer. Veja São Paulo, 2024. Disponível em:  https://vejasp.abril.com.br/cultura-lazer/fernando-meirelles-cidade-de-deus-entrevista. Acesso em: 03 mar. 2025. Adaptado
+**Enunciado**
+Diversos fatores podem influenciar a decisão de diretores e produtores brasileiros a buscar oportunidades em produções cinematográficas no exterior.
+Considerando a fala de Fernando Meirelles, é correto afirmar que profissionais buscam experiências internacionais visando
+**Alternativas**
+A)	acessar tecnologias de ponta e equipamentos modernos que não estão disponíveis no Brasil.
+B)	dispor de um orçamento maior que possibilita produções mais ambiciosas, além de obter maior alcance de público.
+C)	alcançar maior reconhecimento nas grandes premiações de cinema com o objetivo de ganhar prêmios internacionais.
+D)	fugir das limitações impostas pelas leis de incentivo e editais públicos no Brasil.
+E)	colaborar com atores e equipes técnicas renomadas internacionalmente.
+**Gabarito**
+[B] dispor de um orçamento maior que possibilita produções mais ambiciosas, além de obter maior alcance de público.
+**Feedback**
+[A] Embora a tecnologia seja um fator importante, muitos diretores conseguem acesso a bons equipamentos no Brasil por meio de locações e parcerias.  
+[C] Apesar de ser uma consequência possível, o foco principal é a viabilidade econômica e o alcance do público. 
+[D] As leis de incentivo são fundamentais para o cinema nacional, e os diretores muitas vezes buscam complementar suas produções com recursos internacionais, não necessariamente fugir delas. 
+[E] Colaborar com profissionais renomados é um atrativo, mas o fator decisivo é a possibilidade de orçamentos maiores e maior alcance de público.
+
+Curso:	Cinema	Ponto de Interação:	1	Nº da questão:	3
+**Identificação da questão**
+PPD_FE_04_ No Brasil se faz Cinema?_P1_2025-2_Q03 
+**Texto-base**
+No setor audiovisual, dois termos vêm sendo amplamente utilizados para classificar os profissionais de acordo com sua atividade-fim: above the line, que se refere aos cargos de natureza mais artística, como direção, atuação e roteiro; e below the line, que abrange funções mais técnicas, como captação de som, cenotécnica e supervisão de pós-produção, entre outras.
+Uma pesquisa realizada com produtores audiovisuais da América Latina e do Caribe, encomendada pela consultoria independente Olsberg SPI, revelou que 58% dos entrevistados consideram insuficiente tanto a quantidade quanto o nível de formação do pessoal técnico disponível.
+BID. Quais são as grandes necessidades e desafios que os produtores audiovisuais enfrentam na América Latina e no Caribe? Uma pesquisa na Indústria, Olsberg SP, Disponível em: https://publications.iadb.org/publications/portuguese/document/Nos-bastidores-criatividade-e-investimento-para-a-America-Latina-e-no-Caribe-licoes-aprendidas-em-uma-conversa-com-os-principais-representantes-do-setor-audiovisual.pdf. Acesso em: 14 fev. 2025. Adaptado
+**Enunciado**
+Com base na leitura do texto e nos conhecimentos adquiridos no Ponto de Interação 1, assinale a opção que representa o desafio associado ao desenvolvimento da força de trabalho audiovisual mais apontado pelos entrevistados.
+**Alternativas**
+A)	Falta de cursos/capacitação adequados na oferta das instituições de ensino dos países.
+B)	Baixo número de trabalhadores below the line com as habilidades necessárias.
+C)	Falta de regulamentação ou políticas públicas capazes de atrair talentos estrangeiros.
+D)	Socialmente, uma percepção negativa de salários baixos.
+E)	Estereótipos negativos associados ao setor audiovisual.
+**Gabarito**
+[A] Falta de cursos/capacitação adequados na oferta das instituições de ensino dos países
+**Feedback**
+[A] Foi apontado por 68%. A grande maioria contrata graduados de escolas de cinema para produções.
+[B] Foi apontado por 49%.
+[C] Foi apontado por 47%.
+[D] Foi apontado por 40%.
+[E] Foi apontado por 30%.
+
+Curso:	Cinema	Ponto de Interação:	1	Nº da questão:	4
+**Identificação da questão**
+PPD_FE_04_ No Brasil se faz Cinema?_P1_2025-2_Q04 
+**Texto-base**
+A elaboração do orçamento é uma parte muito importante do processo de produção cinematográfica, pois permite que os produtores planejem e aloquem recursos de maneira eficiente. Um orçamento bem elaborado contribui para que todas as fases da produção, desde o desenvolvimento do roteiro e planejamento até a pós-produção e, posteriormente, a comercialização, distribuição e exibição, sejam devidamente financiadas. Um orçamento detalhado pode atrair investidores e distribuidores, aumentando as chances de sucesso comercial do filme, além de ser pré-requisito em muitos editais de fomento para produção cultural.
+ORÇAMENTO eficaz para o sucesso da produção cinematográfica. In: Yellowbrick. 2023. Disponível em: https://www.yellowbrick.co/blog/entertainment/effective-budgeting-for-film-production-success. Acesso em: 03 mar. 2025. Adaptado
+**Enunciado**
+Considerando a importância do orçamento na produção cinematográfica, é correto afirmar que o principal objetivo de um orçamento bem elaborado para a viabilidade e o sucesso de um filme consiste em
+**Alternativas**
+A)	aumentar a flexibilidade para mudanças de última hora no roteiro.
+B)	reduzir a necessidade de planejamento detalhado durante a produção.
+C)	facilitar a contratação de atores renomados sem comprometer outras áreas. 
+D)	concentrar-se na distribuição e no marketing para garantir o sucesso comercial. 
+E)	garantir que todas as fases da produção sejam subsidiadas de acordo com o planejamento.
+**Gabarito**
+[E] garantir que todas as fases da produção sejam subsidiadas de acordo com o planejamento
+**Feedback**
+[A] Embora um orçamento possa incluir contingências, a flexibilidade excessiva pode comprometer o planejamento financeiro. 
+[B] Pelo contrário, um orçamento bem elaborado exige um planejamento detalhado para garantir a alocação eficiente dos recursos. 
+[C] A contratação de atores renomados deve ser equilibrada com o orçamento total para não comprometer outras áreas críticas da produção. 
+[D] Embora importante, concentrar-se apenas na distribuição e no marketing pode comprometer outras áreas críticas do filme. 
+Curso:	Cinema	Ponto de Interação:	1	Nº da questão:	5
+**Identificação da questão**
+PPD_FE_04_ No Brasil se faz Cinema?_P1_2025-2_Q05 
+**Texto-base**
+No livro “Cinema e Mercado”, organizado por Alessandra Meleiro (2010), é possível compreender sobre como a sustentabilidade financeira das produções cinematográficas no Brasil depende, em grande parte, do planejamento financeiro detalhado e da gestão eficiente dos recursos. Além disso, as políticas públicas e os incentivos fiscais exercem um importante papel no desenvolvimento do setor, proporcionando um ambiente mais favorável para a produção e distribuição de filmes nacionais. Ou seja, é inviável o crescimento da indústria cinematográfica quando não se conhece o mercado e os agentes que movimentam o sistema.
+**Enunciado**
+Quais são os principais fatores que contribuem para a sustentabilidade financeira das produções cinematográficas no Brasil?
+**Alternativas**
+A)	Dependência exclusiva de financiamento privado.
+B)	Redução dos custos de produção por meio de tecnologias avançadas.
+C)	Adoção de práticas gerenciais que otimizam o uso dos recursos disponíveis. 
+D)	Foco exclusivo em produções de grande orçamento.
+E)	Aumento dos preços dos ingressos para maximizar a receita.
+**Gabarito**
+[C] Adoção de práticas gerenciais que otimizam o uso dos recursos disponíveis
+**Feedback**
+[A] Embora o financiamento privado seja importante, a sustentabilidade financeira também depende de políticas públicas e incentivos fiscais. 
+[B] A tecnologia pode ajudar a reduzir custos, mas o planejamento financeiro e a gestão eficiente são fundamentais. 
+[D] Produções de grande orçamento podem ser arriscadas e não garantem sustentabilidade financeira. 
+[E] Aumentar os preços dos ingressos pode limitar o acesso do público e não é uma solução sustentável a longo prazo.
+Curso:	Cinema	Ponto de Interação:	1	Nº da questão:	6
+PPD_FE_04_ No Brasil se faz Cinema?_P1_2025-2_Q06 
+**Texto-base**
+A produção audiovisual independente é um campo vibrante e essencial para a diversidade cultural, especialmente no Brasil. Segundo dados da Agência Nacional do Cinema (ANCINE), em 2021, cerca de 50% dos filmes lançados no circuito nacional foram independentes. Com um cenário cinematográfico repleto de desafios, cineastas independentes enfrentam barreiras que vão desde a captação de recursos até a distribuição de seus filmes. 
+Geralmente as produções independentes trabalham com baixo orçamento, o que cria uma certa dependência de editais, incentivos fiscais e financiamento coletivo. "A busca por financiamento pode ser uma jornada longa e desafiadora. Muitos projetos não conseguem os recursos necessários." 
+DESAFIOS da produção audiovisual independente no Brasil. Cultural, Criando o Futuro – PUCPR, 9 out. 2024. Disponível em: https://blogs.pucpr.br/criando-o-futuro/2024/10/09/desafios-da-producao-audiovisual-independente-no-brasil/. Acesso em: 3 mar. 2025. Adaptado
+**Enunciado**
+Considerando os desafios enfrentados pela produção audiovisual independente no Brasil, quais são as principais barreiras que os cineastas independentes precisam superar para garantir a viabilidade de seus projetos?
+**Alternativas**
+A)	Acesso fácil a financiamento público e privado. 
+B)	Distribuição ampla e garantida no circuito comercial. 
+C)	Dificuldade na captação de recursos e distribuição. 
+D)	Concorrência com produções internacionais de grande orçamento. 
+E)	Apoio constante de grandes estúdios e distribuidoras.
+**Gabarito**
+[C] Dificuldade na captação de recursos e distribuição
+**Feedback**
+[A] o texto destaca que a captação de recursos é uma jornada longa e desafiadora, indicando que o acesso a financiamento não é fácil, porém, acaba sendo uma das poucas possibilidades para o produtor independente. 
+[B] a distribuição é um obstáculo significativo, com muitos filmes independentes lutando para encontrar espaços em cinemas comerciais. 
+[D] embora a concorrência seja um desafio, o texto enfatiza a captação de recursos e a distribuição como as principais barreiras, fazendo com que a concorrência fique em segundo plano. 
+[E] o texto enfatiza a autonomia criativa e financeira das produções independentes, que geralmente não contam com o apoio de grandes estúdios e distribuidoras.
+Curso:	Cinema
+	Ponto de Interação:	2	Nº da questão:	1
+**Identificação da questão**
+PPD_FE_04_O jeitinho brasileiro na realização cinematográfica_P2_2025-2_Q01 
+**Texto-base**
+“Existem questões muito delicadas na criação artística que envolvem cultura e isso é muito importante para mim, na verdade, para toda essa equipe de colaboradores. É muito delicado falar isso, mas, aqui em Pernambuco, não é que a gente esteja em uma redoma, pois cada região tem um jeito de fazer, de pensar e de agir. O jeito aqui é muito profissional, mas não da maneira de uma cartilha de ser profissional. Tem muitos membros de equipe do Rio e de São Paulo que parecem seguir uma cartilha do mercado de 'como ser profissional'. A gente não segue essa; a gente tem outra cartilha. Para eles, que vêm de fora e veem a gente trabalhando, ficam encantados. 
+Claro, tem os que não ficam encantados e tentam lutar contra isso, e isso gera conflito. Isso aconteceu em “O Som ao Redor”, em “Aquarius” e, de uma maneira maior ainda, até hoje, em “Bacurau”. E de uma maneira muito intensa, porque a gente estava no Sertão e lidando com pessoas que jamais haviam participado de um filme. Elas foram tratadas com muito respeito e carinho e isso é importante dizer, pois a máquina de fazer um filme às vezes tritura pessoas. Tem gente que acha isso normal, mas não, não acho que faz parte. Não é preciso triturar e machucar as pessoas. Prefiro evitar isso. Não acho uma boa e muita gente da equipe também concorda. Fazer um filme é muito tenso. Não gosto de gente que artificialmente acrescenta tensões em cima das tensões que já existem.”
+“FIZ o contrário do que se esperava”. Cinemateca da Saudade: memórias de um cinéfilo, 2021. Disponível em: https://cinematecadasaudade.blogspot.com/2021/01/fiz-o-contrario-do-que-se-esperava.html. Acesso em: 3 mar. 2025. Adaptado
+**Enunciado**
+Com base no texto apresentado, avalie as afirmações a seguir sobre as diferenças entre os fluxos de produção cinematográfica no Brasil e em Hollywood.
+I.	No Brasil, especialmente em Pernambuco, a produção cinematográfica é marcada por uma flexibilidade que valoriza a cultura local e o respeito às pessoas, contrastando com a rigidez de "cartilhas profissionais" presentes em outros centros.
+II.	Em Hollywood, a produção é altamente padronizada, com hierarquias rígidas e processos burocráticos que podem gerar tensões adicionais, muitas vezes vistas como normais.
+III.	A adaptabilidade do cinema brasileiro é vista como uma desvantagem, pois dificulta a integração de profissionais de outras regiões ou países.
+IV.	A abordagem brasileira, exemplificada por Kleber Mendonça Filho, prioriza a criatividade e o bem-estar da equipe, mesmo em contextos desafiadores, como filmagens no Sertão.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I e II, apenas.
+B)	I, II e IV, apenas.
+C)	II e III, apenas.
+D)	III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito**
+[B] I, II e IV, apenas.
+**Feedback**
+Afirmação I: Correta. O **Texto-base** destaca que a produção em Pernambuco valoriza a cultura local e a flexibilidade, contrastando com a rigidez de "cartilhas profissionais" seguidas em outros centros, como Rio e São Paulo.
+Afirmação II: Correta. Embora o texto não mencione Hollywood diretamente, a descrição de processos rígidos e burocráticos alinha-se com o modelo de produção hollywoodiano, conhecido por sua padronização e hierarquias bem definidas.
+Afirmação III: Incorreta. O texto não sugere que a adaptabilidade do cinema brasileiro seja uma desvantagem. Pelo contrário, ele ressalta que profissionais de outras regiões ficam "encantados" com a abordagem pernambucana.
+Afirmação IV: Correta. Kleber Mendonça Filho enfatiza o respeito e o carinho no tratamento das pessoas, mesmo em contextos desafiadores, como filmagens no Sertão com pessoas sem experiência prévia.
+Curso:	Cinema	Ponto de Interação:	2	Nº da questão:	2
+**Identificação da questão**
+PPD_FE_04_O jeitinho brasileiro na realização cinematográfica_P2_2025-2_Q02
+**Texto-base**
+“No Brasil, sinto que tenho mais liberdade para propor coisas… até porque, em geral, eu costumo produzir os meus próprios projetos nacionais. Mesmo que a plataforma ou o cliente peça alguma coisa, eu dou uma carteirada aqui e ali e pronto, faço do meu jeito.” – Fernando Meirelles, em entrevista ao site Omelete.
+COLETTI, Caio. “Em Hollywood, é mais difícil inovar”, diz Fernando Meirelles: diretor considera Sugar seu primeiro projeto dentro do sistema hollywoodiano. 2024. Disponível em: https://www.omelete.com.br/apple-tv/sugar-entrevista-fernando-meirelles-hollywood. Acesso em: 3 mar. 2025. Adaptado
+**Enunciado**
+A fala de Fernando Meirelles reflete uma percepção sobre a liberdade criativa no cinema brasileiro em contraste com suas experiências em Hollywood. 
+Considerando sua carreira consolidada e o contexto das indústrias cinematográficas, assinale a opção que melhor explica por que o diretor se sente mais livre para propor e executar projetos no Brasil.
+**Alternativas**
+A)	No Brasil, a ausência de grandes estúdios e a descentralização da produção permitem que diretores como Meirelles tenham controle total sobre seus projetos, sem a necessidade de seguir padrões comerciais.
+B)	A carreira consolidada de Fernando Meirelles no Brasil, aliada à sua experiência como produtor, lhe confere autoridade para negociar e impor suas visões criativas, algo que ele não conseguiria fazer em Hollywood devido à estrutura hierárquica rígida e à influência de grandes estúdios.
+C)	A produção cinematográfica no Brasil é menos profissionalizada, o que facilita a experimentação e a liberdade criativa, enquanto em Hollywood, a padronização e a busca por lucro limitam a autonomia dos diretores.
+D)	A cultura brasileira valoriza a improvisação e a adaptabilidade, características que são vistas como desvantagens em Hollywood, onde a padronização e a eficiência são priorizadas.
+E)	A falta de recursos financeiros no Brasil obriga os diretores a assumirem múltiplas funções, o que, paradoxalmente, amplia sua liberdade criativa em comparação com Hollywood, onde as equipes são mais especializadas.
+**Gabarito**
+[B] A carreira consolidada de Fernando Meirelles no Brasil, aliada à sua experiência como produtor, lhe confere autoridade para negociar e impor suas visões criativas, algo que ele não conseguiria fazer em Hollywood devido à estrutura hierárquica rígida e à influência de grandes estúdios.
+**Feedback**
+[A]: A ausência de grandes estúdios no Brasil não é o principal motivo da liberdade criativa de Meirelles. Além disso, ele menciona a influência de plataformas e clientes, o que indica que há padrões comerciais a serem considerados.
+[C]: A produção no Brasil pode ser menos profissionalizada em alguns aspectos, mas a fala de Meirelles não sugere que isso seja o motivo de sua liberdade criativa. Ele destaca sua autoridade e capacidade de negociar, não a falta de profissionalismo.
+[D] Embora a cultura brasileira valorize a adaptabilidade, a fala de Meirelles está mais relacionada à sua autoridade como diretor e produtor do que a características culturais.
+[E] A falta de recursos pode exigir multifuncionalidade, mas a fala de Meirelles não menciona isso como motivo para sua liberdade criativa. Ele enfatiza sua capacidade de negociar e impor suas visões.
+Curso:	Cinema	Ponto de Interação:	2	Nº da questão:	3
+**Identificação da questão**
+PPD_FE_04_O jeitinho brasileiro na realização cinematográfica_P2_2025-2_Q03
+**Texto-base**
+A Instrução Normativa nº 91 da ANCINE, de 01 de dezembro de 2010, define os critérios para que uma empresa seja considerada produtora brasileira independente. Entre esses critérios, destacam-se:
+I - Ser constituída sob as leis brasileiras;
+II - Ter sede e administração no País;
+III - Ter 70% do capital total e votante sob titularidade de brasileiros natos ou naturalizados há mais de 10 anos;
+IV - Ter a gestão das atividades da empresa e a responsabilidade editorial sobre os conteúdos produzidos exercidas privativamente por brasileiros natos ou naturalizados há mais de 10 (dez) anos.
+V - Não ser controladora, controlada ou coligada a programadoras, empacotadoras, distribuidoras ou concessionárias de serviço de radiodifusão de sons e imagens;
+VI - Não estar vinculada a instrumento que, direta ou indiretamente, confira ou objetive conferir a sócios minoritários, quando estes forem programadoras, empacotadoras, distribuidoras ou concessionárias de serviços de radiodifusão de sons e imagens, direito de veto comercial ou qualquer tipo de interferência comercial sobre os conteúdos produzidos;
+VII - não manter vínculo de exclusividade que a impeça de produzir ou comercializar para terceiros os conteúdos audiovisuais por ela produzidos.
+**Enunciado**
+A definição de cinema independente no Brasil, segundo a Instrução Normativa nº 91 da ANCINE, envolve critérios que visam garantir a autonomia e a identidade nacional das produções. 
+Considerando os critérios apresentados, assinale a opção que melhor reflete o conceito de cinema independente no contexto brasileiro.
+**Alternativas**
+A)	O cinema independente no Brasil é caracterizado exclusivamente pelo baixo orçamento das produções, que limita o uso de recursos técnicos e artísticos, mas amplia a liberdade criativa dos realizadores.
+B)	A independência no cinema brasileiro é definida pela capacidade de produzir conteúdos sem a necessidade de financiamento público, utilizando apenas recursos privados e mantendo total controle sobre a distribuição.
+C)	Para ser considerada independente, uma produtora brasileira deve atender a critérios como a titularidade majoritária do capital por brasileiros, a gestão editorial exclusivamente nacional e a ausência de vínculos comerciais que limitem a autonomia criativa.
+D)	O cinema independente no Brasil é marcado pela produção de filmes experimentais e de vanguarda, que rejeitam padrões narrativos tradicionais e buscam inovar na linguagem cinematográfica.
+E)	A independência no cinema brasileiro é garantida pela participação de coprodutores internacionais, que trazem recursos financeiros e técnicos, mas não interferem na gestão editorial das produções.
+**Gabarito**
+[C] Para ser considerada independente, uma produtora brasileira deve atender a critérios como a titularidade majoritária do capital por brasileiros, a gestão editorial exclusivamente nacional e a ausência de vínculos comerciais que limitem a autonomia criativa.
+**Feedback**
+[A]: A Instrução Normativa não menciona o orçamento como critério para definir cinema independente. A independência está relacionada à autonomia e à identidade nacional, não ao custo da produção.
+[B]: A normativa não exige que as produções independentes sejam financiadas apenas com recursos privados. Além disso, o controle sobre a distribuição não é um critério mencionado.
+[D]: Embora o cinema independente possa incluir filmes experimentais, a normativa não define a independência com base no estilo ou na linguagem cinematográfica.
+[E]: A participação de coprodutores internacionais não é mencionada na normativa como critério para a independência. Além disso, a normativa exige que a gestão editorial seja exercida exclusivamente por brasileiros.
+Curso:	Cinema	Ponto de Interação:	2	Nº da questão:	4
+**Identificação da questão**
+PPD_FE_04_O jeitinho brasileiro na realização cinematográfica_P2_2025-2_Q04
+**Texto-base**
+A diversidade cultural audiovisual implica ação do papel do Estado em fomentar produções independentes, de regular contratos entre distribuição e exibição e de legitimar instituições de políticas públicas para o setor cultural. Isso exige que a estrutura de custos da economia seja descoberta, para identificar os gargalos da cultura brasileira. A capacidade de governabilidade [...] também cumpre o papel de garantir educação à população, de forma a fazê-la refletir sobre conteúdos oferecidos, pois o Estado é capaz de articular as demandas dos atores do setor audiovisual.
+MACHADO, Tatiana V. F. e VASCONCELOS, Silvinha P. A indústria de cinema independente no brasil: uma análise estratégica pela ótica da qualidade. Temáticas, Campinas, v. 29, n. 57, p. 300-327, fev./jun. 2021. Adaptado
+**Enunciado**
+O trecho destaca a importância do Estado na criação de um ambiente favorável para o cinema independente no Brasil. Considerando essa perspectiva, assinale a opção que melhor descreve o cenário necessário para que os produtores independentes tenham espaço e consigam realizar seus filmes no país.
+**Alternativas**
+A)	A ausência de regulamentação estatal e a total liberdade de mercado são essenciais para que os produtores independentes possam competir em igualdade com as grandes produtoras.
+B)	O Estado deve atuar como mediador entre distribuidoras e exibidoras, garantindo contratos justos e criando políticas públicas que reduzam os custos de produção e distribuição para os realizadores independentes.
+C)	A priorização de investimentos em grandes produções comerciais é a melhor forma de fortalecer o cinema nacional, pois gera recursos que podem ser reinvestidos em projetos independentes.
+D)	A independência dos produtores só é possível com o financiamento exclusivo de empresas privadas, sem a interferência do Estado ou de políticas públicas.
+E)	A diversidade cultural no cinema brasileiro depende exclusivamente da iniciativa individual dos produtores, sem a necessidade de ações coordenadas pelo Estado.
+**Gabarito**
+[B] O Estado deve atuar como mediador entre distribuidoras e exibidoras, garantindo contratos justos e criando políticas públicas que reduzam os custos de produção e distribuição para os realizadores independentes.
+**Feedback**
+[A]: a ausência de regulamentação estatal pode beneficiar grandes produtoras em detrimento dos realizadores independentes, que dependem de políticas públicas para reduzir custos e garantir acesso ao mercado.
+[C]: embora investimentos em grandes produções possam gerar recursos, o **Texto-base** enfatiza a importância de políticas específicas para fomentar a diversidade cultural e apoiar produções independentes.
+[D]: o financiamento exclusivo de empresas privadas pode limitar a autonomia dos produtores independentes, que muitas vezes dependem de políticas públicas para equilibrar as assimetrias do mercado.
+[E]: a diversidade cultural no cinema brasileiro exige ações coordenadas pelo Estado, como destacado no **Texto-base**, e não pode ser alcançada apenas com iniciativas individuais.
+Curso:	Cinema	Ponto de Interação:	2	Nº da questão:	5
+**Identificação da questão**
+PPD_FE_04_O jeitinho brasileiro na realização cinematográfica_P2_2025-2_Q05
+**Texto-base**
+A temática do cinema de baixo orçamento envolve um exercício complexo de delimitação de parâmetros dentro do campo da economia do cinema. Isso porque estamos tratando de um objeto cuja conceituação só existe quando colocado em perspectiva a outras realidades de produção audiovisual. Ou seja, a definição do que é baixo orçamento depende do contexto do mercado cinematográfico no qual cada filme é realizado. Em outras palavras, o entendimento de cinema de baixo orçamento no Brasil e nos Estados Unidos, por exemplo, se baseia em parâmetros distintos, atrelados às condicionantes de produção de cada local.
+RUY, Karine S. Os espaços do cinema de baixo orçamento no Brasil. Revista Brasileira de Estudos de Cinema e Audiovisual – REBECA, v. 5. n. 1. Janeiro – Junho de 2016.
+**Enunciado**
+O conceito de cinema de baixo orçamento é relativo e depende do contexto do mercado cinematográfico em que o filme é produzido. Considerando essa perspectiva, assinale a opção que melhor explica as nuances desse conceito e suas implicações para a produção audiovisual.
+**Alternativas**
+A)	O cinema de baixo orçamento é caracterizado pela ausência de financiamento público ou privado, dependendo apenas de recursos pessoais dos realizadores.
+B)	A produção de filmes de baixo orçamento é sempre associada à falta de qualidade técnica e artística, independentemente do mercado em que são realizados.
+C)	O conceito de baixo orçamento é irrelevante para a análise do cinema, pois todos os filmes dependem de estratégias criativas para superar limitações financeiras.
+D)	O cinema de baixo orçamento é definido exclusivamente pelo valor absoluto do custo de produção, independentemente do mercado em que o filme é realizado.
+E)	A definição de baixo orçamento é contextual e varia conforme as condições de produção de cada mercado, como custos locais, disponibilidade de recursos e padrões industriais.
+**Gabarito**
+[E] A definição de baixo orçamento é contextual e varia conforme as condições de produção de cada mercado, como custos locais, disponibilidade de recursos e padrões industriais.
+**Feedback**
+[A]: O **Texto-base** não menciona a ausência de financiamento como critério para definir cinema de baixo orçamento. Ele enfatiza a comparação com as realidades de produção de cada mercado.
+[B]: O texto não associa o cinema de baixo orçamento à falta de qualidade. Pelo contrário, ele sugere que a criatividade e a adaptabilidade são características marcantes desse tipo de produção.
+[C]: O conceito de baixo orçamento é relevante para a análise do cinema, pois ajuda a entender as estratégias e os desafios enfrentados pelos realizadores em diferentes contextos de produção.
+[D]: O **Texto-base** destaca que o conceito de baixo orçamento não é definido por um valor absoluto, e sim por uma comparação com as realidades de produção de cada mercado cinematográfico.
+Curso:	04	Ponto de Interação:	1	Nº da questão:	6
+**Identificação da questão**
+PPD_FE_04_O jeitinho brasileiro na realização cinematográfica_P2_2025-2_Q06
+**Texto-base**
+A Academia Internacional de Cinema (AIC), em uma publicação de 2018 em seu site, apresentou um guia comparativo de carreiras no cinema, destacando as diversas funções essenciais para a produção audiovisual. Desde então, o mercado cinematográfico passou por transformações significativas, especialmente após a pandemia de covid-19, que trouxe novas demandas e funções. No entanto, apesar dessas mudanças, muitos estudantes de cinema ainda iniciam seus cursos com um sonho comum: tornarem-se diretores. Essa aspiração, embora válida, muitas vezes esconde a riqueza de outras carreiras igualmente criativas e fundamentais, como roteiro, fotografia, som e produção. Conhecer essas funções e suas particularidades é crucial para fazer escolhas profissionais estratégicas e encontrar o caminho certo para se especializar no mercado audiovisual.
+GUIA comparativo de carreiras do cinema. 2018. Disponível em: https://www.aicinema.com.br/guia-comparativo-de-carreiras-do-cinema/. Acesso em: 30 mar. 2025.
+**Enunciado**
+Considerando as informações apresentadas, assinale a opção que melhor reflete a relação entre a escolha de uma carreira cinematográfica e a necessidade de especialização no mercado audiovisual.
+**Alternativas**
+A)	A direção é a única função no cinema que permite total liberdade criativa, sendo a escolha ideal para quem deseja se destacar no mercado audiovisual.
+B)	A produção cinematográfica é uma área burocrática e pouco criativa, voltada apenas para a gestão de recursos e prazos, sem espaço para inovação.
+C)	Para além da paixão pela sétima arte, a escolha de uma carreira no cinema deve considerar as habilidades pessoais e as oportunidades de especialização em funções específicas, como roteiro, fotografia, arte, som ou produção.
+D)	O mercado audiovisual brasileiro é dominado por grandes estúdios, o que limita as oportunidades para profissionais que não atuam como diretores ou atores.
+E)	A especialização em uma única função no cinema é desnecessária, pois a multifuncionalidade é a chave para se destacar em um mercado competitivo.
+**Gabarito**
+[C] Para além da paixão pela sétima arte, a escolha de uma carreira no cinema deve considerar as habilidades pessoais e as oportunidades de especialização em funções específicas, como roteiro, fotografia, arte, som ou produção.
+**Feedback**
+[A]: O texto destaca que existem outras funções tão criativas quanto a direção, como roteiro, fotografia e som, indicando que a liberdade criativa não se restringe a uma única área.
+[B]: A produção cinematográfica é descrita como uma área que exige criatividade e jogo de cintura para resolver problemas, além de ser essencial para viabilizar projetos audiovisuais.
+[D]: É uma relação incoerente, além de conter a informação no texto, entende-se que em um mercado com grandes estúdios, as possibilidades são maiores para quaisquer funções do cinema.
+[E]: Embora a multifuncionalidade seja valorizada em alguns contextos, o texto sugere que a especialização em uma função específica é fundamental para se destacar no mercado audiovisual.
+Curso:	Cinema	Ponto de Interação:	3	Nº da questão:	1
+**Identificação da questão**
+PPD_FE_04_É possível usar dinheiro público para produzir o meu filme?_P3_2025-2_Q01 
+**Texto-base**
+O financiamento público é uma das principais formas de viabilizar projetos audiovisuais no Brasil, especialmente para produções independentes. Leis como a Lei do Audiovisual e a Lei Rouanet, além de fundos como o FSA (Fundo Setorial do Audiovisual) e o FNC (Fundo Nacional de Cultura), são essenciais para fomentar a diversidade cultural e a inovação no setor. No entanto, o acesso a esses recursos não é universal: é necessário atender a critérios específicos, como registro na ANCINE, classificação como produtora independente e CNAE adequado. Além disso, cada edital ou lei de incentivo pode ter regras próprias, que variam conforme o órgão financiador e o tipo de projeto.
+
+Com base no texto apresentado, avalie as afirmações a seguir sobre as diversas formas de fomento cultural no Brasil.
+I.	O financiamento público no Brasil é acessível apenas para grandes produtoras com conexões políticas, excluindo realizadores independentes e de regiões menos privilegiadas.
+II.	Para acessar recursos de fomento, como os do FSA e do FNC, é necessário atender a critérios específicos, como registro na ANCINE e CNAE adequado.
+III.	A burocracia excessiva e a falta de transparência nos processos de seleção de editais públicos tornam inviável a participação de pequenos produtores, concentrando os recursos em poucas empresas.
+IV.	As leis de incentivo e os fundos de fomento priorizam tanto projetos comerciais de grande escala quanto produções independentes de cunho cultural ou social.
+V.	A criação de fundos regionais, como o FAC DF, eliminou as desigualdades de acesso ao financiamento público no setor audiovisual regional.
+**Enunciado**
+É correto o que se afirma em
+**Alternativas**
+A)	I e II, apenas.
+B)	II e III, apenas.
+C)	II e IV, apenas.
+D)	III e V, apenas.
+E)	IV e V, apenas.
+**Gabarito**
+[C] II e IV, apenas.
+**Feedback**
+Afirmação I: Falsa. O financiamento público não é restrito a grandes produtoras. Muitos editais e leis de incentivo são abertos a realizadores independentes e de diversas regiões.
+Afirmação II: Verdadeira. Para acessar recursos de fomento, como os do FSA e do FNC, é necessário atender a critérios específicos, como registro na ANCINE e CNAE adequado.
+Afirmação III: Falsa. Embora a burocracia seja um desafio, muitos pequenos produtores conseguem acessar recursos de fomento por meio de editais e leis de incentivo.
+Afirmação IV: Verdadeira. As leis de incentivo e os fundos de fomento priorizam tanto projetos comerciais quanto produções independentes de cunho cultural ou social.
+Afirmação V: Falsa. A criação de fundos regionais, como o FAC DF, ajuda a reduzir as desigualdades, mas não as elimina completamente. Ainda existem desafios de acesso ao financiamento público.
+Curso:	Cinema	Ponto de Interação:	3	Nº da questão:	2
+**Identificação da questão**
+PPD_FE_04_É possível usar dinheiro público para produzir o meu filme?_P3_2025-2_Q02 
+**Texto-base**
+Na 14ª edição da Mostra de Cinema de Tiradentes (2011), cerca de 50 produtores e realizadores lançaram a “Carta de Tiradentes”, que discute a importância de políticas públicas para o cinema brasileiro. Um trecho da carta afirma:
+“Queremos uma política pública que reconheça os novos modelos de produção, que distribua melhor os recursos já existentes de modo a ampliar o escopo do fomento, que desenvolva políticas efetivas de distribuição e exibição, que avance na estruturação comercial do setor, na democratização da produção e do consumo dos bens culturais, e que aposte no cinema como janela privilegiada para o desenvolvimento e a soberania.”
+CARTA DE TIRADENTES, 2011.
+**Enunciado**
+Com base no trecho, assinale a opção que melhor reflete os desafios e as propostas apresentadas no documento.
+**Alternativas**
+A)	A carta defende a centralização dos recursos em grandes produtoras, visando competir com o mercado internacional e priorizar filmes de alto orçamento.
+B)	O texto propõe a criação de políticas públicas que reconheçam a diversidade de modelos de produção, garantindo uma distribuição mais equitativa dos recursos e o fortalecimento da cadeia produtiva do cinema brasileiro.
+C)	A Carta de Tiradentes sugere a redução do investimento público no setor audiovisual, argumentando que o mercado deve ser regulado pela iniciativa privada.
+D)	O documento enfatiza a necessidade de priorizar apenas a produção de filmes comerciais, ignorando a importância de produções independentes e de baixo orçamento.
+E)	A carta propõe a eliminação de editais públicos, defendendo que os recursos sejam destinados exclusivamente à formação de novos cineastas em instituições de ensino.
+**Gabarito**
+[B] O texto propõe a criação de políticas públicas que reconheçam a diversidade de modelos de produção, garantindo uma distribuição mais equitativa dos recursos e o fortalecimento da cadeia produtiva do cinema brasileiro.
+**Feedback**
+[A]: A carta não defende a centralização dos recursos em grandes produtoras, mas sim a distribuição equitativa e o reconhecimento de novos modelos de produção.
+[C]: a carta não sugere a redução do investimento público, mas sim a ampliação e a melhoria das políticas de fomento.
+[D]: a carta não ignora as produções independentes; pelo contrário, ela defende a inclusão de novos modelos de produção, incluindo filmes de baixo orçamento
+[E]: A carta não propõe a eliminação de editais públicos, mas sim a criação de políticas mais eficientes e inclusivas.
+Curso:	Cinema	Ponto de Interação:	3	Nº da questão:	3
+**Identificação da questão**
+PPD_FE_04_É possível usar dinheiro público para produzir o meu filme?_P3_2025-2_Q03 
+**Texto-base**
+ 
+Disponível em: https://www.gov.br/ancine/pt-br/assuntos/noticias/ancine-apresenta-panorama-do-setor-audiovisual-brasileiro-para-o-conselho-superior-do-cinema/apresentaoCSCPanoramadoSetorAudiovisual.pdf. Acesso em: 3 de mar de 2025.
+**Enunciado**
+O gráfico consta no documento Panorama do Setor Audiovisual Brasileiro (2021) divulgado pela ANCINE, que apresenta a distribuição das obras com CPBs (Certificados de Produto Brasileiro) emitidos com os tipos de fomento utilizados: apenas fomento direto, apenas fomento indireto ou fomento indireto e direto. 
+Considerando as informações apresentadas, assinale a opção que melhor interpreta os dados apresentados e os tipos de fomento utilizados no setor audiovisual brasileiro.
+**Alternativas**
+A)	O gráfico demonstra que o fomento indireto é a principal fonte de recursos para obras audiovisuais no Brasil, com um crescimento constante ao longo do período analisado.
+B)	O gráfico demonstra que o fomento direto é irrelevante para o setor audiovisual brasileiro, com a maioria das obras sendo financiadas exclusivamente por meio de fomento indireto. 
+C)	O fomento direto e indireto é utilizado de forma equilibrada, apresentando crescimento significativo no número de obras financiadas ao longo do período.
+D)	O aumento no número de obras com fomento direto reflete a expansão dos recursos do FSA, enquanto o fomento indireto manteve-se estável, indicando uma mudança na estratégia de financiamento do setor.
+E)	A ANCINE prioriza o fomento indireto em detrimento do fomento direto, o que explica a estabilidade no número de obras com esse tipo de financiamento.
+**Gabarito**
+[D] O aumento no número de obras com fomento direto reflete a expansão dos recursos do FSA, enquanto o fomento indireto manteve-se estável, indicando uma mudança na estratégia de financiamento do setor.
+**Feedback**
+[A]: O gráfico não mostra o fomento indireto como principal fonte de recursos, nem indica um crescimento constante. Pelo contrário, ele destaca a estabilidade do fomento indireto e o aumento do fomento direto.
+[B]: O gráfico não sugere que o fomento direto seja irrelevante; pelo contrário, ele demonstra um aumento significativo no número de obras com esse tipo de financiamento.
+[C]: O gráfico não mostra um crescimento significativo no fomento direto e indireto.
+[E]: A ANCINE não prioriza o fomento indireto em detrimento do direto. O gráfico indica que o fomento direto teve um aumento significativo e a ANCINE entende que isso se deve à expansão de recursos disponibilizados pelo Fundo Setorial do Audiovisual no período analisado no gráfico.
+Curso:	Cinema	Ponto de Interação:	3	Nº da questão:	4
+**Identificação da questão**
+PPD_FE_04_É possível usar dinheiro público para produzir o meu filme?_P3_2025-2_Q04 
+**Texto-base**
+No “Panorama do Setor Audiovisual Brasileiro” divulgado pela ANCINE em 2021, a análise quantitativa das obras brasileiras por unidade federativa da empresa produtora destaca o volume de produção no Rio de Janeiro e em São Paulo, com 2.270 e 1.393 títulos brasileiros disponíveis, respectivamente. Somados, os dois estados representam 79% das obras brasileiras disponíveis nos catálogos das plataformas de VoD (video on demand). Na sequência, aparecem Rio Grande do Sul (205), Paraná (118) e Distrito Federal (102).
+Além disso, ao analisar a distribuição dos empregados do setor audiovisual por região no período de 2010 a 2019, observa-se que a Região Sudeste concentrou mais de 60% do total de empregos no país em todos os anos. No entanto, a região perdeu 3,5 pontos percentuais no período, passando de 64,4% em 2010 para 60,9% em 2019. Em compensação, a participação das regiões Norte, Nordeste e Centro-Oeste cresceu no mesmo período.
+Diante das transformações em andamento, torna-se cada vez mais desafiador renovar a regulação de forma a minimizar as assimetrias e harmonizar a política pública com a realidade do setor.
+AGÊNCIA NACIONAL DO CINEMA (ANCINE). ANCINE apresenta panorama do setor audiovisual brasileiro para o Conselho Superior do Cinema. Disponível em: https://www.gov.br/ancine/pt-br/assuntos/noticias/ancine-apresenta-panorama-do-setor-audiovisual-brasileiro-para-o-conselho-superior-do-cinema/apresentaoCSCPanoramadoSetorAudiovisual.pdf. Acesso em: 3 mar. 2025. Adaptado
+**Enunciado**
+Considerando as informações apresentadas, avalie as opções a seguir assinale a que melhor interpreta os dados apresentados com relação ao crescimento do setor audiovisual no Brasil.
+**Alternativas**
+A)	A concentração de produções e empregos no Sudeste reflete a necessidade de políticas públicas que incentivem a descentralização do setor audiovisual, promovendo o desenvolvimento de polos regionais e reduzindo as desigualdades entre as regiões.
+B)	O crescimento das produções no Rio de Janeiro e em São Paulo mostra que leis de incentivo, como a Lei do Audiovisual, devem priorizar apenas essas regiões, pois são os únicos locais com infraestrutura adequada para o setor
+C)	A queda de 3,5 pontos percentuais na participação do Sudeste no total de empregos indica que a região está perdendo relevância.
+D)	O aumento da participação das regiões Norte, Nordeste e Centro-Oeste no total de empregos comprova que a descentralização do setor audiovisual já foi alcançada, não sendo mais necessário criar editais regionais ou ampliar o acesso a fundos de fomento.
+E)	A ANCINE deve concentrar-se exclusivamente no fomento de produções no Sudeste, pois a concentração histórica de recursos e infraestrutura nessa região garante maior retorno financeiro.
+**Gabarito**
+[A] A concentração de produções e empregos no Sudeste reflete a necessidade de políticas públicas que incentivem a descentralização do setor audiovisual, promovendo o desenvolvimento de polos regionais e reduzindo as desigualdades entre as regiões.
+**Feedback**
+[B]: Se as leis de incentivo priorizarem apenas o Sudeste, a assimetria será ainda maior.
+[C]: A queda de 3,5 pontos percentuais não indica perda de relevância do Sudeste, e sim uma ligeira redução na concentração, com crescimento em outras regiões.
+[D]: Embora haja crescimento nas regiões Norte, Nordeste e Centro-Oeste, a concentração de produções e empregos ainda é majoritariamente no Sudeste, indicando que a descentralização ainda não é uma realidade plena.
+[E]: O **Texto-base** não sugere que a ANCINE deva focar exclusivamente no Sudeste, e sim que há uma concentração histórica que precisa ser equilibrada com estratégias para outras regiões.
+Curso:	Cinema	Ponto de Interação:	3	Nº da questão:	5
+**Identificação da questão**
+PPD_FE_04_É possível usar dinheiro público para produzir o meu filme?_P3_2025-2_Q05 
+**Texto-base**
+O Fundo de Apoio à Cultura (FAC), criado em 1991 e alterado pela Lei Complementar 267 de 1997, é o principal instrumento de fomento às atividades artísticas e culturais da Secretaria de Cultura e Economia Criativa do DF. Ele oferece apoio financeiro a fundo perdido, e seus projetos são selecionados por meio de editais públicos. Em 2024, o FAC investiu R$ 82 milhões em projetos culturais, o maior valor já pago em um ano corrente, sem considerar saldos remanescentes.
+Segundo José Carlos Prestes, subsecretário de Fomento e Incentivo Cultural (Sufic), o FAC é o maior fundo estadual de cultura do país e tem como objetivo permitir que a população tenha acesso a bens culturais. Ele destacou que os projetos têm sido acessados por pessoas de diferentes regiões administrativas, promovendo a descentralização das ações culturais.
+FAC transforma cena cultural do DF com investimento recorde de R$ 82 milhões. Agência Brasília, 2024. Disponível em: https://segov.df.gov.br/fac-transforma-cena-cultural-do-df-com-investimento-recorde-de-r-82-milhoes/. Acesso em: 3 mar. 2025.
+**Enunciado**
+Considerando o **Texto-base** e o papel do FAC na promoção da cultura no Distrito Federal, assinale a opção que apresenta estratégias para descentralizar e democratizar o acesso à arte em áreas periféricas.
+**Alternativas**
+A)	Ampliar a oferta de cursos técnicos em produção cultural no Plano Piloto, capacitando profissionais para atuarem em grandes eventos culturais, que geralmente acontecem na região central.
+B)	Premiar projetos culturais já consolidados, priorizando que os recursos sejam destinados a iniciativas com comprovada experiência no mercado.
+C)	Priorizar a digitalização de acervos culturais históricos, concentrando os esforços do FAC na preservação de memórias artísticas sem investir em novas produções.
+D)	Estabelecer parcerias com instituições internacionais, visando trazer eventos culturais de grande porte para o Plano Piloto e atrair turistas.
+E)	Promover mais editais regionais que incentivem a produção cultural em áreas periféricas, como Ceilândia e Samambaia, facilitando a formação de redes colaborativas entre artistas locais e coletivos comunitários.
+**Gabarito**
+[E] promover mais editais regionais que incentivem a produção cultural em áreas periféricas, como Ceilândia e Samambaia, facilitando a formação de redes colaborativas entre artistas locais e coletivos comunitários.
+**Feedback**
+[A]: a oferta de cursos técnicos apenas no Plano Piloto não contribui para a descentralização do acesso à cultura, pois ignora as demandas das regiões periféricas. 
+[B]: priorizar os recursos às iniciativas que possuem comprovada experiência exclui artistas emergentes e coletivos locais, que são essenciais para a democratização da cultura.
+[C]: a digitalização de acervos históricos, embora importante, não resolve a necessidade de descentralização e democratização do acesso à cultura em áreas periféricas.
+[D]: parcerias com instituições internacionais para eventos no Plano Piloto reforçam a centralização da cultura, sem beneficiar as regiões periféricas.
+Curso:	Cinema	Ponto de Interação:	3	Nº da questão:	6
+**Identificação da questão**
+PPD_FE_04_É possível usar dinheiro público para produzir o meu filme?_P3_2025-2_Q06 
+**Texto-base**
+A Lei Rouanet (Lei nº 8.313/91) é um dos principais mecanismos de fomento à cultura no Brasil. Ela permite que empresas e pessoas físicas destinem parte do Imposto de Renda devido para projetos culturais previamente aprovados pelo Ministério da Cultura (MinC). Os incentivadores podem deduzir até 10% do imposto devido (para empresas) ou 5% (para pessoas físicas). O proponente do projeto deve apresentar uma proposta ao MinC, que, após análise, autoriza a captação de recursos e a execução do projeto.
+**Enunciado**
+Considerando o **Texto-base** sobre os mecanismos da Lei Rouanet, assinale a opção correta.
+**Alternativas**
+A)	A Lei Rouanet foi criada com o objetivo de substituir o financiamento público em cultura, transferindo integralmente a responsabilidade para a iniciativa privada, sem a necessidade de aprovação ou fiscalização por parte do governo.
+B)	Um dos principais desafios da Lei Rouanet é a falta de transparência no processo de seleção de projetos, o que resulta na concentração de recursos em grandes empresas e artistas já consolidados, em detrimento de iniciativas independentes.
+C)	A Lei Rouanet estabelece um sistema de incentivos fiscais que permite a pessoas jurídicas e físicas deduzirem parte do Imposto de Renda ao apoiarem projetos culturais, desde que esses projetos sejam previamente aprovados pelo Ministério da Cultura para garantir alinhamento com as políticas públicas do setor.
+D)	A Lei Rouanet prioriza projetos de grande impacto comercial, como grandes espetáculos e eventos internacionais, em detrimento de iniciativas locais e de baixo orçamento, que são consideradas de menor relevância para o desenvolvimento cultural do país.
+E)	A Lei Rouanet é criticada por não estabelecer critérios claros para a aprovação de projetos, o que resulta na exclusão de propostas inovadoras e na priorização de iniciativas que atendem apenas a interesses políticos ou comerciais.
+**Gabarito**
+[C] A Lei Rouanet estabelece um sistema de incentivos fiscais que permite a pessoas jurídicas e físicas deduzirem parte do Imposto de Renda ao apoiarem projetos culturais, desde que esses projetos sejam previamente aprovados pelo Ministério da Cultura para garantir alinhamento com as políticas públicas do setor.
+**Feedback**
+[A]: A Lei Rouanet não substitui o financiamento público em cultura, mas complementa-o, permitindo que a iniciativa privada também contribua. Além disso, os projetos precisam ser aprovados e fiscalizados pelo Ministério da Cultura.
+[B]: Embora existam críticas sobre a distribuição de recursos, a Lei Rouanet exige transparência no processo de seleção de projetos, que são avaliados e aprovados pelo Ministério da Cultura.
+[D]: A Lei Rouanet não prioriza apenas projetos de grande impacto comercial; ela também apoia iniciativas locais e de baixo orçamento, desde que os projetos sejam aprovados pelo Ministério da Cultura.
+[E]: A Lei Rouanet estabelece critérios claros para a aprovação de projetos, que são avaliados com base em sua relevância cultural e alinhamento com as políticas públicas do setor.
+Curso:	Cinema	Ponto de Interação:	4	Nº da questão:	1
+**Identificação da questão**
+PPD_FE_04_Meu filme está finalizado e agora?_P3_2025-2_Q01 
+**Texto-base**
+O filme “Ainda Estou Aqui” (2024), dirigido por Walter Salles, é conhecido do público por ter conquistado o prêmio de Melhor Filme Estrangeiro no Oscar. No entanto, essa produção brasileira recebeu diversos outros prêmios importantes ao longo de sua trajetória, consolidando-se como um marco do cinema nacional.
+ 
+Cartaz nacional de "Ainda estou aqui" — Foto: Divulgação
+
+**Enunciado**
+Considerando o sucesso de “Ainda Estou Aqui”, assinale a opção que apresenta apenas prêmios reais conquistados pelo filme.
+**Alternativas**
+A)	Melhor Roteiro no Festival de Veneza, Melhor Atriz de Drama no Globo de Ouro e Melhor Filme no Festival de Cannes.
+B)	Melhor Filme Estrangeiro no Oscar, Melhor Roteiro no Festival de Veneza e Melhor Atriz de Drama no Globo de Ouro.
+C)	Melhor Filme no Festival de Berlim, Melhor Direção no Festival de Sundance e Melhor Fotografia no BAFTA.
+D)	Melhor Filme Estrangeiro no Oscar, Melhor Atriz no Festival de Toronto e Melhor Trilha Sonora no Grammy.
+E)	Melhor Roteiro no Festival de Veneza, Melhor Filme no Festival de Mar del Plata e Melhor Atriz no Festival de Gramado.
+**Gabarito**
+[B] Melhor Filme Estrangeiro no Oscar, Melhor Roteiro no Festival de Veneza e Melhor Atriz de Drama no Globo de Ouro.
+**Feedback**
+[A]: o filme não ganhou Melhor Filme no Festival de Cannes. 
+[C]: o filme não ganhou prêmios no Festival de Berlim, Sundance ou BAFTA
+[D]: o filme não ganhou Melhor Atriz no Festival de Toronto ou Melhor Trilha Sonora no Grammy.
+[E]: o filme não ganhou Melhor Filme no Festival de Mar del Plata ou Melhor Atriz no Festival de Gramado.
+Curso:	Cinema	Ponto de Interação:	4	Nº da questão:	2
+**Identificação da questão**
+PPD_FE_04_Meu filme está finalizado e agora?_P3_2025-2_Q02 
+**Texto-base**
+A Instrução Normativa nº 172/2025, publicada pela ANCINE em janeiro de 2025, regulamenta a Cota de Tela para o ano de 2025, com o objetivo de estimular a exibição de filmes brasileiros em horários de maior procura, como a partir das 17h, e promover obras premiadas em festivais. A norma é resultado de uma Análise de Impacto Regulatório (AIR) e de estudos técnicos que identificaram uma dissonância entre a programação de filmes nacionais e o interesse do público, agravada após a pandemia de covid-19. Além disso, a ANCINE disponibilizou uma ferramenta para que exibidores acompanhem, em tempo real, o cumprimento da Cota de Tela em seus complexos, aumentando a transparência e a efetividade da medida.
+AGÊNCIA NACIONAL DO CINEMA (ANCINE). Instrução normativa sobre cota de tela. 2025. Disponível em: https://www.gov.br/ancine/pt-br/assuntos/noticias/ancine-publica-instrucao-normativa-sobre-cota-de-tela. Acesso em: 3 mar. 2025.
+**Enunciado**
+Com base na Instrução Normativa nº 172/2025 e nas medidas adotadas pela ANCINE para a Cota de Tela em 2025, avalie as afirmativas a seguir.
+I.	A Cota de Tela busca garantir a exibição de filmes brasileiros em horários de maior audiência, como a partir das 17h, visando aumentar o market share do cinema nacional.
+II.	A norma prioriza a exibição de filmes brasileiros premiados em festivais, reconhecendo seu potencial de atrair público e valorizar a produção nacional.
+III.	A ferramenta de acompanhamento da Cota de Tela, disponibilizada pela ANCINE, tem como objetivo principal fiscalizar e punir exibidores que não cumpram a norma, sem oferecer suporte técnico.
+IV.	A Instrução Normativa é resultado de estudos técnicos e oitivas com o setor audiovisual, que identificaram a necessidade de equilibrar a programação de filmes nacionais com o interesse do público.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I, II e III, apenas.
+B)	I, II e IV, apenas.
+C)	I, III e IV, apenas.
+D)	II, III e IV, apenas.
+E)	I, II, III e IV.
+**Gabarito**
+[B] I, II e IV, apenas.
+**Feedback**
+[A] Incorreta. A afirmativa III está incorreta, pois a ferramenta de acompanhamento da Cota de Tela não tem como objetivo principal punir exibidores, e sim ampliar a transparência e a efetividade da norma.
+[B] Correta. As afirmativas I, II e IV estão corretas, pois refletem os objetivos e impactos da Cota de Tela, conforme descrito no **Texto-base**.
+[C] Incorreta. A afirmativa III está incorreta, pois a ferramenta de acompanhamento não é voltada para punição, mas para suporte e transparência.
+[D] Incorreta. A afirmativa III está incorreta, pois a ferramenta de acompanhamento não tem como foco a punição de exibidores.
+[E] A afirmativa III está incorreta.
+Curso:	Cinema	Ponto de Interação:	4	Nº da questão:	3
+**Identificação da questão**
+PPD_FE_04_Meu filme está finalizado e agora?_P3_2025-2_Q03 
+**Texto-base**
+Entre os anos 1950 e 1960, a indústria cinematográfica passou a ser vista como parte de uma cadeia mais ampla e ramificada, compondo com a mídia televisiva a indústria audiovisual. Essa transformação estrutural ampliou a importância competitiva do elo da distribuição. Com a evolução tecnológica ao longo das décadas subsequentes, esse processo se intensificou, surgindo outros formatos de produção e plataformas de exibição audiovisuais. Atualmente, a dinâmica competitiva da indústria cinematográfica envolve a produção e distribuição de filmes para serem exibidos nos cinemas e em diferentes janelas de exibição, como a televisão aberta, a televisão por assinatura e as mídias digitais (DVDs, transmissões via internet, telefones celulares). 
+MELEIRO, Alessandra. Cinema e Mercado – Volume III. São Paulo: Editora Escrituras, 2010.
+**Enunciado**
+Atualmente, a realidade da indústria cinematográfica é bem diferente daquela dos anos 1950 e 1960, com a ampliação de formatos e plataformas de exibição e distribuição. 
+Considerando o cenário brasileiro, quais são os principais meios de exibição e distribuição de filmes?
+**Alternativas**
+A)	Salas de cinema tradicionais e televisão aberta continuam sendo os pilares da exibição, com pouca influência de novas tecnologias, mantendo um modelo consolidado desde os anos 1960.
+B)	Plataformas de streaming, como Netflix e Amazon Prime Video, dominam o mercado, relegando as salas de cinema e a televisão a um papel secundário na exibição de filmes.
+C)	A televisão por assinatura e as mídias físicas, como DVDs, são os principais meios de distribuição, especialmente em regiões com menor acesso à internet e a salas de cinema.
+D)	Festivais de cinema, mostras itinerantes e plataformas digitais são essenciais para a exibição de filmes independentes e de baixo orçamento, complementando o circuito tradicional de salas de cinema e televisão.
+E)	A exibição em cinemas e a distribuição por meio de mídias físicas, como DVDs, ainda são predominantes, com pouca penetração de plataformas digitais no mercado brasileiro.
+**Gabarito**
+[D] Festivais de cinema, mostras itinerantes e plataformas digitais são essenciais para a exibição de filmes independentes e de baixo orçamento, complementando o circuito tradicional de salas de cinema e televisão.
+**Feedback**
+[A] Embora salas de cinema e televisão aberta ainda sejam relevantes, o cenário atual inclui outras plataformas, como streaming e festivais, que ampliaram as opções de exibição e distribuição.
+[B] As plataformas de streaming são importantes, mas não dominam completamente o mercado, já que salas de cinema e televisão ainda têm seu papel no ecossistema audiovisual.
+[C] A televisão por assinatura e as mídias físicas, como DVDs, perderam espaço para as plataformas digitais, que se tornaram mais acessíveis e populares.
+[E] A distribuição por mídias físicas, como DVDs, não é mais predominante, já que as plataformas digitais ganharam grande relevância no mercado brasileiro.
+Curso:	Cinema	Ponto de Interação:	4	Nº da questão:	4
+**Identificação da questão**
+PPD_FE_04_Meu filme está finalizado e agora?_P3_2025-2_Q04 
+**Texto-base**
+A Lei nº 12.485/2011, conhecida como Lei do SeAC (Serviço de Acesso Condicionado), regulamenta a comunicação audiovisual de acesso condicionado no Brasil, incluindo TV por assinatura e streaming. Entre seus principais aspectos, destacam-se a flexibilização de barreiras regulatórias, restrições a práticas anticompetitivas, a obrigatoriedade de carregar canais de distribuição e o estabelecimento de cotas de conteúdo e empacotamento. A norma também define os Canais de Espaço Qualificado (CEQs), que devem veicular, no horário nobre, pelo menos 3 horas e 30 minutos semanais de conteúdo brasileiro de espaço qualificado, sendo metade produzida por produtoras independentes. Já os Canais Brasileiros de Espaço Qualificado (CABEQs) são aqueles programados por programadoras brasileiras, sem exclusividades que impeçam sua comercialização, e que veiculam majoritariamente conteúdo brasileiro no horário nobre.
+CONSELHO SUPERIOR DE CINEMA. Panorama do setor audiovisual brasileiro. set. 2021. Disponível em: https://www.gov.br/ancine/pt-br/assuntos/noticias/ancine-apresenta-panorama-do-setor-audiovisual-brasileiro-para-o-conselho-superior-do-cinema/apresentaoCSCPanoramadoSetorAudiovisual.pdf. Acesso em: 3 mar. 2025. Adaptado
+
+**Enunciado**
+Considerando a Lei nº 12.485/2011 e seus impactos no setor de TV por assinatura e streaming no Brasil, avalie as afirmativas a seguir.
+I.	A exigência de cotas de conteúdo brasileiro nos CEQs visa fortalecer a produção nacional, mas pode limitar a diversidade de programação internacional no horário nobre.
+II.	Os CABEQs, ao priorizar conteúdos brasileiros independentes, contribuem para a redução da concentração de mercado nas mãos de grandes produtoras estrangeiras.
+III.	A proibição de práticas anticompetitivas, como a integração vertical, beneficia principalmente as operadoras menores, mas pode aumentar os custos para as grandes empresas do setor.
+IV.	A flexibilização de barreiras regulatórias permitiu a entrada de novas plataformas de streaming, mas também gerou desafios para a regulamentação de conteúdos internacionais.
+
+É correto o que se afirma em
+**Alternativas**
+A)	I e II, apenas.
+B)	I e III, apenas.
+C)	II e IV, apenas.
+D)	I, II e III, apenas.
+E)	I, II, III e IV.
+**Gabarito**
+[D] I, II e III, apenas.
+**Feedback**
+[A] A afirmativa III também está correta, pois a proibição de práticas anticompetitivas impacta tanto as operadoras menores quanto as grandes empresas.
+[B] A afirmativa II também está correta, pois os CABEQs contribuem para a redução da concentração de mercado nas mãos de produtoras estrangeiras.
+[C] A afirmativa I também está correta, pois as cotas de conteúdo brasileiro têm como objetivo fortalecer a produção nacional, ainda que possam limitar a diversidade internacional.
+[E] A afirmativa IV não está totalmente correta, pois a flexibilização de barreiras regulatórias não é o único fator que gera desafios para a regulamentação de conteúdos internacionais.
+Curso:	Cinema	Ponto de Interação:	4	Nº da questão:	5
+**Identificação da questão**
+PPD_FE_04_Meu filme está finalizado e agora?_P3_2025-2_Q05 
+**Texto-base**
+A pandemia de covid-19 impactou profundamente o setor de exibição cinematográfica no Brasil. Em 2020, as salas de cinema registraram um público de aproximadamente 39 milhões de espectadores, uma queda de mais de 77% em relação a 2019. O público dos filmes nacionais caiu para 8,5 milhões de pagantes, uma redução de mais de 60%, enquanto a receita de bilheteria dos filmes nacionais foi de cerca de 130 milhões de reais, uma queda de 56% em relação à média dos últimos três anos. As salas de cinema, que totalizavam 3.507 em 2019, ficaram fechadas durante a maior parte de 2020, com reaberturas intermitentes a partir de setembro.
+A segunda onda de contágio no primeiro trimestre de 2021 interrompeu o processo de reabertura, mas, com o avanço da vacinação, as salas voltaram a funcionar de forma mais consistente. No segundo trimestre de 2021, o eixo Rio-São Paulo, que concentra a maior parte das salas do país, atingiu cerca de 90% de reabertura em relação ao mesmo período de 2019. O público nas salas ultrapassou 1 milhão de pagantes na semana 25 de 2021, mantendo-se próximo a esse patamar desde então. Esse crescimento está atrelado ao retorno dos grandes lançamentos, como demonstrado na tabela a seguir:
+ 
+CONSELHO SUPERIOR DE CINEMA. Panorama do setor audiovisual brasileiro. Setembro de 2021. Disponível em: https://www.gov.br/ancine/pt-br/assuntos/noticias/ancine-apresenta-panorama-do-setor-audiovisual-brasileiro-para-o-conselho-superior-do-cinema/apresentaoCSCPanoramadoSetorAudiovisual.pdf. Acesso em: 3 mar. 2025.
+**Enunciado**
+Considerando os impactos da pandemia de covid-19 no setor de exibição cinematográfica no Brasil, assinale a alternativa correta.
+**Alternativas**
+A)	A queda no público em 2020 foi parcialmente compensada pelo aumento do consumo de filmes nacionais em plataformas de streaming, embora sem anular completamente as perdas das salas de cinema.
+B)	A reabertura das salas em 2021 foi marcada pela priorização de filmes internacionais, com pouca adesão a produções nacionais, mesmo após o avanço da vacinação.
+C)	O eixo Rio-São Paulo, apesar de concentrar a maioria das salas, registrou o menor índice de reabertura no país, refletindo a falta de interesse do público local.
+D)	A migração para o streaming durante a pandemia consolidou-se como substituto definitivo para as salas de cinema, inviabilizando a retomada do modelo tradicional.
+E)	A queda no público em 2020 foi revertida já no primeiro trimestre de 2021, com as salas superando os números de bilheteria de 2019.
+**Gabarito**
+[A] A queda no público em 2020 foi parcialmente compensada pelo aumento do consumo de filmes nacionais em plataformas de streaming, embora sem anular completamente as perdas das salas de cinema.
+**Feedback**
+[A] A alternativa reflete a realidade de que o streaming cresceu durante a pandemia, mas não compensou totalmente as perdas das salas de cinema.
+[B] A reabertura das salas em 2021 foi impulsionada tanto por filmes internacionais quanto por produções nacionais, com destaque para grandes lançamentos.
+[C] O eixo Rio-São Paulo teve um ritmo de reabertura mais acelerado, atingindo cerca de 90% das salas abertas, e não o menor índice.
+[D] A migração para o streaming não inviabilizou as salas de cinema, que demonstraram resiliência com a retomada em 2021.
+[E] A queda no público em 2020 não foi revertida no primeiro trimestre de 2021, pois as salas enfrentaram novo fechamento devido à segunda onda de contágio.
+Curso:	Cinema	Ponto de Interação:	4	Nº da questão:	6
+**Identificação da questão**
+PPD_FE_04_Meu filme está finalizado e agora?_P3_2025-2_Q06 
+**Texto-base**
+Os festivais de cinema são fundamentais na divulgação e distribuição de filmes independentes no Brasil e no mundo. Eles não apenas oferecem uma plataforma para a exibição de obras que muitas vezes não têm espaço no circuito comercial, mas também funcionam como um ambiente de networking, no qual cineastas, produtores e distribuidores podem estabelecer parcerias e negociar direitos de exibição. Festivais como o Festival de Brasília do Cinema Brasileiro, o Festival do Rio e o Festival de Gramado são exemplos de eventos que ajudam a promover a diversidade cultural e a valorizar produções nacionais. Além disso, a participação em festivais internacionais, como o Festival de Berlim e o Festival de Cannes, pode abrir portas para a distribuição global de filmes brasileiros.
+**Enunciado**
+Considerando a importância dos festivais de cinema para a divulgação e distribuição de filmes independentes, assinale a opção correta.
+**Alternativas**
+A)	A participação em festivais de cinema é estratégica para filmes independentes, pois a visibilidade obtida nessas plataformas raramente se converte em oportunidades concretas de distribuição ou financiamento.
+B)	Festivais internacionais, como Cannes e Berlim, são fundamentais para a distribuição global de filmes independentes, embora a seleção de obras priorize produções com apelo comercial em detrimento de propostas autorais.
+C)	Festivais universitários, como o de Curitiba, são espaços de experimentação e formação, cuja relevância para o mercado profissional é ampliada pela conexão com distribuidores e produtoras comerciais.
+D)	A premiação em festivais de cinema garante visibilidade imediata às obras, embora sua influência na distribuição comercial seja limitada pela dominância de grandes estúdios no mercado global.
+E)	A formação de redes de contato em festivais de cinema é tão importante quanto a exibição das obras, pois facilita parcerias e negociações que podem definir o futuro de produções independentes.
+**Gabarito**
+[E] A formação de redes de contato em festivais de cinema é tão importante quanto a exibição das obras, pois facilita parcerias e negociações que podem definir o futuro de produções independentes.
+**Feedback**
+[A] A visibilidade obtida em festivais frequentemente se converte em oportunidades de distribuição e financiamento, especialmente para filmes independentes.
+[B] Festivais internacionais valorizam tanto propostas autorais quanto produções com apelo comercial, sem priorizar exclusivamente uma das categorias.
+[C] Festivais universitários são importantes para a formação, mas sua conexão com o mercado profissional ainda é limitada em comparação com festivais de grande porte.
+[D] A premiação em festivais pode influenciar positivamente a distribuição comercial, mesmo em um mercado dominado por grandes estúdios.
+[E] A formação de redes de contato é essencial em festivais, pois permite que realizadores estabeleçam parcerias e negociações que podem definir o futuro de suas produções.
+
