@@ -1,94 +1,108 @@
 ﻿NewQuestion,MC,,
-ID,QT30_CG2001_CT0634_CP0042_IT02,,
-QuestionText,"A implementação e avaliação de currículos, programas educacionais e projetos político-pedagógicos são etapas fundamentais no processo de construção de uma educação que seja significativa, inclusiva e adaptada às necessidades da sociedade contemporânea. A articulação das produções teórico-práticas do campo do currículo permite não apenas a elaboração, mas também a avaliação crítica de projetos pedagógicos, contribuindo para a organização e gestão do trabalho educativo tanto em ambientes escolares quanto não escolares.Considerando as informações apresentadas no texto, assinale a opção correta.",,
+ID,TTTT_111111_YYYYYY_999999_4444,,
+QuestionText,Essa questão utiliza uma lista com letras maiúsculas.,,
 Points,,,
-Option,0,"
-A) Projetos político-pedagógicos são irrelevantes para a gestão do trabalho educativo não escolar.
-",,
 Option,100,"
-B) A articulação teórico-prática no campo do currículo é essencial para a eficácia dos projetos pedagógicos.
+A) Esta é a questão correta.
 ",,
 Option,0,"
-C) A avaliação de currículos é uma etapa que deve ser evitada para não desencorajar os professores e estudantes.
+B) Questão errada 1
 ",,
 Option,0,"
-D) Programas educacionais adaptados às necessidades da sociedade são uma tendência antiga e ultrapassada.
+C) Questão errada 2
 ",,
 Option,0,"
-E) Implementação de currículos deve ser conduzida sem a participação da comunidade escolar para garantir objetividade.
+D) Questão errada 3
+",,
+Option,0,"
+E) Questão errada 4
 ",,
 ,,,,
 ,,,,
 NewQuestion,MC,,
-ID,QT32_CG2001_CT0344_CP0164_IT02,,
-QuestionText,"A pesquisa educacional é fundamental na construção de uma gestão educacional democrática. Ela permite aos educadores, gestores e demais envolvidos no processo educativo compreenderem as necessidades, as expectativas e os desafios presentes nos espaços e sistemas escolares e não escolares. Este entendimento é crucial para o desenvolvimento de práticas inovadoras e inclusivas que atendam à diversidade da comunidade escolar e promovam uma educação de qualidade para todos.Considerando as informações apresentadas no texto, assinale a opção correta.",,
+ID,TTTT_222222_YYYYYY_999999_4444,,
+QuestionText,Essa questão utilizada uma lista com letras minúsculas.,,
 Points,,,
 Option,0,"
-A) A pesquisa educacional é exclusivamente focada em métodos quantitativos, sendo pouco relevante para a gestão educacional democrática.
+A) Questão errada 1
 ",,
 Option,0,"
-B) A gestão educacional democrática é um conceito ultrapassado, não sendo necessário adaptar práticas educativas às necessidades da comunidade escolar.
-",,
-Option,0,"
-C) A pesquisa educacional desempenha um papel secundário na gestão educacional, com pouca influência no desenvolvimento de políticas educacionais inclusivas.
-",,
-Option,0,"
-D) As práticas inovadoras em educação não dependem do entendimento das necessidades da comunidade escolar, mas sim da aplicação de tecnologias avançadas.
+B) Questão errada 2
 ",,
 Option,100,"
-E) A gestão educacional democrática se beneficia da pesquisa educacional para entender e atender às demandas específicas de comunidades escolares, promovendo práticas educativas inclusivas.
-",,
-,,,,
-,,,,
-NewQuestion,MC,,
-ID,QT33_CG2001_CT0344_CP0164_RM03,,
-QuestionText,"A pesquisa educacional desempenha um papel crucial na identificação e análise de práticas eficazes para a gestão democrática em ambientes escolares e não escolares. Por meio dela, é possível avaliar estratégias que promovem a participação ativa de todos os membros da comunidade educativa, incluindo estudantes, professores, gestores e famílias, na tomada de decisões e no desenvolvimento de políticas inclusivas e equitativas.Considerando as informações apresentadas, avalie as afirmações a seguir.
-I) A inclusão de múltiplos stakeholders no processo decisório contribui para a criação de políticas educacionais mais inclusivas e equitativas.
-
-II) A pesquisa educacional é essencial para o desenvolvimento de práticas que estimulam a gestão participativa nos ambientes de aprendizagem.
-
-III) A gestão democrática envolve apenas a participação dos gestores escolares nas decisões educacionais, excluindo outros membros da comunidade educativa.
-É correto o que se afirma em",,
-Points,,,
-Option,0,"
-A) I, apenas.
+C) Essa é a questão correta
 ",,
 Option,0,"
-B) II, apenas.
+D) Questão errada 3
 ",,
 Option,0,"
-C) III, apenas.
-",,
-Option,100,"
-D) I e II, apenas.
+E) Questão errada 4
 ",,
 Option,0,"
-E) I, II, III.
-",,
-,,,,
-,,,,
-NewQuestion,MC,,
-ID,QT36_CG2001_CT0620_CP0100_AR01,,
-QuestionText,"No contexto atual, o processo de aprendizagem de crianças, jovens e adultos exige uma abordagem holística que transcenda o tradicional enfoque cognitivo. A integração das dimensões física, cognitiva, afetiva, estética, cultural, lúdica, artística, ética e biossocial    torna-se fundamental na concepção de práticas educativas. Essa perspectiva holística não apenas facilita uma compreensão mais ampla do processo de aprendizagem, mas também promove um desenvolvimento integral do indivíduo.Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
-I) A abordagem holística no processo educativo, que integra múltiplas dimensões do ser, contribui significativamente para o desenvolvimento integral de aprendizes de todas as idades.
-PORQUE
-II) Na educação contemporânea, priorizar exclusivamente o desenvolvimento cognitivo dos estudantes tem se mostrado uma estratégia limitada, uma vez que ignora as complexas interações entre os aspectos físico, emocional e social que também influenciam a aprendizagem.
-A respeito dessas asserções, assinale a opção correta.",,
-Points,,,
-Option,100,"
-A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+F) Questão errada 5
 ",,
 Option,0,"
-B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+G) Questão errada 6
 ",,
 Option,0,"
-C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+H) Questão errada 7
 ",,
 Option,0,"
-D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+I) Questão errada 8
 ",,
 Option,0,"
-E) As asserções I e II são proposições falsas.
+J) Questão errada 9
+",,
+Option,0,"
+K) Questão errada 10
+",,
+Option,0,"
+L) Questão errada 11
+",,
+Option,0,"
+M) Questão errada 12
+",,
+Option,0,"
+N) Questão errada 13
+",,
+Option,0,"
+O) Questão errada 14
+",,
+Option,0,"
+P) Questão errada 15
+",,
+Option,0,"
+Q) Questão errada 16
+",,
+Option,0,"
+R) Questão errada 17
+",,
+Option,0,"
+S) Questão errada 18
+",,
+Option,0,"
+T) Questão errada 19
+",,
+Option,0,"
+U) Questão errada 20
+",,
+Option,0,"
+V) Questão errada 21
+",,
+Option,0,"
+W) Questão errada 22
+",,
+Option,0,"
+X) Questão errada 23
+",,
+Option,0,"
+Y) Questão errada 24
+",,
+Option,0,"
+Z) Questão errada 25
+",,
+Option,0,"
+AA) Questão errada 26
 ",,
 ,,,,
 ,,,,
