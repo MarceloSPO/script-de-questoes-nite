@@ -4,10 +4,7 @@ from questions_types.question import MultipleChoiceQuestion
 
 import utils.csv.generate_question_attributes as questions_helper
 
-csv_filename = "questions.csv"
-
-def generate_csv(questions: list[MultipleChoiceQuestion]):
-  
+def generate_csv(questions: list[MultipleChoiceQuestion], csv_filename: str):  
   with open(csv_filename, "w", newline="", encoding="utf-8-sig") as csvfile:
     writer = csv.writer(csvfile)
 
