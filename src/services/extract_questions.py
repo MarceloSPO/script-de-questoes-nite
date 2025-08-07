@@ -15,7 +15,7 @@ class MultipleChoiceOption(TypedDict):
 
 class MultipleChoiceQuestion(TypedDict):
   id: str
-  title: str
+  title: str  
   question_text: str
   points: int
   difficulty: int

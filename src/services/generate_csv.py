@@ -1,0 +1,33 @@
+import csv
+
+from questions_types.question import MultipleChoiceQuestion
+
+import utils.csv.generate_question_attributes as questions_helper
+
+csv_filename = "questions.csv"
+
+def generate_csv(questions: list[MultipleChoiceQuestion]):
+  
+  with open(csv_filename, "w", newline="", encoding="utf-8-sig") as csvfile:
+    writer = csv.writer(csvfile)
+
+    for question in questions:    
+      question_header = questions_helper.generate_question_header("MC")
+      question_id = questions_helper.generate_question_id(question["id"])
+      question_text = questions_helper.generate_question_text(question["question_text"])
+      question_points = questions_helper.generate_question_points(question["points"])
+
+      writer.writerow(question_header)
+      writer.writerow(question_id)
+      writer.writerow(question_text)
+      writer.writerow(question_points)
+
+      for option in question["options"]:
+        question_option = questions_helper.generate_question_option(option_text=option["text"], points=option["answer_value"], feedback=option["feedback"])
+
+        writer.writerow(question_option)
+
+      empty_row = questions_helper.generate_empty_row()
+      writer.writerow(empty_row)
+      writer.writerow(empty_row)
+      
