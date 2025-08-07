@@ -5,6 +5,7 @@ import zipfile
 import shutil
 
 from services.extract_questions import extract_questions
+from services.generate_csv import generate_csv
 
 
 filename = "Pedagogia - Teste UCB EaD.docx"
@@ -31,4 +32,7 @@ with zipfile.ZipFile(file_path, 'r') as docx_zip:
         with open(destiny_path, 'wb') as out_file:
           shutil.copyfileobj(image, out_file)
 
-logging.info(extract_questions(file_path))
+questions = extract_questions(file_path)
+
+generate_csv(questions)
+
