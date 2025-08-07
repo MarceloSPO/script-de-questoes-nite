@@ -103,7 +103,8 @@ def extract_questions(file_path: str):
         question = get_empty_question()
 
 
-      question["id"] = question_id      
+      question["id"] = question_id
+      question["title"] = question_id
     else:
       prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
       question_text = text_paragraph
