@@ -14,11 +14,13 @@ def generate_csv(questions: list[MultipleChoiceQuestion]):
     for question in questions:    
       question_header = questions_helper.generate_question_header("MC")
       question_id = questions_helper.generate_question_id(question["id"])
+      question_title = questions_helper.generate_question_title(question["title"])
       question_text = questions_helper.generate_question_text(question["question_text"], format_html=True)
       question_points = questions_helper.generate_question_points(question["points"])
 
       writer.writerow(question_header)
       writer.writerow(question_id)
+      writer.writerow(question_title)
       writer.writerow(question_text)
       writer.writerow(question_points)
 

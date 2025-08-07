@@ -6,6 +6,9 @@ def generate_question_header(question_type: str):
 def generate_question_id(id: str):
   return ["ID", id, "", ""]
 
+def generate_question_title(title: str = ""):
+  return ["Title", title, "", ""]
+
 def generate_question_text(question_text: str, format_html:bool=False):
   formatted_text = question_text
 
