@@ -9,7 +9,7 @@ from services.generate_csv import generate_csv
 
 from utils.csv.generate_csv_filename import generate_csv_filename
 # filename = "Pedagogia - Teste UCB EaD.docx"
-filename = "Pedagogia - Teste UCB EaD.docx"
+filename = "EXEMPLO.docx"
 
 csv_filename = generate_csv_filename(filename)
 
@@ -37,7 +37,13 @@ with zipfile.ZipFile(file_path, 'r') as docx_zip:
         with open(destiny_path, 'wb') as out_file:
           shutil.copyfileobj(image, out_file)
 
-questions = extract_questions(file_path)
+extracted = extract_questions(file_path)
+questions = extracted["questions"]
+failed = extracted["failed_questions"]
+
+
+for fail in failed:
+  print(f"QUESTÃO FALHOU: {fail["id"]}")
 
 generate_csv(questions, csv_filename)
 

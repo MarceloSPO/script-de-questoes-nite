@@ -3,6 +3,7 @@ from docx.enum.text import WD_COLOR_INDEX
 
 import re
 
+import copy
 
 from typing import TypedDict
 
@@ -37,7 +38,7 @@ def get_question_id(text: str):
 def check_is_question_filled(question: MultipleChoiceQuestion):
   are_filled = question["id"] and len(question["options"]) and question["question_text"]
 
-  return are_filled
+  return bool(are_filled)
 
 def get_empty_question() -> MultipleChoiceQuestion:
   return {
@@ -63,16 +64,17 @@ def extract_questions(file_path: str, are_questions_random: bool = False):
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
   current_option = get_empty_option()
+
+  failed_questions:list[MultipleChoiceQuestion] = []
   
   option_prefix_counter = {}
-  question_text_prefix_counter = {}
+  question_text_prefix_counter = {}  
 
-  for paragraph in doc.paragraphs:    
+  for index, paragraph in enumerate(doc.paragraphs):    
     text_paragraph = paragraph.text.strip()
     is_paragraph_empty = len(text_paragraph) == 0
     is_letter_list = check_is_letter_list(paragraph)
-
-
+    
     if(is_paragraph_empty):
       continue
      
@@ -97,11 +99,14 @@ def extract_questions(file_path: str, are_questions_random: bool = False):
       current_option = get_empty_option()
     elif question_id:      
       is_question_filled = check_is_question_filled(question)
-            
-      if is_question_filled:
-        questions.append(question)        
-        question = get_empty_question()
+      is_first_item = index == 0
 
+      if is_question_filled:        
+        questions.append(question)             
+        question = get_empty_question()  
+      elif not is_first_item and not is_question_filled:
+        copied_question = copy.deepcopy(question)        
+        failed_questions.append(copied_question)                      
 
       question["id"] = question_id
       question["title"] = question_id
@@ -116,5 +121,8 @@ def extract_questions(file_path: str, are_questions_random: bool = False):
 
   if check_is_question_filled(question):
     questions.append(question)
+  else:
+    failed_questions.append(question)
+
   
-  return questions
+  return { "questions": questions, "failed_questions": failed_questions }
