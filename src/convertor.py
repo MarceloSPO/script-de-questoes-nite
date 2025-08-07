@@ -7,16 +7,20 @@ import shutil
 from services.extract_questions import extract_questions
 from services.generate_csv import generate_csv
 
-
+from utils.csv.generate_csv_filename import generate_csv_filename
 # filename = "Pedagogia - Teste UCB EaD.docx"
 filename = "Pedagogia - Teste UCB EaD.docx"
+
+csv_filename = generate_csv_filename(filename)
+
+print(csv_filename)
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 file_path = os.path.join(base_path, "assets", "word", filename)
 
 destiny = r".\src\destiny"
 
-logging.basicConfig(filename='log.txt',
+logging.basicConfig(filename='log-file.txt',
     filemode='w',
     level=logging.DEBUG,
     encoding="utf-8")
@@ -35,5 +39,5 @@ with zipfile.ZipFile(file_path, 'r') as docx_zip:
 
 questions = extract_questions(file_path)
 
-generate_csv(questions)
+generate_csv(questions, csv_filename)
 
