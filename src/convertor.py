@@ -8,7 +8,8 @@ from services.extract_questions import extract_questions
 from services.generate_csv import generate_csv
 
 
-filename = "Pedagogia - Teste UCB EaD.docx"
+# filename = "Pedagogia - Teste UCB EaD.docx"
+filename = "EXEMPLO.docx"
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 file_path = os.path.join(base_path, "assets", "word", filename)
