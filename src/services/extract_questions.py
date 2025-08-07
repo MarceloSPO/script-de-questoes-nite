@@ -58,7 +58,7 @@ def get_empty_option() -> MultipleChoiceQuestion:
   }
 
 
-def extract_questions(file_path: str):
+def extract_questions(file_path: str, are_questions_random: bool = False):
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
@@ -87,7 +87,7 @@ def extract_questions(file_path: str):
       prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)
       option_text = text_paragraph
 
-      if prefix:
+      if prefix and are_questions_random:
         option_text = f"\n{prefix} {option_text}\n"
 
       current_option["text"] += option_text
@@ -108,7 +108,7 @@ def extract_questions(file_path: str):
       prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
       question_text = text_paragraph
 
-      if prefix:
+      if prefix and are_questions_random:
         question_text = f"\n{prefix} {text_paragraph}\n"
       
       question["question_text"] += question_text
