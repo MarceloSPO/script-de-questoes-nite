@@ -1,4 +1,5 @@
 from docx import Document
+from docx.text.paragraph import Paragraph
 from docx.enum.text import WD_COLOR_INDEX
 
 import re
@@ -9,22 +10,15 @@ from typing import TypedDict
 
 from utils.word.check_is_letter_list import check_is_letter_list
 from utils.word.get_list_prefix import prefix_list_items_sequenced
-class MultipleChoiceOption(TypedDict):
-  answer_value: int
-  text: str
-  feedback: str
+from utils.has_image import has_image
+from utils.error_messages import error_messages
+from utils.generate_question_error import generate_question_error
 
-class MultipleChoiceQuestion(TypedDict):
-  id: str
-  title: str  
-  question_text: str
-  points: int
-  difficulty: int
-  image: str
-  options: list[MultipleChoiceOption]
+from questions_types.question import MultipleChoiceQuestion, QuestionError
 
-
-
+class Extract_Question_Props_Return(TypedDict):
+  questions: list[MultipleChoiceQuestion]
+  errors: list[QuestionError]
 
 def get_question_id(text: str):
   id_regex_pattern = r"\b\w{4}_\w{6}_\w{6}_\w{6}_\w{4}\b"
@@ -59,16 +53,18 @@ def get_empty_option() -> MultipleChoiceQuestion:
   }
 
 
-def extract_questions(file_path: str, are_questions_random: bool = False):
+def extract_questions(file_path: str, are_questions_random: bool = False) -> Extract_Question_Props_Return:
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
   current_option = get_empty_option()
 
-  failed_questions:list[MultipleChoiceQuestion] = []
-  
+  question_errors:list[QuestionError] = []
+
   option_prefix_counter = {}
-  question_text_prefix_counter = {}  
+  question_text_prefix_counter = {}
+
+  option_has_image = False  
 
   for index, paragraph in enumerate(doc.paragraphs):    
     text_paragraph = paragraph.text.strip()
@@ -101,18 +97,27 @@ def extract_questions(file_path: str, are_questions_random: bool = False):
       is_question_filled = check_is_question_filled(question)
       is_first_item = index == 0
 
-      if is_question_filled:        
+      if is_question_filled and option_has_image:
+        question_errors.append
+        option_has_image = False
+      elif is_question_filled:        
         questions.append(question)             
         question = get_empty_question()  
-      elif not is_first_item and not is_question_filled:
+      elif not is_first_item:
         copied_question = copy.deepcopy(question)        
-        failed_questions.append(copied_question)                      
+        error_message = error_messages["question_without_options"]
+        
+        question_error = generate_question_error(copied_question, error_message)      
+        question_errors.append(question_error)                                 
+
 
       question["id"] = question_id
       question["title"] = question_id
     else:
       prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
       question_text = text_paragraph
+
+      option_has_image = has_image(paragraph)
 
       if prefix and are_questions_random:
         question_text = f"\n{prefix} {text_paragraph}\n"
@@ -122,7 +127,9 @@ def extract_questions(file_path: str, are_questions_random: bool = False):
   if check_is_question_filled(question):
     questions.append(question)
   else:
-    failed_questions.append(question)
+    error_message = error_messages["question_without_options"]
+    question_error = generate_question_error(question, error_message)
+    question_errors.append(question_error)
 
   
-  return { "questions": questions, "failed_questions": failed_questions }
+  return { "questions": questions, "errors": question_errors }
