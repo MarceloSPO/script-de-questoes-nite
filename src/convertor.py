@@ -13,7 +13,6 @@ filename = "EXEMPLO.docx"
 
 csv_filename = generate_csv_filename(filename)
 
-print(csv_filename)
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 file_path = os.path.join(base_path, "assets", "word", filename)
@@ -37,15 +36,16 @@ with zipfile.ZipFile(file_path, 'r') as docx_zip:
         with open(destiny_path, 'wb') as out_file:
           shutil.copyfileobj(image, out_file)
 
-extracted = extract_questions(file_path)
+extracted = extract_questions(file_path, "EXEMPLO.docx")
 questions = extracted["questions"]
 errors = extracted["errors"]
 
 
 
 for error in errors:
-  print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
-  print(f"MOTIVO: {error['message']}\n\n")
+  # print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
+  # print(f"MOTIVO: {error['message']}\n\n")
+  pass
 
 generate_csv(questions, csv_filename)
 

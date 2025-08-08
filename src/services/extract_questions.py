@@ -8,6 +8,8 @@ import copy
 
 from typing import TypedDict
 
+from services.extract_image_from_paragraph import extract_image_from_paragraph
+
 from utils.word.check_is_letter_list import check_is_letter_list
 from utils.word.get_list_prefix import prefix_list_items_sequenced
 from utils.has_image import has_image
@@ -59,7 +61,7 @@ def add_question_error(question_error: MultipleChoiceQuestion, error_type: str, 
   question_error = generate_question_error(copied_question, error_message)      
   errors.append(question_error)             
 
-def extract_questions(file_path: str, are_questions_random: bool = False) -> Extract_Question_Props_Return:
+def extract_questions(file_path: str, filename: str, are_questions_random: bool = False) -> Extract_Question_Props_Return:
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
@@ -126,8 +128,13 @@ def extract_questions(file_path: str, are_questions_random: bool = False) -> Ext
       question["id"] = question_id
       question["title"] = question_id
     else:
+      question_with_image = has_image(paragraph)
+      
       prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
       question_text = text_paragraph      
+
+      if question_with_image:
+        extract_image_from_paragraph(doc_name=filename,doc=doc, paragraph=paragraph, output_dir="output")
 
       if prefix and are_questions_random:
         question_text = f"\n{prefix} {text_paragraph}\n"
