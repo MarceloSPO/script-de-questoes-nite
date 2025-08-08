@@ -11,7 +11,9 @@ class MultipleChoiceQuestion(TypedDict):
   question_text: str
   points: int
   difficulty: int
-  image: str
+  images: list[str]
   options: list[MultipleChoiceOption]
 
-
+class QuestionError(TypedDict):
+  question: list[MultipleChoiceQuestion]
+  message: str

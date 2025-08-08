@@ -39,11 +39,13 @@ with zipfile.ZipFile(file_path, 'r') as docx_zip:
 
 extracted = extract_questions(file_path)
 questions = extracted["questions"]
-failed = extracted["failed_questions"]
+errors = extracted["errors"]
 
 
-for fail in failed:
-  print(f"QUESTÃO FALHOU: {fail["id"]}")
+
+for error in errors:
+  print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
+  print(f"MOTIVO: {error['message']}\n\n")
 
 generate_csv(questions, csv_filename)
 
