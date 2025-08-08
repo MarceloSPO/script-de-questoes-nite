@@ -52,6 +52,12 @@ def get_empty_option() -> MultipleChoiceQuestion:
     "text": ""
   }
 
+def add_question_error(question_error: MultipleChoiceQuestion, error_type: str, errors: list[QuestionError]):
+  copied_question = copy.deepcopy(question_error)        
+  error_message = error_messages[error_type]
+  
+  question_error = generate_question_error(copied_question, error_message)      
+  errors.append(question_error)             
 
 def extract_questions(file_path: str, are_questions_random: bool = False) -> Extract_Question_Props_Return:
   doc = Document(file_path)
@@ -84,6 +90,15 @@ def extract_questions(file_path: str, are_questions_random: bool = False) -> Ext
 
       prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)
       option_text = text_paragraph
+      option_has_image = has_image(paragraph)      
+
+      if option_has_image:
+        add_question_error(
+          question_error=question, 
+          error_type="option_with_image", 
+          errors=question_errors)
+                
+        option_has_image = False   
 
       if prefix and are_questions_random:
         option_text = f"\n{prefix} {option_text}\n"
@@ -95,29 +110,24 @@ def extract_questions(file_path: str, are_questions_random: bool = False) -> Ext
       current_option = get_empty_option()
     elif question_id:      
       is_question_filled = check_is_question_filled(question)
-      is_first_item = index == 0
+      is_first_item = index == 0      
 
-      if is_question_filled and option_has_image:
-        question_errors.append
-        option_has_image = False
-      elif is_question_filled:        
+      if is_question_filled:        
         questions.append(question)             
         question = get_empty_question()  
       elif not is_first_item:
-        copied_question = copy.deepcopy(question)        
-        error_message = error_messages["question_without_options"]
-        
-        question_error = generate_question_error(copied_question, error_message)      
-        question_errors.append(question_error)                                 
+        add_question_error(
+          question_error=question,
+          error_type="question_without_options",
+          errors=question_errors
+        )                               
 
 
       question["id"] = question_id
       question["title"] = question_id
     else:
       prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
-      question_text = text_paragraph
-
-      option_has_image = has_image(paragraph)
+      question_text = text_paragraph      
 
       if prefix and are_questions_random:
         question_text = f"\n{prefix} {text_paragraph}\n"
@@ -127,9 +137,10 @@ def extract_questions(file_path: str, are_questions_random: bool = False) -> Ext
   if check_is_question_filled(question):
     questions.append(question)
   else:
-    error_message = error_messages["question_without_options"]
-    question_error = generate_question_error(question, error_message)
-    question_errors.append(question_error)
-
+    add_question_error(
+      question_error=question,
+      error_type="question_without_options",
+      errors=question_errors
+    )
   
   return { "questions": questions, "errors": question_errors }
