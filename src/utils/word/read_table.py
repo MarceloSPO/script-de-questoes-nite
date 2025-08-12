@@ -1,7 +1,7 @@
 from docx.table import Table
 from docx.document import Document
 from docx.oxml.table import CT_Tbl
-from utils.word.get_expressions import get_text_expressions
+from utils.word.get_expressions import get_text_with_math_and_html
 
 from utils.html.format_table import format_table_cell
 
@@ -15,14 +15,15 @@ def read_table(element: CT_Tbl, doc: Document) -> str:
   for row in table.rows:
     current_row = []
     
-    for cell in row.cells:
-      formatted_cell = format_table_cell(get_text_expressions(cell), is_first_row)        
+    for cell in row.cells:      
+      formatted_cell = format_table_cell(get_text_with_math_and_html(cell), is_first_row)        
       current_row.append(formatted_cell)
     
     if is_first_row:
       colspan_size = len(current_row)
     
-    filtered_row = list(set(current_row))
+   
+    filtered_row =  list( dict.fromkeys(current_row) )
     filtered_row_len = len(filtered_row)
 
     joined_row = "".join(filtered_row)
