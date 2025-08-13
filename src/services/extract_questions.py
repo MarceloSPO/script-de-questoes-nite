@@ -2,6 +2,7 @@ from docx import Document
 from docx.text.paragraph import Paragraph
 from docx.table import Table
 from docx.enum.text import WD_COLOR_INDEX
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 import re
 
@@ -17,6 +18,7 @@ from utils.word.get_list_prefix import prefix_list_items_sequenced
 from utils.word.is_paragraph import is_paragraph
 from utils.word.is_table import is_table
 from utils.word.read_table import read_table
+from utils.word.get_paragraph_font_size import get_paragraph_font_size
 from utils.has_image import has_image
 from utils.error_messages import error_messages
 from utils.generate_question_error import generate_question_error
@@ -136,7 +138,7 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
         question["id"] = question_id
         question["title"] = question_id
       else:
-        question_with_image = has_image(paragraph)
+        question_with_image = has_image(paragraph)        
         
         prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
         paragraph_in_html = get_text_with_math_and_html(paragraph)
@@ -147,11 +149,13 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
 
         if prefix and not are_questions_random:
           question_text = f"\n{prefix} {question_text}\n"
-        
-        question["question_text"] += question_text
+
+        size = get_paragraph_font_size(paragraph)        
+                            
+        question["question_text"] += f"<p style='font-size:{size}'>{question_text}</p>"
     elif is_table(element):          
       table_html = read_table(element, doc)
-      question["question_text"] += f"</p>\n\n{table_html}\n\n<p style='text-align:justify;'>"
+      question["question_text"] += f"\n\n{table_html}\n\n"
 
           
 

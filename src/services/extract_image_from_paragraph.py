@@ -5,7 +5,7 @@ from docx.document import Document
 from docx.oxml.ns import qn
 
 from utils.image.generate_image_name import generate_image_name
-
+from utils.word.namespaces import NAMESPACES
 
 def extract_image_from_paragraph(doc_name: str, doc: Document, paragraph: Paragraph, output_dir: str):
   para_xml = paragraph._element
@@ -15,13 +15,6 @@ def extract_image_from_paragraph(doc_name: str, doc: Document, paragraph: Paragr
 
   if drawings:      
     for drawing in drawings:          
-
-      NAMESPACES = {
-        "w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
-        "a": "http://schemas.openxmlformats.org/drawingml/2006/main",
-        "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-      }
-  
       blip = drawing.find(".//a:blip", namespaces=NAMESPACES)      
       if blip is not None:
         embed_rid = blip.get(qn("r:embed"))

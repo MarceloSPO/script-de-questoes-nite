@@ -12,8 +12,8 @@ def generate_question_title(title: str = ""):
 def generate_question_text(question_text: str, format_html:bool=False):
   formatted_text = question_text
 
-  if format_html:
-    formatted_text = format_with_html(question_text)
+  # if format_html:
+  #   formatted_text = format_with_html(question_text)
 
   return ["QuestionText", formatted_text, "HTML" if format_html else "", ""]
 
