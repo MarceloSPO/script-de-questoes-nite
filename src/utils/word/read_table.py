@@ -15,10 +15,14 @@ def read_table(element: CT_Tbl, doc: Document) -> str:
   for row in table.rows:
     current_row = []
     
-    for cell in row.cells:      
-      formatted_cell = get_text_with_math_and_html(cell)
-      formatted_cell = format_table_cell(formatted_cell, is_first_row)        
-      current_row.append(formatted_cell)
+    for cell in row.cells:
+      cell_text = ""
+      for paragraph in cell.paragraphs:        
+        formatted_cell_paragraph = get_text_with_math_and_html(paragraph)        
+        cell_text += formatted_cell_paragraph        
+      
+      cell_text = format_table_cell(cell_text, is_first_row)
+      current_row.append(cell_text)
     
     if is_first_row:
       colspan_size = len(current_row)
