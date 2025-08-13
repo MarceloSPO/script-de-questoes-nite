@@ -10,8 +10,15 @@ from typing import TypedDict
 
 from services.extract_image_from_paragraph import extract_image_from_paragraph
 
+from utils.word.get_styled_paragraph_str import get_styled_paragraph_str
 from utils.word.check_is_letter_list import check_is_letter_list
+from utils.word.get_expressions import get_text_with_math_and_html
 from utils.word.get_list_prefix import prefix_list_items_sequenced
+from utils.word.is_paragraph import is_paragraph
+from utils.word.is_table import is_table
+from utils.word.read_table import read_table
+from utils.word.get_paragraph_font_size import get_paragraph_font_size
+from utils.word.get_paragraph_css_alignment import get_paragraph_css_alignment
 from utils.has_image import has_image
 from utils.error_messages import error_messages
 from utils.generate_question_error import generate_question_error
@@ -61,7 +68,7 @@ def add_question_error(question_error: MultipleChoiceQuestion, error_type: str, 
   question_error = generate_question_error(copied_question, error_message)      
   errors.append(question_error)             
 
-def extract_questions(file_path: str, filename: str, are_questions_random: bool = False) -> Extract_Question_Props_Return:
+def extract_questions(file_path: str, filename: str, are_questions_random: bool = True) -> Extract_Question_Props_Return:
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
@@ -74,72 +81,81 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
 
   option_has_image = False  
 
-  for index, paragraph in enumerate(doc.paragraphs):    
-    text_paragraph = paragraph.text.strip()
-    is_paragraph_empty = len(text_paragraph) == 0
-    is_letter_list = check_is_letter_list(paragraph)
-    
-    if(is_paragraph_empty):
-      continue
-     
-    question_id = get_question_id(text_paragraph)      
+  for index, element in enumerate(doc.element.body):
+
+    if is_paragraph(element):
+      paragraph = Paragraph(element, doc)
+      text_paragraph = paragraph.text.strip()
+      is_paragraph_empty = len(text_paragraph) == 0
+      is_letter_list = check_is_letter_list(paragraph)
+      
+      if(is_paragraph_empty):
+        continue
+      
+      question_id = get_question_id(text_paragraph)      
+          
+      if is_letter_list:
+        for run in paragraph.runs:
+          if run.font.highlight_color == WD_COLOR_INDEX.YELLOW:
+            current_option["answer_value"] = 100
+            break
+
+        prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)
+        option_text = text_paragraph
+        option_has_image = has_image(paragraph)      
+
+        if option_has_image:
+          add_question_error(
+            question_error=question, 
+            error_type="option_with_image", 
+            errors=question_errors)
+                  
+          option_has_image = False   
+
+        if prefix and not are_questions_random:
+          prefix = f"{prefix} "
+        else:
+          prefix = None
+
+        current_option["text"] += get_styled_paragraph_str(paragraph, prefix)
+
         
-    if is_letter_list:                
-      for run in paragraph.runs:
-        if run.font.highlight_color == WD_COLOR_INDEX.YELLOW:
-          current_option["answer_value"] = 100      
-          break
+        question["options"].append(current_option)        
+        current_option = get_empty_option()
+      elif question_id:      
+        is_question_filled = check_is_question_filled(question)
+        is_first_item = index == 0      
 
-      prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)
-      option_text = text_paragraph
-      option_has_image = has_image(paragraph)      
-
-      if option_has_image:
-        add_question_error(
-          question_error=question, 
-          error_type="option_with_image", 
-          errors=question_errors)
-                
-        option_has_image = False   
-
-      if prefix and are_questions_random:
-        option_text = f"\n{prefix} {option_text}\n"
-
-      current_option["text"] += option_text
-
-      
-      question["options"].append(current_option)        
-      current_option = get_empty_option()
-    elif question_id:      
-      is_question_filled = check_is_question_filled(question)
-      is_first_item = index == 0      
-
-      if is_question_filled:        
-        questions.append(question)             
-        question = get_empty_question()  
-      elif not is_first_item:
-        add_question_error(
-          question_error=question,
-          error_type="question_without_options",
-          errors=question_errors
-        )                               
+        if is_question_filled:        
+          questions.append(question)             
+          question = get_empty_question()  
+        elif not is_first_item:
+          add_question_error(
+            question_error=question,
+            error_type="question_without_options",
+            errors=question_errors
+          )                               
 
 
-      question["id"] = question_id
-      question["title"] = question_id
-    else:
-      question_with_image = has_image(paragraph)
-      
-      prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
-      question_text = text_paragraph      
+        question["id"] = question_id
+        question["title"] = question_id
+      else:
+        question_with_image = has_image(paragraph)        
+        
+        prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
+        
+        if question_with_image:
+          extract_image_from_paragraph(doc_name=filename,doc=doc, paragraph=paragraph, output_dir="output")
+        
+        if prefix:
+          prefix = f"{prefix} "        
 
-      if question_with_image:
-        extract_image_from_paragraph(doc_name=filename,doc=doc, paragraph=paragraph, output_dir="output")
+        question["question_text"] += get_styled_paragraph_str(paragraph, prefix)
+    elif is_table(element):          
+      table_html = read_table(element, doc)
+      question["question_text"] += f"\n\n{table_html}\n\n"
 
-      if prefix and are_questions_random:
-        question_text = f"\n{prefix} {text_paragraph}\n"
-      
-      question["question_text"] += question_text
+          
 
   if check_is_question_filled(question):
     questions.append(question)

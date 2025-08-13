@@ -22,7 +22,7 @@ def generate_csv(questions: list[MultipleChoiceQuestion], csv_filename: str):
       writer.writerow(question_points)
 
       for option in question["options"]:
-        question_option = questions_helper.generate_question_option(option_text=option["text"], points=option["answer_value"], feedback=option["feedback"])
+        question_option = questions_helper.generate_question_option(option_text=option["text"], points=option["answer_value"], feedback=option["feedback"], format_html=True)
 
         writer.writerow(question_option)
 
