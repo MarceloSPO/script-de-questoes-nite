@@ -1,8 +1,6 @@
 from docx import Document
 from docx.text.paragraph import Paragraph
-from docx.table import Table
 from docx.enum.text import WD_COLOR_INDEX
-from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 import re
 
@@ -12,6 +10,7 @@ from typing import TypedDict
 
 from services.extract_image_from_paragraph import extract_image_from_paragraph
 
+from utils.word.get_styled_paragraph_str import get_styled_paragraph_str
 from utils.word.check_is_letter_list import check_is_letter_list
 from utils.word.get_expressions import get_text_with_math_and_html
 from utils.word.get_list_prefix import prefix_list_items_sequenced
@@ -19,6 +18,7 @@ from utils.word.is_paragraph import is_paragraph
 from utils.word.is_table import is_table
 from utils.word.read_table import read_table
 from utils.word.get_paragraph_font_size import get_paragraph_font_size
+from utils.word.get_paragraph_css_alignment import get_paragraph_css_alignment
 from utils.has_image import has_image
 from utils.error_messages import error_messages
 from utils.generate_question_error import generate_question_error
@@ -113,9 +113,11 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
           option_has_image = False   
 
         if prefix and not are_questions_random:
-          option_text = f"\n{prefix} {option_text}\n"
+          prefix = f"{prefix} "
+        else:
+          prefix = None
 
-        current_option["text"] += option_text
+        current_option["text"] += get_styled_paragraph_str(paragraph, prefix)
 
         
         question["options"].append(current_option)        
@@ -141,18 +143,14 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
         question_with_image = has_image(paragraph)        
         
         prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
-        paragraph_in_html = get_text_with_math_and_html(paragraph)
-        question_text = paragraph_in_html
         
         if question_with_image:
           extract_image_from_paragraph(doc_name=filename,doc=doc, paragraph=paragraph, output_dir="output")
+        
+        if prefix:
+          prefix = f"{prefix} "        
 
-        if prefix and not are_questions_random:
-          question_text = f"\n{prefix} {question_text}\n"
-
-        size = get_paragraph_font_size(paragraph)        
-                            
-        question["question_text"] += f"<p style='font-size:{size}'>{question_text}</p>"
+        question["question_text"] += get_styled_paragraph_str(paragraph, prefix)
     elif is_table(element):          
       table_html = read_table(element, doc)
       question["question_text"] += f"\n\n{table_html}\n\n"
