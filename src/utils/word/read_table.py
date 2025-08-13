@@ -16,7 +16,8 @@ def read_table(element: CT_Tbl, doc: Document) -> str:
     current_row = []
     
     for cell in row.cells:      
-      formatted_cell = format_table_cell(get_text_with_math_and_html(cell), is_first_row)        
+      formatted_cell = get_text_with_math_and_html(cell)
+      formatted_cell = format_table_cell(formatted_cell, is_first_row)        
       current_row.append(formatted_cell)
     
     if is_first_row:

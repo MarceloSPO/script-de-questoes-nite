@@ -1,5 +1,5 @@
 
-def format_table_cell(cell_text: str, is_first_row: bool):
+def format_table_cell(cell_text: str, is_first_row: bool):  
   if is_first_row:
     return f"<th style='border: 2px solid #006fbf;border-radius: 5px;padding:5px;background:#006fbf4d;'>{cell_text.strip()}</th>"
   
