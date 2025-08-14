@@ -78,15 +78,16 @@ def extract_questions(file_path: str, are_questions_random: bool = True) -> Extr
   question_has_image = False
   option_has_image = False  
 
-  for index, element in enumerate(doc.element.body):          
-    
-    if is_paragraph(element):
+  for index, element in enumerate(doc.element.body):    
+    if is_paragraph(element):      
       paragraph = Paragraph(element, doc)
       text_paragraph = paragraph.text.strip()
       is_paragraph_empty = len(text_paragraph) == 0
-      is_letter_list = check_is_letter_list(paragraph)
-      
+      is_letter_list = check_is_letter_list(paragraph)      
+
       if(is_paragraph_empty):
+        if has_image(paragraph):      
+          add_question_error(question_error=question, error_type="question_with_image", errors=question_errors)
         continue
       
       question_id = get_question_id(text_paragraph)      
@@ -100,8 +101,7 @@ def extract_questions(file_path: str, are_questions_random: bool = True) -> Extr
         prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)        
         option_has_image = has_image(paragraph)      
 
-        if option_has_image:
-          print("OPTION HAS IMAGE")
+        if option_has_image:          
           add_question_error(
             question_error=question, 
             error_type="option_with_image", 
@@ -137,8 +137,7 @@ def extract_questions(file_path: str, are_questions_random: bool = True) -> Extr
         question["id"] = question_id
         question["title"] = question_id
       else:
-        question_has_image = has_image(paragraph)        
-        
+        question_has_image = has_image(paragraph)                
         prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)        
         if question_has_image:          
           add_question_error(
@@ -146,13 +145,13 @@ def extract_questions(file_path: str, are_questions_random: bool = True) -> Extr
             error_type="question_with_image",
             errors=question_errors
           )
-          question_has_image = False
+          
 
         if prefix:
           prefix = f"{prefix} "        
 
         question["question_text"] += get_styled_paragraph_str(paragraph, prefix)
-    elif is_table(element):          
+    elif is_table(element):      
       table_html = read_table(element, doc)
       question["question_text"] += f"\n\n{table_html}\n\n"
 

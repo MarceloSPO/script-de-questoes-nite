@@ -40,8 +40,6 @@ extracted = extract_questions(file_path, are_questions_random=False)
 questions = extracted["questions"]
 errors = extracted["errors"]
 
-
-
 for error in errors:
   print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
   print(f"MOTIVO: {error['message']}\n\n")  

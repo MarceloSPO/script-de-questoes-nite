@@ -21,10 +21,8 @@ def extract_image_from_paragraph(doc_name: str, doc: Document, paragraph: Paragr
         if embed_rid:                  
           image_part = doc.part.related_parts[embed_rid]
           image_bytes = image_part.blob
-          image_extension = image_part.content_type.split("/")[-1]
-          print("doc_mame", doc_name)
-          image_filename = generate_image_name(filename=doc_name, extension=image_extension)
-          print("IMAGE NAME", image_filename)
+          image_extension = image_part.content_type.split("/")[-1]          
+          image_filename = generate_image_name(filename=doc_name, extension=image_extension)          
           image_path = os.path.join(output_dir, image_filename)
           with open(image_path, "wb") as f:
             f.write(image_bytes)
