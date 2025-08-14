@@ -1,8 +1,11 @@
-from docx.oxml.ns import qn
 from docx.text.paragraph import Paragraph
 
 def has_image(paragraph: Paragraph):
-  for run in paragraph.runs:
-      if run._element.find(qn('w:drawing')) is not None or run._element.find(qn('w:pict')) is not None:
-          return True
-  return False
+    p = paragraph._element    
+    if p.xpath('.//*[local-name()="drawing"]'):
+        return True    
+    if p.xpath('.//*[local-name()="pict"]//*[local-name()="imagedata"]'):
+        return True
+    if p.xpath('.//*[local-name()="object"]//*[local-name()="imagedata"]'):
+        return True
+    return False
