@@ -36,16 +36,15 @@ with zipfile.ZipFile(file_path, 'r') as docx_zip:
         with open(destiny_path, 'wb') as out_file:
           shutil.copyfileobj(image, out_file)
 
-extracted = extract_questions(file_path, "EXEMPLO.docx", are_questions_random=False)
+extracted = extract_questions(file_path, are_questions_random=False)
 questions = extracted["questions"]
 errors = extracted["errors"]
 
 
 
 for error in errors:
-  # print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
-  # print(f"MOTIVO: {error['message']}\n\n")
-  pass
+  print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
+  print(f"MOTIVO: {error['message']}\n\n")  
 
 generate_csv(questions, csv_filename)
 
