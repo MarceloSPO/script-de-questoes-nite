@@ -8,17 +8,13 @@ import copy
 
 from typing import TypedDict
 
-from services.extract_image_from_paragraph import extract_image_from_paragraph
 
 from utils.word.get_styled_paragraph_str import get_styled_paragraph_str
 from utils.word.check_is_letter_list import check_is_letter_list
-from utils.word.get_expressions import get_text_with_math_and_html
 from utils.word.get_list_prefix import prefix_list_items_sequenced
 from utils.word.is_paragraph import is_paragraph
 from utils.word.is_table import is_table
 from utils.word.read_table import read_table
-from utils.word.get_paragraph_font_size import get_paragraph_font_size
-from utils.word.get_paragraph_css_alignment import get_paragraph_css_alignment
 from utils.has_image import has_image
 from utils.error_messages import error_messages
 from utils.generate_question_error import generate_question_error
@@ -68,7 +64,7 @@ def add_question_error(question_error: MultipleChoiceQuestion, error_type: str, 
   question_error = generate_question_error(copied_question, error_message)      
   errors.append(question_error)             
 
-def extract_questions(file_path: str, filename: str, are_questions_random: bool = True) -> Extract_Question_Props_Return:
+def extract_questions(file_path: str, are_questions_random: bool = True) -> Extract_Question_Props_Return:
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
@@ -79,10 +75,11 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
   option_prefix_counter = {}
   question_text_prefix_counter = {}
 
+  question_has_image = False
   option_has_image = False  
 
-  for index, element in enumerate(doc.element.body):
-
+  for index, element in enumerate(doc.element.body):          
+    
     if is_paragraph(element):
       paragraph = Paragraph(element, doc)
       text_paragraph = paragraph.text.strip()
@@ -100,11 +97,11 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
             current_option["answer_value"] = 100
             break
 
-        prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)
-        option_text = text_paragraph
+        prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)        
         option_has_image = has_image(paragraph)      
 
         if option_has_image:
+          print("OPTION HAS IMAGE")
           add_question_error(
             question_error=question, 
             error_type="option_with_image", 
@@ -140,13 +137,17 @@ def extract_questions(file_path: str, filename: str, are_questions_random: bool 
         question["id"] = question_id
         question["title"] = question_id
       else:
-        question_with_image = has_image(paragraph)        
+        question_has_image = has_image(paragraph)        
         
-        prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)
-        
-        if question_with_image:
-          extract_image_from_paragraph(doc_name=filename,doc=doc, paragraph=paragraph, output_dir="output")
-        
+        prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)        
+        if question_has_image:          
+          add_question_error(
+            question_error=question,
+            error_type="question_with_image",
+            errors=question_errors
+          )
+          question_has_image = False
+
         if prefix:
           prefix = f"{prefix} "        
 
