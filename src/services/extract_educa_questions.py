@@ -64,7 +64,7 @@ def add_question_error(question_error: MultipleChoiceQuestion, error_type: str, 
   question_error = generate_question_error(copied_question, error_message)      
   errors.append(question_error)             
 
-def extract_questions(file_path: str, are_questions_random: bool = True) -> Extract_Question_Props_Return:
+def extract_educa_questions(file_path: str, are_questions_random: bool = True) -> Extract_Question_Props_Return:
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
