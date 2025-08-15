@@ -25,8 +25,7 @@ def convertor(filename: str, are_questions_random: bool, type: QuestionsType):
     extracted = extract_educa_questions(file_path, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]
-  elif type == QuestionsType.PPD:
-    print("PPD")
+  elif type == QuestionsType.PPD:    
     extracted = extract_ppd_questions(file_path, are_questions_random=are_questions_random)
   else:
     raise Exception("O tipo da questão pode apenas ser PPD ou EDUCA!")
@@ -40,4 +39,4 @@ def convertor(filename: str, are_questions_random: bool, type: QuestionsType):
 
   return { "errors": errors, "had_error": True if len(errors) > 0 else False }
 
-convertor(filename="modelo-de-questao-educa.docx", are_questions_random=True, type=QuestionsType.EDUCA)
+convertor(filename="ppd-teste.docx", are_questions_random=True, type=QuestionsType.PPD)
