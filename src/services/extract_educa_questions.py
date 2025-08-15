@@ -53,7 +53,6 @@ def extract_educa_questions(file_path: str, are_questions_random: bool = True) -
             current_option["answer_value"] = 100
             break
 
-        prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)        
         option_has_image = has_image(paragraph)      
 
         if option_has_image:          
@@ -64,15 +63,15 @@ def extract_educa_questions(file_path: str, are_questions_random: bool = True) -
                   
           option_has_image = False   
 
+        prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)        
         if prefix and not are_questions_random:
           prefix = f"{prefix} "
         else:
           prefix = None
 
-        current_option["text"] += get_styled_paragraph_str(paragraph, prefix)
-
-        
+        current_option["text"] += get_styled_paragraph_str(paragraph, prefix)        
         question["options"].append(current_option)        
+        
         current_option = get_empty_option()
       elif question_id:      
         is_question_filled = check_is_question_filled(question)
@@ -92,8 +91,7 @@ def extract_educa_questions(file_path: str, are_questions_random: bool = True) -
         question["id"] = question_id
         question["title"] = question_id
       else:
-        question_has_image = has_image(paragraph)                
-        prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)        
+        question_has_image = has_image(paragraph)
         if question_has_image:          
           add_question_error(
             question_error=question,
@@ -101,7 +99,7 @@ def extract_educa_questions(file_path: str, are_questions_random: bool = True) -
             errors=question_errors
           )
           
-
+        prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)        
         if prefix:
           prefix = f"{prefix} "        
 

@@ -27,6 +27,8 @@ def convertor(filename: str, are_questions_random: bool, type: QuestionsType):
     errors = extracted["errors"]
   elif type == QuestionsType.PPD:    
     extracted = extract_ppd_questions(file_path, are_questions_random=are_questions_random)
+    questions = extracted["questions"]
+    errors = extracted["errors"]
   else:
     raise Exception("O tipo da questão pode apenas ser PPD ou EDUCA!")
   
