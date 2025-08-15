@@ -40,4 +40,4 @@ def convertor(filename: str, are_questions_random: bool, type: QuestionsType):
 
   return { "errors": errors, "had_error": True if len(errors) > 0 else False }
 
-convertor(filename="modelo-de-questao-educa.docx", are_questions_random=True, type=QuestionsType.PPD)
+convertor(filename="modelo-de-questao-educa.docx", are_questions_random=True, type=QuestionsType.EDUCA)

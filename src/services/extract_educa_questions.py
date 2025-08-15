@@ -2,12 +2,6 @@ from docx import Document
 from docx.text.paragraph import Paragraph
 from docx.enum.text import WD_COLOR_INDEX
 
-import re
-
-import copy
-
-from typing import TypedDict
-
 
 from utils.word.get_styled_paragraph_str import get_styled_paragraph_str
 from utils.word.check_is_letter_list import check_is_letter_list
@@ -16,55 +10,16 @@ from utils.word.is_paragraph import is_paragraph
 from utils.word.is_table import is_table
 from utils.word.read_table import read_table
 from utils.has_image import has_image
-from utils.error_messages import error_messages
-from utils.generate_question_error import generate_question_error
+
+from utils.extractors.get_question_id import get_question_id
+from utils.extractors.check_is_question_filled import check_is_question_filled
+from utils.extractors.question_getters import get_empty_question, get_empty_option
+from utils.extractors.add_question_error import add_question_error
 
 from questions_types.question import MultipleChoiceQuestion, QuestionError
+from questions_types.extractors import ExtractQuestionPropsReturn
 
-class Extract_Question_Props_Return(TypedDict):
-  questions: list[MultipleChoiceQuestion]
-  errors: list[QuestionError]
-
-def get_question_id(text: str):
-  id_regex_pattern = r"\b\w{4}_\w{6}_\w{6}_\w{6}_\w{4}\b"
-  result = re.findall(id_regex_pattern, text)
-
-  if result:
-    return result[0]
-  return None
-
-
-def check_is_question_filled(question: MultipleChoiceQuestion):
-  are_filled = question["id"] and len(question["options"]) and question["question_text"]
-
-  return bool(are_filled)
-
-def get_empty_question() -> MultipleChoiceQuestion:
-  return {
-    "id": None,
-    "difficulty": None,
-    "image": None,
-    "options": [],
-    "points": None,
-    "question_text": "",
-    "title": None
-  }
-
-def get_empty_option() -> MultipleChoiceQuestion:
-  return {
-    "answer_value": 0,
-    "feedback": None,
-    "text": ""
-  }
-
-def add_question_error(question_error: MultipleChoiceQuestion, error_type: str, errors: list[QuestionError]):
-  copied_question = copy.deepcopy(question_error)        
-  error_message = error_messages[error_type]
-  
-  question_error = generate_question_error(copied_question, error_message)      
-  errors.append(question_error)             
-
-def extract_educa_questions(file_path: str, are_questions_random: bool = True) -> Extract_Question_Props_Return:
+def extract_educa_questions(file_path: str, are_questions_random: bool = True) -> ExtractQuestionPropsReturn:
   doc = Document(file_path)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
