@@ -7,6 +7,7 @@ def get_empty_question() -> MultipleChoiceQuestion:
     "image": None,
     "options": [],
     "points": None,
+    "feedback": "",
     "question_text": "",
     "title": None
   }

@@ -129,6 +129,23 @@ def extract_ppd_questions(file_path: str, are_questions_random: bool = False):
                 )
               formatted_paragraph = handle_format_with_html_and_prefix(paragraph, with_prefix=True, option_prefix_counter=question_text_prefix_counter)
               question["question_text"] += formatted_paragraph
+      elif row_index == 5:
+        for cell in list(dict.fromkeys(row.cells)):
+          question_text_prefix_counter = {}      
+          for paragraph in cell.paragraphs: 
+            if paragraph.runs:
+              paragraph.runs[0].text = paragraph.runs[0].text.replace("Feedback:", "")
+
+            question_has_image = has_image(paragraph)
+            if question_has_image:     
+              add_question_error(
+                question_error=question,
+                error_type="feed_back_with_image",
+                errors=question_errors
+              )
+            formatted_paragraph = handle_format_with_html_and_prefix(paragraph, with_prefix=True, option_prefix_counter=question_text_prefix_counter)
+            
+            question["feedback"] += formatted_paragraph              
   questions.append(question)
   question = get_empty_question()
                           

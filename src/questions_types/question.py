@@ -11,6 +11,7 @@ class MultipleChoiceQuestion(TypedDict):
   question_text: str
   points: int
   difficulty: int
+  feedback: str
   images: list[str]
   options: list[MultipleChoiceOption]
 

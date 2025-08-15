@@ -14,6 +14,7 @@ def generate_csv(questions: list[MultipleChoiceQuestion], csv_filename: str):
       question_title = questions_helper.generate_question_title(question["title"])
       question_text = questions_helper.generate_question_text(question["question_text"], format_html=True)
       question_points = questions_helper.generate_question_points(question["points"])
+      question_feedback = questions_helper.generate_question_feedback(question["feedback"])
 
       writer.writerow(question_header)
       writer.writerow(question_id)
@@ -26,6 +27,8 @@ def generate_csv(questions: list[MultipleChoiceQuestion], csv_filename: str):
 
         writer.writerow(question_option)
 
+      writer.writerow(question_feedback)
+      
       empty_row = questions_helper.generate_empty_row()
       writer.writerow(empty_row)
       writer.writerow(empty_row)

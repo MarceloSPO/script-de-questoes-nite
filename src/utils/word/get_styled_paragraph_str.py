@@ -6,7 +6,7 @@ from utils.word.get_paragraph_font_size import get_paragraph_font_size
 
 def get_styled_paragraph_str(paragraph: Paragraph, prefix: str | None=""):
   paragraph_in_html = get_text_with_math_and_html(paragraph)
-  question_text = paragraph_in_html
+  question_text = paragraph_in_html.strip()
 
   size = get_paragraph_font_size(paragraph)
   css_alignment = get_paragraph_css_alignment(paragraph)          
