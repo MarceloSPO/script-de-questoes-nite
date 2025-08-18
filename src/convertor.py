@@ -28,10 +28,6 @@ def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, t
     errors = extracted["errors"]
   else:
     raise Exception("O tipo da questão pode apenas ser PPD ou EDUCA!")
-  
-  for error in errors:
-    print(f"QUESTÃO FALHOU: {error["question"]["id"]}")
-    print(f"MOTIVO: {error['message']}\n\n")  
 
   csv_filename = generate_csv_filename(filename)
 
