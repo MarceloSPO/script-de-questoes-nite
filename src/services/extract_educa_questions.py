@@ -1,3 +1,4 @@
+from io import BytesIO
 from docx import Document
 from docx.text.paragraph import Paragraph
 from docx.enum.text import WD_COLOR_INDEX
@@ -19,8 +20,8 @@ from utils.extractors.add_question_error import add_question_error
 from questions_types.question import MultipleChoiceQuestion, QuestionError
 from questions_types.extractors import ExtractQuestionPropsReturn
 
-def extract_educa_questions(file_path: str, are_questions_random: bool = True) -> ExtractQuestionPropsReturn:
-  doc = Document(file_path)
+def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = True) -> ExtractQuestionPropsReturn:
+  doc = Document(file_stream)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
   current_option = get_empty_option()

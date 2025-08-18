@@ -1,3 +1,4 @@
+from io import BytesIO
 from docx import Document
 
 from docx.text.paragraph import Paragraph
@@ -37,8 +38,8 @@ def handle_format_with_html_and_prefix(paragraph: Paragraph, with_prefix: bool, 
   formatted_paragraph = get_styled_paragraph_str(paragraph, prefix)
   return formatted_paragraph
 
-def extract_ppd_questions(file_path: str, are_questions_random: bool = False):
-  doc = Document(file_path)
+def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = False):
+  doc = Document(file_stream)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
   current_option = get_empty_option()

@@ -1,0 +1,755 @@
+html_page = """<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gerador de CSV | NITE</title>
+    <style>
+      :root {
+        --azul: #1e3f94;
+        --azul-escuro: #182f6e;
+        --fundo: #f6f8ff;
+        --card: #ffffff;
+        --cinza: #6b7280;
+        --borda: #e5e7eb;
+        --ok: #16a34a;
+        --erro: #dc2626;
+        --focus: #2563eb;
+        --radius: 14px;
+        --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+          "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji",
+          "Segoe UI Emoji";
+        background: radial-gradient(
+            1200px 600px at 80% -10%,
+            rgba(30, 63, 148, 0.15),
+            transparent 60%
+          )
+          var(--fundo);
+        color: #0b1324;
+      }
+
+      header {
+        background: linear-gradient(135deg, var(--azul), var(--azul-escuro));
+        color: #fff;
+        padding: 26px 20px;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        box-shadow: 0 6px 18px rgba(30, 63, 148, 0.25);
+        animation: drop-in 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+      }
+      header .wrap {
+        max-width: 920px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        gap: 14px;
+      }
+      header .logo {
+        width: auto;
+        height: auto;
+        padding: 0 10px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 0.18);
+        display: grid;
+        place-items: center;
+        backdrop-filter: blur(3px);
+        box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+        animation: floaty 6s ease-in-out infinite;
+      }
+      header h1 {
+        font-size: 20px;
+        margin: 0;
+        letter-spacing: 0.3px;
+        font-weight: 700;
+      }
+      header p {
+        margin: 0;
+        opacity: 0.85;
+        font-size: 13px;
+      }
+
+      .container {
+        max-width: 920px;
+        margin: 40px auto;
+        padding: 0 16px;
+        animation: fade-up 0.6s 0.15s both;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--borda);
+        border-radius: var(--radius);
+        padding: 26px;
+        box-shadow: var(--shadow);
+      }
+
+      .title {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin: 0 0 14px;
+        font-size: 18px;
+        font-weight: 700;
+      }
+      .subtitle {
+        margin: 0 0 22px;
+        color: var(--cinza);
+        font-size: 14px;
+      }
+
+      .drop-wrapper {
+        width: 300px;
+        height: 100px;
+        position: relative;
+        margin-bottom: 30px;
+        margin: auto;
+      }
+
+      .dropzone {
+        border: 2px dashed #c7d2fe;
+        width: 100px;
+        background: #f8fafc;
+        border-radius: 12px;
+        padding: 26px;
+        text-align: center;
+        transition: transform 0.2s ease, box-shadow 0.2s ease,
+          border-color 0.2s ease, background 0.2s ease;
+        cursor: pointer;
+        position: absolute;
+        width: 300px;
+        outline: none;
+      }
+      .dropzone:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 24px rgba(30, 63, 148, 0.12);
+        background: #f1f5ff;
+      }
+      .dropzone.dragover {
+        border-color: var(--azul);
+        background: #eef2ff;
+        box-shadow: 0 0 0 6px rgba(30, 63, 148, 0.08);
+      }
+      .dropzone input[type="file"] {
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        cursor: pointer;
+      }
+      .dropzone .hint {
+        font-size: 13px;
+        color: var(--cinza);
+      }
+      .file-info {
+        margin-top: 12px;
+        font-size: 14px;
+        display: none;
+      }
+      .file-info.ok {
+        color: var(--ok);
+        display: block;
+      }
+      .file-info.err {
+        color: var(--erro);
+        display: block;
+      }
+
+      .actions {
+        display: flex;
+        gap: 12px;
+        margin-top: 20px;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0;
+      }
+      button {
+        appearance: none;
+        border: 0;
+        border-radius: 999px;
+        padding: 12px 18px;
+        font-weight: 700;
+        font-size: 14px;
+        cursor: pointer;
+        transition: transform 0.12s ease, box-shadow 0.12s ease,
+          opacity 0.2s ease;
+      }
+      .btn-primary {
+        background: linear-gradient(135deg, var(--azul), var(--azul-escuro));
+        color: #fff;
+        box-shadow: 0 8px 18px rgba(30, 63, 148, 0.25);
+      }
+      .btn-primary:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 10px 24px rgba(30, 63, 148, 0.3);
+      }
+      .btn-primary:active {
+        transform: translateY(0);
+        box-shadow: 0 4px 12px rgba(30, 63, 148, 0.2);
+      }
+      .btn-secondary {
+        background: #eef2ff;
+        color: #1f2937;
+        border: 1px solid #dbe2ff;
+      }
+      .btn-secondary:hover {
+        transform: translateY(-1px);
+      }
+      .btn-secondary:active {
+        transform: translateY(0);
+      }
+
+      button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        transform: none !important;
+        box-shadow: none !important;
+      }
+
+      .progress {
+        height: 8px;
+        width: 100%;
+        background: #eef2ff;
+        border-radius: 999px;
+        overflow: hidden;
+        margin-top: 18px;
+        display: none;
+      }
+      .progress .bar {
+        height: 100%;
+        width: 0%;
+        background: linear-gradient(90deg, var(--azul), var(--azul-escuro));
+        animation: loading 1.2s linear infinite;
+      }
+
+      .dropzone:focus-visible,
+      .btn-primary:focus-visible,
+      .btn-secondary:focus-visible {
+        outline: 3px solid rgba(37, 99, 235, 0.5);
+        outline-offset: 2px;
+      }
+
+      code {
+        background: #f4f6fb;
+        color: #1e3f94;
+        font-family: "Fira Code", "Consolas", "Courier New", monospace;
+        font-size: 0.95em;
+        padding: 2px 6px;
+        border-radius: 6px;
+        border: 1px solid #e0e7ff;
+        white-space: nowrap;
+      }
+
+      .modifiers {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 10%;
+      }
+
+      .modifiers .random-wrapper {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .modifiers .random-wrapper span {
+        color: #1e3f94;
+        font-size: 12px;
+        font-weight: bold;
+      }
+
+      .switch {
+        position: relative;
+        display: inline-block;
+        width: 80px;
+        height: 34px;
+      }
+
+      .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+
+      .slider {
+        display: flex;
+        align-items: center;
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #d1d5db;
+        border-radius: 34px;
+        transition: background-color 0.3s;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 8px;
+        box-sizing: border-box;
+      }
+
+      .slider::before {
+        content: "";
+        position: absolute;
+        height: 26px;
+        width: 26px;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        border-radius: 50%;
+        transition: transform 0.3s;
+        z-index: 2;
+      }
+
+      .slider .check svg {
+        width: 30px;
+        height: 30px;
+        margin: auto;
+      }
+
+      input:checked + .slider {
+        background-color: #1e3f94;
+      }
+      input:checked + .slider::before {
+        transform: translateX(44px);
+      }
+
+      input:not(:checked) + .slider {
+        background-color: #e5e7eb;
+      }
+
+      input:not(:checked) + .slider .check > svg {
+        opacity: 0;
+      }
+
+      .custom-select {
+        position: relative;
+        width: 200px;
+      }
+
+      select {
+        width: 100%;
+        padding: 10px 15px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        appearance: none;
+        background-color: white;
+        cursor: pointer;
+      }
+
+      select:focus {
+        border-color: #3f51b5;
+        box-shadow: 0 0 5px rgba(63, 81, 181, 0.5);
+      }
+
+      option {
+        padding: 10px;
+      }
+
+      select option:checked {
+        background-color: #3f51b5;
+        color: white;
+      }
+
+      .custom-select::after {
+        content: "▼";
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        pointer-events: none;
+        font-size: 12px;
+        color: #555;
+      }
+
+      .select-wrapper {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .select-wrapper span {
+        color: #1e3f94;
+        font-size: 12px;
+        font-weight: bold;
+      }
+
+      @keyframes drop-in {
+        from {
+          transform: translateY(-12px);
+          opacity: 0;
+        }
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+      @keyframes fade-up {
+        from {
+          transform: translateY(8px);
+          opacity: 0;
+        }
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+      @keyframes floaty {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-3px);
+        }
+      }
+      @keyframes loading {
+        0% {
+          transform: translateX(-100%);
+        }
+        100% {
+          transform: translateX(100%);
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation: none !important;
+          transition: none !important;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header role="banner">
+      <div class="wrap" aria-label="Cabeçalho do conversor">
+        <div class="logo" aria-hidden="true">
+          <img
+            src="data:image/png;base64,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" />
+        </div>
+        <div>
+          <h1>Conversor de <code>.docx</code> para <code>.csv</code></h1>
+          <p>Envie um arquivo .docx para converter</p>
+        </div>
+      </div>
+    </header>
+
+    <main class="container" role="main">
+      <section class="card" aria-labelledby="ttl">
+        <h2 id="ttl" class="title">Arquivo de entrada</h2>
+        <p class="subtitle">
+          Aceitamos apenas arquivos do Microsoft Word no formato
+          <strong>.docx</strong>.
+        </p>
+        <div class="drop-wrapper">
+          <label
+            class="dropzone"
+            id="dropzone"
+            tabindex="0"
+            aria-label="Selecione ou arraste um arquivo .docx">
+            <input
+              id="file"
+              type="file"
+              accept=".docx"
+              aria-label="Escolher arquivo .docx" />
+            <div>
+              <div style="font-weight: 700; margin-bottom: 6px">
+                Clique para escolher ou arraste aqui
+              </div>
+              <div class="hint">Somente .docx</div>
+            </div>
+          </label>
+        </div>
+
+        <div class="modifiers">
+          <div class="random-wrapper">
+            <span>Randomizar:</span>
+            <label
+              class="switch"
+              title="Adiciona o prefixo nas opções das questões, ex: A), B), C)...">
+              <input type="checkbox" />
+              <span class="slider">
+                <span class="check"
+                  ><svg
+                    fill="#fff"
+                    viewBox="0 0 256 256"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                    <g
+                      id="SVGRepo_tracerCarrier"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"></g>
+                    <g id="SVGRepo_iconCarrier">
+                      <g fill-rule="evenodd">
+                        <path
+                          d="M24.898 100.907a7.97 7.97 0 0 1 8.035-7.935l80.011.623c4.419.034 8.209 3.635 8.466 8.042l.517 8.868 26.68-42.392a7.776 7.776 0 0 1 10.94-2.349l66.996 44.369a8.03 8.03 0 0 1 2.275 11.113l-43.766 66.506c-2.432 3.695-7.447 4.8-11.197 2.47l-51.928-32.265v26.49c0 4.419-3.583 8-7.993 8H32.498a7.949 7.949 0 0 1-7.959-7.998l.36-83.542zm11.828 6.694l-.189 71.811 74.127.073-.035-29.78-5.954-4.119c-1.809-1.25-2.375-3.81-1.257-5.71L111 127l-.466-19.749-73.808.35zM156.483 79L118 138.79l60.965 38.32 37.612-58.539L156.483 79z"></path>
+                        <circle cx="138" cy="135" r="8"></circle>
+                        <circle cx="165" cy="130" r="8"></circle>
+                        <circle cx="193" cy="125" r="8"></circle>
+                        <circle cx="50" cy="124" r="8"></circle>
+                        <circle cx="73" cy="145" r="8"></circle>
+                        <circle cx="95" cy="123" r="8"></circle>
+                        <circle cx="51" cy="165" r="8"></circle>
+                        <circle cx="95" cy="165" r="8"></circle>
+                      </g>
+                    </g>
+                  </svg>
+                </span>
+              </span>
+            </label>
+          </div>
+
+          <div class="select-wrapper">
+            <span>Tipo de csv:</span>
+            <div class="custom-select">
+              <select>
+                <option selected>PPD</option>
+                <option>EDUCA</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div id="errors-container"></div>
+        <div>
+          <p id="fileInfo" class="file-info"></p>
+        </div>
+        <div class="actions">
+          <button id="btnConvert" class="btn-primary" disabled>
+            Converter
+          </button>
+          <button id="btnCancel" class="btn-secondary" type="button">
+            Cancelar
+          </button>
+        </div>
+
+        <div id="progress" class="progress" aria-hidden="true">
+          <div class="bar"></div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      (function () {
+        const input = document.getElementById("file");
+        const info = document.getElementById("fileInfo");
+        const btnC = document.getElementById("btnConvert");
+        const btnX = document.getElementById("btnCancel");
+        const dz = document.getElementById("dropzone");
+        const prog = document.getElementById("progress");
+        const randomInput = document.querySelector("input[type='checkbox']");
+        const selectType = document.querySelector(".custom-select>select");
+
+        const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
+
+        let file;
+
+        function setValid(file) {
+          info.className = "file-info ok";
+          info.textContent = `Arquivo selecionado: ${file.name}`;
+          btnC.disabled = false;
+        }
+        function setInvalid(msg) {
+          info.className = "file-info err";
+          info.textContent = msg || "Arquivo inválido. Envie um .docx.";
+          btnC.disabled = true;
+        }
+        function clearAll() {
+          input.value = "";
+          info.textContent = "";
+          info.className = "file-info";
+          btnC.disabled = true;
+          prog.style.display = "none";
+          prog.setAttribute("aria-hidden", "true");
+          file = null;
+        }
+
+        function renderErrors(errors) {
+          const container = document.getElementById("errors-container");
+          container.innerHTML = ""; // limpa antes
+
+          errors.forEach((error) => {
+            const wrapper = document.createElement("div");
+            wrapper.className = "error-item";
+            wrapper.style.border = "1px solid #ccc";
+            wrapper.style.padding = "8px";
+            wrapper.style.marginBottom = "10px";
+            wrapper.style.borderRadius = "6px";
+
+            // Header com input + botão copiar + toggle
+            const header = document.createElement("div");
+            header.style.display = "flex";
+            header.style.alignItems = "center";
+
+            const toggleBtn = document.createElement("button");
+            toggleBtn.textContent = "▶";
+            toggleBtn.style.marginRight = "6px";
+
+            const input = document.createElement("input");
+            input.type = "text";
+            input.value = `${error.question.id} - ${error.message}`;
+            input.readOnly = true;
+            input.style.flex = "1";
+            input.style.marginRight = "6px";
+            input.style.cursor = "pointer";
+
+            // quando clicar no campo → copiar também
+            input.onclick = () => {
+              navigator.clipboard.writeText(input.value).then(() => {
+                input.style.backgroundColor = "#d4edda"; // verde claro
+                setTimeout(() => (input.style.backgroundColor = ""), 600);
+              });
+            };
+
+            header.appendChild(toggleBtn);
+            header.appendChild(input);
+
+            const details = document.createElement("div");
+            details.hidden = true;
+            details.style.marginTop = "8px";
+            details.style.fontSize = "14px";
+            details.style.whiteSpace = "pre-wrap";
+            details.textContent = JSON.stringify(error.question, null, 2);
+
+            toggleBtn.onclick = () => {
+              details.hidden = !details.hidden;
+              toggleBtn.textContent = details.hidden ? "▶" : "▼";
+            };
+
+            wrapper.appendChild(header);
+            wrapper.appendChild(details);
+            container.appendChild(wrapper);
+          });
+        }
+
+        input.addEventListener("change", () => {
+          const localFile = input.files[0];
+          if (!localFile) {
+            clearAll();
+            return;
+          }
+          if (!isDocx(localFile)) {
+            clearAll();
+            setInvalid("Somente arquivos .docx são aceitos.");
+            return;
+          }
+          setValid(localFile);
+
+          file = localFile;
+        });
+
+        ["dragenter", "dragover"].forEach((ev) => {
+          dz.addEventListener(ev, (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            dz.classList.add("dragover");
+          });
+        });
+        ["dragleave", "drop"].forEach((ev) => {
+          dz.addEventListener(ev, (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            dz.classList.remove("dragover");
+          });
+        });
+        dz.addEventListener("drop", (e) => {
+          const localFile = e.dataTransfer.files[0];
+          if (!localFile) {
+            return;
+          }
+          if (!isDocx(localFile)) {
+            clearAll();
+            setInvalid("Somente arquivos .docx são aceitos.");
+            return;
+          }
+
+          const dt = new DataTransfer();
+          dt.items.add(localFile);
+          input.files = dt.files;
+          setValid(localFile);
+
+          file = localFile;
+        });
+
+        btnC.addEventListener("click", (e) => {
+          e.preventDefault();
+          const file = input.files[0];
+          if (!file || !isDocx(file)) {
+            setInvalid("Escolha um arquivo .docx válido antes de converter.");
+            return;
+          }
+
+          prog.style.display = "block";
+          prog.setAttribute("aria-hidden", "false");
+
+          const reader = new FileReader();
+          reader.onload = function () {
+            const arrayBuffer = reader.result;
+            const bytes = new Uint8Array(arrayBuffer);
+            let binary = "";
+            for (let i = 0; i < bytes.byteLength; i++) {
+              binary += String.fromCharCode(bytes[i]);
+            }
+            const base64String = btoa(binary);
+
+            window.pywebview.api
+              .process_form(
+                file.name,
+                base64String,
+                selectType.value,
+                randomInput.checked
+              )
+              .then((response) => {
+                if (response.had_error) {
+                  renderErrors(response.errors);
+                }
+
+                prog.style.display = "none";
+                prog.setAttribute("aria-hidden", "true");
+                clearAll();
+              })
+              .catch((err) => {
+                console.error("Erro:", err);
+              });
+          };
+          reader.readAsArrayBuffer(file);
+
+          let t = setTimeout(() => {
+            prog.style.display = "none";
+            prog.setAttribute("aria-hidden", "true");
+            clearAll();
+            clearTimeout(t);
+          }, 1600);
+        });
+
+        btnX.addEventListener("click", (e) => {
+          e.preventDefault();
+          clearAll();
+        });
+
+        dz.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            input.click();
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
+"""
