@@ -1,4 +1,4 @@
-import sys, os, webview
+import webview
 import base64
 from io import BytesIO
 from convertor import QuestionsType
@@ -6,14 +6,6 @@ from convertor import QuestionsType
 from convertor import convertor
 
 from utils.html_page import html_page
-
-# window = None
-
-def resource_path(relative_path):    
-    if hasattr(sys, "_MEIPASS"):
-        return os.path.join(sys._MEIPASS, relative_path)
-    return os.path.join(os.path.abspath("."), relative_path)
-
 class Api:
     def __init__(self, window):
       self.window = window
@@ -25,10 +17,11 @@ class Api:
 
       return res
 
-def main():        
-    api = Api(None)  # cria com None e depois setamos
+def main():    
+
+    api = Api(None)
     window = webview.create_window("Script de questões | NITE", html=html_page, js_api=api)
-    api.window = window  # injeta o window dentro do api
+    api.window = window
     webview.start()
 
 if __name__ == "__main__":
