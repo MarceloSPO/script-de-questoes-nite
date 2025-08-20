@@ -4,7 +4,7 @@ from questions_types.question import MultipleChoiceQuestion
 
 import utils.csv.generate_question_attributes as questions_helper
 
-def generate_csv(questions: list[MultipleChoiceQuestion], csv_filename: str):   
+def generate_csv_from_path(questions: list[MultipleChoiceQuestion], csv_filename: str):   
   with open(csv_filename, "w", newline="", encoding="utf-8-sig") as csvfile:
     writer = csv.writer(csvfile)
 
@@ -31,5 +31,5 @@ def generate_csv(questions: list[MultipleChoiceQuestion], csv_filename: str):
       
       empty_row = questions_helper.generate_empty_row()
       writer.writerow(empty_row)
-      writer.writerow(empty_row)
+      writer.writerow(empty_row)  
       

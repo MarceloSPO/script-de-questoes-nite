@@ -17,6 +17,7 @@
         --focus: #2563eb;
         --radius: 14px;
         --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        --transparent-blue: #2564eba6;
       }
 
       * {
@@ -37,6 +38,66 @@
           )
           var(--fundo);
         color: #0b1324;
+      }
+
+      .none {
+        position: absolute;
+        z-index: -1000;
+        opacity: 0;
+        left: -1000%;
+        top: -1000%;
+        animation: fadeOut 1s;
+      }
+
+      @keyframes fadeOut {
+        0% {
+          opacity: 100%;
+        }
+        100% {
+          opacity: 0%;
+        }
+      }
+
+      .visible {
+        position: inherit;
+        z-index: inherit;
+        opacity: 1;
+        animation: fadeIn 1s;
+      }
+
+      @keyframes fadeIn {
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 100%;
+        }
+      }
+
+      .loader-layer {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background: var(--transparent-blue);
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .loader-layer svg {
+        width: 50px;
+        height: 50px;
+        animation: loaderSvg 1s linear infinite;
+      }
+
+      @keyframes loaderSvg {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
       }
 
       header {
@@ -447,6 +508,23 @@
     </style>
   </head>
   <body>
+    <div class="loader-layer none">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+        <g
+          id="SVGRepo_tracerCarrier"
+          stroke-linecap="round"
+          stroke-linejoin="round"></g>
+        <g id="SVGRepo_iconCarrier">
+          <path
+            d="M3.34025 16.9997C2.0881 14.8298 2.72473 12.0644 4.79795 10.6601L4.80018 10.6578C6.46564 9.53235 8.65775 9.57012 10.2843 10.7523L13.7164 13.2477C15.3418 14.4299 17.5339 14.4676 19.2005 13.3421L19.2027 13.3399C21.2771 11.9356 21.9148 9.16792 20.6604 7.00026M17.002 20.6593C14.8321 21.9114 12.0667 21.2748 10.6623 19.2016L10.6601 19.1994C9.53457 17.5339 9.57234 15.3418 10.7545 13.7152L13.2499 10.2832C14.4321 8.6577 14.4699 6.46559 13.3444 4.79901L13.3399 4.79679C11.9356 2.72468 9.16792 2.08582 7.00026 3.3402M19.0705 4.92901C22.9758 8.83436 22.9758 15.1651 19.0705 19.0705C15.1651 22.9758 8.83436 22.9758 4.92901 19.0705C1.02366 15.1651 1.02366 8.83436 4.92901 4.92901C8.83436 1.02366 15.1651 1.02366 19.0705 4.92901Z"
+            stroke="#1e3f94"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"></path>
+        </g>
+      </svg>
+    </div>
     <header role="banner">
       <div class="wrap" aria-label="Cabeçalho do conversor">
         <div class="logo" aria-hidden="true">
@@ -570,9 +648,21 @@
         const randomInput = document.querySelector("input[type='checkbox']");
         const selectType = document.querySelector(".custom-select>select");
 
+        const loader = document.querySelector(".loader-layer");
+
         const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
 
         let file;
+
+        function showLoader() {
+          loader.classList.add("visible");
+          loader.classList.remove("none");
+        }
+
+        function hideLoader() {
+          loader.classList.add("none");
+          loader.classList.remove("visible");
+        }
 
         function setValid(file) {
           info.className = "file-info ok";
@@ -712,7 +802,7 @@
           prog.setAttribute("aria-hidden", "false");
 
           const reader = new FileReader();
-          reader.onload = function () {
+          reader.onload = async () => {
             const arrayBuffer = reader.result;
             const bytes = new Uint8Array(arrayBuffer);
             let binary = "";
@@ -721,25 +811,31 @@
             }
             const base64String = btoa(binary);
 
-            window.pywebview.api
-              .process_form(
-                file.name,
-                base64String,
-                selectType.value,
-                randomInput.checked
-              )
-              .then((response) => {
-                if (response.had_error) {
-                  renderErrors(response.errors);
-                }
+            showLoader();
+            const response = await fetch(
+              "https://ba42631ba5fd.ngrok-free.app/process",
+              {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                  fileName: file.name,
+                  base64File: base64String,
+                  questionType: selectType.value,
+                  isChecked: randomInput.checked,
+                }),
+              }
+            );
+            hideLoader();
 
-                prog.style.display = "none";
-                prog.setAttribute("aria-hidden", "true");
-                clearAll();
-              })
-              .catch((err) => {
-                console.error("Erro:", err);
-              });
+            const blob = await response.blob();
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = file.name.replace(/\.[^/.]+$/, ".csv");
+            a.click();
+            window.URL.revokeObjectURL(url);
           };
           reader.readAsArrayBuffer(file);
 

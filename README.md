@@ -34,11 +34,13 @@ pip freeze > requirements.txt
 
 ### Executando os _scripts_:
 
-- O arquivo principal do projeto é `./src/convertor.py` e para executá-lo basta rodar:
+- O arquivo principal do projeto é `./src/server.py` e para executá-lo basta rodar:
 
 ```
-python ./src/convertor.py
+python ./src/server.py
 ```
+
+Após rodar o comando acessar [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ### Questões do EDUCA:
 
@@ -55,5 +57,5 @@ python ./src/convertor.py
 Para gerar o executável (`.exe`) do projeto, basta executar o comando a seguir:
 
 ```bash
-pyinstaller --noconsole --onefile --add-data "./src/index.html;." ./src/main.py
+pyinstaller --noconsole --onefile --add-data "./src/index.html;." ./src/pywebview.py
 ```
