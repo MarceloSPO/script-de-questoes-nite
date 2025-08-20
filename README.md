@@ -47,3 +47,13 @@ python ./src/convertor.py
 1. Um ID no formato: `CCCC_CCCCCC_CCCCCC_CCCCCC_CCCC`;
 2. Um enunciado, que pode conter outros tipos de listas;
 3. A lista de opções objetivas, onde deverá ser utilizada uma lista organizada por letras (maiúsculas ou minúsculas).
+
+---
+
+### Gerar o executável
+
+Para gerar o executável (`.exe`) do projeto, basta executar o comando a seguir:
+
+```bash
+pyinstaller --noconsole --onefile --add-data "./src/index.html;." ./src/main.py
+```
