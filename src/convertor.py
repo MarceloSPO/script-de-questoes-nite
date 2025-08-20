@@ -6,7 +6,8 @@ from enum import Enum
 
 from services.extract_educa_questions import extract_educa_questions
 from services.extract_ppd_questions import extract_ppd_questions
-from services.generate_csv import generate_csv
+from services.generate_csv_from_path import generate_csv_from_path
+from services.generate_csv_from_buffer import generate_csv_from_buffer
 
 from utils.csv.generate_csv_filename import generate_csv_filename
 
@@ -14,7 +15,7 @@ class QuestionsType(Enum):
   EDUCA="educa"
   PPD="ppd"
 
-def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, type: QuestionsType, window: Window):    
+def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, type: QuestionsType, window: Window=None):    
   questions = []
   errors = []
 
@@ -30,12 +31,16 @@ def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, t
     raise Exception("O tipo da questão pode apenas ser PPD ou EDUCA!")
 
   csv_filename = generate_csv_filename(filename)
+  csv_buffer = None
 
-  file_path = window.create_file_dialog(
-    webview.SAVE_DIALOG,
-    save_filename=csv_filename,
-    file_types=("CSV files (*.csv)", "All files (*.*)")
-  )
-  generate_csv(questions, file_path[0])  
+  if(window):
+    file_path = window.create_file_dialog(
+      webview.SAVE_DIALOG,
+      save_filename=csv_filename,
+      file_types=("CSV files (*.csv)", "All files (*.*)")
+    )
+    generate_csv_from_path(questions, file_path[0])
+  else:
+    csv_buffer = generate_csv_from_buffer(questions)  
 
-  return { "errors": errors, "had_error": True if len(errors) > 0 else False }
+  return { "errors": errors, "had_error": True if len(errors) > 0 else False, "csv": { "buffer": csv_buffer, "filename": csv_filename } }
