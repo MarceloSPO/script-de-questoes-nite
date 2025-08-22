@@ -389,7 +389,7 @@
 
       .slider .check svg {
         width: 30px;
-        height: 30px;
+        height: 30px;        
         margin: auto;
       }
 
@@ -505,6 +505,17 @@
           transition: none !important;
         }
       }
+
+      #unexpected-errors-container span {
+        font-size: 14px;
+        color: var(--erro);
+        cursor: default;
+        transition: all .3s ease;        
+      }
+
+      #unexpected-errors-container span:hover {
+        text-shadow: 0px 4px 13px rgba(220,38,38,0.81);
+      }
     </style>
   </head>
   <body>
@@ -572,16 +583,16 @@
 
         <div class="modifiers">
           <div class="random-wrapper">
-            <span>Randomizar:</span>
+            <span>Prefixo:</span>
             <label
               class="switch"
               title="Adiciona o prefixo nas opções das questões, ex: A), B), C)...">
               <input type="checkbox" />
               <span class="slider">
-                <span class="check"
-                  ><svg
+                <span class="check"><svg
                     fill="#fff"
-                    viewBox="0 0 256 256"
+                    
+                    id="icon"
                     xmlns="http://www.w3.org/2000/svg">
                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
                     <g
@@ -589,20 +600,26 @@
                       stroke-linecap="round"
                       stroke-linejoin="round"></g>
                     <g id="SVGRepo_iconCarrier">
-                      <g fill-rule="evenodd">
-                        <path
-                          d="M24.898 100.907a7.97 7.97 0 0 1 8.035-7.935l80.011.623c4.419.034 8.209 3.635 8.466 8.042l.517 8.868 26.68-42.392a7.776 7.776 0 0 1 10.94-2.349l66.996 44.369a8.03 8.03 0 0 1 2.275 11.113l-43.766 66.506c-2.432 3.695-7.447 4.8-11.197 2.47l-51.928-32.265v26.49c0 4.419-3.583 8-7.993 8H32.498a7.949 7.949 0 0 1-7.959-7.998l.36-83.542zm11.828 6.694l-.189 71.811 74.127.073-.035-29.78-5.954-4.119c-1.809-1.25-2.375-3.81-1.257-5.71L111 127l-.466-19.749-73.808.35zM156.483 79L118 138.79l60.965 38.32 37.612-58.539L156.483 79z"></path>
-                        <circle cx="138" cy="135" r="8"></circle>
-                        <circle cx="165" cy="130" r="8"></circle>
-                        <circle cx="193" cy="125" r="8"></circle>
-                        <circle cx="50" cy="124" r="8"></circle>
-                        <circle cx="73" cy="145" r="8"></circle>
-                        <circle cx="95" cy="123" r="8"></circle>
-                        <circle cx="51" cy="165" r="8"></circle>
-                        <circle cx="95" cy="165" r="8"></circle>
-                      </g>
+                      <defs>
+                        <style>
+                          .cls-1 {
+                            fill: none;
+                          }
+                        </style>
+                      </defs>
+                      <title>letter--Aa</title>
+                      <path
+                        d="M23,13H18v2h5v2H19a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2h6V15A2,2,0,0,0,23,13Zm0,8H19V19h4Z"></path>
+                      <path
+                        d="M13,9H9a2,2,0,0,0-2,2V23H9V18h4v5h2V11A2,2,0,0,0,13,9ZM9,16V11h4v5Z"></path>
+                      <rect
+                        id="_Transparent_Rectangle_"
+                        data-name="&lt;Transparent Rectangle&gt;"
+                        class="cls-1"
+                        ></rect>
                     </g>
-                  </svg>
+                  </svg>    </span>
+                              
                 </span>
               </span>
             </label>
@@ -618,7 +635,8 @@
             </div>
           </div>
         </div>
-        <div id="errors-container"></div>
+        <div id="unexpected-errors-container"></div>
+        <div id="convertor-errors-container"></div>
         <div>
           <p id="fileInfo" class="file-info"></p>
         </div>
@@ -639,6 +657,7 @@
 
     <script>
       (function () {
+        const URL = "http://exemplo.com";
         const input = document.getElementById("file");
         const info = document.getElementById("fileInfo");
         const btnC = document.getElementById("btnConvert");
@@ -647,6 +666,7 @@
         const prog = document.getElementById("progress");
         const randomInput = document.querySelector("input[type='checkbox']");
         const selectType = document.querySelector(".custom-select>select");
+        const unexpectedErrorsContainer = document.getElementById("unexpected-errors-container");
 
         const loader = document.querySelector(".loader-layer");
 
@@ -685,8 +705,8 @@
         }
 
         function renderErrors(errors) {
-          const container = document.getElementById("errors-container");
-          container.innerHTML = ""; // limpa antes
+          const container = document.getElementById("convertor-errors-container");
+          container.innerHTML = "";
 
           errors.forEach((error) => {
             const wrapper = document.createElement("div");
@@ -800,6 +820,7 @@
 
           prog.style.display = "block";
           prog.setAttribute("aria-hidden", "false");
+          unexpectedErrorsContainer.innerHTML = "";
 
           const reader = new FileReader();
           reader.onload = async () => {
@@ -811,32 +832,46 @@
             }
             const base64String = btoa(binary);
 
+            let errors;
             showLoader();
-            const response = await fetch(
-              "https://ba42631ba5fd.ngrok-free.app/process",
-              {
-                method: "POST",
-                headers: {
-                  "Content-Type": "application/json",
-                },
-                body: JSON.stringify({
-                  fileName: file.name,
-                  base64File: base64String,
-                  questionType: selectType.value,
-                  isChecked: randomInput.checked,
-                }),
-              }
-            );
-            hideLoader();
-
-            const blob = await response.blob();
-            const url = window.URL.createObjectURL(blob);
-            const a = document.createElement("a");
-            a.href = url;
-            a.download = file.name.replace(/\.[^/.]+$/, ".csv");
-            a.click();
-            window.URL.revokeObjectURL(url);
-          };
+            try {              
+              // BEGIN (não remover essa linha)
+              const response = await fetch(
+                `${URL}/process`,
+                {
+                  method: "POST",
+                  headers: {
+                    "Content-Type": "application/json",
+                  },
+                  body: JSON.stringify({
+                    fileName: file.name,
+                    base64File: base64String,
+                    questionType: selectType.value,
+                    isChecked: randomInput.checked,
+                  }),
+                }
+              );
+              
+              const json = await response.json();
+              const csvContent = atob(json.file);
+              const blob = new Blob([csvContent], { type: "text/csv" });
+              const url = window.URL.createObjectURL(blob);              
+              const a = document.createElement("a");
+              a.href = url;
+              a.download = json.filename;
+              a.click();
+              window.URL.revokeObjectURL(url);
+              hideLoader();
+              renderErrors(Array.from(json.errors))
+            } catch(error) {     
+              unexpectedErrorsContainer.innerHTML = "";
+              const span = document.createElement("span");
+              span.textContent="Não foi possível converter o arquivo! Entre em contato com a equipe técnica!"
+              unexpectedErrorsContainer.appendChild(span);
+              hideLoader()
+            }
+            // END (não remover essa linha)
+            }
           reader.readAsArrayBuffer(file);
 
           let t = setTimeout(() => {
