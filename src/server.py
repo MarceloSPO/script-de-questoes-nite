@@ -1,13 +1,19 @@
 from io import BytesIO
 import base64
-from flask import Flask, render_template, request, send_file, jsonify
+from flask import Flask, request, send_file, jsonify
 from convertor import QuestionsType, convertor
+from flask_cors import CORS
+
+from utils.html_page import get_html_page
+
 
 app = Flask(__name__)
 
+CORS(app)
 @app.route("/")
-def index():
-  return render_template("index.html")
+def index():  
+  html_string = get_html_page()  
+  return html_string
 
 @app.route("/process", methods=["POST"])
 def process():
@@ -26,15 +32,22 @@ def process():
 
     res = convertor(file_name, file_stream, are_questions_random, type)
     csv_res = res.get("csv", None)
+    errors = res.get("errors", [])
         
     if csv_res:
-      return send_file(
-        BytesIO(csv_res.get("buffer").getvalue().encode("utf-8-sig")),
-        mimetype="text/csv",
-        as_attachment=True,
-        download_name=csv_res.get("filename")
-      )
-    return jsonify({ "message": "Resposta invalida" })  
+      csv_bytes = csv_res.get("buffer").getvalue().encode("utf-8-sig") 
+      csv_b64 = base64.b64encode(csv_bytes).decode("utf-8")
+
+      response = {
+        "errors": errors,
+        "message": "Arquivo convertido com sucesso",
+        "filename": csv_res.get("filename"),
+        "file": csv_b64
+      }
+
+      return jsonify(response)
+
+    return jsonify({ "message": "Resposta invalida", "errors": [] })  
   except Exception as e:
     print("ERROR", e)
     return jsonify({ "message": "Erro inesperado no servidor!" })

@@ -5,7 +5,7 @@ from convertor import QuestionsType
 
 from convertor import convertor
 
-from utils.html_page import html_page
+from utils.html_page import get_html_page
 class Api:
     def __init__(self, window):
       self.window = window
@@ -20,6 +20,7 @@ class Api:
 def main():    
 
     api = Api(None)
+    html_page = get_html_page(executable=True)
     window = webview.create_window("Script de questões | NITE", html=html_page, js_api=api)
     api.window = window
     webview.start()

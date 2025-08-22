@@ -57,5 +57,5 @@ Após rodar o comando acessar [http://127.0.0.1:5000](http://127.0.0.1:5000)
 Para gerar o executável (`.exe`) do projeto, basta executar o comando a seguir:
 
 ```bash
-pyinstaller --noconsole --onefile --add-data "./src/index.html;." ./src/pywebview.py
+pyinstaller --noconsole --onefile --add-data "./src/templates/index.html;." ./src/pywebview.py
 ```
