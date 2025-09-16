@@ -25,7 +25,6 @@ def check_is_ppd_id(text: str):
 def get_row_text(row: _Row):
   row_text = [cell.text for cell in row.cells]
   row_text = "".join(list(dict.fromkeys(row_text)))
-
   return row_text
 
 def handle_format_with_html_and_prefix(paragraph: Paragraph, with_prefix: bool, option_prefix_counter):  
@@ -34,7 +33,6 @@ def handle_format_with_html_and_prefix(paragraph: Paragraph, with_prefix: bool, 
     prefix = f"{prefix} "
   else:
     prefix = None
-  
   formatted_paragraph = get_styled_paragraph_str(paragraph, prefix)
   return formatted_paragraph
 
@@ -56,7 +54,6 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
       if row_index == 0:
         row_text = get_row_text(row)
         is_ppd_id = check_is_ppd_id(row_text)        
-
         if is_ppd_id:
           ppd_id = get_ppd_question_id(row_text)
           question["id"] = ppd_id
@@ -148,9 +145,8 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
               )
             formatted_paragraph = handle_format_with_html_and_prefix(paragraph, with_prefix=True, option_prefix_counter=question_text_prefix_counter)
             
-            question["feedback"] += formatted_paragraph              
-  questions.append(question)
-  question = get_empty_question()
+            question["feedback"] += formatted_paragraph
+        questions.append(question)
+        question = get_empty_question()
                           
-  
   return { "questions": questions, "errors": question_errors }

@@ -34,7 +34,7 @@ def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = T
   question_has_image = False
   option_has_image = False  
 
-  for index, element in enumerate(doc.element.body):    
+  for index, element in enumerate(doc.element.body):     
     if is_paragraph(element):      
       paragraph = Paragraph(element, doc)
       text_paragraph = paragraph.text.strip()
@@ -47,13 +47,12 @@ def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = T
         continue
       
       question_id = get_question_id(text_paragraph)      
-          
-      if is_letter_list:
+      if is_letter_list:        
         for run in paragraph.runs:
           if run.font.highlight_color == WD_COLOR_INDEX.YELLOW:
             current_option["answer_value"] = 100
             break
-
+        
         option_has_image = has_image(paragraph)      
 
         if option_has_image:          
@@ -68,8 +67,7 @@ def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = T
         if prefix and not are_questions_random:
           prefix = f"{prefix} "
         else:
-          prefix = None
-
+          prefix = None        
         current_option["text"] += get_styled_paragraph_str(paragraph, prefix)        
         question["options"].append(current_option)        
         
@@ -103,8 +101,7 @@ def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = T
         prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)        
         if prefix:
           prefix = f"{prefix} "        
-
-        question["question_text"] += get_styled_paragraph_str(paragraph, prefix)
+        question["question_text"] += get_styled_paragraph_str(paragraph, prefix)        
     elif is_table(element):      
       table_html = read_table(element, doc)
       question["question_text"] += f"\n\n{table_html}\n\n"

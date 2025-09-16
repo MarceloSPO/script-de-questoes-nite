@@ -654,246 +654,216 @@
         </div>
       </section>
     </main>
+<script>
+  (function () {
+    const input = document.getElementById("file");
+    const info = document.getElementById("fileInfo");
+    const btnC = document.getElementById("btnConvert");
+    const btnX = document.getElementById("btnCancel");
+    const dz = document.getElementById("dropzone");
+    const prog = document.getElementById("progress");
+    const randomInput = document.querySelector("input[type='checkbox']");
+    const selectType = document.querySelector(".custom-select>select");
+    const unexpectedErrorsContainer = document.getElementById("unexpected-errors-container");
+    const loader = document.querySelector(".loader-layer");
 
-    <script>
-      (function () {
-        const URL = "http://exemplo.com";
-        const input = document.getElementById("file");
-        const info = document.getElementById("fileInfo");
-        const btnC = document.getElementById("btnConvert");
-        const btnX = document.getElementById("btnCancel");
-        const dz = document.getElementById("dropzone");
-        const prog = document.getElementById("progress");
-        const randomInput = document.querySelector("input[type='checkbox']");
-        const selectType = document.querySelector(".custom-select>select");
-        const unexpectedErrorsContainer = document.getElementById("unexpected-errors-container");
+    const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
+    let file;
 
-        const loader = document.querySelector(".loader-layer");
+    function showLoader() {
+      loader.classList.add("visible");
+      loader.classList.remove("none");
+    }
 
-        const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
+    function hideLoader() {
+      loader.classList.add("none");
+      loader.classList.remove("visible");
+    }
 
-        let file;
+    function setValid(file) {
+      info.className = "file-info ok";
+      info.textContent = `Arquivo selecionado: ${file.name}`;
+      btnC.disabled = false;
+    }
 
-        function showLoader() {
-          loader.classList.add("visible");
-          loader.classList.remove("none");
-        }
+    function setInvalid(msg) {
+      info.className = "file-info err";
+      info.textContent = msg || "Arquivo inválido. Envie um .docx.";
+      btnC.disabled = true;
+    }
 
-        function hideLoader() {
-          loader.classList.add("none");
-          loader.classList.remove("visible");
-        }
+    function clearAll() {
+      input.value = "";
+      info.textContent = "";
+      info.className = "file-info";
+      btnC.disabled = true;
+      prog.style.display = "none";
+      prog.setAttribute("aria-hidden", "true");
+      file = null;
+    }
 
-        function setValid(file) {
-          info.className = "file-info ok";
-          info.textContent = `Arquivo selecionado: ${file.name}`;
-          btnC.disabled = false;
-        }
-        function setInvalid(msg) {
-          info.className = "file-info err";
-          info.textContent = msg || "Arquivo inválido. Envie um .docx.";
-          btnC.disabled = true;
-        }
-        function clearAll() {
-          input.value = "";
-          info.textContent = "";
-          info.className = "file-info";
-          btnC.disabled = true;
-          prog.style.display = "none";
-          prog.setAttribute("aria-hidden", "true");
-          file = null;
-        }
-
-        function renderErrors(errors) {
-          const container = document.getElementById("convertor-errors-container");
-          container.innerHTML = "";
-
-          errors.forEach((error) => {
-            const wrapper = document.createElement("div");
-            wrapper.className = "error-item";
-            wrapper.style.border = "1px solid #ccc";
-            wrapper.style.padding = "8px";
-            wrapper.style.marginBottom = "10px";
-            wrapper.style.borderRadius = "6px";
-
-            // Header com input + botão copiar + toggle
-            const header = document.createElement("div");
-            header.style.display = "flex";
-            header.style.alignItems = "center";
-
-            const toggleBtn = document.createElement("button");
-            toggleBtn.textContent = "▶";
-            toggleBtn.style.marginRight = "6px";
-
-            const input = document.createElement("input");
-            input.type = "text";
-            input.value = `${error.question.id} - ${error.message}`;
-            input.readOnly = true;
-            input.style.flex = "1";
-            input.style.marginRight = "6px";
-            input.style.cursor = "pointer";
-
-            input.onclick = () => {
-              navigator.clipboard.writeText(input.value).then(() => {
-                input.style.backgroundColor = "#d4edda";
-                setTimeout(() => (input.style.backgroundColor = ""), 600);
-              });
-            };
-
-            header.appendChild(toggleBtn);
-            header.appendChild(input);
-
-            const details = document.createElement("div");
-            details.hidden = true;
-            details.style.marginTop = "8px";
-            details.style.fontSize = "14px";
-            details.style.whiteSpace = "pre-wrap";
-            details.textContent = JSON.stringify(error.question, null, 2);
-
-            toggleBtn.onclick = () => {
-              details.hidden = !details.hidden;
-              toggleBtn.textContent = details.hidden ? "▶" : "▼";
-            };
-
-            wrapper.appendChild(header);
-            wrapper.appendChild(details);
-            container.appendChild(wrapper);
+    function renderErrors(errors) {
+      const container = document.getElementById("convertor-errors-container");
+      container.innerHTML = "";
+      errors.forEach((error) => {
+        const wrapper = document.createElement("div");
+        wrapper.className = "error-item";
+        wrapper.style.border = "1px solid #ccc";
+        wrapper.style.padding = "8px";
+        wrapper.style.marginBottom = "10px";
+        wrapper.style.borderRadius = "6px";
+        const header = document.createElement("div");
+        header.style.display = "flex";
+        header.style.alignItems = "center";
+        const toggleBtn = document.createElement("button");
+        toggleBtn.textContent = "▶";
+        toggleBtn.style.marginRight = "6px";
+        const input = document.createElement("input");
+        input.type = "text";
+        input.value = `${error.question.id} - ${error.message}`;
+        input.readOnly = true;
+        input.style.flex = "1";
+        input.style.marginRight = "6px";
+        input.style.cursor = "pointer";
+        input.onclick = () => {
+          navigator.clipboard.writeText(input.value).then(() => {
+            input.style.backgroundColor = "#d4edda";
+            setTimeout(() => (input.style.backgroundColor = ""), 600);
           });
+        };
+        header.appendChild(toggleBtn);
+        header.appendChild(input);
+        const details = document.createElement("div");
+        details.hidden = true;
+        details.style.marginTop = "8px";
+        details.style.fontSize = "14px";
+        details.style.whiteSpace = "pre-wrap";
+        details.textContent = JSON.stringify(error.question, null, 2);
+        toggleBtn.onclick = () => {
+          details.hidden = !details.hidden;
+          toggleBtn.textContent = details.hidden ? "▶" : "▼";
+        };
+        wrapper.appendChild(header);
+        wrapper.appendChild(details);
+        container.appendChild(wrapper);
+      });
+    }
+
+    input.addEventListener("change", () => {
+      const localFile = input.files[0];
+      if (!localFile) {
+        clearAll();
+        return;
+      }
+      if (!isDocx(localFile)) {
+        clearAll();
+        setInvalid("Somente arquivos .docx são aceitos.");
+        return;
+      }
+      setValid(localFile);
+      file = localFile;
+    });
+
+    ["dragenter", "dragover"].forEach((ev) => {
+      dz.addEventListener(ev, (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        dz.classList.add("dragover");
+      });
+    });
+
+    ["dragleave", "drop"].forEach((ev) => {
+      dz.addEventListener(ev, (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        dz.classList.remove("dragover");
+      });
+    });
+
+    dz.addEventListener("drop", (e) => {
+      const localFile = e.dataTransfer.files[0];
+      if (!localFile) {
+        return;
+      }
+      if (!isDocx(localFile)) {
+        clearAll();
+        setInvalid("Somente arquivos .docx são aceitos.");
+        return;
+      }
+      const dt = new DataTransfer();
+      dt.items.add(localFile);
+      input.files = dt.files;
+      setValid(localFile);
+      file = localFile;
+    });
+
+    btnC.addEventListener("click", (e) => {
+      e.preventDefault();
+      const file = input.files[0];
+      if (!file || !isDocx(file)) {
+        setInvalid("Escolha um arquivo .docx válido antes de converter.");
+        return;
+      }
+      prog.style.display = "block";
+      prog.setAttribute("aria-hidden", "false");
+      unexpectedErrorsContainer.innerHTML = "";
+      const reader = new FileReader();
+      reader.onload = async () => {
+        const arrayBuffer = reader.result;
+        const bytes = new Uint8Array(arrayBuffer);
+        let binary = "";
+        for (let i = 0; i < bytes.byteLength; i++) {
+          binary += String.fromCharCode(bytes[i]);
         }
-
-        input.addEventListener("change", () => {
-          const localFile = input.files[0];
-          if (!localFile) {
-            clearAll();
-            return;
-          }
-          if (!isDocx(localFile)) {
-            clearAll();
-            setInvalid("Somente arquivos .docx são aceitos.");
-            return;
-          }
-          setValid(localFile);
-
-          file = localFile;
-        });
-
-        ["dragenter", "dragover"].forEach((ev) => {
-          dz.addEventListener(ev, (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            dz.classList.add("dragover");
-          });
-        });
-        ["dragleave", "drop"].forEach((ev) => {
-          dz.addEventListener(ev, (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            dz.classList.remove("dragover");
-          });
-        });
-        dz.addEventListener("drop", (e) => {
-          const localFile = e.dataTransfer.files[0];
-          if (!localFile) {
-            return;
-          }
-          if (!isDocx(localFile)) {
-            clearAll();
-            setInvalid("Somente arquivos .docx são aceitos.");
-            return;
-          }
-
-          const dt = new DataTransfer();
-          dt.items.add(localFile);
-          input.files = dt.files;
-          setValid(localFile);
-
-          file = localFile;
-        });
-
-        btnC.addEventListener("click", (e) => {
-          e.preventDefault();
-          const file = input.files[0];
-          if (!file || !isDocx(file)) {
-            setInvalid("Escolha um arquivo .docx válido antes de converter.");
-            return;
-          }
-
-          prog.style.display = "block";
-          prog.setAttribute("aria-hidden", "false");
+        const base64String = btoa(binary);
+        showLoader();
+        try {
+          const response = await window.pywebview.api.process_form(
+            file.name,
+            base64String,
+            selectType.value,
+            randomInput.checked
+          );
+          const csvContent = atob(response.file);
+          const blob = new Blob([csvContent], { type: "text/csv" });
+          const url = window.URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = response.filename;
+          a.click();
+          window.URL.revokeObjectURL(url);
+          renderErrors(Array.from(response.errors));
+        } catch (error) {
+          console.error("Erro ao chamar a API Python:", error);
           unexpectedErrorsContainer.innerHTML = "";
+          const span = document.createElement("span");
+          span.textContent = "Não foi possível converter o arquivo! Entre em contato com a equipe técnica!";
+          unexpectedErrorsContainer.appendChild(span);
+        } finally {
+          hideLoader();
+        }
+      };
+      reader.readAsArrayBuffer(file);
+      let t = setTimeout(() => {
+        prog.style.display = "none";
+        prog.setAttribute("aria-hidden", "true");
+        clearAll();
+        clearTimeout(t);
+      }, 1600);
+    });
 
-          const reader = new FileReader();
-          reader.onload = async () => {
-            const arrayBuffer = reader.result;
-            const bytes = new Uint8Array(arrayBuffer);
-            let binary = "";
-            for (let i = 0; i < bytes.byteLength; i++) {
-              binary += String.fromCharCode(bytes[i]);
-            }
-            const base64String = btoa(binary);
+    btnX.addEventListener("click", (e) => {
+      e.preventDefault();
+      clearAll();
+    });
 
-            let errors;
-            showLoader();
-            try {              
-              // BEGIN (não remover essa linha)
-              const response = await fetch(
-                `${URL}/process`,
-                {
-                  method: "POST",
-                  headers: {
-                    "Content-Type": "application/json",
-                  },
-                  body: JSON.stringify({
-                    fileName: file.name,
-                    base64File: base64String,
-                    questionType: selectType.value,
-                    isChecked: randomInput.checked,
-                  }),
-                }
-              );
-              
-              const json = await response.json();
-              const csvContent = atob(json.file);
-              const blob = new Blob([csvContent], { type: "text/csv" });
-              const url = window.URL.createObjectURL(blob);              
-              const a = document.createElement("a");
-              a.href = url;
-              a.download = json.filename;
-              a.click();
-              window.URL.revokeObjectURL(url);
-              hideLoader();
-              renderErrors(Array.from(json.errors))
-            } catch(error) {     
-              unexpectedErrorsContainer.innerHTML = "";
-              const span = document.createElement("span");
-              span.textContent="Não foi possível converter o arquivo! Entre em contato com a equipe técnica!"
-              unexpectedErrorsContainer.appendChild(span);
-              hideLoader()
-            }
-            // END (não remover essa linha)
-            }
-          reader.readAsArrayBuffer(file);
-
-          let t = setTimeout(() => {
-            prog.style.display = "none";
-            prog.setAttribute("aria-hidden", "true");
-            clearAll();
-            clearTimeout(t);
-          }, 1600);
-        });
-
-        btnX.addEventListener("click", (e) => {
-          e.preventDefault();
-          clearAll();
-        });
-
-        dz.addEventListener("keydown", (e) => {
-          if (e.key === "Enter" || e.key === " ") {
-            e.preventDefault();
-            input.click();
-          }
-        });
-      })();
-    </script>
+    dz.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        input.click();
+      }
+    });
+  })();
+</script>
   </body>
 </html>

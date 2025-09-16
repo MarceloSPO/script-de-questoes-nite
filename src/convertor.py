@@ -1,7 +1,6 @@
 from io import BytesIO
 import webview
 from webview import Window
-
 from enum import Enum
 
 from services.extract_educa_questions import extract_educa_questions
@@ -22,7 +21,7 @@ def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, t
   if type == QuestionsType.EDUCA:
     extracted = extract_educa_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
-    errors = extracted["errors"]
+    errors = extracted["errors"]    
   elif type == QuestionsType.PPD:    
     extracted = extract_ppd_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
@@ -33,13 +32,15 @@ def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, t
   csv_filename = generate_csv_filename(filename)
   csv_buffer = None
 
-  if(window):
-    file_path = window.create_file_dialog(
-      webview.SAVE_DIALOG,
-      save_filename=csv_filename,
-      file_types=("CSV files (*.csv)", "All files (*.*)")
-    )
-    generate_csv_from_path(questions, file_path[0])
+  if window:
+    file_path = (window.create_file_dialog(
+        webview.FileDialog.SAVE,
+        save_filename=csv_filename,
+        file_types=("CSV files (*.csv)", "All files (*.*)")
+    ))[0]    
+    
+    if file_path:
+        generate_csv_from_path(questions, file_path)
   else:
     csv_buffer = generate_csv_from_buffer(questions)  
 
