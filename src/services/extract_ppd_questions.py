@@ -53,9 +53,18 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
     for row_index, row in enumerate(table.rows[1:]):
       if row_index == 0:
         row_text = get_row_text(row)
-        is_ppd_id = check_is_ppd_id(row_text)        
+        is_ppd_id = check_is_ppd_id(row_text)
+        
+        previous_row = table.rows[0]
+        previous_row_text = get_row_text(previous_row)
+        is_previous_ppd_id = check_is_ppd_id(previous_row_text)
+
         if is_ppd_id:
           ppd_id = get_ppd_question_id(row_text)
+          question["id"] = ppd_id
+          question["title"] = ppd_id
+        elif is_previous_ppd_id:
+          ppd_id = get_ppd_question_id(previous_row_text)
           question["id"] = ppd_id
           question["title"] = ppd_id
         else:
