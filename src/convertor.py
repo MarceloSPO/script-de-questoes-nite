@@ -11,20 +11,22 @@ from services.generate_csv_from_buffer import generate_csv_from_buffer
 from utils.csv.generate_csv_filename import generate_csv_filename
 
 def convertor(
-  filename: str, 
-  file_stream: BytesIO, 
-  are_questions_random: bool, 
-  question_type: QuestionsType, 
-  platform_type: PlatformType, 
-  window: Window=None):    
+  filename: str,
+  file_stream: BytesIO,
+  are_questions_random: bool,
+  question_type: QuestionsType,
+  platform_type: PlatformType,
+  window: Window=None,
+  discipline_code: str="",
+  grade_code: str=""):
   questions = []
   errors = []
 
   if question_type == QuestionsType.EDUCA:
     extracted = extract_educa_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
-    errors = extracted["errors"]    
-  elif question_type == QuestionsType.PPD:    
+    errors = extracted["errors"]
+  elif question_type == QuestionsType.PPD:
     extracted = extract_ppd_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]
@@ -37,11 +39,11 @@ def convertor(
         webview.FileDialog.SAVE,
         save_filename=csv_filename,
         file_types=("CSV files (*.csv)", "All files (*.*)")
-    ))[0]    
-    
+    ))[0]
+
     if file_path:
-        generate_csv_from_path(questions, file_path, platform_type=platform_type)
+        generate_csv_from_path(questions, file_path, platform_type=platform_type, discipline_code=discipline_code, grade_code=grade_code)
   else:
-    csv_buffer = generate_csv_from_buffer(questions, platform_type=platform_type)  
+    csv_buffer = generate_csv_from_buffer(questions, platform_type=platform_type, discipline_code=discipline_code, grade_code=grade_code)  
 
   return { "errors": errors, "had_error": True if len(errors) > 0 else False, "csv": { "buffer": csv_buffer, "filename": csv_filename } }

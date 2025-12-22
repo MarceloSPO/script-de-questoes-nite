@@ -19,21 +19,22 @@ def index():
 @app.route("/process", methods=["POST"])
 def process():
   try:
-    data = request.get_json()      
+    data = request.get_json()
     file_name = data.get("fileName")
     base64_file = data.get("base64File")
     question_platform = data.get("questionPlatform")
     question_type = data.get("questionType")
     are_questions_random = data.get("isChecked")
-    
+    discipline_code = data.get("disciplineCode", "")
+    grade_code = data.get("gradeCode", "")
 
-    file_bytes = base64.b64decode(base64_file)  
-    file_stream = BytesIO(file_bytes) 
+    file_bytes = base64.b64decode(base64_file)
+    file_stream = BytesIO(file_bytes)
 
-    type = QuestionsType.EDUCA if question_type == "EDUCA" else QuestionsType.PPD       
+    type = QuestionsType.EDUCA if question_type == "EDUCA" else QuestionsType.PPD
     platform_type = PlatformType.PLATAFORMA_A if question_platform == "plataforma-a" else PlatformType.AVA
 
-    res = convertor(file_name, file_stream, are_questions_random, type, platform_type=platform_type)
+    res = convertor(file_name, file_stream, are_questions_random, type, platform_type=platform_type, discipline_code=discipline_code, grade_code=grade_code)
     csv_res = res.get("csv", None)
     errors = res.get("errors", [])
         

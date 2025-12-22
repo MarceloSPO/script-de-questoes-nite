@@ -289,7 +289,9 @@
       .modifiers {
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        gap: 15px;
         margin-top: 10%;
       }
 
@@ -422,6 +424,52 @@
         color: #1e3f94;
         font-size: 12px;
         font-weight: bold;
+      }
+
+      .platform-a-fields {
+        display: none;
+        flex-direction: column;
+        gap: 12px;
+        width: 100%;
+        padding: 15px;
+        background-color: rgba(30, 63, 148, 0.05);
+        border-radius: 8px;
+        border: 1px solid var(--borda);
+      }
+
+      .platform-a-fields.visible {
+        display: flex;
+      }
+
+      .input-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .input-wrapper label {
+        color: #1e3f94;
+        font-size: 12px;
+        font-weight: bold;
+      }
+
+      .input-wrapper input {
+        padding: 10px 15px;
+        border: 1px solid var(--borda);
+        border-radius: 8px;
+        font-size: 14px;
+        font-family: inherit;
+        transition: border-color 0.3s ease, box-shadow 0.3s ease;
+      }
+
+      .input-wrapper input:focus {
+        outline: none;
+        border-color: var(--focus);
+        box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+      }
+
+      .input-wrapper input::placeholder {
+        color: #9ca3af;
       }
 
       @keyframes drop-in {
@@ -595,6 +643,16 @@
               </select>
             </div>
           </div>
+          <div id="platform-a-fields" class="platform-a-fields">
+            <div class="input-wrapper">
+              <label for="discipline-code">Código da Disciplina:</label>
+              <input type="text" id="discipline-code" placeholder="Ex: DISC123" />
+            </div>
+            <div class="input-wrapper">
+              <label for="grade-code">Código Grade:</label>
+              <input type="text" id="grade-code" placeholder="Ex: GRADE456" />
+            </div>
+          </div>
         </div>
         <div id="unexpected-errors-container"></div>
         <div id="convertor-errors-container"></div>
@@ -621,10 +679,28 @@
         const randomInput = document.querySelector("input[type='checkbox']");
         const questionTypeSelect = document.querySelector("#question-type");
         const platformTypeSelect = document.querySelector("#platform-type");
+        const platformAFields = document.getElementById("platform-a-fields");
+        const disciplineCodeInput = document.getElementById("discipline-code");
+        const gradeCodeInput = document.getElementById("grade-code");
         const unexpectedErrorsContainer = document.getElementById(
           "unexpected-errors-container"
         );
         const loader = document.querySelector(".loader-layer");
+
+        // Toggle Platform A fields visibility
+        function togglePlatformAFields() {
+          if (platformTypeSelect.value === "Plataforma A") {
+            platformAFields.classList.add("visible");
+          } else {
+            platformAFields.classList.remove("visible");
+          }
+        }
+
+        // Initialize visibility on page load
+        togglePlatformAFields();
+
+        // Add event listener for platform type changes
+        platformTypeSelect.addEventListener("change", togglePlatformAFields);
 
         const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
         let file;
@@ -822,7 +898,9 @@
               base64String,
               questionTypeSelect.value,
               platformTypeSelect.value,
-              randomInput.checked
+              randomInput.checked,
+              disciplineCodeInput.value,
+              gradeCodeInput.value
             );
           };
           reader.readAsArrayBuffer(file);

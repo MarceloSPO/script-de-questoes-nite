@@ -24,7 +24,7 @@ def generate_question_header(questions: list[MultipleChoiceQuestion]):
   header_final = header + header_ending  
   return header_final
 
-def generate_question_line(question: MultipleChoiceQuestion):
+def generate_question_line(question: MultipleChoiceQuestion, discipline_code: str="", grade_code: str=""):
   title = question["title"]
   question_text = question["question_text"]
   question_type = "Objetiva"
@@ -37,10 +37,10 @@ def generate_question_line(question: MultipleChoiceQuestion):
 
     if is_correct_option:
       correct_answer = index + 1
-    
+
     row_content.append(option["text"])
-  
-  ending_row_content = [correct_answer, question["feedback"], "", "", "discipline_code", "grade_code", ""]
+
+  ending_row_content = [correct_answer, question["feedback"], "", "", discipline_code, grade_code, ""]
 
   row_final = row_content + ending_row_content
 
