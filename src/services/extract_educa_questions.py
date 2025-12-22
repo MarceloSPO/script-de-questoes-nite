@@ -20,7 +20,7 @@ from utils.extractors.add_question_error import add_question_error
 from questions_types.question import MultipleChoiceQuestion, QuestionError
 from questions_types.extractors import ExtractQuestionPropsReturn
 
-def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = True) -> ExtractQuestionPropsReturn:
+def extract_educa_questions(file_stream: BytesIO, platform_type: str, are_questions_random: bool = True, ) -> ExtractQuestionPropsReturn:  
   doc = Document(file_stream)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
@@ -68,7 +68,7 @@ def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = T
           prefix = f"{prefix} "
         else:
           prefix = None        
-        current_option["text"] += get_styled_paragraph_str(paragraph, prefix)        
+        current_option["text"] += get_styled_paragraph_str(paragraph, prefix, platform_type=platform_type)        
         question["options"].append(current_option)        
         
         current_option = get_empty_option()
@@ -101,7 +101,7 @@ def extract_educa_questions(file_stream: BytesIO, are_questions_random: bool = T
         prefix = prefix_list_items_sequenced(paragraph, question_text_prefix_counter)        
         if prefix:
           prefix = f"{prefix} "        
-        question["question_text"] += get_styled_paragraph_str(paragraph, prefix)        
+        question["question_text"] += get_styled_paragraph_str(paragraph, prefix, platform_type=platform_type)        
     elif is_table(element):      
       table_html = read_table(element, doc)
       question["question_text"] += f"\n\n{table_html}\n\n"

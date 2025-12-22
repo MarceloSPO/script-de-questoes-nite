@@ -23,11 +23,11 @@ def convertor(
   errors = []
 
   if question_type == QuestionsType.EDUCA:
-    extracted = extract_educa_questions(file_stream, are_questions_random=are_questions_random)
+    extracted = extract_educa_questions(file_stream, platform_type, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]
   elif question_type == QuestionsType.PPD:
-    extracted = extract_ppd_questions(file_stream, are_questions_random=are_questions_random)
+    extracted = extract_ppd_questions(file_stream, platform_type, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]
 

@@ -5,6 +5,7 @@ from docx.text.paragraph import Paragraph
 from docx.table import _Row
 from docx.enum.text import WD_COLOR_INDEX
 
+from enums.platform_types import PlatformType
 from questions_types.question import MultipleChoiceQuestion, QuestionError
 
 from utils.extractors.question_getters import get_empty_question, get_empty_option
@@ -27,16 +28,21 @@ def get_row_text(row: _Row):
   row_text = "".join(list(dict.fromkeys(row_text)))
   return row_text
 
-def handle_format_with_html_and_prefix(paragraph: Paragraph, with_prefix: bool, option_prefix_counter):  
+def handle_format_with_html_and_prefix(
+  paragraph: Paragraph,
+  with_prefix: bool, 
+  option_prefix_counter, 
+  platform_type: PlatformType):  
+
   prefix = prefix_list_items_sequenced(paragraph, option_prefix_counter)            
   if prefix and with_prefix:
     prefix = f"{prefix} "
   else:
     prefix = None
-  formatted_paragraph = get_styled_paragraph_str(paragraph, prefix)
+  formatted_paragraph = get_styled_paragraph_str(paragraph, prefix, platform_type=platform_type)
   return formatted_paragraph
 
-def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = False):
+def extract_ppd_questions(file_stream: BytesIO, platform_type: PlatformType, are_questions_random: bool = False):
   doc = Document(file_stream)
   questions:list[MultipleChoiceQuestion] = []
   question = get_empty_question()
@@ -87,7 +93,8 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
               formatted_paragraph = handle_format_with_html_and_prefix(
                 paragraph,
                 with_prefix=True,
-                option_prefix_counter=question_text_prefix_counter
+                option_prefix_counter=question_text_prefix_counter,
+                platform_type=platform_type
               )
               question["question_text"] += formatted_paragraph
             elif is_table(element):            
@@ -124,7 +131,7 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
               else:
                 prefix = None
               
-              current_option["text"] += get_styled_paragraph_str(paragraph, prefix)        
+              current_option["text"] += get_styled_paragraph_str(paragraph, prefix, platform_type=platform_type)        
               question["options"].append(current_option)        
           
               current_option = get_empty_option()
@@ -136,7 +143,11 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
                   error_type="question_with_image",
                   errors=question_errors
                 )
-              formatted_paragraph = handle_format_with_html_and_prefix(paragraph, with_prefix=True, option_prefix_counter=question_text_prefix_counter)
+              formatted_paragraph = handle_format_with_html_and_prefix(
+                paragraph, 
+                with_prefix=True, 
+                option_prefix_counter=question_text_prefix_counter,
+                platform_type=platform_type)
               question["question_text"] += formatted_paragraph
       elif row_index == 5:
         for cell in list(dict.fromkeys(row.cells)):
@@ -152,7 +163,11 @@ def extract_ppd_questions(file_stream: BytesIO, are_questions_random: bool = Fal
                 error_type="feed_back_with_image",
                 errors=question_errors
               )
-            formatted_paragraph = handle_format_with_html_and_prefix(paragraph, with_prefix=True, option_prefix_counter=question_text_prefix_counter)
+            formatted_paragraph = handle_format_with_html_and_prefix(
+              paragraph, 
+              with_prefix=True, 
+              option_prefix_counter=question_text_prefix_counter,
+              platform_type=platform_type)
             
             question["feedback"] += formatted_paragraph
         questions.append(question)

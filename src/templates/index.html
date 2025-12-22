@@ -26,7 +26,6 @@
 
       html,
       body {
-        height: 100%;
         margin: 0;
         font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
           "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji",
@@ -472,6 +471,46 @@
         color: #9ca3af;
       }
 
+      .version-label {
+        position: fixed;
+        bottom: 15px;
+        right: 15px;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 8px 12px;
+        background-color: rgba(255, 255, 255, 0.9);
+        border: 1px solid var(--borda);
+        border-radius: 8px;
+        font-size: 12px;
+        color: var(--cinza);
+        font-weight: 500;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        backdrop-filter: blur(10px);
+        z-index: 1000;
+      }
+
+      .version-label .alpha-badge {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 20px;
+        height: 20px;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        border-radius: 4px;
+      }
+
+      .version-label .alpha-badge svg {
+        width: 12px;
+        height: 12px;
+        fill: white;
+      }
+
+      .version-label .version-text {
+        color: var(--azul);
+        font-weight: 600;
+      }
+
       @keyframes drop-in {
         from {
           transform: translateY(-12px);
@@ -646,7 +685,10 @@
           <div id="platform-a-fields" class="platform-a-fields">
             <div class="input-wrapper">
               <label for="discipline-code">Código da Disciplina:</label>
-              <input type="text" id="discipline-code" placeholder="Ex: DISC123" />
+              <input
+                type="text"
+                id="discipline-code"
+                placeholder="Ex: DISC123" />
             </div>
             <div class="input-wrapper">
               <label for="grade-code">Código Grade:</label>
@@ -919,5 +961,43 @@
         });
       })();
     </script>
+    <div class="version-label" title="Versão 1.4.0-alpha">
+      <span class="alpha-badge">
+        <svg
+          id="Alpha_24"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+          <rect
+            width="24"
+            height="24"
+            stroke="none"
+            fill="#000000"
+            opacity="0" />
+
+          <g transform="matrix(0.59 0 0 0.59 12 12)">
+            <path
+              style="
+                stroke: none;
+                stroke-width: 1;
+                stroke-dasharray: none;
+                stroke-linecap: butt;
+                stroke-dashoffset: 0;
+                stroke-linejoin: miter;
+                stroke-miterlimit: 4;
+                fill: rgb(255, 255, 255);
+                fill-rule: nonzero;
+                opacity: 1;
+              "
+              transform=" translate(-24, -24)"
+              d="M 31.438 8 L 37.282 8 L 33.562999999999995 24.262 C 33 26 32.499 28.971 31.969 30.014 C 33.032000000000004 34.2 34.094 36.291 36.219 36.291 C 38.344 36.291 38.875 34.723 39.407000000000004 32.107 L 41 32.107 C 41 34.722 40.469 36.815 39.406 38.382999999999996 C 38.344 39.953 37.281 41 35.688 41 C 34.625 41 33.563 40.477 33.032000000000004 39.432 C 32.5 38.384 31.969000000000005 36.291000000000004 30.907000000000004 33.155 C 28.25 38.384 24.531 41 19.219 41 C 15.500000000000002 41 12.312000000000001 38.906 10.188 36.291 C 8.063 33.154 7 29.491 7 23.737 C 7 18.508 8.063 14.322 10.719 11.183999999999997 C 13.374999999999998 8.045999999999996 16.031 7 19.219 7 C 21.875 7 23.469 8.047 25.062 9.616 C 26.656000000000002 11.184 27.718 13.8 29.312 17.984 L 31.438 8 z M 28.25 21.646 C 27.187 17.985 26.125 14.845 24.531 12.753 C 22.936999999999998 10.66 21.343 9.615 19.75 9.615 C 15.5 9.615 13.375 14.321000000000002 13.375 24.261000000000003 C 13.375 33.67700000000001 15.5 38.383 19.75 38.383 C 23.469 38.383 26.125 34.198 27.719 25.830000000000002 L 28.25 21.646 z"
+              stroke-linecap="round" />
+          </g>
+        </svg>
+      </span>
+      <span class="version-text">v1.4.0</span>
+    </div>
   </body>
 </html>
