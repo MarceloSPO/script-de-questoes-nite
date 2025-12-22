@@ -21,8 +21,7 @@ def generate_question_header(questions: list[MultipleChoiceQuestion]):
     "quantidade_linhas_discursiva,,,,,,,,,,,,,,,,,,,,,,,,"
     ]
 
-  header_final = header + header_ending
-  print("HEADER FINAL", header_final)
+  header_final = header + header_ending  
   return header_final
 
 def generate_question_line(question: MultipleChoiceQuestion):

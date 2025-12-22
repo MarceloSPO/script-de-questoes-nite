@@ -6,11 +6,13 @@ from questions_types.question import MultipleChoiceQuestion
 
 from services.generate_ava_csv import generate_ava_csv
 from services.generate_platform_a_csv import generate_platform_a_csv
+from utils.csv.get_delimiter import get_delimiter
 
 
 def generate_csv_from_buffer(questions: list[MultipleChoiceQuestion], platform_type: PlatformType):     
   buffer = io.StringIO()
-  writer = csv.writer(buffer)
+  delimiter = get_delimiter(platform_type)
+  writer = csv.writer(buffer, delimiter=delimiter)
 
   if platform_type == PlatformType.AVA:
     generate_ava_csv(writer, questions=questions)
