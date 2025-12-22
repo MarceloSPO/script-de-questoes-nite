@@ -1,7 +1,8 @@
 import webview
 import base64
 from io import BytesIO
-from convertor import PlatformType, QuestionsType, convertor
+from enums.platform_types import PlatformType, QuestionsType
+from convertor import convertor
 from utils.html.html_string_page import html_string_page
 import threading
 import json

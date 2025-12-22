@@ -1,22 +1,14 @@
 from io import BytesIO
 import webview
 from webview import Window
-from enum import Enum
 
+from enums.platform_types import QuestionsType, PlatformType
 from services.extract_educa_questions import extract_educa_questions
 from services.extract_ppd_questions import extract_ppd_questions
 from services.generate_csv_from_path import generate_csv_from_path
 from services.generate_csv_from_buffer import generate_csv_from_buffer
 
 from utils.csv.generate_csv_filename import generate_csv_filename
-
-class QuestionsType(Enum):
-  EDUCA="educa"
-  PPD="ppd"
-
-class PlatformType(Enum):
-  AVA="ambiente-de-aprendizagem-virtual"
-  PLATAFORMA_A = "plataforma-a"
 
 def convertor(
   filename: str, 
@@ -36,8 +28,6 @@ def convertor(
     extracted = extract_ppd_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]
-  else:
-    raise Exception("O tipo da questão pode apenas ser PPD ou EDUCA!")
 
   csv_filename = generate_csv_filename(filename)
   csv_buffer = None
@@ -50,8 +40,8 @@ def convertor(
     ))[0]    
     
     if file_path:
-        generate_csv_from_path(questions, file_path)
+        generate_csv_from_path(questions, file_path, platform_type=platform_type)
   else:
-    csv_buffer = generate_csv_from_buffer(questions)  
+    csv_buffer = generate_csv_from_buffer(questions, platform_type=platform_type)  
 
   return { "errors": errors, "had_error": True if len(errors) > 0 else False, "csv": { "buffer": csv_buffer, "filename": csv_filename } }

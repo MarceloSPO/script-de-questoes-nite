@@ -1,7 +1,8 @@
 from io import BytesIO
 import base64
-from flask import Flask, request, send_file, jsonify
-from convertor import PlatformType, QuestionsType, convertor
+from flask import Flask, request, jsonify
+from enums.platform_types import PlatformType, QuestionsType
+from convertor import convertor
 from flask_cors import CORS
 
 from utils.html_page import get_html_page
@@ -32,7 +33,7 @@ def process():
     type = QuestionsType.EDUCA if question_type == "EDUCA" else QuestionsType.PPD       
     platform_type = PlatformType.PLATAFORMA_A if question_platform == "plataforma-a" else PlatformType.AVA
 
-    res = convertor(file_name, file_stream, are_questions_random, type)
+    res = convertor(file_name, file_stream, are_questions_random, type, platform_type=platform_type)
     csv_res = res.get("csv", None)
     errors = res.get("errors", [])
         
