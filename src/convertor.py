@@ -14,7 +14,17 @@ class QuestionsType(Enum):
   EDUCA="educa"
   PPD="ppd"
 
-def convertor(filename: str, file_stream: BytesIO, are_questions_random: bool, type: QuestionsType, window: Window=None):    
+class PlatformType(Enum):
+  AVA="ambiente-de-aprendizagem-virtual"
+  PLATAFORMA_A = "plataforma-a"
+
+def convertor(
+  filename: str, 
+  file_stream: BytesIO, 
+  are_questions_random: bool, 
+  type: QuestionsType, 
+  platform_type: PlatformType, 
+  window: Window=None):    
   questions = []
   errors = []
 

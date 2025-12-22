@@ -46,7 +46,7 @@ html_string_page = """<!DOCTYPE html>
       }
 
       .visible {
-       display: flex;
+        display: flex;
         opacity: 1;
       }
 
@@ -465,11 +465,11 @@ html_string_page = """<!DOCTYPE html>
         font-size: 14px;
         color: var(--erro);
         cursor: default;
-        transition: all .3s ease;
+        transition: all 0.3s ease;
       }
 
       #unexpected-errors-container span:hover {
-        text-shadow: 0px 4px 13px rgba(220,38,38,0.81);
+        text-shadow: 0px 4px 13px rgba(220, 38, 38, 0.81);
       }
     </style>
   </head>
@@ -544,9 +544,9 @@ html_string_page = """<!DOCTYPE html>
               title="Adiciona o prefixo nas opções das questões, ex: A), B), C)...">
               <input type="checkbox" />
               <span class="slider">
-                <span class="check"><svg
+                <span class="check"
+                  ><svg
                     fill="#fff"
-                    
                     id="icon"
                     xmlns="http://www.w3.org/2000/svg">
                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -570,21 +570,28 @@ html_string_page = """<!DOCTYPE html>
                       <rect
                         id="_Transparent_Rectangle_"
                         data-name="&lt;Transparent Rectangle&gt;"
-                        class="cls-1"
-                        ></rect>
+                        class="cls-1"></rect>
                     </g>
-                  </svg> </span>
-                        
+                  </svg>
+                </span>
               </span>
             </label>
           </div>
-
           <div class="select-wrapper">
-            <span>Tipo de csv:</span>
+            <span>Plataforma das questões:</span>
             <div class="custom-select">
               <select>
-                <option selected>PPD</option>
-                <option>EDUCA</option>
+                <option selected value="Plataforma A">Plataforma A</option>
+                <option value="AVA">AVA</option>
+              </select>
+            </div>
+          </div>
+          <div class="select-wrapper">
+            <span>Tipo das questões:</span>
+            <div class="custom-select">
+              <select>
+                <option selected value="PPD">PPD</option>
+                <option value="EDUCA">EDUCA</option>
               </select>
             </div>
           </div>
@@ -604,233 +611,236 @@ html_string_page = """<!DOCTYPE html>
         </div>
       </section>
     </main>
-<script>
-  (function () {
-    const input = document.getElementById("file");
-    const info = document.getElementById("fileInfo");
-    const btnC = document.getElementById("btnConvert");
-    const btnX = document.getElementById("btnCancel");
-    const dz = document.getElementById("dropzone");
-    const randomInput = document.querySelector("input[type='checkbox']");
-    const selectType = document.querySelector(".custom-select>select");
-    const unexpectedErrorsContainer = document.getElementById("unexpected-errors-container");
-    const loader = document.querySelector(".loader-layer");
+    <script>
+      (function () {
+        const input = document.getElementById("file");
+        const info = document.getElementById("fileInfo");
+        const btnC = document.getElementById("btnConvert");
+        const btnX = document.getElementById("btnCancel");
+        const dz = document.getElementById("dropzone");
+        const randomInput = document.querySelector("input[type='checkbox']");
+        const selectType = document.querySelector(".custom-select>select");
+        const unexpectedErrorsContainer = document.getElementById(
+          "unexpected-errors-container"
+        );
+        const loader = document.querySelector(".loader-layer");
 
-    const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
-    let file;
+        const isDocx = (file) => !!file && /\.docx$/i.test(file.name);
+        let file;
 
-    function showLoader() {
-      loader.classList.add("visible");
-      loader.classList.remove("none");
-    }
+        function showLoader() {
+          loader.classList.add("visible");
+          loader.classList.remove("none");
+        }
 
-    function hideLoader() {
-      loader.classList.add("none");
-      loader.classList.remove("visible");
-    }
+        function hideLoader() {
+          loader.classList.add("none");
+          loader.classList.remove("visible");
+        }
 
-    function setValid(file) {
-      info.className = "file-info ok";
-      info.textContent = `Arquivo selecionado: ${file.name}`;
-      btnC.disabled = false;
-    }
+        function setValid(file) {
+          info.className = "file-info ok";
+          info.textContent = `Arquivo selecionado: ${file.name}`;
+          btnC.disabled = false;
+        }
 
-    function setInvalid(msg) {
-      info.className = "file-info err";
-      info.textContent = msg || "Arquivo inválido. Envie um .docx.";
-      btnC.disabled = true;
-    }
+        function setInvalid(msg) {
+          info.className = "file-info err";
+          info.textContent = msg || "Arquivo inválido. Envie um .docx.";
+          btnC.disabled = true;
+        }
 
-    function clearAll() {
-      input.value = "";
-      info.textContent = "";
-      info.className = "file-info";
-      btnC.disabled = true;
-      file = null;
-    }
+        function clearAll() {
+          input.value = "";
+          info.textContent = "";
+          info.className = "file-info";
+          btnC.disabled = true;
+          file = null;
+        }
 
-    function renderErrors(errors) {
-      const container = document.getElementById("convertor-errors-container");
-      container.innerHTML = "";
-      errors.forEach((error) => {
-        const wrapper = document.createElement("div");
-        wrapper.className = "error-item";
-        wrapper.style.border = "1px solid #ccc";
-        wrapper.style.padding = "8px";
-        wrapper.style.marginBottom = "10px";
-        wrapper.style.borderRadius = "6px";
-        const header = document.createElement("div");
-        header.style.display = "flex";
-        header.style.alignItems = "center";
-        const toggleBtn = document.createElement("button");
-        toggleBtn.textContent = "▶";
-        toggleBtn.style.marginRight = "6px";
-        const input = document.createElement("input");
-        input.type = "text";
-        input.value = `${error.question.id} - ${error.message}`;
-        input.readOnly = true;
-        input.style.flex = "1";
-        input.style.marginRight = "6px";
-        input.style.cursor = "pointer";
-        input.onclick = () => {
-          navigator.clipboard.writeText(input.value).then(() => {
-            input.style.backgroundColor = "#d4edda";
-            setTimeout(() => (input.style.backgroundColor = ""), 600);
+        function renderErrors(errors) {
+          const container = document.getElementById(
+            "convertor-errors-container"
+          );
+          container.innerHTML = "";
+          errors.forEach((error) => {
+            const wrapper = document.createElement("div");
+            wrapper.className = "error-item";
+            wrapper.style.border = "1px solid #ccc";
+            wrapper.style.padding = "8px";
+            wrapper.style.marginBottom = "10px";
+            wrapper.style.borderRadius = "6px";
+            const header = document.createElement("div");
+            header.style.display = "flex";
+            header.style.alignItems = "center";
+            const toggleBtn = document.createElement("button");
+            toggleBtn.textContent = "▶";
+            toggleBtn.style.marginRight = "6px";
+            const input = document.createElement("input");
+            input.type = "text";
+            input.value = `${error.question.id} - ${error.message}`;
+            input.readOnly = true;
+            input.style.flex = "1";
+            input.style.marginRight = "6px";
+            input.style.cursor = "pointer";
+            input.onclick = () => {
+              navigator.clipboard.writeText(input.value).then(() => {
+                input.style.backgroundColor = "#d4edda";
+                setTimeout(() => (input.style.backgroundColor = ""), 600);
+              });
+            };
+            header.appendChild(toggleBtn);
+            header.appendChild(input);
+            const details = document.createElement("div");
+            details.hidden = true;
+            details.style.marginTop = "8px";
+            details.style.fontSize = "14px";
+            details.style.whiteSpace = "pre-wrap";
+            details.textContent = JSON.stringify(error.question, null, 2);
+            toggleBtn.onclick = () => {
+              details.hidden = !details.hidden;
+              toggleBtn.textContent = details.hidden ? "▶" : "▼";
+            };
+            wrapper.appendChild(header);
+            wrapper.appendChild(details);
+            container.appendChild(wrapper);
           });
-        };
-        header.appendChild(toggleBtn);
-        header.appendChild(input);
-        const details = document.createElement("div");
-        details.hidden = true;
-        details.style.marginTop = "8px";
-        details.style.fontSize = "14px";
-        details.style.whiteSpace = "pre-wrap";
-        details.textContent = JSON.stringify(error.question, null, 2);
-        toggleBtn.onclick = () => {
-          details.hidden = !details.hidden;
-          toggleBtn.textContent = details.hidden ? "▶" : "▼";
-        };
-        wrapper.appendChild(header);
-        wrapper.appendChild(details);
-        container.appendChild(wrapper);
-      });
-    }
+        }
 
-    // ### NOVA FUNÇÃO PARA RECEBER O RESULTADO DO PYTHON ###
-    function handlePythonResult(result) {
-        console.log("Resultado recebido do Python:", result);
-        hideLoader();
-        clearAll();
+        // ### NOVA FUNÇÃO PARA RECEBER O RESULTADO DO PYTHON ###
+        function handlePythonResult(result) {
+          console.log("Resultado recebido do Python:", result);
+          hideLoader();
+          clearAll();
 
-        if (result.success) {
+          if (result.success) {
             const data = result.data;
             const fileData = data.csv.buffer; // A string do CSV em base64
             const fileName = data.csv.filename;
 
             if (data.errors && data.errors.length > 0) {
-                let errorMessages = "Processado com os seguintes avisos:\\n";
-                data.errors.forEach(err => {
-                    errorMessages += `- ${err.message}\\n`;
-                });
-                renderErrors(data.errors);
+              let errorMessages = "Processado com os seguintes avisos:\\n";
+              data.errors.forEach((err) => {
+                errorMessages += `- ${err.message}\\n`;
+              });
+              renderErrors(data.errors);
             } else {
-                alert("Arquivo processado com sucesso!");
+              alert("Arquivo processado com sucesso!");
             }
 
             // Inicia o download
-            const link = document.createElement('a');
-            link.href = 'data:text/csv;charset=utf-8;base64,' + fileData;
+            const link = document.createElement("a");
+            link.href = "data:text/csv;charset=utf-8;base64," + fileData;
             link.download = fileName;
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
-
-        } else {
+          } else {
             console.error("Erro retornado pelo backend:", result.error);
             unexpectedErrorsContainer.innerHTML = "";
             const span = document.createElement("span");
-            span.textContent = "Não foi possível converter o arquivo! " + result.error;
+            span.textContent =
+              "Não foi possível converter o arquivo! " + result.error;
             unexpectedErrorsContainer.appendChild(span);
+          }
         }
-    }
-    // Torna a função acessível globalmente para o pywebview
-    window.handlePythonResult = handlePythonResult;
+        // Torna a função acessível globalmente para o pywebview
+        window.handlePythonResult = handlePythonResult;
 
+        input.addEventListener("change", () => {
+          const localFile = input.files[0];
+          if (!localFile) {
+            clearAll();
+            return;
+          }
+          if (!isDocx(localFile)) {
+            clearAll();
+            setInvalid("Somente arquivos .docx são aceitos.");
+            return;
+          }
+          setValid(localFile);
+          file = localFile;
+        });
 
-    input.addEventListener("change", () => {
-      const localFile = input.files[0];
-      if (!localFile) {
-        clearAll();
-        return;
-      }
-      if (!isDocx(localFile)) {
-        clearAll();
-        setInvalid("Somente arquivos .docx são aceitos.");
-        return;
-      }
-      setValid(localFile);
-      file = localFile;
-    });
+        ["dragenter", "dragover"].forEach((ev) => {
+          dz.addEventListener(ev, (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            dz.classList.add("dragover");
+          });
+        });
 
-    ["dragenter", "dragover"].forEach((ev) => {
-      dz.addEventListener(ev, (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        dz.classList.add("dragover");
-      });
-    });
+        ["dragleave", "drop"].forEach((ev) => {
+          dz.addEventListener(ev, (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            dz.classList.remove("dragover");
+          });
+        });
 
-    ["dragleave", "drop"].forEach((ev) => {
-      dz.addEventListener(ev, (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        dz.classList.remove("dragover");
-      });
-    });
+        dz.addEventListener("drop", (e) => {
+          const localFile = e.dataTransfer.files[0];
+          if (!localFile) {
+            return;
+          }
+          if (!isDocx(localFile)) {
+            clearAll();
+            setInvalid("Somente arquivos .docx são aceitos.");
+            return;
+          }
+          const dt = new DataTransfer();
+          dt.items.add(localFile);
+          input.files = dt.files;
+          setValid(localFile);
+          file = localFile;
+        });
 
-    dz.addEventListener("drop", (e) => {
-      const localFile = e.dataTransfer.files[0];
-      if (!localFile) {
-        return;
-      }
-      if (!isDocx(localFile)) {
-        clearAll();
-        setInvalid("Somente arquivos .docx são aceitos.");
-        return;
-      }
-      const dt = new DataTransfer();
-      dt.items.add(localFile);
-      input.files = dt.files;
-      setValid(localFile);
-      file = localFile;
-    });
+        // ### BOTÃO DE CONVERTER MODIFICADO ###
+        btnC.addEventListener("click", (e) => {
+          e.preventDefault();
+          const file = input.files[0];
+          if (!file || !isDocx(file)) {
+            setInvalid("Escolha um arquivo .docx válido antes de converter.");
+            return;
+          }
+          unexpectedErrorsContainer.innerHTML = "";
 
-    // ### BOTÃO DE CONVERTER MODIFICADO ###
-    btnC.addEventListener("click", (e) => {
-      e.preventDefault();
-      const file = input.files[0];
-      if (!file || !isDocx(file)) {
-        setInvalid("Escolha um arquivo .docx válido antes de converter.");
-        return;
-      }
-      unexpectedErrorsContainer.innerHTML = "";
-      
-      const reader = new FileReader();
-      reader.onload = () => {
-        const arrayBuffer = reader.result;
-        const bytes = new Uint8Array(arrayBuffer);
-        let binary = "";
-        for (let i = 0; i < bytes.byteLength; i++) {
-          binary += String.fromCharCode(bytes[i]);
-        }
-        const base64String = btoa(binary);
-        
-        showLoader(); // Mostra o loading
+          const reader = new FileReader();
+          reader.onload = () => {
+            const arrayBuffer = reader.result;
+            const bytes = new Uint8Array(arrayBuffer);
+            let binary = "";
+            for (let i = 0; i < bytes.byteLength; i++) {
+              binary += String.fromCharCode(bytes[i]);
+            }
+            const base64String = btoa(binary);
 
-        // Apenas envia a chamada para o Python, não espera (await)
-        window.pywebview.api.process_form(
-          file.name,
-          base64String,
-          selectType.value,
-          randomInput.checked
-        );
-      };
-      reader.readAsArrayBuffer(file);
-    });
+            showLoader(); // Mostra o loading
 
-    btnX.addEventListener("click", (e) => {
-      e.preventDefault();
-      clearAll();
-    });
+            // Apenas envia a chamada para o Python, não espera (await)
+            window.pywebview.api.process_form(
+              file.name,
+              base64String,
+              selectType.value,
+              randomInput.checked
+            );
+          };
+          reader.readAsArrayBuffer(file);
+        });
 
-    dz.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        input.click();
-      }
-    });
-  })();
-</script>
+        btnX.addEventListener("click", (e) => {
+          e.preventDefault();
+          clearAll();
+        });
+
+        dz.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            input.click();
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
 """

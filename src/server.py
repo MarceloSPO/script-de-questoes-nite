@@ -1,7 +1,7 @@
 from io import BytesIO
 import base64
 from flask import Flask, request, send_file, jsonify
-from convertor import QuestionsType, convertor
+from convertor import PlatformType, QuestionsType, convertor
 from flask_cors import CORS
 
 from utils.html_page import get_html_page
@@ -21,6 +21,7 @@ def process():
     data = request.get_json()      
     file_name = data.get("fileName")
     base64_file = data.get("base64File")
+    question_platform = data.get("questionPlatform")
     question_type = data.get("questionType")
     are_questions_random = data.get("isChecked")
     
@@ -28,7 +29,8 @@ def process():
     file_bytes = base64.b64decode(base64_file)  
     file_stream = BytesIO(file_bytes) 
 
-    type = QuestionsType.EDUCA if question_type == "EDUCA" else QuestionsType.PPD                  
+    type = QuestionsType.EDUCA if question_type == "EDUCA" else QuestionsType.PPD       
+    platform_type = PlatformType.PLATAFORMA_A if question_platform == "plataforma-a" else PlatformType.AVA
 
     res = convertor(file_name, file_stream, are_questions_random, type)
     csv_res = res.get("csv", None)
