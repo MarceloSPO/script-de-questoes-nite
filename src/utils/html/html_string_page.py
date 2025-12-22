@@ -580,7 +580,7 @@ html_string_page = """<!DOCTYPE html>
           <div class="select-wrapper">
             <span>Plataforma das questões:</span>
             <div class="custom-select">
-              <select>
+              <select id="platform-type">
                 <option selected value="Plataforma A">Plataforma A</option>
                 <option value="AVA">AVA</option>
               </select>
@@ -589,7 +589,7 @@ html_string_page = """<!DOCTYPE html>
           <div class="select-wrapper">
             <span>Tipo das questões:</span>
             <div class="custom-select">
-              <select>
+              <select id="question-type">
                 <option selected value="PPD">PPD</option>
                 <option value="EDUCA">EDUCA</option>
               </select>
@@ -619,7 +619,8 @@ html_string_page = """<!DOCTYPE html>
         const btnX = document.getElementById("btnCancel");
         const dz = document.getElementById("dropzone");
         const randomInput = document.querySelector("input[type='checkbox']");
-        const selectType = document.querySelector(".custom-select>select");
+        const questionTypeSelect = document.querySelector("#question-type");
+        const platformTypeSelect = document.querySelector("#platform-type");
         const unexpectedErrorsContainer = document.getElementById(
           "unexpected-errors-container"
         );
@@ -744,7 +745,6 @@ html_string_page = """<!DOCTYPE html>
             unexpectedErrorsContainer.appendChild(span);
           }
         }
-        // Torna a função acessível globalmente para o pywebview
         window.handlePythonResult = handlePythonResult;
 
         input.addEventListener("change", () => {
@@ -815,13 +815,13 @@ html_string_page = """<!DOCTYPE html>
             }
             const base64String = btoa(binary);
 
-            showLoader(); // Mostra o loading
+            showLoader();
 
-            // Apenas envia a chamada para o Python, não espera (await)
             window.pywebview.api.process_form(
               file.name,
               base64String,
-              selectType.value,
+              questionTypeSelect.value,
+              platformTypeSelect.value,
               randomInput.checked
             );
           };
@@ -843,4 +843,5 @@ html_string_page = """<!DOCTYPE html>
     </script>
   </body>
 </html>
+
 """

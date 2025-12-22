@@ -22,17 +22,17 @@ def convertor(
   filename: str, 
   file_stream: BytesIO, 
   are_questions_random: bool, 
-  type: QuestionsType, 
+  question_type: QuestionsType, 
   platform_type: PlatformType, 
   window: Window=None):    
   questions = []
   errors = []
 
-  if type == QuestionsType.EDUCA:
+  if question_type == QuestionsType.EDUCA:
     extracted = extract_educa_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]    
-  elif type == QuestionsType.PPD:    
+  elif question_type == QuestionsType.PPD:    
     extracted = extract_ppd_questions(file_stream, are_questions_random=are_questions_random)
     questions = extracted["questions"]
     errors = extracted["errors"]

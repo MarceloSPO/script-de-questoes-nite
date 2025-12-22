@@ -1,7 +1,7 @@
 import webview
 import base64
 from io import BytesIO
-from convertor import QuestionsType, convertor
+from convertor import PlatformType, QuestionsType, convertor
 from utils.html.html_string_page import html_string_page
 import threading
 import json
@@ -11,20 +11,27 @@ class Api:
     def __init__(self):
         self.window = None
 
-    def process_form(self, filename, file_base64, option, are_questions_random):        
+    def process_form(self, filename, file_base64, question_type_html, platform_type_html,are_questions_random):        
         thread = threading.Thread(
             target=self._background_task,
-            args=(filename, file_base64, option, are_questions_random)
+            args=(filename, file_base64, question_type_html, platform_type_html, are_questions_random)
         )
         thread.start()
 
-    def _background_task(self, filename, file_base64, option, are_questions_random):        
+    def _background_task(self, filename, file_base64, question_type_html, platform_type_html, are_questions_random):        
         try:
             file_bytes = base64.b64decode(file_base64)
             file_stream = BytesIO(file_bytes)
-            question_type = QuestionsType.EDUCA if option == "EDUCA" else QuestionsType.PPD
+            question_type = QuestionsType.EDUCA if question_type_html == "EDUCA" else QuestionsType.PPD
+            platform_type = PlatformType.AVA if platform_type_html == "AVA" else PlatformType.PLATAFORMA_A
                         
-            result = convertor(filename, file_stream, are_questions_random, question_type, self.window)
+            result = convertor(
+                filename=filename, 
+                file_stream=file_stream, 
+                are_questions_random=are_questions_random, 
+                question_type=question_type, 
+                platform_type=platform_type,
+                window=self.window)
                         
             buffer = result["csv"]["buffer"]
             if buffer:
