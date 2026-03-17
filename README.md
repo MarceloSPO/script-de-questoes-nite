@@ -32,12 +32,12 @@ pip freeze > requirements.txt
 
 ---
 
-### Executando os _scripts_:
+### Executando projeto em modo de desenvolvimento:
 
-- O arquivo principal do projeto é `./src/server.py` e para executá-lo basta rodar:
+- Para rodar o esse projeto em modo de desenvolvimento, basta seguir o comando abaixo que simula o arquivo `.exe` que é a build.
 
 ```
-python ./src/server.py
+python ./src/pywebview.py
 ```
 
 Após rodar o comando acessar [http://127.0.0.1:5000](http://127.0.0.1:5000)
@@ -54,8 +54,8 @@ Após rodar o comando acessar [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ### Gerar o executável
 
-Para gerar o executável (`.exe`) do projeto, basta executar o comando a seguir:
+Esse é o arquivo final onde as pessoas poderão converter as questões. Para gerar o executável (`.exe`) do projeto, basta executar o comando a seguir:
 
 ```bash
-pyinstaller --noconsole --onefile --add-data "./src/templates/index.html;." ./src/pywebview.py
+pyinstaller --noconsole --onefile --icon="./src/assets/icons/icon.ico" --version-file="version.txt" --add-data "./src/templates/index.html;templates" ./src/pywebview.py
 ```
