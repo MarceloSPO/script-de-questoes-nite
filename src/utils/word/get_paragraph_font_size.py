@@ -7,7 +7,7 @@ def get_paragraph_font_size(paragraph: Paragraph):
   
   size = font_size_map[12.0]
 
-  if not pPr:
+  if not len(paragraph._element):
     return size
   sz = pPr.find(".//w:sz", NAMESPACES)
           

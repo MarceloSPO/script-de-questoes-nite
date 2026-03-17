@@ -1,38 +1,23 @@
 import csv
 import io
 
+from enums.platform_types import PlatformType
 from questions_types.question import MultipleChoiceQuestion
 
-import utils.csv.generate_question_attributes as questions_helper
+from services.generate_ava_csv import generate_ava_csv
+from services.generate_platform_a_csv import generate_platform_a_csv
+from utils.csv.get_delimiter import get_delimiter
 
-def generate_csv_from_buffer(questions: list[MultipleChoiceQuestion]):     
+
+def generate_csv_from_buffer(questions: list[MultipleChoiceQuestion], platform_type: PlatformType, discipline_code: str="", grade_code: str=""):
   buffer = io.StringIO()
-  writer = csv.writer(buffer)
+  delimiter = get_delimiter(platform_type)
+  writer = csv.writer(buffer, delimiter=delimiter)
 
-  for question in questions:    
-    question_header = questions_helper.generate_question_header("MC")
-    question_id = questions_helper.generate_question_id(question["id"])
-    question_title = questions_helper.generate_question_title(question["title"])
-    question_text = questions_helper.generate_question_text(question["question_text"], format_html=True)
-    question_points = questions_helper.generate_question_points(question["points"])
-    question_feedback = questions_helper.generate_question_feedback(question["feedback"])
-
-    writer.writerow(question_header)
-    writer.writerow(question_id)
-    writer.writerow(question_title)
-    writer.writerow(question_text)
-    writer.writerow(question_points)
-
-    for option in question["options"]:
-      question_option = questions_helper.generate_question_option(option_text=option["text"], points=option["answer_value"], feedback=option["feedback"], format_html=True)
-
-      writer.writerow(question_option)
-
-    writer.writerow(question_feedback)
-    
-    empty_row = questions_helper.generate_empty_row()
-    writer.writerow(empty_row)
-    writer.writerow(empty_row)
-  buffer.seek(0)  
+  if platform_type == PlatformType.AVA:
+    generate_ava_csv(writer, questions=questions)
+  elif platform_type == PlatformType.PLATAFORMA_A:
+    generate_platform_a_csv(writer, questions=questions, discipline_code=discipline_code, grade_code=grade_code)
+  buffer.seek(0)
   return buffer
     
