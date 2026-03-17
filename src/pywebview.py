@@ -10,7 +10,7 @@ import traceback
 
 class Api:
     def __init__(self):
-        self.window = None
+        self._window = None
 
     def process_form(self, filename, file_base64, question_type_html, platform_type_html, are_questions_random, discipline_code="", grade_code=""):
         thread = threading.Thread(
@@ -32,7 +32,7 @@ class Api:
                 are_questions_random=are_questions_random,
                 question_type=question_type,
                 platform_type=platform_type,
-                window=self.window,
+                window=self._window,
                 discipline_code=discipline_code,
                 grade_code=grade_code)
                         
@@ -52,8 +52,8 @@ class Api:
     def send_result_to_js(self, result):        
         result_json = json.dumps(result)
                 
-        if self.window:
-            self.window.evaluate_js(f'handlePythonResult({result_json})')
+        if self._window:
+            self._window.evaluate_js(f'handlePythonResult({result_json})')
 
 def main():
     api = Api()
@@ -64,7 +64,7 @@ def main():
         height=400,
         js_api=api
     )
-    api.window = window
+    api._window = window
     webview.start(http_server=True)
 
 if __name__ == "__main__":
